@@ -1,0 +1,7 @@
+Date,Numero_Piece,Client_Debiteur,Nature_Prestation,Montant_Devise_Origine,Devise,Montant_EUR_Credite_Banque,Mode_Reglement,Regime_TVA
+2026-01-15,VIR-AMZ-2026-001,Amazon EU S.a.r.l. (Luxembourg),Commissions affiliation Amazon.fr / .de,450.80,EUR,450.80,Virement bancaire,Exoneration TVA art. 262 ter I du CGI (Autoliquidation intra-UE)
+2026-01-28,VIR-AMZ-2026-002,Amazon Services LLC (USA),Commissions affiliation Amazon.com (OneLink US),320.50,USD,298.15,Virement bancaire,Exoneration TVA art. 259 B du CGI (Prestation hors UE)
+2026-02-15,VIR-AMZ-2026-003,Amazon EU S.a.r.l. (Luxembourg),Commissions affiliation Amazon.es / .it,385.20,EUR,385.20,Virement bancaire,Exoneration TVA art. 262 ter I du CGI (Autoliquidation intra-UE)
+2026-02-27,VIR-AMZ-2026-004,Amazon UK Services Ltd,Commissions affiliation Amazon.co.uk,210.00,GBP,246.30,Virement bancaire,Exoneration TVA art. 259 B du CGI (Prestation hors UE)
+2026-03-15,VIR-AMZ-2026-005,Amazon EU S.a.r.l. (Luxembourg),Commissions affiliation Amazon.fr / .nl,512.60,EUR,512.60,Virement bancaire,Exoneration TVA art. 262 ter I du CGI (Autoliquidation intra-UE)
+2026-03-29,VIR-AMZ-2026-006,Amazon Japan G.K.,Commissions affiliation Amazon.co.jp,18500.00,JPY,112.40,Virement bancaire,Exoneration TVA art. 259 B du CGI (Prestation hors UE)

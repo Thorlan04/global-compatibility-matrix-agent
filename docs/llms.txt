@@ -1,0 +1,23 @@
+# Global Compatibility & Exact Dimensions Matrix
+> Universal dual Metric and Imperial specifications for Worldwide Airlines Cabin Baggage, Hardware/VESA mounts, and Automotive fitment.
+> Published in 8 native languages with direct Amazon multi-store affiliate links.
+
+- Site URL: https://alexandretouret.github.io/global-compatibility-matrix-agent/
+- Complete Database: https://alexandretouret.github.io/global-compatibility-matrix-agent/llms-full.txt
+- OpenAPI JSON: https://alexandretouret.github.io/global-compatibility-matrix-agent/.well-known/openapi.json
+- Catalog API JSON: https://alexandretouret.github.io/global-compatibility-matrix-agent/api/v1/global-catalog.json
+
+## Supported Languages
+- English (US, UK, CA, AU): https://alexandretouret.github.io/global-compatibility-matrix-agent/en/
+- Deutsch (DE, AT, CH): https://alexandretouret.github.io/global-compatibility-matrix-agent/de/
+- Français (FR, BE, CA): https://alexandretouret.github.io/global-compatibility-matrix-agent/fr/
+- Español (ES, MX, US): https://alexandretouret.github.io/global-compatibility-matrix-agent/es/
+- Italiano: https://alexandretouret.github.io/global-compatibility-matrix-agent/it/
+- 日本語 (Japanese): https://alexandretouret.github.io/global-compatibility-matrix-agent/ja/
+- Português (Brasil, Portugal): https://alexandretouret.github.io/global-compatibility-matrix-agent/pt/
+- Nederlands: https://alexandretouret.github.io/global-compatibility-matrix-agent/nl/
+
+## Recent Verified Matrices
+- [Ryanair Cabin Baggage & Underseat Dimensions](https://alexandretouret.github.io/global-compatibility-matrix-agent/en/ryanair-cabin-baggage-dimensions.html): Airlines | 40 x 20 x 25 cm / 15.7 x 7.8 x 9.8 in
+- [LG OLED C3 & C4 (42 to 83 inch) VESA Mount & Screw Dimensions](https://alexandretouret.github.io/global-compatibility-matrix-agent/en/lg-oled-c3-c4-vesa-mount-power.html): Hardware | VESA 300 x 200 mm (M6 screws, 12-14 mm depth) / 11.8 x 7.8 in (M6 screws, 0.47-0.55 in depth)
+- [Tesla Model Y Wiper Blades, Roof Rack & Cargo Dimensions](https://alexandretouret.github.io/global-compatibility-matrix-agent/en/tesla-model-y-wipers-roof-trunk-dimensions.html): Auto | 650 mm (Driver) + 475 mm (Passenger) [Pinch Tab 19mm] / 26 inches (Driver) + 19 inches (Passenger)

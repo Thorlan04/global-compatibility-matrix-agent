@@ -1,0 +1,47 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Global Compatibility Matrix Open API",
+    "version": "1.0.0",
+    "description": "Public API providing dual Metric and Imperial specifications for Airlines, Hardware VESA mounts, and Auto fitment in 8 languages."
+  },
+  "servers": [
+    {
+      "url": "https://alexandretouret.github.io/global-compatibility-matrix-agent"
+    }
+  ],
+  "paths": {
+    "/api/v1/global-catalog.json": {
+      "get": {
+        "summary": "Retrieve complete global catalog",
+        "operationId": "getGlobalCatalog",
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/llms-full.txt": {
+      "get": {
+        "summary": "Get full text markdown knowledge base for LLMs",
+        "operationId": "getLlmsFull",
+        "responses": {
+          "200": {
+            "description": "Full markdown",
+            "content": {
+              "text/plain": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,237 @@
+{% extends "base.html" %}
+
+{% block title %}{{ lang_meta.index_title }}{% endblock %}
+{% block description %}{{ lang_meta.index_description }}{% endblock %}
+
+{% block content %}
+<style>
+    .index-hero {
+        text-align: center;
+        padding: 3rem 1rem 2rem;
+        max-width: 850px;
+        margin: 0 auto 2.5rem;
+    }
+    .index-hero h1 {
+        font-size: 2.6rem;
+        font-weight: 800;
+        line-height: 1.2;
+        margin-bottom: 1rem;
+        background: linear-gradient(135deg, #fff, #94a3b8);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .index-hero p {
+        font-size: 1.15rem;
+        color: #94a3b8;
+        line-height: 1.6;
+        margin-bottom: 1.5rem;
+    }
+
+    /* Fast client-side search */
+    .search-box-wrapper {
+        max-width: 650px;
+        margin: 0 auto 3rem;
+        position: relative;
+    }
+    .search-input {
+        width: 100%;
+        padding: 1rem 1.25rem 1rem 3rem;
+        background: var(--surface);
+        border: 2px solid var(--border);
+        border-radius: 9999px;
+        color: #fff;
+        font-size: 1.05rem;
+        outline: none;
+        transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    .search-input:focus {
+        border-color: var(--primary);
+        box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.2);
+    }
+    .search-icon {
+        position: absolute;
+        left: 1.25rem;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 1.2rem;
+        color: var(--text-muted);
+    }
+
+    /* Category Headings */
+    .category-section {
+        margin-bottom: 3.5rem;
+    }
+    .category-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 1.5rem;
+        border-bottom: 1px solid var(--border);
+        padding-bottom: 0.75rem;
+    }
+    .category-header h2 {
+        font-size: 1.5rem;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    /* Matrix Cards Grid */
+    .matrix-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+        gap: 1.5rem;
+    }
+    .matrix-card {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: 0.85rem;
+        padding: 1.5rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        transition: transform 0.15s, border-color 0.15s;
+        text-decoration: none;
+        color: inherit;
+    }
+    .matrix-card:hover {
+        transform: translateY(-3px);
+        border-color: var(--primary);
+    }
+    .card-top { margin-bottom: 1rem; }
+    .card-badges {
+        display: flex;
+        gap: 0.4rem;
+        margin-bottom: 0.75rem;
+        flex-wrap: wrap;
+    }
+    .card-title {
+        font-size: 1.2rem;
+        font-weight: 700;
+        color: #fff;
+        line-height: 1.35;
+        margin-bottom: 0.5rem;
+    }
+    .card-desc {
+        font-size: 0.88rem;
+        color: var(--text-muted);
+        line-height: 1.5;
+    }
+    .card-footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding-top: 1rem;
+        border-top: 1px solid var(--border);
+        font-size: 0.85rem;
+        color: var(--primary);
+        font-weight: 600;
+    }
+</style>
+
+<div class="index-hero">
+    <h1>{{ lang_meta.flag }} {{ lang_meta.hero_title }}</h1>
+    <p>{{ lang_meta.hero_subtitle }}</p>
+    <div class="search-box-wrapper">
+        <span class="search-icon">🔍</span>
+        <input type="text"
+               id="filterInput"
+               class="search-input"
+               placeholder="{{ lang_meta.search_placeholder | default('Search airline, hardware, model (Ryanair, LG OLED, Tesla...)...') }}"
+               onkeyup="filterMatrices()">
+    </div>
+</div>
+
+<!-- 1. Airlines Section -->
+<section class="category-section" id="airlines">
+    <div class="category-header">
+        <h2>✈️ {{ lang_meta.cat_airlines_title }}</h2>
+        <span style="color: var(--text-muted); font-size: 0.85rem;">Cabin & Underseat Rules</span>
+    </div>
+    <div class="matrix-grid">
+        {% for item in airline_matrices %}
+        <a href="{{ site_url }}/{{ current_lang }}/{{ item.slug }}.html" class="matrix-card" data-search="{{ item.title | lower }} {{ item.subject | lower }}">
+            <div class="card-top">
+                <div class="card-badges">
+                    <span class="badge badge-category">✈️ Airline</span>
+                    <span class="badge badge-dual">Dual cm/in</span>
+                </div>
+                <div class="card-title">{{ item.title }}</div>
+                <div class="card-desc">{{ item.summary | truncate(110) }}</div>
+            </div>
+            <div class="card-footer">
+                <span>View Exact Dimensions & Rules &rarr;</span>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+</section>
+
+<!-- 2. Hardware / VESA / Storage Section -->
+<section class="category-section" id="hardware">
+    <div class="category-header">
+        <h2>🖥️ {{ lang_meta.cat_hardware_title }}</h2>
+        <span style="color: var(--text-muted); font-size: 0.85rem;">VESA, Power & Storage</span>
+    </div>
+    <div class="matrix-grid">
+        {% for item in hardware_matrices %}
+        <a href="{{ site_url }}/{{ current_lang }}/{{ item.slug }}.html" class="matrix-card" data-search="{{ item.title | lower }} {{ item.subject | lower }}">
+            <div class="card-top">
+                <div class="card-badges">
+                    <span class="badge badge-category">🖥️ Hardware</span>
+                    <span class="badge badge-dual">VESA / mm / in</span>
+                </div>
+                <div class="card-title">{{ item.title }}</div>
+                <div class="card-desc">{{ item.summary | truncate(110) }}</div>
+            </div>
+            <div class="card-footer">
+                <span>View Mounts & Hardware Specs &rarr;</span>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+</section>
+
+<!-- 3. Auto Equipment Section -->
+<section class="category-section" id="auto">
+    <div class="category-header">
+        <h2>🚗 {{ lang_meta.cat_auto_title }}</h2>
+        <span style="color: var(--text-muted); font-size: 0.85rem;">Wipers, Bars & Mats</span>
+    </div>
+    <div class="matrix-grid">
+        {% for item in auto_matrices %}
+        <a href="{{ site_url }}/{{ current_lang }}/{{ item.slug }}.html" class="matrix-card" data-search="{{ item.title | lower }} {{ item.subject | lower }}">
+            <div class="card-top">
+                <div class="card-badges">
+                    <span class="badge badge-category">🚗 Automotive</span>
+                    <span class="badge badge-dual">mm / inches</span>
+                </div>
+                <div class="card-title">{{ item.title }}</div>
+                <div class="card-desc">{{ item.summary | truncate(110) }}</div>
+            </div>
+            <div class="card-footer">
+                <span>View Exact Fit Accessories &rarr;</span>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+</section>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    function filterMatrices() {
+        const query = document.getElementById('filterInput').value.toLowerCase().trim();
+        const cards = document.querySelectorAll('.matrix-card');
+        cards.forEach(function(card) {
+            const text = (card.getAttribute('data-search') || '').toLowerCase();
+            if (query === '' || text.includes(query)) {
+                card.style.display = '';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    }
+</script>
+{% endblock %}

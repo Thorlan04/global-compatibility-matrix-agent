@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Compatibility Matrix | Worldwide Dimensions & Standards Database</title>
+    <meta name="description" content="Universal dual Metric & Imperial compatibility database for Airlines & Cabin Luggage, Hardware VESA mounts, and Automotive fitment across 8 languages.">
+    <link rel="canonical" href="https://alexandretouret.github.io/global-compatibility-matrix-agent/">
+
+    <!-- hreflang multilingue pour les moteurs de recherche mondiaux -->
+    
+    <link rel="alternate" hreflang="en" href="https://alexandretouret.github.io/global-compatibility-matrix-agent/en/">
+    
+    <link rel="alternate" hreflang="de" href="https://alexandretouret.github.io/global-compatibility-matrix-agent/de/">
+    
+    <link rel="alternate" hreflang="fr" href="https://alexandretouret.github.io/global-compatibility-matrix-agent/fr/">
+    
+    <link rel="alternate" hreflang="es" href="https://alexandretouret.github.io/global-compatibility-matrix-agent/es/">
+    
+    <link rel="alternate" hreflang="it" href="https://alexandretouret.github.io/global-compatibility-matrix-agent/it/">
+    
+    <link rel="alternate" hreflang="ja" href="https://alexandretouret.github.io/global-compatibility-matrix-agent/ja/">
+    
+    <link rel="alternate" hreflang="pt" href="https://alexandretouret.github.io/global-compatibility-matrix-agent/pt/">
+    
+    <link rel="alternate" hreflang="nl" href="https://alexandretouret.github.io/global-compatibility-matrix-agent/nl/">
+    
+    <link rel="alternate" hreflang="x-default" href="https://alexandretouret.github.io/global-compatibility-matrix-agent/en/">
+
+    <style>
+        :root {
+            --bg: #090d16;
+            --surface: #131c2e;
+            --surface-card: #1c283f;
+            --border: #2e3e5c;
+            --primary: #38bdf8;
+            --primary-gradient: linear-gradient(135deg, #38bdf8 0%, #818cf8 100%);
+            --accent: #f59e0b;
+            --text: #f8fafc;
+            --text-muted: #94a3b8;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Language Recommendation Toast / Banner */
+        #lang-suggestion-banner {
+            display: none;
+            background: #1e3a8a;
+            border-bottom: 2px solid var(--primary);
+            color: #fff;
+            padding: 0.75rem 1.5rem;
+            text-align: center;
+            font-size: 0.95rem;
+        }
+        #lang-suggestion-banner a.btn-switch-lang {
+            display: inline-block;
+            background: #38bdf8;
+            color: #090d16;
+            font-weight: 700;
+            padding: 0.3rem 0.8rem;
+            border-radius: 0.35rem;
+            text-decoration: none;
+            margin-left: 0.75rem;
+        }
+
+        .hero {
+            text-align: center;
+            padding: 4.5rem 1.5rem 3rem;
+            max-width: 950px;
+            margin: 0 auto;
+        }
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: rgba(56, 189, 248, 0.1);
+            border: 1px solid rgba(56, 189, 248, 0.3);
+            color: var(--primary);
+            padding: 0.4rem 1rem;
+            border-radius: 9999px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+        }
+        .hero h1 {
+            font-size: 3.2rem;
+            font-weight: 800;
+            line-height: 1.15;
+            margin-bottom: 1.25rem;
+            background: var(--primary-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .hero p {
+            font-size: 1.2rem;
+            color: var(--text-muted);
+            max-width: 750px;
+            margin: 0 auto 2.5rem;
+        }
+
+        .portal-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1.5rem 4rem;
+            width: 100%;
+            flex: 1;
+        }
+
+        /* Continent / Language Hub */
+        .hub-title {
+            text-align: center;
+            font-size: 1.5rem;
+            margin-bottom: 2rem;
+            color: #fff;
+        }
+        .lang-cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 1.25rem;
+            margin-bottom: 4rem;
+        }
+        .lang-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            transition: transform 0.15s, border-color 0.15s, background 0.15s;
+        }
+        .lang-card:hover {
+            transform: translateY(-3px);
+            border-color: var(--primary);
+            background: var(--surface-card);
+        }
+        .lang-flag { font-size: 2.2rem; }
+        .lang-info h3 { font-size: 1.15rem; color: #fff; margin-bottom: 0.2rem; }
+        .lang-info p { font-size: 0.82rem; color: var(--text-muted); }
+
+        /* AI Agents & Open Standards Banner */
+        .ai-banner {
+            background: linear-gradient(135deg, #131c2e, #1a2744);
+            border: 1px solid rgba(56, 189, 248, 0.3);
+            border-radius: 1rem;
+            padding: 2.5rem 2rem;
+            margin-bottom: 4rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+        }
+        .ai-banner-content h2 { font-size: 1.6rem; color: #fff; margin-bottom: 0.5rem; }
+        .ai-banner-content p { color: var(--text-muted); max-width: 600px; font-size: 0.95rem; }
+        .ai-links-group {
+            display: flex;
+            gap: 0.75rem;
+            flex-wrap: wrap;
+        }
+        .ai-link-btn {
+            background: rgba(56, 189, 248, 0.15);
+            border: 1px solid var(--primary);
+            color: var(--primary);
+            text-decoration: none;
+            padding: 0.65rem 1.15rem;
+            border-radius: 0.5rem;
+            font-size: 0.9rem;
+            font-weight: 700;
+            transition: background 0.15s;
+        }
+        .ai-link-btn:hover { background: rgba(56, 189, 248, 0.3); }
+
+        /* Category Highlights */
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        .feature-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 0.85rem;
+            padding: 1.75rem;
+        }
+        .feature-card .feat-icon { font-size: 2rem; margin-bottom: 0.75rem; }
+        .feature-card h3 { font-size: 1.25rem; color: #fff; margin-bottom: 0.5rem; }
+        .feature-card p { font-size: 0.9rem; color: var(--text-muted); line-height: 1.5; }
+
+        footer {
+            background: #050811;
+            border-top: 1px solid var(--border);
+            padding: 2rem 1.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 2.2rem; }
+            .ai-banner { flex-direction: column; align-items: stretch; }
+        }
+    </style>
+</head>
+<body>
+    <!-- Bannière de détection de langue dynamique -->
+    <div id="lang-suggestion-banner">
+        <span id="lang-suggestion-text"></span>
+        <a id="lang-suggestion-link" class="btn-switch-lang" href="#">Switch</a>
+    </div>
+
+    <div class="hero">
+        <div class="hero-badge">
+            <span>🌐</span> Universal Compatibility & Dimensions Matrix
+        </div>
+        <h1>Worldwide Precision Dimensions</h1>
+        <p>
+            The global multi-continental database for Airline Baggage & Cabin Rules, Hardware VESA Mounts, and Vehicle Accessories in 8 languages with dual Metric & Imperial standards.
+        </p>
+    </div>
+
+    <div class="portal-container">
+        <!-- 1. AI Agents & GEO Optimization Box -->
+        <div class="ai-banner">
+            <div class="ai-banner-content">
+                <h2>🤖 Native AI Agent & Search Engine Access</h2>
+                <p>
+                    Full compatibility with ChatGPT Search, Claude, Perplexity, Copilot, and Gemini via open markdown standards and structured JSON endpoints.
+                </p>
+            </div>
+            <div class="ai-links-group">
+                <a href="https://alexandretouret.github.io/global-compatibility-matrix-agent/llms.txt" class="ai-link-btn">🤖 /llms.txt</a>
+                <a href="https://alexandretouret.github.io/global-compatibility-matrix-agent/llms-full.txt" class="ai-link-btn">📖 /llms-full.txt</a>
+                <a href="https://alexandretouret.github.io/global-compatibility-matrix-agent/api/v1/global-catalog.json" class="ai-link-btn">⚡ /api/v1/global-catalog.json</a>
+            </div>
+        </div>
+
+        <!-- 2. Continent & Language Portal -->
+        <h2 class="hub-title">🌍 Select Your Region & Language</h2>
+        <div class="lang-cards-grid">
+            
+            <a href="https://alexandretouret.github.io/global-compatibility-matrix-agent/en/" class="lang-card">
+                <span class="lang-flag">🇺🇸</span>
+                <div class="lang-info">
+                    <h3>English (US / UK / Global)</h3>
+                    <p>North America, United Kingdom, Australia & Global</p>
+                </div>
+            </a>
+            
+            <a href="https://alexandretouret.github.io/global-compatibility-matrix-agent/de/" class="lang-card">
+                <span class="lang-flag">🇩🇪</span>
+                <div class="lang-info">
+                    <h3>Deutsch</h3>
+                    <p>Deutschland, Österreich, Schweiz</p>
+                </div>
+            </a>
+            
+            <a href="https://alexandretouret.github.io/global-compatibility-matrix-agent/fr/" class="lang-card">
+                <span class="lang-flag">🇫🇷</span>
+                <div class="lang-info">
+                    <h3>Français</h3>
+                    <p>France, Belgique, Suisse, Canada (QC)</p>
+                </div>
+            </a>
+            
+            <a href="https://alexandretouret.github.io/global-compatibility-matrix-agent/es/" class="lang-card">
+                <span class="lang-flag">🇪🇸</span>
+                <div class="lang-info">
+                    <h3>Español</h3>
+                    <p>España, México, América Latina, US Hispanic</p>
+                </div>
+            </a>
+            
+            <a href="https://alexandretouret.github.io/global-compatibility-matrix-agent/it/" class="lang-card">
+                <span class="lang-flag">🇮🇹</span>
+                <div class="lang-info">
+                    <h3>Italiano</h3>
+                    <p>Italia, Svizzera italiana</p>
+                </div>
+            </a>
+            
+            <a href="https://alexandretouret.github.io/global-compatibility-matrix-agent/ja/" class="lang-card">
+                <span class="lang-flag">🇯🇵</span>
+                <div class="lang-info">
+                    <h3>日本語 (Japan)</h3>
+                    <p>日本 (Japan) & 全球</p>
+                </div>
+            </a>
+            
+            <a href="https://alexandretouret.github.io/global-compatibility-matrix-agent/pt/" class="lang-card">
+                <span class="lang-flag">🇧🇷</span>
+                <div class="lang-info">
+                    <h3>Português (Brasil & Portugal)</h3>
+                    <p>Brasil, Portugal e países lusófonos</p>
+                </div>
+            </a>
+            
+            <a href="https://alexandretouret.github.io/global-compatibility-matrix-agent/nl/" class="lang-card">
+                <span class="lang-flag">🇳🇱</span>
+                <div class="lang-info">
+                    <h3>Nederlands</h3>
+                    <p>Nederland, België (Vlaanderen)</p>
+                </div>
+            </a>
+            
+        </div>
+
+        <!-- 3. Key Categories -->
+        <div class="features-grid">
+            <div class="feature-card">
+                <div class="feat-icon">✈️</div>
+                <h3>Worldwide Airlines</h3>
+                <p>Exact underseat and overhead cabin dimensions for Ryanair, EasyJet, Delta, Air France, Lufthansa, Emirates, and 15+ carriers.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feat-icon">🖥️</div>
+                <h3>Hardware & VESA</h3>
+                <p>Mounting patterns, screw sizes (M4/M6/M8), USB-C PD wattage, and storage limits for LG OLED, PS5, Steam Deck, Apple, and displays.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feat-icon">🚗</div>
+                <h3>Automotive Accessories</h3>
+                <p>Exact wiper blade millimeter/inch pairings, roof bar specs, and trunk cargo dimensions for Tesla, Toyota, Volkswagen, and Peugeot.</p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Global Compatibility Matrix Agent. 100% Free & Open Access. Zero Trackers, Zero Cookies.</p>
+    </footer>
+
+    <!-- Détection automatique de la langue de l'utilisateur pour suggestion douce -->
+    <script>
+        (function() {
+            try {
+                const userLang = (navigator.language || "").slice(0, 2).toLowerCase();
+                const supportedLangs = {
+                    "de": { name: "Deutsch", flag: "🇩🇪", text: "Hallo! Möchten Sie zur deutschen Version wechseln?", btn: "Auf Deutsch ansehen", path: "/de/" },
+                    "fr": { name: "Français", flag: "🇫🇷", text: "Bonjour ! Souhaitez-vous consulter le site en Français ?", btn: "Accéder en Français", path: "/fr/" },
+                    "es": { name: "Español", flag: "🇪🇸", text: "¡Hola! ¿Deseas explorar la versión en Español?", btn: "Ver en Español", path: "/es/" },
+                    "it": { name: "Italiano", flag: "🇮🇹", text: "Ciao! Vuoi visualizzare la versione in Italiano?", btn: "Vai in Italiano", path: "/it/" },
+                    "ja": { name: "日本語", flag: "🇯🇵", text: "こんにちは！日本語版を表示しますか？", btn: "日本語で見る", path: "/ja/" },
+                    "pt": { name: "Português", flag: "🇧🇷", text: "Olá! Deseja navegar na versão em Português?", btn: "Ver em Português", path: "/pt/" },
+                    "nl": { name: "Nederlands", flag: "🇳🇱", text: "Hallo! Wil je naar de Nederlandse versie gaan?", btn: "Bekijk in het Nederlands", path: "/nl/" }
+                };
+
+                if (supportedLangs[userLang]) {
+                    const match = supportedLangs[userLang];
+                    const banner = document.getElementById("lang-suggestion-banner");
+                    const bannerText = document.getElementById("lang-suggestion-text");
+                    const bannerLink = document.getElementById("lang-suggestion-link");
+
+                    bannerText.textContent = match.flag + " " + match.text;
+                    bannerLink.textContent = match.btn;
+                    bannerLink.href = "https://alexandretouret.github.io/global-compatibility-matrix-agent" + match.path;
+                    banner.style.display = "block";
+                }
+            } catch(e) {}
+        })();
+    </script>
+</body>
+</html>

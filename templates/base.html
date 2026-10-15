@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="{{ current_lang }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{{ page_title }}{% endblock %} | Global Compatibility Matrix</title>
+    <meta name="description" content="{% block description %}{{ meta_description }}{% endblock %}">
+    <link rel="canonical" href="{{ canonical_url }}">
+
+    <!-- International SEO : hreflang pour tous les continents + x-default -->
+    {% if hreflang_links %}
+    {% for lang_code, href in hreflang_links.items() %}
+    <link rel="alternate" hreflang="{{ lang_code }}" href="{{ href }}">
+    {% endfor %}
+    {% if hreflang_links.get('en') %}
+    <link rel="alternate" hreflang="x-default" href="{{ hreflang_links['en'] }}">
+    {% endif %}
+    {% endif %}
+
+    <!-- Open Graph & Twitter Card -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{{ page_title }}">
+    <meta property="og:description" content="{{ meta_description }}">
+    <meta property="og:url" content="{{ canonical_url }}">
+    <meta property="og:site_name" content="Global Compatibility Matrix">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <!-- Zero-tracker / Zero-cookie guarantee -->
+    <meta name="privacy" content="Zero third-party cookies, GDPR, CCPA & APPI compliant">
+
+    <style>
+        :root {
+            --bg: #0b1120;
+            --surface: #1e293b;
+            --surface-elevated: #283548;
+            --border: #334155;
+            --primary: #38bdf8;
+            --primary-hover: #0ea5e9;
+            --accent: #f59e0b;
+            --text: #f8fafc;
+            --text-muted: #94a3b8;
+            --metric-bg: #0369a1;
+            --imperial-bg: #854d0e;
+            --amazon-btn: #ff9900;
+            --amazon-btn-hover: #e68a00;
+            --amazon-text: #111827;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Top Amazon Associate Mandatory Legal Banner */
+        .affiliate-banner {
+            background: #111827;
+            border-bottom: 1px solid #374151;
+            padding: 0.4rem 1rem;
+            font-size: 0.78rem;
+            color: #d1d5db;
+            text-align: center;
+        }
+        .affiliate-banner strong { color: #facc15; }
+
+        /* Site Header */
+        header.site-header {
+            background: var(--surface);
+            border-bottom: 1px solid var(--border);
+            padding: 0.75rem 1.5rem;
+            position: sticky;
+            top: 0;
+            z-index: 50;
+        }
+        .header-content {
+            max-width: 1280px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+        .brand {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            text-decoration: none;
+            color: #fff;
+            font-weight: 700;
+            font-size: 1.15rem;
+        }
+        .brand span.logo-icon {
+            font-size: 1.4rem;
+        }
+
+        nav.nav-links {
+            display: flex;
+            align-items: center;
+            gap: 1.25rem;
+            font-size: 0.9rem;
+        }
+        nav.nav-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+            transition: color 0.15s;
+        }
+        nav.nav-links a:hover, nav.nav-links a.active {
+            color: var(--primary);
+        }
+
+        /* Language Switcher Dropdown */
+        .lang-switcher {
+            display: flex;
+            align-items: center;
+            gap: 0.35rem;
+            background: var(--bg);
+            border: 1px solid var(--border);
+            border-radius: 0.4rem;
+            padding: 0.25rem 0.5rem;
+            font-size: 0.85rem;
+        }
+        .lang-switcher select {
+            background: transparent;
+            color: var(--text);
+            border: none;
+            outline: none;
+            cursor: pointer;
+            font-size: 0.85rem;
+        }
+        .lang-switcher select option {
+            background: var(--surface);
+            color: var(--text);
+        }
+
+        /* Container */
+        main.container {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 2rem 1.5rem;
+            flex: 1;
+            width: 100%;
+        }
+
+        /* Footer */
+        footer.site-footer {
+            background: #060913;
+            border-top: 1px solid var(--border);
+            padding: 2.5rem 1.5rem 1.5rem;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            margin-top: 3rem;
+        }
+        .footer-grid {
+            max-width: 1280px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 2rem;
+            margin-bottom: 2rem;
+        }
+        .footer-col h4 {
+            color: #fff;
+            font-size: 0.95rem;
+            margin-bottom: 0.85rem;
+        }
+        .footer-col ul { list-style: none; }
+        .footer-col ul li { margin-bottom: 0.4rem; }
+        .footer-col ul li a {
+            color: var(--text-muted);
+            text-decoration: none;
+        }
+        .footer-col ul li a:hover { color: var(--primary); }
+
+        .footer-bottom {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding-top: 1.5rem;
+            border-top: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header-content { flex-direction: column; align-items: flex-start; }
+            nav.nav-links { flex-wrap: wrap; }
+        }
+    </style>
+    {% block extra_head %}{% endblock %}
+</head>
+<body>
+    <!-- 1. Mention d'affiliation Amazon obligatoire -->
+    <div class="affiliate-banner">
+        <span>📢 {{ disclaimer }}</span>
+    </div>
+
+    <!-- 2. Header du portail international -->
+    <header class="site-header">
+        <div class="header-content">
+            <a href="{{ site_url }}/{{ current_lang }}/" class="brand">
+                <span class="logo-icon">🌐</span>
+                <span>Global Compatibility Matrix</span>
+            </a>
+
+            <nav class="nav-links">
+                <a href="{{ site_url }}/{{ current_lang }}/#airlines">✈️ Luggage & Air</a>
+                <a href="{{ site_url }}/{{ current_lang }}/#hardware">🖥️ Hardware & VESA</a>
+                <a href="{{ site_url }}/{{ current_lang }}/#auto">🚗 Auto Accessories</a>
+                <a href="{{ site_url }}/llms.txt" title="AI Agents Directory">🤖 llms.txt</a>
+                <a href="{{ site_url }}/api/v1/global-catalog.json" title="Open Catalog JSON">API</a>
+
+                <!-- Sélecteur de Langue Mondial -->
+                <div class="lang-switcher">
+                    <span>🌍</span>
+                    <select id="global-lang-select" onchange="window.location.href=this.value;">
+                        <option value="{{ hreflang_links.get('en', site_url + '/en/') }}" {% if current_lang == 'en' %}selected{% endif %}>🇺🇸 English (US/UK/CA)</option>
+                        <option value="{{ hreflang_links.get('de', site_url + '/de/') }}" {% if current_lang == 'de' %}selected{% endif %}>🇩🇪 Deutsch</option>
+                        <option value="{{ hreflang_links.get('fr', site_url + '/fr/') }}" {% if current_lang == 'fr' %}selected{% endif %}>🇫🇷 Français</option>
+                        <option value="{{ hreflang_links.get('es', site_url + '/es/') }}" {% if current_lang == 'es' %}selected{% endif %}>🇪🇸 Español</option>
+                        <option value="{{ hreflang_links.get('it', site_url + '/it/') }}" {% if current_lang == 'it' %}selected{% endif %}>🇮🇹 Italiano</option>
+                        <option value="{{ hreflang_links.get('ja', site_url + '/ja/') }}" {% if current_lang == 'ja' %}selected{% endif %}>🇯🇵 日本語</option>
+                        <option value="{{ hreflang_links.get('pt', site_url + '/pt/') }}" {% if current_lang == 'pt' %}selected{% endif %}>🇧🇷 Português</option>
+                        <option value="{{ hreflang_links.get('nl', site_url + '/nl/') }}" {% if current_lang == 'nl' %}selected{% endif %}>🇳🇱 Nederlands</option>
+                    </select>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- 3. Contenu de la Page -->
+    <main class="container">
+        {% block content %}{% endblock %}
+    </main>
+
+    <!-- 4. Footer International & Zero-Cookie -->
+    <footer class="site-footer">
+        <div class="footer-grid">
+            <div class="footer-col">
+                <h4>Global Compatibility</h4>
+                <p style="font-size: 0.82rem; margin-bottom: 0.5rem;">
+                    Universal dual Metric & Imperial verification database for worldwide travelers, tech professionals, and motorists.
+                </p>
+                <p style="font-size: 0.78rem; color: #64748b;">
+                    100% Free & Open Access — No Trackers, No Cookies.
+                </p>
+            </div>
+            <div class="footer-col">
+                <h4>Global Languages</h4>
+                <ul>
+                    <li><a href="{{ site_url }}/en/">🇺🇸 English (US, UK, CA, AU)</a></li>
+                    <li><a href="{{ site_url }}/de/">🇩🇪 Deutsch (DE, AT, CH)</a></li>
+                    <li><a href="{{ site_url }}/fr/">🇫🇷 Français (FR, BE, CA)</a></li>
+                    <li><a href="{{ site_url }}/es/">🇪🇸 Español (ES, MX, US)</a></li>
+                    <li><a href="{{ site_url }}/it/">🇮🇹 Italiano</a></li>
+                    <li><a href="{{ site_url }}/ja/">🇯🇵 日本語</a></li>
+                    <li><a href="{{ site_url }}/pt/">🇧🇷 Português</a></li>
+                    <li><a href="{{ site_url }}/nl/">🇳🇱 Nederlands</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>AI Agents & Developers</h4>
+                <ul>
+                    <li><a href="{{ site_url }}/llms.txt">🤖 /llms.txt (AI Index)</a></li>
+                    <li><a href="{{ site_url }}/llms-full.txt">📖 /llms-full.txt (Full Base)</a></li>
+                    <li><a href="{{ site_url }}/api/v1/global-catalog.json">⚡ /api/v1/global-catalog.json</a></li>
+                    <li><a href="{{ site_url }}/.well-known/openapi.json">📐 OpenAPI Specification</a></li>
+                    <li><a href="{{ site_url }}/sitemap.xml">🗺️ Sitemap XML</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Legal & Privacy</h4>
+                <ul>
+                    <li><a href="{{ site_url }}/{{ current_lang }}/legal.html">Mentions Légales & Compliance</a></li>
+                    <li><span style="color: #10b981;">✓ RGPD / CCPA / APPI Compliant</span></li>
+                    <li><span style="color: #cbd5e1;">Zero Third-Party Cookies</span></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <div>
+                &copy; {{ current_year }} Global Compatibility Matrix Agent. All rights reserved.
+            </div>
+            <div>
+                <a href="{{ site_url }}/{{ current_lang }}/legal.html" style="color: var(--text-muted); text-decoration: none;">Legal & Affiliation Disclaimer</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- 5. Routeur Dynamique Client-Side (Zero-Cookie, Zero-Tracker) -->
+    <script>
+        (function() {
+            // Détection locale non intrusive via fuseau horaire navigateur
+            try {
+                const tz = Intl.DateTimeFormat().resolvedOptions().timeZone || "";
+                const lang = (navigator.language || "").toLowerCase();
+                const buttons = document.querySelectorAll('[data-amazon-btn="primary"]');
+
+                if (buttons.length === 0) return;
+
+                // Cartographie fuseau horaire vers domaine Amazon & Tag
+                let targetDomain = null;
+                let targetFlag = null;
+
+                if (tz.includes("London") || lang.startsWith("en-gb")) {
+                    targetDomain = "amazon.co.uk";
+                    targetFlag = "🇬🇧";
+                } else if (tz.includes("Toronto") || tz.includes("Vancouver") || tz.includes("Montreal") || lang.startsWith("en-ca") || lang.startsWith("fr-ca")) {
+                    targetDomain = "amazon.ca";
+                    targetFlag = "🇨🇦";
+                } else if (tz.includes("Sydney") || tz.includes("Melbourne") || tz.includes("Brisbane") || lang.startsWith("en-au")) {
+                    targetDomain = "amazon.com.au";
+                    targetFlag = "🇦🇺";
+                }
+
+                if (targetDomain) {
+                    buttons.forEach(function(btn) {
+                        try {
+                            const currentUrl = new URL(btn.href);
+                            const searchKeyword = currentUrl.searchParams.get("k") || "";
+                            const currentTag = currentUrl.searchParams.get("tag") || "autocompat-21";
+                            // Réécrit dynamiquement le domaine cible pour l'acheteur local
+                            btn.href = "https://www." + targetDomain + "/s?k=" + encodeURIComponent(searchKeyword) + "&tag=" + encodeURIComponent(currentTag);
+                            const hintSpan = btn.querySelector('.localized-store-hint');
+                            if (hintSpan) {
+                                hintSpan.textContent = " (" + targetFlag + " " + targetDomain + ")";
+                            }
+                        } catch(e) {}
+                    });
+                }
+            } catch(e) {
+                // Dégradation gracieuse en cas d'ancien navigateur
+            }
+        })();
+    </script>
+    {% block extra_scripts %}{% endblock %}
+</body>
+</html>

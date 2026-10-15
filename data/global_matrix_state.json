@@ -1,0 +1,1289 @@
+{
+  "last_updated": "2026-10-15T21:36:01.381572+00:00",
+  "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
+  "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
+  "treated_slugs": [
+    "ryanair-cabin-baggage-dimensions",
+    "lg-oled-c3-c4-vesa-mount-power",
+    "tesla-model-y-wipers-roof-trunk-dimensions"
+  ],
+  "topics_backlog": [
+    {
+      "id": "easyjet",
+      "subject": "EasyJet",
+      "category": "airlines",
+      "prompt_hint": "EasyJet cabin baggage, underseat bag (45x36x20cm), overhead carry-on, power banks limit"
+    },
+    {
+      "id": "delta",
+      "subject": "Delta Air Lines",
+      "category": "airlines",
+      "prompt_hint": "Delta Air Lines carry-on baggage, personal item dimensions, pet in cabin, battery restrictions"
+    },
+    {
+      "id": "united",
+      "subject": "United Airlines",
+      "category": "airlines",
+      "prompt_hint": "United Airlines basic economy personal item, carry-on bag dimensions, lithium battery rules"
+    },
+    {
+      "id": "american",
+      "subject": "American Airlines",
+      "category": "airlines",
+      "prompt_hint": "American Airlines carry-on bag, personal item underseat, cabin pet crate, electronics"
+    },
+    {
+      "id": "southwest",
+      "subject": "Southwest Airlines",
+      "category": "airlines",
+      "prompt_hint": "Southwest Airlines carry-on 24x16x10in, personal item under seat, pet carrier dimensions"
+    },
+    {
+      "id": "british-airways",
+      "subject": "British Airways",
+      "category": "airlines",
+      "prompt_hint": "British Airways hand baggage 56x45x25cm, cabin bag 40x30x15cm, weight 23kg"
+    },
+    {
+      "id": "lufthansa",
+      "subject": "Lufthansa",
+      "category": "airlines",
+      "prompt_hint": "Lufthansa carry-on 55x40x23cm, personal item 40x30x10cm, foldable garment bag"
+    },
+    {
+      "id": "air-france",
+      "subject": "Air France",
+      "category": "airlines",
+      "prompt_hint": "Air France bagage cabine 55x35x25cm, accessoire sous le siege 40x30x15cm, poids 12kg"
+    },
+    {
+      "id": "emirates",
+      "subject": "Emirates",
+      "category": "airlines",
+      "prompt_hint": "Emirates cabin baggage 55x38x22cm 7kg, handbag/laptop bag, duty free allowances"
+    },
+    {
+      "id": "qatar-airways",
+      "subject": "Qatar Airways",
+      "category": "airlines",
+      "prompt_hint": "Qatar Airways hand baggage 50x37x25cm 7kg, economy and business allowances, power bank limit"
+    },
+    {
+      "id": "transavia",
+      "subject": "Transavia",
+      "category": "airlines",
+      "prompt_hint": "Transavia bagage a main 40x30x20cm sous le siege, bagage cabine payant 55x35x25cm"
+    },
+    {
+      "id": "vueling",
+      "subject": "Vueling",
+      "category": "airlines",
+      "prompt_hint": "Vueling equipaje de mano 40x20x30cm bajo el asiento, maleta de cabina 55x40x20cm 10kg"
+    },
+    {
+      "id": "wizz-air",
+      "subject": "Wizz Air",
+      "category": "airlines",
+      "prompt_hint": "Wizz Air free carry-on 40x30x20cm under seat, trolley bag with WIZZ Priority 55x40x23cm 10kg"
+    },
+    {
+      "id": "air-canada",
+      "subject": "Air Canada",
+      "category": "airlines",
+      "prompt_hint": "Air Canada standard carry-on 55x40x23cm, personal article 43x33x16cm, no weight limit"
+    },
+    {
+      "id": "qantas",
+      "subject": "Qantas",
+      "category": "airlines",
+      "prompt_hint": "Qantas carry-on 56x36x23cm 7kg or 105cm total, small personal item under seat"
+    },
+    {
+      "id": "ana-jal",
+      "subject": "ANA & Japan Airlines",
+      "category": "airlines",
+      "prompt_hint": "ANA / JAL domestic and international carry-on 55x40x25cm (115cm total) 10kg (22lbs)"
+    },
+    {
+      "id": "latam",
+      "subject": "LATAM Airlines",
+      "category": "airlines",
+      "prompt_hint": "LATAM bolso o mochila pequena 45x35x20cm, equipaje de mano en cabina 55x35x25cm 10kg"
+    },
+    {
+      "id": "samsung-qled",
+      "subject": "Samsung Neo QLED & OLED TVs (55/65/75)",
+      "category": "hardware",
+      "prompt_hint": "Samsung QN90C/QN95C/S90C VESA patterns (200x200, 300x200, 400x300, 400x400), M8 screw length, weight"
+    },
+    {
+      "id": "sony-bravia",
+      "subject": "Sony Bravia XR (A80L/A95L/X90L)",
+      "category": "hardware",
+      "prompt_hint": "Sony Bravia XR VESA patterns 300x300mm, M6 screws, soundbar clearance, power consumption"
+    },
+    {
+      "id": "gopro-12-13",
+      "subject": "GoPro Hero 12 & 13 Black",
+      "category": "hardware",
+      "prompt_hint": "GoPro Hero 12/13 microSD U3 V30 A2 size limits, Enduro battery 1720/1900mAh, mounting screw 1/4-20"
+    },
+    {
+      "id": "dji-mini-air",
+      "subject": "DJI Mini 4 Pro & Air 3",
+      "category": "hardware",
+      "prompt_hint": "DJI Mini 4 Pro weight <249g sub-250g, battery Wh 18.96Wh, microSD card class, USB-C 30W charging"
+    },
+    {
+      "id": "nintendo-switch",
+      "subject": "Nintendo Switch & Switch OLED",
+      "category": "hardware",
+      "prompt_hint": "Nintendo Switch OLED screen 7.0in, microSDXC UHS-I up to 2TB, USB-C 15V 2.6A 39W charger, dock HDMI"
+    },
+    {
+      "id": "steam-deck-oled",
+      "subject": "Valve Steam Deck OLED",
+      "category": "hardware",
+      "prompt_hint": "Steam Deck OLED M.2 2230 NVMe SSD size, USB-C PD 45W 15V 3A, microSD A2, dimensions 298x117x49mm"
+    },
+    {
+      "id": "ps5-slim-pro",
+      "subject": "PlayStation 5 Slim & Pro",
+      "category": "hardware",
+      "prompt_hint": "PS5 Slim/Pro M.2 NVMe Gen4 PCIe SSD with heatsink max height 11.25mm, horizontal stand, 370W"
+    },
+    {
+      "id": "xbox-series-x",
+      "subject": "Xbox Series X",
+      "category": "hardware",
+      "prompt_hint": "Xbox Series X dimensions 151x151x301mm, storage expansion card slot CFexpress, HDMI 2.1, 4K 120Hz"
+    },
+    {
+      "id": "macbook-pro-m3",
+      "subject": "Apple MacBook Pro 14 & 16 (M3/M4)",
+      "category": "hardware",
+      "prompt_hint": "MacBook Pro 14/16 MagSafe 3 70W/96W/140W USB-C PD 3.1, Thunderbolt 4, SDXC UHS-II slot, external displays"
+    },
+    {
+      "id": "asus-rog-ally-x",
+      "subject": "Asus ROG Ally X",
+      "category": "hardware",
+      "prompt_hint": "Asus ROG Ally X M.2 2280 NVMe SSD slot full size, 80Wh battery, 65W/100W USB-C PD, dual fans"
+    },
+    {
+      "id": "tesla-model-3",
+      "subject": "Tesla Model 3 Highland",
+      "category": "auto",
+      "prompt_hint": "Tesla Model 3 Highland wiper blades 650mm (26in) + 475mm (19in), roof rack rating 68kg (150lbs), trunk liner"
+    },
+    {
+      "id": "toyota-rav4",
+      "subject": "Toyota RAV4 (5th Gen 2019-2026)",
+      "category": "auto",
+      "prompt_hint": "Toyota RAV4 5th gen wiper blades 650mm (26in) + 400mm (16in), rear 300mm (12in), roof rails crossbar fitment"
+    },
+    {
+      "id": "toyota-corolla",
+      "subject": "Toyota Corolla (E210)",
+      "category": "auto",
+      "prompt_hint": "Toyota Corolla wiper blades 700mm (28in) + 350mm (14in), trunk mat dimensions, snow chains size 9mm"
+    },
+    {
+      "id": "vw-golf-8",
+      "subject": "Volkswagen Golf 8",
+      "category": "auto",
+      "prompt_hint": "VW Golf 8 wiper blades 650mm (26in) + 450mm (18in), rear 280mm (11in), roof bar T-track width 20mm"
+    },
+    {
+      "id": "vw-tiguan",
+      "subject": "Volkswagen Tiguan (Mk2/Mk3)",
+      "category": "auto",
+      "prompt_hint": "VW Tiguan wiper blades 600mm (24in) + 530mm (21in), roof rails crossbars 75kg load, trunk cargo protector"
+    },
+    {
+      "id": "ford-f150",
+      "subject": "Ford F-150 (2021-2026)",
+      "category": "auto",
+      "prompt_hint": "Ford F-150 wiper blades 550mm (22in) + 550mm (22in), bed cargo mat 5.5ft / 6.5ft, trailer hitch 2-inch receiver"
+    },
+    {
+      "id": "peugeot-208",
+      "subject": "Peugeot 208 II / e-208",
+      "category": "auto",
+      "prompt_hint": "Peugeot 208 II wiper blades 650mm (26in) + 400mm (16in), rear 300mm, trunk liner 311L, snow socks 9mm"
+    },
+    {
+      "id": "peugeot-3008",
+      "subject": "Peugeot 3008 (II & III)",
+      "category": "auto",
+      "prompt_hint": "Peugeot 3008 wiper blades 700mm (28in) + 425mm (17in), roof rails bar spacing, trunk dual floor protector"
+    },
+    {
+      "id": "renault-clio",
+      "subject": "Renault Clio 5",
+      "category": "auto",
+      "prompt_hint": "Renault Clio 5 wiper blades 650mm (26in) + 350mm (14in), rear 240mm, trunk volume 391L mat"
+    },
+    {
+      "id": "dacia-duster",
+      "subject": "Dacia Duster III (2024-2026)",
+      "category": "auto",
+      "prompt_hint": "Dacia Duster 3 modular roof bars (YouClip), wiper blades 600mm + 450mm, 4x4 snow chains clearance"
+    },
+    {
+      "id": "bmw-series-3",
+      "subject": "BMW 3 Series (G20/G21)",
+      "category": "auto",
+      "prompt_hint": "BMW 3 Series G20 wiper blades 600mm (24in) + 475mm (19in), fixed point roof bars, trunk cargo liner"
+    },
+    {
+      "id": "honda-civic",
+      "subject": "Honda Civic (11th Gen 2022-2026)",
+      "category": "auto",
+      "prompt_hint": "Honda Civic 11 wiper blades 650mm (26in) + 475mm (19in), rear wiper hatch 300mm, trunk cargo tray"
+    }
+  ],
+  "matrices": [
+    {
+      "id": "ryanair",
+      "slug": "ryanair-cabin-baggage-dimensions",
+      "subject": "Ryanair Cabin Baggage & Underseat Dimensions",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Free Underseat Personal Item",
+          "metric": "40 x 20 x 25 cm",
+          "imperial": "15.7 x 7.8 x 9.8 in",
+          "status": "Mandatory Fit",
+          "note": "Must fit strictly under the seat in front of you without forcing",
+          "item_translations": {
+            "en": "Free Underseat Personal Item",
+            "fr": "Petit sac sous le siège gratuit",
+            "de": "Kostenloses kleines Handgepäckstück",
+            "es": "Bolsa pequeña gratuita bajo el asiento",
+            "it": "Piccola borsa gratuita sotto il sedile",
+            "ja": "座席下収納 無料手荷物",
+            "pt": "Bolsa pequena gratuita sob o assento",
+            "nl": "Gratis kleine tas onder de stoel"
+          },
+          "note_translations": {
+            "en": "Must fit under the seat in front of you",
+            "fr": "Doit s'insérer totalement sous le siège devant vous",
+            "de": "Muss vollständig unter den Vordersitz passen",
+            "es": "Debe caber totalmente debajo del asiento delantero",
+            "it": "Deve entrare completamente sotto il sedile anteriore",
+            "ja": "前の座席の下に完全に収まる必要があります",
+            "pt": "Deve caber totalmente embaixo do assento à frente",
+            "nl": "Moet volledig onder de stoel voor je passen"
+          }
+        },
+        {
+          "item": "Priority 10kg Overhead Cabin Bag",
+          "metric": "55 x 40 x 20 cm (Max 10 kg)",
+          "imperial": "21.6 x 15.7 x 7.8 in (Max 22 lbs)",
+          "status": "With Priority Boarding",
+          "note": "Includes wheels and handles in Ryanair sizer",
+          "item_translations": {
+            "en": "Priority 10kg Overhead Cabin Bag",
+            "fr": "Bagage cabine 10kg Prioritaire",
+            "de": "Großes Handgepäckstück mit Priorität",
+            "es": "Maleta de cabina de 10kg con Prioridad",
+            "it": "Bagaglio a mano da 10kg Priority",
+            "ja": "優先搭乗 10kg 機内持ち込みスーツケース",
+            "pt": "Mala de cabine de 10kg com Prioridade",
+            "nl": "10 kg rolkoffer met Priority"
+          },
+          "note_translations": {
+            "en": "Includes wheels, pockets and handles",
+            "fr": "Roulettes, poignées et poches comprises dans le gabarit",
+            "de": "Inklusive Rollen und Griffen im Prüfrahmen",
+            "es": "Incluye ruedas y asas en el medidor del aeropuerto",
+            "it": "Include ruote e maniglie nel misuratore",
+            "ja": "車輪やハンドルを含めた外寸制限",
+            "pt": "Inclui rodinhas e alças no medidor",
+            "nl": "Inclusief wieltjes en handvatten in de sizer"
+          }
+        },
+        {
+          "item": "Lithium Power Banks & Spare Batteries",
+          "metric": "Max 100 Wh (Max 160 Wh with approval)",
+          "imperial": "Max 27,000 mAh at 3.7V",
+          "status": "Cabin Only (Forbidden in Hold)",
+          "note": "Never place lithium battery power banks in checked baggage",
+          "item_translations": {
+            "en": "Power Banks & Lithium Batteries",
+            "fr": "Batteries externes & Batteries Lithium",
+            "de": "Powerbanks & Lithium-Ionen-Akkus",
+            "es": "Baterías externas y Power Banks",
+            "it": "Power bank e batterie al litio",
+            "ja": "モバイルバッテリー・リチウムイオン電池",
+            "pt": "Power banks e baterias de lítio",
+            "nl": "Powerbanks & lithiumbatterijen"
+          },
+          "note_translations": {
+            "en": "Strictly cabin baggage only",
+            "fr": "Strictement interdit en soute, cabine uniquement",
+            "de": "Ausschließlich im Handgepäck erlaubt (Souterrain verboten)",
+            "es": "Estrictamente en cabina, prohibido en bodega",
+            "it": "Solo nel bagaglio a mano, vietato in stiva",
+            "ja": "受託手荷物（預け入れ）禁止、機内持ち込み必須",
+            "pt": "Estritamente na cabine, proibido no porão",
+            "nl": "Alleen toegestaan in handbagage, verboden in het ruim"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "ryanair-cabin-baggage-dimensions",
+          "title": "Ryanair Cabin Baggage Dimensions & Underseat Rules (Dual cm & inches)",
+          "summary": "Official Ryanair baggage dimensions: 40x20x25 cm (15.7x7.8x9.8 in) underseat bag and 55x40x20 cm (21.6x15.7x7.8 in) 10kg priority cabin trolley.",
+          "amazon_search_query": "Ryanair underseat cabin bag 40x20x25",
+          "buy_box_title": "Need a certified Ryanair 40x20x25 cm bag?",
+          "buy_box_subtitle": "Avoid gate fees up to £70 / €75 with 100% compliant backpacks",
+          "allowed_guidelines": [
+            "Soft backpacks compressible into the airport metal sizer",
+            "Liquids in individual containers of max 100ml in transparent 1L bag",
+            "Duty-free airport shopping bag allowed alongside your personal item"
+          ],
+          "strict_restrictions": [
+            "Rigid hardshell bags exceeding 25 cm depth will be fined at gate",
+            "Power banks strictly prohibited in checked hold luggage",
+            "Gate fee of €45 to €75 applies if bag exceeds sizer frame"
+          ],
+          "faqs": [
+            {
+              "q": "What is the exact free underseat bag size on Ryanair?",
+              "a": "The maximum dimensions for Ryanair's free personal item are 40 x 20 x 25 cm (15.7 x 7.8 x 9.8 inches). It must fit underneath the seat in front of you."
+            },
+            {
+              "q": "Does Ryanair measure bags including wheels and handles?",
+              "a": "Yes! The airport metal sizer includes all external parts such as wheels, side pockets, and carrying handles. Soft backpacks are recommended."
+            },
+            {
+              "q": "Can I bring a power bank on a Ryanair flight?",
+              "a": "Yes, but strictly in your cabin baggage. Power banks up to 100 Wh (approximately 27,000 mAh) are permitted in cabin only."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "ryanair-dimensions-bagage-cabine-sac-sous-siege",
+          "title": "Dimensions Bagage Cabine Ryanair & Sac Sous le Siège (cm et pouces)",
+          "summary": "Dimensions officielles Ryanair : sac gratuit sous le siège 40x20x25 cm (15.7x7.8x9.8 pouces) et valise cabine 55x40x20 cm (10 kg).",
+          "amazon_search_query": "sac cabine ryanair 40x20x25 sous le siege",
+          "buy_box_title": "Besoin d'un sac certifié Ryanair 40x20x25 cm ?",
+          "buy_box_subtitle": "Évitez jusqu'à 75 € de pénalité d'embarquement avec un sac homologué",
+          "allowed_guidelines": [
+            "Sacs à dos souples compressibles dans le gabarit métallique",
+            "Flacons liquides max 100 ml dans un sac transparent fermé de 1 litre",
+            "Sac d'achats Duty Free autorisé en plus du petit sac personnel"
+          ],
+          "strict_restrictions": [
+            "Valises rigides de plus de 20 cm de profondeur surtaxées en porte",
+            "Batteries externes (power banks) formellement interdites en soute",
+            "Pénalité de 45 € à 75 € en cas de dépassement du gabarit"
+          ],
+          "faqs": [
+            {
+              "q": "Quelle est la taille exacte du sac gratuit sous le siège chez Ryanair ?",
+              "a": "La taille maximale autorisée est de 40 x 20 x 25 cm (15,7 x 7,8 x 9,8 pouces). Le sac doit obligatoirement se glisser sous le siège devant vous."
+            },
+            {
+              "q": "Les roulettes sont-elles comptées dans les dimensions Ryanair ?",
+              "a": "Oui, les dimensions de 55 x 40 x 20 cm et 40 x 20 x 25 cm incluent absolument toutes les protubérances (roulettes, poignées et poches)."
+            },
+            {
+              "q": "Puis-je emporter une batterie externe (power bank) sur Ryanair ?",
+              "a": "Oui, mais exclusivement dans votre bagage à main en cabine. La capacité maximale standard est de 100 Wh (environ 27 000 mAh)."
+            }
+          ]
+        },
+        "de": {
+          "slug": "ryanair-handgepaeck-masse-unter-den-sitz",
+          "title": "Ryanair Handgepäck Maße & Handtasche unter den Sitz (cm und Zoll)",
+          "summary": "Offizielle Ryanair Handgepäck-Maße: 40x20x25 cm kostenlose Tasche unter den Sitz und 55x40x20 cm Trolley (10 kg mit Priorität).",
+          "amazon_search_query": "Ryanair Handgepäck Tasche 40x20x25",
+          "buy_box_title": "Passende Ryanair 40x20x25 cm Tasche gesucht?",
+          "buy_box_subtitle": "Vermeiden Sie bis zu 75 € Nachgebühr am Flugsteig",
+          "allowed_guidelines": [
+            "Flexible Rucksäcke, die in den Metallprüfrahmen passen",
+            "Flüssigkeiten in Behältern bis max. 100 ml im transparenten 1-Liter-Beutel",
+            "Flughafen-Einkaufstasche zusätzlich zum kleinen Handgepäck erlaubt"
+          ],
+          "strict_restrictions": [
+            "Hartschalenkoffer über 25 cm Tiefe werden am Gate kostenpflichtig abgewiesen",
+            "Powerbanks sind im aufgegebenen Frachtgepäck streng verboten",
+            "Gate-Gebühren von 45 € bis 75 € bei Überschreitung des Messrahmens"
+          ],
+          "faqs": [
+            {
+              "q": "Welche Maße gelten für die kostenlose Ryanair-Tasche?",
+              "a": "Die Höchstmaße betragen 40 x 20 x 25 cm. Die Tasche muss vollständig unter den Vordersitz passen."
+            },
+            {
+              "q": "Zählen Räder und Griffe bei den Ryanair-Maßen mit?",
+              "a": "Ja, der Prüfrahmen misst das gesamte Gepäckstück inklusive Rollen und Griffen."
+            },
+            {
+              "q": "Darf eine Powerbank bei Ryanair mit an Bord?",
+              "a": "Ja, aber ausschließlich im Handgepäck in der Kabine bis zu einer Kapazität von 100 Wh."
+            }
+          ]
+        },
+        "es": {
+          "slug": "ryanair-dimensiones-equipaje-mano-mochila-asiento",
+          "title": "Medidas Equipaje de Mano Ryanair y Bolsa bajo el Asiento",
+          "summary": "Medidas oficiales Ryanair: bolso gratuito bajo el asiento de 40x20x25 cm y maleta de cabina de 55x40x20 cm (10 kg con Prioridad).",
+          "amazon_search_query": "mochila cabina ryanair 40x20x25 bajo asiento",
+          "buy_box_title": "¿Buscas una mochila homologada Ryanair 40x20x25 cm?",
+          "buy_box_subtitle": "Evita multas de hasta 75 € en la puerta de embarque",
+          "allowed_guidelines": [
+            "Mochilas blandas fácilmente deformables en el medidor",
+            "Líquidos en recipientes individuales de hasta 100 ml",
+            "Bolsa de compras Duty Free permitida además de la bolsa personal"
+          ],
+          "strict_restrictions": [
+            "Maletas rígidas que excedan el grosor serán enviadas a bodega con cargo",
+            "Baterías de litio y power banks prohibidos en equipaje facturado",
+            "Recargo de entre 45 € y 75 € por bulto fuera de medida"
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuáles son las medidas exactas de la mochila gratis en Ryanair?",
+              "a": "Las medidas máximas son 40 x 20 x 25 cm. Debe caber debajo del asiento delantero sin sobresalir."
+            },
+            {
+              "q": "¿Las ruedas cuentan en el tamaño de Ryanair?",
+              "a": "Sí, el medidor incluye ruedas, asas y bolsillos exteriores sin excepción."
+            },
+            {
+              "q": "¿Puedo llevar una power bank en Ryanair?",
+              "a": "Sí, obligatoriamente en el equipaje de mano en cabina hasta un límite de 100 Wh."
+            }
+          ]
+        },
+        "it": {
+          "slug": "ryanair-dimensioni-bagaglio-a-mano-sotto-sedile",
+          "title": "Dimensioni Bagaglio a Mano Ryanair & Borsa Sotto il Sedile",
+          "summary": "Dimensioni ufficiali Ryanair: borsa gratuita sotto il sedile 40x20x25 cm e trolley da cabina 55x40x20 cm 10kg con Priorità.",
+          "amazon_search_query": "zaino ryanair 40x20x25 sotto sedile",
+          "buy_box_title": "Cerchi uno zaino conforme Ryanair 40x20x25 cm?",
+          "buy_box_subtitle": "Evita penali fino a 75 € al gate con borse certificate",
+          "allowed_guidelines": [
+            "Zaini morbidi facilmente comprimibili nel misuratore metallico",
+            "Liquidi max 100 ml ciascuno in busta trasparente da 1 litro",
+            "Busta duty free consentita insieme all'oggetto personale"
+          ],
+          "strict_restrictions": [
+            "Bagagli rigidi oltre i 20 cm di profondità multati al gate",
+            "Power bank al litio rigorosamente vietati nella stiva",
+            "Penale da 45 € a 75 € per bagaglio fuori misura"
+          ],
+          "faqs": [
+            {
+              "q": "Quali sono le misure della borsa gratuita con Ryanair?",
+              "a": "Le misure massime sono 40 x 20 x 25 cm e deve entrare sotto il sedile di fronte a voi."
+            },
+            {
+              "q": "Le ruote sono incluse nelle dimensioni?",
+              "a": "Sì, il misuratore include ruote, maniglie e tasche laterali."
+            },
+            {
+              "q": "Si può portare un power bank sui voli Ryanair?",
+              "a": "Sì, esclusivamente in cabina con potenza fino a 100 Wh."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "ryanair-cabin-baggage-size-japan",
+          "title": "ライアンエアー機内持ち込み手荷物サイズ・座席下寸法ガイド",
+          "summary": "ライアンエアー公式手荷物寸法：無料座席下バッグ40x20x25cm、優先搭乗10kg機内持ち込みスーツケース55x40x20cm。",
+          "amazon_search_query": "ライアンエアー 機内持ち込み バッグ 40x20x25",
+          "buy_box_title": "ライアンエアー対応 40x20x25cm バッグをお探しですか？",
+          "buy_box_subtitle": "空港ゲートでの超過料金（最大75ユーロ）を防ぐ認定バッグ",
+          "allowed_guidelines": [
+            "金属サイザーに収まりやすい柔軟なバックパック推奨",
+            "液体類は100ml以下の容器に入れ、1リットル透明ジッパー袋に収納",
+            "空港免税店（Duty Free）の購入袋は手荷物に加えて持込可能"
+          ],
+          "strict_restrictions": [
+            "25cmの奥行きを超えるハードケースはゲートで高額課金対象",
+            "リチウムイオンバッテリー・モバイルバッテリーの受託手荷物（預け入れ）は厳禁",
+            "サイズ超過時は空港ゲートで45〜75ユーロのペナルティが発生"
+          ],
+          "faqs": [
+            {
+              "q": "ライアンエアーの無料座席下バッグの正確なサイズは？",
+              "a": "最大寸法は 40 x 20 x 25 cm です。前の座席の下に完全に収める必要があります。"
+            },
+            {
+              "q": "キャスターや取っ手は寸法に含まれますか？",
+              "a": "はい、空港の測定ゲージ（サイザー）には車輪やハンドルなど突起物全体が含まれます。"
+            },
+            {
+              "q": "モバイルバッテリーは機内に持ち込めますか？",
+              "a": "はい、機内持ち込み手荷物としてのみ可能です（100Wh以下）。預け入れ荷物には入れられません。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "ryanair-dimensoes-bagagem-cabine-mochila-assento",
+          "title": "Dimensões Bagagem de Mão Ryanair & Mala sob o Assento",
+          "summary": "Dimensões oficiais da Ryanair: mala gratuita sob o assento 40x20x25 cm e mala de cabine de 10kg 55x40x20 cm com Prioridade.",
+          "amazon_search_query": "mochila cabine ryanair 40x20x25 sob assento",
+          "buy_box_title": "Precisa de uma mochila certificada Ryanair 40x20x25 cm?",
+          "buy_box_subtitle": "Evite taxas de até 75 € no portão com mochilas adequadas",
+          "allowed_guidelines": [
+            "Mochilas flexíveis que cabem facilmente no medidor",
+            "Líquidos em frascos de até 100ml em saco transparente de 1L",
+            "Sacola de compras do Duty Free permitida além da bolsa pessoal"
+          ],
+          "strict_restrictions": [
+            "Malas rígidas com mais de 20cm de profundidade serão multadas no portão",
+            "Power banks estritamente proibidos no compartimento de carga (porão)",
+            "Multa de 45 € a 75 € para bagagens que ultrapassem o medidor"
+          ],
+          "faqs": [
+            {
+              "q": "Qual o tamanho máximo da bolsa gratuita na Ryanair?",
+              "a": "As medidas máximas são 40 x 20 x 25 cm. Ela deve caber totalmente sob o assento dianteiro."
+            },
+            {
+              "q": "As rodinhas contam nas dimensões da Ryanair?",
+              "a": "Sim, as medidas de 55x40x20 cm e 40x20x25 cm incluem rodinhas e alças."
+            },
+            {
+              "q": "Posso levar carregador portátil (power bank) no voo?",
+              "a": "Sim, obrigatoriamente na mala de cabine até o limite de 100 Wh."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "ryanair-afmetingen-handbagage-tas-onder-stoel",
+          "title": "Ryanair Handbagage Afmetingen & Kleine Tas Onder de Stoel",
+          "summary": "Officiële Ryanair afmetingen: gratis tas onder de stoel 40x20x25 cm en 10kg cabinekoffer 55x40x20 cm met Priority.",
+          "amazon_search_query": "Ryanair handbagage tas 40x20x25",
+          "buy_box_title": "Zoek je een goedgekeurde Ryanair 40x20x25 cm tas?",
+          "buy_box_subtitle": "Voorkom tot wel € 75 gate-toeslag met een passende tas",
+          "allowed_guidelines": [
+            "Zachte rugzakken die gemakkelijk in het metalen meetrek passen",
+            "Vloeistoffen in flesjes van max. 100 ml in transparant zakje van 1 liter",
+            "Winkeltas van de taxfree zone is toegestaan naast de handbagage"
+          ],
+          "strict_restrictions": [
+            "Harde koffers die dikker zijn dan 25 cm worden beboet bij de gate",
+            "Powerbanks zijn ten strengste verboden in het laadruim",
+            "Gate-kosten van € 45 tot € 75 bij overschrijding van de sizer"
+          ],
+          "faqs": [
+            {
+              "q": "Wat zijn de afmetingen voor de gratis tas bij Ryanair?",
+              "a": "De maximale afmetingen zijn 40 x 20 x 25 cm. Deze tas moet onder de stoel voor je passen."
+            },
+            {
+              "q": "Tellen wieltjes en handvatten mee bij Ryanair?",
+              "a": "Ja, het meetrek op de luchthaven meet inclusief wieltjes en handgrepen."
+            },
+            {
+              "q": "Mag er een powerbank mee op een Ryanair vlucht?",
+              "a": "Ja, maar uitsluitend in de handbagage aan boord (maximaal 100 Wh)."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "lg-oled-c3-c4",
+      "slug": "lg-oled-c3-c4-vesa-mount-power",
+      "subject": "LG OLED C3 & C4 (42 to 83 inch) VESA Mount & Screw Dimensions",
+      "category": "hardware",
+      "spec_rows": [
+        {
+          "item": "LG OLED C3/C4 42-inch VESA & Screws",
+          "metric": "VESA 300 x 200 mm (M6 screws, 12-14 mm depth)",
+          "imperial": "11.8 x 7.8 in (M6 screws, 0.47-0.55 in depth)",
+          "status": "Verified Standard",
+          "note": "Weight without stand: 9.8 kg (21.6 lbs)",
+          "item_translations": {
+            "en": "LG OLED 42\" VESA & Screws",
+            "fr": "LG OLED 42\" Norme VESA & Vis",
+            "de": "LG OLED 42\" VESA-Muster & Schrauben",
+            "es": "LG OLED 42\" Patrón VESA y Tornillos",
+            "it": "LG OLED 42\" VESA e Viti",
+            "ja": "LG OLED 42インチ VESA規格・ネジサイズ",
+            "pt": "LG OLED 42\" Padrão VESA e Parafusos",
+            "nl": "LG OLED 42\" VESA & Schroeven"
+          },
+          "note_translations": {
+            "en": "M6 screw thread diameter",
+            "fr": "Filetage vis standard M6",
+            "de": "M6 Schraubengewinde",
+            "es": "Tornillería estándar métrica M6",
+            "it": "Filettatura viti standard M6",
+            "ja": "標準M6ミリネジ規格",
+            "pt": "Rosca padrão M6",
+            "nl": "Standaard M6 schroefdraad"
+          }
+        },
+        {
+          "item": "LG OLED C3/C4 55 & 65-inch VESA & Screws",
+          "metric": "VESA 300 x 200 mm (M6 screws, 12-16 mm depth)",
+          "imperial": "11.8 x 7.8 in (M6 screws, 0.47-0.63 in depth)",
+          "status": "Verified Standard",
+          "note": "Weight: 55\" = 14.1 kg (31.1 lbs), 65\" = 16.6 kg (36.6 lbs)",
+          "item_translations": {
+            "en": "LG OLED 55\" & 65\" VESA & Screws",
+            "fr": "LG OLED 55\" et 65\" VESA & Vis",
+            "de": "LG OLED 55\" und 65\" VESA-Muster",
+            "es": "LG OLED 55\" y 65\" Patrón VESA",
+            "it": "LG OLED 55\" e 65\" VESA",
+            "ja": "LG OLED 55型・65型 VESA規格",
+            "pt": "LG OLED 55\" e 65\" VESA",
+            "nl": "LG OLED 55\" en 65\" VESA"
+          },
+          "note_translations": {
+            "en": "Notice the lower-back mounting position",
+            "fr": "Attention : fixation située dans le tiers inférieur",
+            "de": "Hinweis: VESA-Bohrungen im unteren Bereich",
+            "es": "Nota: orificios ubicados en la parte inferior",
+            "it": "Attenzione: fori situati nella sezione inferiore",
+            "ja": "注意: 取り付け穴が背面下部に配置されています",
+            "pt": "Nota: furos localizados na parte inferior",
+            "nl": "Let op: VESA-gaten bevinden zich laag op het paneel"
+          }
+        },
+        {
+          "item": "LG OLED C3/C4 77 & 83-inch VESA & Screws",
+          "metric": "VESA 400 x 400 mm (77\"), 400 x 400 mm (83\") (M6 screws)",
+          "imperial": "15.7 x 15.7 in (M6 screws)",
+          "status": "Verified Heavy-Duty",
+          "note": "Weight: 77\" = 23.5 kg (51.8 lbs), 83\" = 32.3 kg (71.2 lbs)",
+          "item_translations": {
+            "en": "LG OLED 77\" & 83\" VESA & Screws",
+            "fr": "LG OLED 77\" et 83\" VESA & Vis",
+            "de": "LG OLED 77\" und 83\" VESA-Muster",
+            "es": "LG OLED 77\" y 83\" VESA",
+            "it": "LG OLED 77\" e 83\" VESA",
+            "ja": "LG OLED 77型・83型 VESA規格",
+            "pt": "LG OLED 77\" e 83\" VESA",
+            "nl": "LG OLED 77\" en 83\" VESA"
+          },
+          "note_translations": {
+            "en": "Requires heavy-duty wall bracket",
+            "fr": "Nécessite un support mural robuste avec chevilles adaptées",
+            "de": "Erfordert Schwerlast-Wandhalterung",
+            "es": "Requiere soporte de pared reforzado",
+            "it": "Richiede staffa a parete per carichi pesanti",
+            "ja": "耐荷重対応の頑丈な壁掛け金具が必要です",
+            "pt": "Requer suporte de parede reforçado",
+            "nl": "Vereist een stevige zware muurbeugel"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "lg-oled-c3-c4-vesa-mount-power",
+          "title": "LG OLED C3 & C4 VESA Mount Dimensions, Screws & Weight Specs",
+          "summary": "Exact VESA patterns: 300x200 mm for 42\", 48\", 55\", 65\" and 400x400 mm for 77\", 83\". Exact screw size: M6 with 12-16 mm thread engagement.",
+          "amazon_search_query": "VESA wall mount LG OLED C3 C4 300x200 M6",
+          "buy_box_title": "Looking for the right wall mount for LG OLED C3/C4?",
+          "buy_box_subtitle": "Low-profile mounts compatible with LG bottom-placed VESA holes",
+          "allowed_guidelines": [
+            "Always use M6 metric machine screws with washers",
+            "Ensure bracket vertical arms don't protrude above or below the ultra-thin screen",
+            "Check wall type (drywall with studs, solid concrete, or brick)"
+          ],
+          "strict_restrictions": [
+            "Do NOT use screws longer than 16 mm without spacers to avoid puncturing the OLED panel",
+            "Never carry the TV by its ultra-thin top corners",
+            "Do NOT use M8 screws; LG OLED C3/C4 utilizes M6 threading exclusively"
+          ],
+          "faqs": [
+            {
+              "q": "What size screws does the LG OLED C3/C4 use for wall mounting?",
+              "a": "All LG OLED C3 and C4 sizes (42, 48, 55, 65, 77, 83) use M6 screws. Thread depth should be between 12 mm and 16 mm including bracket thickness."
+            },
+            {
+              "q": "What is the VESA pattern for the 55-inch and 65-inch LG OLED C3/C4?",
+              "a": "Both the 55\" and 65\" models use a 300 x 200 mm VESA pattern located in the lower third of the rear casing."
+            },
+            {
+              "q": "Are the VESA holes centered on LG OLED TVs?",
+              "a": "No! On the LG OLED C-series, the VESA holes are positioned toward the bottom. Mount your wall plate slightly lower than with standard centered TVs."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "lg-oled-c3-c4-support-mural-vesa-vis-dimensions",
+          "title": "Support Mural LG OLED C3 & C4 : Norme VESA, Taille des Vis M6 et Poids",
+          "summary": "Spécifications exactes : VESA 300x200 mm (42, 48, 55, 65 pouces) et 400x400 mm (77, 83 pouces). Vis métriques M6 avec pénétration 12 à 16 mm.",
+          "amazon_search_query": "support mural tv lg oled c3 c4 300x200 vis m6",
+          "buy_box_title": "Quel support mural choisir pour LG OLED C3 / C4 ?",
+          "buy_box_subtitle": "Supports extra-plats compatibles avec la fixation basse des écrans OLED",
+          "allowed_guidelines": [
+            "Utiliser impérativement des vis métriques M6 avec rondelles",
+            "Vérifier que les bras verticaux ne dépassent pas de la dalle ultra-fine",
+            "Fixation sur montants en bois ou chevilles Molly renforcées sur placo"
+          ],
+          "strict_restrictions": [
+            "Ne JAMAIS enfoncer de vis de plus de 16 mm sous peine de perforer la dalle",
+            "Ne JAMAIS manipuler l'écran par les bords supérieurs très fins",
+            "Ne forcez pas avec des vis M8 : le pas de vis LG OLED est strictement en M6"
+          ],
+          "faqs": [
+            {
+              "q": "Quelle est la taille des vis pour fixer une LG OLED C3 ou C4 ?",
+              "a": "Toutes les diagonales utilisent des vis métriques de diamètre M6 avec une longueur utile de 12 à 16 mm dans le châssis."
+            },
+            {
+              "q": "Quel est l'écartement VESA sur les modèles 55 et 65 pouces ?",
+              "a": "La norme est VESA 300 x 200 mm (300 mm de largeur sur 200 mm de hauteur)."
+            },
+            {
+              "q": "Pourquoi la fixation est-elle plus basse sur les LG OLED ?",
+              "a": "L'électronique et l'alimentation sont concentrées dans le tiers inférieur, rendant les deux tiers supérieurs ultra-fins."
+            }
+          ]
+        },
+        "de": {
+          "slug": "lg-oled-c3-c4-wandhalterung-vesa-schrauben-masse",
+          "title": "LG OLED C3 & C4 Wandhalterung VESA-Muster, M6 Schrauben & Gewicht",
+          "summary": "Exakte VESA-Normen: 300x200 mm (42\" bis 65\") und 400x400 mm (77\" und 83\"). Schrauben M6 mit 12-16 mm Einschraubtiefe.",
+          "amazon_search_query": "Wandhalterung LG OLED C3 C4 VESA 300x200 M6",
+          "buy_box_title": "Passende Wandhalterung für LG OLED C3/C4 gesucht?",
+          "buy_box_subtitle": "Ultraflache Halterungen für die tief sitzende VESA-Position",
+          "allowed_guidelines": [
+            "Nur M6-Maschinenschrauben mit Unterlegscheiben verwenden",
+            "Vertikale Streben vor Montage anhalten, damit sie nicht überstehen",
+            "Geeignete Schwerlastdübel für Mauerwerk oder Trockenbau nutzen"
+          ],
+          "strict_restrictions": [
+            "KEINE Schrauben über 16 mm ohne Abstandshalter eindrehen (Beschädigungsgefahr)",
+            "Das Panel niemals an den hauchdünnen oberen Ecken anheben",
+            "Keine M8-Schrauben verwenden (Gewinde ist M6)"
+          ],
+          "faqs": [
+            {
+              "q": "Welche Schrauben benötigt die LG OLED C3/C4?",
+              "a": "Alle Größen verwenden M6-Schrauben mit 12 bis 16 mm Gewindetiefe."
+            },
+            {
+              "q": "Welches VESA-Maß haben 55 und 65 Zoll?",
+              "a": "Beide Modelle haben VESA 300 x 200 mm im unteren Bereich der Rückseite."
+            },
+            {
+              "q": "Sind die Halterungsbohrungen zentriert?",
+              "a": "Nein, sie befinden sich im unteren Drittel, daher muss die Wandplatte tiefer montiert werden."
+            }
+          ]
+        },
+        "es": {
+          "slug": "lg-oled-c3-c4-soporte-vesa-tornillos-m6-dimensiones",
+          "title": "Soporte VESA LG OLED C3 & C4: Medidas, Tornillos M6 y Peso",
+          "summary": "Estándar VESA: 300x200 mm para 42, 48, 55 y 65 pulgadas; 400x400 mm para 77 y 83 pulgadas. Tornillos métricos M6 (profundidad 12-16 mm).",
+          "amazon_search_query": "soporte pared tv lg oled c3 c4 300x200 m6",
+          "buy_box_title": "¿Buscas soporte de pared para LG OLED C3 o C4?",
+          "buy_box_subtitle": "Soportes ultra delgados compatibles con fijación baja de panel OLED",
+          "allowed_guidelines": [
+            "Usar siempre tornillos métricos M6 con arandelas de seguridad",
+            "Comprobar la posición vertical antes de taladrar la pared",
+            "Usar tacos adecuados al tipo de tabique o pared de ladrillo"
+          ],
+          "strict_restrictions": [
+            "NO usar tornillos de más de 16 mm sin espaciadores para no perforar el panel",
+            "Nunca transportar la tele sujetándola por el borde superior ultra fino",
+            "No forzar tornillos M8; la rosca LG es exclusivamente M6"
+          ],
+          "faqs": [
+            {
+              "q": "¿Qué tornillos necesita la LG OLED C3/C4?",
+              "a": "Todos los modelos usan tornillos M6 con longitud de rosca de 12 a 16 mm."
+            },
+            {
+              "q": "¿Qué medida VESA tiene la de 55 y 65 pulgadas?",
+              "a": "El estándar es VESA 300 x 200 mm."
+            },
+            {
+              "q": "¿Están los agujeros centrados?",
+              "a": "No, se encuentran en el tercio inferior del chasis."
+            }
+          ]
+        },
+        "it": {
+          "slug": "lg-oled-c3-c4-staffa-parete-vesa-viti-m6",
+          "title": "Staffa a Parete LG OLED C3 & C4: Standard VESA, Viti M6 e Peso",
+          "summary": "VESA 300x200 mm (da 42\" a 65\") e 400x400 mm (77\" e 83\"). Viti metriche M6 con profondità filettatura 12-16 mm.",
+          "amazon_search_query": "staffa parete lg oled c3 c4 300x200 m6",
+          "buy_box_title": "Cerchi la staffa adatta per LG OLED C3 o C4?",
+          "buy_box_subtitle": "Staffe slim per pannelli OLED con fori ribassati",
+          "allowed_guidelines": [
+            "Usare solo viti metriche M6 fornite con rondelle",
+            "Posizionare la staffa tenendo conto della posizione ribassata dei fori",
+            "Verificare la tenuta del muro con tasselli idonei"
+          ],
+          "strict_restrictions": [
+            "NON inserire viti superiori a 16 mm per evitare danni irreparabili",
+            "Non afferrare mai lo schermo dai bordi superiori ultra sottili",
+            "Non usare viti M8: il filetto è esclusivamente M6"
+          ],
+          "faqs": [
+            {
+              "q": "Quali viti servono per montare LG OLED C3/C4?",
+              "a": "Servono viti M6 con una profondità di innesto tra 12 e 16 mm."
+            },
+            {
+              "q": "Qual è il passo VESA per 55 e 65 pollici?",
+              "a": "Il passo VESA è 300 x 200 mm."
+            },
+            {
+              "q": "I fori sono centrati sul retro?",
+              "a": "No, sono posizionati nel terzo inferiore."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "lg-oled-c3-c4-vesa-wallmount-japan",
+          "title": "LG 有機ELテレビ C3・C4シリーズ VESA壁掛け寸法・M6ネジ規格",
+          "summary": "VESA規格：42・48・55・65インチは300x200mm、77・83インチは400x400mm。使用ネジ：M6ネジ（深さ12〜16mm）。",
+          "amazon_search_query": "LG 有機EL テレビ 壁掛け金具 VESA 300x200 M6",
+          "buy_box_title": "LG OLED C3/C4に最適な壁掛け金具をお探しですか？",
+          "buy_box_subtitle": "背面下部配置のVESA規格に対応した薄型金具を検索",
+          "allowed_guidelines": [
+            "必ずワッシャー付きのM6規格ネジを使用してください",
+            "金具のアームが薄型パネルの上部からはみ出さないか確認",
+            "間柱（スタッド）や補強壁に確実に固定してください"
+          ],
+          "strict_restrictions": [
+            "スペーサーなしで16mm以上の長いネジを締め込まないでください（パネル損傷の恐れ）",
+            "極薄の画面上部コーナーを持って持ち上げないでください",
+            "M8ネジは適合しません。LG OLEDはM6規格です"
+          ],
+          "faqs": [
+            {
+              "q": "LG OLED C3/C4の壁掛けネジの規格は？",
+              "a": "全サイズ共通でM6ミリネジ（有効ネジ長12〜16mm）を使用します。"
+            },
+            {
+              "q": "55インチと65インチのVESAピッチは？",
+              "a": "VESA 300 x 200 mm（幅300mm、高さ200mm）です。"
+            },
+            {
+              "q": "取り付け穴は中央にありますか？",
+              "a": "いいえ、下部ハウジングに集中しているため、金具の取り付け位置にご注意ください。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "lg-oled-c3-c4-suporte-parede-vesa-parafusos-m6",
+          "title": "Suporte de Parede LG OLED C3 & C4: Padrão VESA, Parafusos M6 e Peso",
+          "summary": "Especificações VESA: 300x200 mm (42\" a 65\") e 400x400 mm (77\" e 83\"). Parafusos M6 com profundidade de 12 a 16 mm.",
+          "amazon_search_query": "suporte tv lg oled c3 c4 vesa 300x200 m6",
+          "buy_box_title": "Buscando suporte de parede para LG OLED C3 ou C4?",
+          "buy_box_subtitle": "Suportes ultra slim compatíveis com furação inferior",
+          "allowed_guidelines": [
+            "Utilize sempre parafusos métricos M6 com arruelas",
+            "Verifique se as hastes verticais não ultrapassam a tela ultra fina",
+            "Fixe em parede de alvenaria ou montantes estruturais"
+          ],
+          "strict_restrictions": [
+            "NÃO utilize parafusos com mais de 16 mm para evitar perfuração do painel",
+            "Nunca manuseie o televisor pelas bordas superiores extremamente finas",
+            "Não force com parafusos M8: o padrão é estritamente M6"
+          ],
+          "faqs": [
+            {
+              "q": "Qual tamanho de parafuso a LG OLED C3/C4 utiliza?",
+              "a": "Todos os modelos utilizam parafusos métricos M6 com profundidade de 12 a 16 mm."
+            },
+            {
+              "q": "Qual a furação VESA de 55 e 65 polegadas?",
+              "a": "O padrão é VESA 300 x 200 mm."
+            },
+            {
+              "q": "Os furos ficam centralizados?",
+              "a": "Não, estão concentrados na parte inferior da traseira."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "lg-oled-c3-c4-muurbeugel-vesa-m6-schroeven",
+          "title": "LG OLED C3 & C4 Muurbeugel: VESA Afmetingen, M6 Schroeven & Gewicht",
+          "summary": "VESA-normen: 300x200 mm (42\" t/m 65\") en 400x400 mm (77\" en 83\"). Schroeven: metrisch M6 met 12-16 mm schroefdraad.",
+          "amazon_search_query": "muurbeugel lg oled c3 c4 vesa 300x200 m6",
+          "buy_box_title": "Muurbeugel nodig voor LG OLED C3 of C4?",
+          "buy_box_subtitle": "Platte tv-beugels afgestemd op de verlaagde VESA-bevestiging",
+          "allowed_guidelines": [
+            "Gebruik uitsluitend M6 machineschroeven met sluitringen",
+            "Controleer of beugelstrips niet onder of boven het scherm uitsteken",
+            "Gebruik geschikte pluggen voor massieve of holle wanden"
+          ],
+          "strict_restrictions": [
+            "Draai GEEN schroeven langer dan 16 mm in om paneelschade te voorkomen",
+            "Draag het scherm nooit aan de dunne bovenhoeken",
+            "Gebruik geen M8 schroeven (alleen M6 schroefdraad)"
+          ],
+          "faqs": [
+            {
+              "q": "Welke schroeven heeft de LG OLED C3/C4 nodig?",
+              "a": "Alle modellen vereisen M6-schroeven met een diepte van 12 tot 16 mm."
+            },
+            {
+              "q": "Wat is het VESA-formaat voor 55 en 65 inch?",
+              "a": "Het VESA-patroon is 300 x 200 mm."
+            },
+            {
+              "q": "Zitten de gaten in het midden?",
+              "a": "Nee, de gaten bevinden zich in het onderste deel van de behuizing."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "tesla-model-y",
+      "slug": "tesla-model-y-wipers-roof-trunk-dimensions",
+      "subject": "Tesla Model Y Wiper Blades, Roof Rack & Cargo Dimensions",
+      "category": "auto",
+      "spec_rows": [
+        {
+          "item": "Front Windshield Wiper Blades (Driver + Passenger)",
+          "metric": "650 mm (Driver) + 475 mm (Passenger) [Pinch Tab 19mm]",
+          "imperial": "26 inches (Driver) + 19 inches (Passenger)",
+          "status": "Exact Match",
+          "note": "Pinch tab push button connector (slim top lock)",
+          "item_translations": {
+            "en": "Front Wiper Blades (Driver + Passenger)",
+            "fr": "Balais d'essuie-glace avant (Conducteur + Passager)",
+            "de": "Scheibenwischer vorne (Fahrer + Beifahrer)",
+            "es": "Limpiaparabrisas delanteros (Conductor + Pasajero)",
+            "it": "Spazzole tergicristallo anteriori (Guidatore + Passeggero)",
+            "ja": "フロントワイパーブレード（運転席＋助手席）",
+            "pt": "Palhetas do limpador dianteiro (Motorista + Passageiro)",
+            "nl": "Ruitenwissers voorzijde (Bestuurder + Passagier)"
+          },
+          "note_translations": {
+            "en": "Pinch tab connector type",
+            "fr": "Fixation type bouton poussoir / Pinch Tab",
+            "de": "Pinch-Tab Drucktasten-Befestigung",
+            "es": "Conector tipo botón / Pinch Tab",
+            "it": "Attacco a pulsante / Pinch Tab",
+            "ja": "ピンチタブ式コネクター",
+            "pt": "Conector tipo botão de pressão",
+            "nl": "Pinch tab drukknop aansluiting"
+          }
+        },
+        {
+          "item": "Glass Roof Rack Max Dynamic Load",
+          "metric": "Max 68 kg (150 lbs) dynamic load rating",
+          "imperial": "150 lbs max dynamic load rating",
+          "status": "OEM Glass Hook Fit",
+          "note": "Attaches to hidden mounting arrow indicators under glass edge",
+          "item_translations": {
+            "en": "Roof Rack Load Capacity",
+            "fr": "Barres de toit & Charge maximale",
+            "de": "Dachträger Traglast",
+            "es": "Barras de techo y Carga máxima",
+            "it": "Barre portatutto e Carico massimo",
+            "ja": "ルーフラック最大積載量",
+            "pt": "Barras de teto e Capacidade de carga",
+            "nl": "Dakdragers maximale belasting"
+          },
+          "note_translations": {
+            "en": "Use torque wrench to max 2.5-3.5 Nm",
+            "fr": "Serrer au couple préconisé max 2.5 à 3.5 Nm",
+            "de": "Drehmoment streng beachten (max 2.5-3.5 Nm)",
+            "es": "Apretar con par recomendado (max 2.5-3.5 Nm)",
+            "it": "Coppia di serraggio raccomandata max 2.5-3.5 Nm",
+            "ja": "規定トルク（2.5〜3.5Nm）を遵守してください",
+            "pt": "Aperte no torque recomendado (máx 2.5-3.5 Nm)",
+            "nl": "Draaimoment strikt respecteren (max 2.5-3.5 Nm)"
+          }
+        },
+        {
+          "item": "Rear Trunk & Sub-Trunk Liner Cargo Dimensions",
+          "metric": "Trunk Floor: 108 cm wide x 105 cm deep (854 L volume)",
+          "imperial": "Trunk Floor: 42.5 in wide x 41.3 in deep (30.2 cu ft)",
+          "status": "Custom Fit 3D",
+          "note": "Deep sub-trunk well: 63 x 40 x 30 cm (24.8 x 15.7 x 11.8 in)",
+          "item_translations": {
+            "en": "Trunk & Sub-trunk Cargo Liner",
+            "fr": "Tapis de coffre & Sous-coffre 3D",
+            "de": "Kofferraum- & Unterboden-Wanne 3D",
+            "es": "Protector de maletero y Doble fondo",
+            "it": "Vasca baule e Sotto-baule 3D",
+            "ja": "ラゲッジマット＆サブトランク 3D防水トレイ",
+            "pt": "Tapete de porta-malas e Sub-porta-malas 3D",
+            "nl": "Kofferbakmat & Onderbak beschermer"
+          },
+          "note_translations": {
+            "en": "All-weather waterproof TPE/rubber recommended",
+            "fr": "Matériau TPE étanche tout temps thermoformé",
+            "de": "Allwetter-TPE wasserdicht geformt",
+            "es": "Material TPE impermeable moldeado a medida",
+            "it": "Materiale TPE impermeabile sagomato su misura",
+            "ja": "防水TPE素材の立体成型トレイが最適",
+            "pt": "Material TPE impermeável moldado sob medida",
+            "nl": "Waterdicht TPE vormgegoten materiaal"
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "tesla-model-y-wipers-roof-trunk-dimensions",
+          "title": "Tesla Model Y Wiper Sizes, Roof Rack & Trunk Cargo Dimensions",
+          "summary": "Exact fit specs: Wipers 650 mm (26\") + 475 mm (19\") pinch tab, Roof rack rating 68 kg (150 lbs), Trunk liner 108 x 105 cm (42.5 x 41.3\").",
+          "amazon_search_query": "Tesla Model Y wiper blades 26 19 pinch tab",
+          "buy_box_title": "Looking for Tesla Model Y wipers or accessories?",
+          "buy_box_subtitle": "Exact match accessories with verified dimensions on Amazon",
+          "allowed_guidelines": [
+            "Wipers with slim top-lock pinch tab connector",
+            "TPE all-weather odorless rubber trunk floor liners",
+            "Roof racks designed specifically for glass roof hook anchors"
+          ],
+          "strict_restrictions": [
+            "Do NOT use standard J-hook wiper blades without adapters",
+            "Never exceed 68 kg (150 lbs) dynamic roof load on the glass canopy",
+            "Do NOT overtighten roof rack nuts over 3.5 Nm (risk of cracking glass)"
+          ],
+          "faqs": [
+            {
+              "q": "What wiper blade sizes does the Tesla Model Y take?",
+              "a": "The driver side requires 650 mm (26 inches) and passenger side requires 475 mm (19 inches) with a pinch tab button mount."
+            },
+            {
+              "q": "What is the weight limit for a Tesla Model Y roof rack?",
+              "a": "The maximum dynamic load capacity is 68 kg (150 lbs) distributed across both crossbars."
+            },
+            {
+              "q": "Can standard rubber mats fit the Model Y trunk?",
+              "a": "Custom-molded 3D TPE mats are strongly recommended because the trunk has side storage pockets and a deep sub-trunk well."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "tesla-model-y-essuie-glaces-barres-toit-tapis-coffre",
+          "title": "Dimensions Essuie-Glaces Tesla Model Y, Barres de Toit & Coffre",
+          "summary": "Spécifications exactes : Essuie-glaces 650 mm (26 pouces) + 475 mm (19 pouces), charge barres de toit 68 kg, coffre 108 x 105 cm.",
+          "amazon_search_query": "balais essuie glace tesla model y 650 475",
+          "buy_box_title": "Équipements certifiés pour votre Tesla Model Y ?",
+          "buy_box_subtitle": "Essuie-glaces, tapis 3D et barres de toit aux dimensions constructeur",
+          "allowed_guidelines": [
+            "Essuie-glaces à fixation Push Button / Pinch Tab 19 mm",
+            "Tapis de coffre en élastomère TPE thermoformé sans odeur",
+            "Barres de toit avec pattes d'ancrage sous le vitrage"
+          ],
+          "strict_restrictions": [
+            "Les adaptateurs classiques en crochet 'U' ou J-Hook sont incompatibles",
+            "Ne jamais dépasser 68 kg de charge dynamique sur le toit en verre",
+            "Ne pas serrer les barres de toit au-delà de 3,5 Nm (risque de bris de glace)"
+          ],
+          "faqs": [
+            {
+              "q": "Quelle est la taille des essuie-glaces de la Tesla Model Y ?",
+              "a": "Le côté conducteur mesure 650 mm (26\") et le côté passager 475 mm (19\") avec fixation pinch tab."
+            },
+            {
+              "q": "Quel est le poids maximal autorisé sur les barres de toit ?",
+              "a": "La charge dynamique maximale est de 68 kg (150 lbs) pour l'ensemble des deux barres."
+            },
+            {
+              "q": "Quel tapis choisir pour le coffre ?",
+              "a": "Un tapis 3D en TPE thermoformé avec rebords hauts est idéal pour protéger le tapis d'origine et le bac inférieur."
+            }
+          ]
+        },
+        "de": {
+          "slug": "tesla-model-y-scheibenwischer-dachtraeger-kofferraum-masse",
+          "title": "Tesla Model Y Scheibenwischer Maße, Dachträger & Kofferraum-Wanne",
+          "summary": "Exakte Abmessungen: Wischer 650 mm (26 Zoll) + 475 mm (19 Zoll), Dachträger-Traglast 68 kg, Kofferraumboden 108 x 105 cm.",
+          "amazon_search_query": "Tesla Model Y Scheibenwischer 650 475",
+          "buy_box_title": "Zubehör für Ihr Tesla Model Y gesucht?",
+          "buy_box_subtitle": "Wischerblätter und passgenaue Kofferraumwannen auf Amazon",
+          "allowed_guidelines": [
+            "Wischerblätter mit Pinch-Tab Anschluss",
+            "Passgenaue geruchsneutrale 3D-Gummimatten (TPE)",
+            "Dachträger speziell für die integrierten Glasdach-Halterungen"
+          ],
+          "strict_restrictions": [
+            "Herkömmliche Hakenbefestigungen (J-Hook) passen nicht",
+            "Niemals mehr als 68 kg dynamische Dachlast transportieren",
+            "Drehmoment beim Dachträger auf maximal 3,5 Nm begrenzen"
+          ],
+          "faqs": [
+            {
+              "q": "Welche Wischerblattgröße benötigt das Tesla Model Y?",
+              "a": "Fahrerseite: 650 mm (26 Zoll), Beifahrerseite: 475 mm (19 Zoll) mit Pinch-Tab-Clip."
+            },
+            {
+              "q": "Wie viel Gewicht darf auf das Glasdach geladen werden?",
+              "a": "Die maximale dynamische Dachlast beträgt 68 kg."
+            },
+            {
+              "q": "Welche Kofferraummatte ist empfehlenswert?",
+              "a": "Eine hochwandige TPE-Schalenmatte schützt den Teppichboden und das Unterbodenfach optimal."
+            }
+          ]
+        },
+        "es": {
+          "slug": "tesla-model-y-limpiaparabrisas-barras-techo-maletero",
+          "title": "Medidas Limpiaparabrisas Tesla Model Y, Barras de Techo y Maletero",
+          "summary": "Medidas exactas: limpiaparabrisas 650 mm (26\") + 475 mm (19\"), carga en techo 68 kg, suelo maletero 108 x 105 cm.",
+          "amazon_search_query": "limpiaparabrisas tesla model y 650 475",
+          "buy_box_title": "¿Accesorios con medidas exactas para Tesla Model Y?",
+          "buy_box_subtitle": "Escobillas, alfombrillas 3D y barras verificadas",
+          "allowed_guidelines": [
+            "Escobillas con adaptador pinch tab de botón fino",
+            "Protectores de maletero de TPE impermeable sin olores",
+            "Barras portaequipajes homologadas para techo panorámico"
+          ],
+          "strict_restrictions": [
+            "No utilizar limpiaparabrisas tradicionales con enganche en U",
+            "No sobrepasar 68 kg de carga sobre el cristal panorámico",
+            "No apretar los tornillos del techo a más de 3.5 Nm"
+          ],
+          "faqs": [
+            {
+              "q": "¿Qué medida de limpiaparabrisas lleva el Model Y?",
+              "a": "650 mm en el lado del conductor y 475 mm en el acompañante."
+            },
+            {
+              "q": "¿Cuál es la carga máxima de las barras de techo?",
+              "a": "La capacidad de carga dinámica es de 68 kg."
+            },
+            {
+              "q": "¿Qué alfombrilla es mejor para el maletero?",
+              "a": "Las alfombrillas de goma TPE con reborde 3D evitan derrames en el doble fondo."
+            }
+          ]
+        },
+        "it": {
+          "slug": "tesla-model-y-tergicristalli-barre-tetto-bagagliaio",
+          "title": "Misure Tergicristalli Tesla Model Y, Barre Portatutto e Bagagliaio",
+          "summary": "Misure certificate: tergicristalli 650 mm (26\") + 475 mm (19\"), barre tetto carico 68 kg, bagagliaio 108 x 105 cm.",
+          "amazon_search_query": "spazzole tergicristallo tesla model y 650 475",
+          "buy_box_title": "Accessori su misura per la tua Tesla Model Y?",
+          "buy_box_subtitle": "Spazzole originali, vasche baule e barre da tetto su Amazon",
+          "allowed_guidelines": [
+            "Spazzole con attacco a pulsante Pinch Tab",
+            "Vasche per bagagliaio in TPE impermeabile e inodore",
+            "Barre da tetto con ancoraggio specifico sotto vetro"
+          ],
+          "strict_restrictions": [
+            "I ganci classici a U o J-hook non sono compatibili",
+            "Non superare il limite di carico dinamico di 68 kg",
+            "Coppia di serraggio barre tetto non superiore a 3,5 Nm"
+          ],
+          "faqs": [
+            {
+              "q": "Quali dimensioni hanno i tergicristalli della Model Y?",
+              "a": "Lato guida 650 mm, lato passeggero 475 mm con connettore pinch tab."
+            },
+            {
+              "q": "Quanto peso reggono le barre portatutto?",
+              "a": "La portata dinamica massima è di 68 kg."
+            },
+            {
+              "q": "Quale vasca baule è consigliata?",
+              "a": "Una vasca in gomma TPE 3D con bordi rialzati protegge sia il piano che il sotto-vano."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "tesla-model-y-wipers-roof-trunk-japan",
+          "title": "テスラ モデルY ワイパーサイズ・ルーフキャリア・トランク寸法",
+          "summary": "適合スペック：ワイパー 650mm (26インチ)＋475mm (19インチ)、ルーフ最大荷重 68kg、ラゲッジ床面 108x105cm。",
+          "amazon_search_query": "テスラ モデルY ワイパーブレード 650 475",
+          "buy_box_title": "テスラ モデルY適合パーツをお探しですか？",
+          "buy_box_subtitle": "正確な寸法に準拠したワイパーやラゲッジマットをAmazonで確認",
+          "allowed_guidelines": [
+            "ピンチタブ（トップロック）式コネクターのエアロワイパー",
+            "無臭で防水性の高い3D立体成型TPEラゲッジマット",
+            "ガラスルーフ専用設計のフック式ルーフキャリア"
+          ],
+          "strict_restrictions": [
+            "標準的なU字フック型ワイパーはアダプターなしでは装着不可",
+            "ガラスルーフの動的積載荷重68kgを決して超えないこと",
+            "ルーフボルトを3.5Nm以上で締めすぎないこと（ガラス破損の危険）"
+          ],
+          "faqs": [
+            {
+              "q": "モデルYのワイパーサイズは何ミリですか？",
+              "a": "運転席側が650mm（26インチ）、助手席側が475mm（19インチ）です。"
+            },
+            {
+              "q": "ルーフキャリアの最大積載重量は？",
+              "a": "2本のバー全体で最大68kg（150ポンド）です。"
+            },
+            {
+              "q": "トランクマットは汎用サイズでも合いますか？",
+              "a": "サブトランク（深底スペース）や両サイドの凹みがあるため、専用成型マットを推奨します。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "tesla-model-y-palhetas-limpador-barras-teto-porta-malas",
+          "title": "Medidas Palhetas Limpador Tesla Model Y, Racks de Teto e Porta-Malas",
+          "summary": "Especificações exatas: limpadores 650 mm (26\") + 475 mm (19\"), carga no teto 68 kg, piso do porta-malas 108 x 105 cm.",
+          "amazon_search_query": "palheta limpador tesla model y 650 475",
+          "buy_box_title": "Procurando equipamentos sob medida para o Tesla Model Y?",
+          "buy_box_subtitle": "Palhetas, tapetes 3D e barras de teto com encaixe perfeito",
+          "allowed_guidelines": [
+            "Palhetas com encaixe tipo pinch tab push-button",
+            "Tapetes de porta-malas em TPE termomoldado sem cheiro",
+            "Barras de teto projetadas para ganchos sob o vidro"
+          ],
+          "strict_restrictions": [
+            "Não use palhetas tipo gancho J tradicionais sem adaptadores",
+            "Nunca exceda 68 kg de carga dinâmica no teto de vidro",
+            "Não aperte parafusos além de 3,5 Nm"
+          ],
+          "faqs": [
+            {
+              "q": "Qual o tamanho dos limpadores do Tesla Model Y?",
+              "a": "650 mm (26 pol) no lado do condutor e 475 mm (19 pol) no passageiro."
+            },
+            {
+              "q": "Qual a capacidade de peso nas barras de teto?",
+              "a": "A capacidade máxima dinâmica é de 68 kg."
+            },
+            {
+              "q": "Qual o melhor tapete para o porta-malas?",
+              "a": "Tapetes bandejas 3D em TPE impermeável protegem o porta-malas e o sub-porta-malas."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "tesla-model-y-ruitenwissers-dakdragers-kofferbak",
+          "title": "Tesla Model Y Ruitenwissers Maten, Dakdragers & Kofferbak Afmetingen",
+          "summary": "Exacte maten: ruitenwissers 650 mm (26\") + 475 mm (19\"), dakbelasting 68 kg, kofferbakbodem 108 x 105 cm.",
+          "amazon_search_query": "Tesla Model Y ruitenwissers 650 475",
+          "buy_box_title": "Accessoires op maat voor uw Tesla Model Y?",
+          "buy_box_subtitle": "Ruitenwissers en 3D kofferbakmatten met perfecte pasvorm",
+          "allowed_guidelines": [
+            "Wissers met pinch tab drukknop-aansluiting",
+            "Waterdichte geurloze 3D kofferbakbakken van TPE-rubber",
+            "Dakdragers speciaal ontworpen voor glazen dakhaken"
+          ],
+          "strict_restrictions": [
+            "Standaard J-haak wissers zijn niet compatibel",
+            "Overschrijd nooit de maximale dynamische daklast van 68 kg",
+            "Draai dakdragerbouten niet vaster dan 3,5 Nm"
+          ],
+          "faqs": [
+            {
+              "q": "Welke maat ruitenwissers heeft de Tesla Model Y?",
+              "a": "Bestuurderszijde: 650 mm (26\"), passagierszijde: 475 mm (19\") met pinch-tab aansluiting."
+            },
+            {
+              "q": "Hoeveel gewicht mag er op de dakdragers?",
+              "a": "De maximale dynamische dakbelasting is 68 kg."
+            },
+            {
+              "q": "Welke kofferbakmat is het beste?",
+              "a": "Een vormgegoten 3D mat van TPE beschermt het tapijt en de diepe onderbak."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

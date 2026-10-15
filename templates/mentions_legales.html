@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+
+{% block title %}Mentions Légales, Affiliation & Confidentialité{% endblock %}
+{% block description %}Informations légales relatives au portail Global Compatibility Matrix, affiliation Amazon Partenaires, conformité RGPD, CCPA et APPI.{% endblock %}
+
+{% block content %}
+<style>
+    .legal-content {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: 1rem;
+        padding: 2.5rem;
+        max-width: 900px;
+        margin: 0 auto;
+    }
+    .legal-content h1 { font-size: 2rem; margin-bottom: 1.5rem; color: #fff; }
+    .legal-content h2 { font-size: 1.35rem; margin: 2rem 0 0.75rem; color: var(--primary); }
+    .legal-content p, .legal-content li { font-size: 0.95rem; color: #cbd5e1; line-height: 1.7; margin-bottom: 0.75rem; }
+    .legal-content ul { padding-left: 1.5rem; margin-bottom: 1.5rem; }
+    .legal-badge {
+        display: inline-block;
+        background: rgba(16, 185, 129, 0.15);
+        color: #10b981;
+        border: 1px solid rgba(16, 185, 129, 0.3);
+        padding: 0.3rem 0.8rem;
+        border-radius: 0.35rem;
+        font-weight: 700;
+        margin-bottom: 1.5rem;
+    }
+</style>
+
+<div class="legal-content">
+    <span class="legal-badge">✓ Conforme Réglementation Micro-Entreprise BNC, RGPD & Amazon Associates</span>
+    <h1>Mentions Légales & Déclaration d'Affiliation</h1>
+
+    <h2>1. Éditeur du Site & Statut Juridique</h2>
+    <p>
+        Le site <strong>Global Compatibility Matrix Agent</strong> est édité par un travailleur indépendant sous le statut de la <strong>Micro-Entreprise</strong> (Régime fiscal des Bénéfices Non Commerciaux - BNC / Prestations de Services).
+    </p>
+    <ul>
+        <li><strong>Activité :</strong> Édition de bases de données techniques, guides comparatifs de compatibilité et référencement numérique.</li>
+        <li><strong>Régime fiscal :</strong> Micro-BNC (Déclaration URSSAF Prestations de Services BNC & Déclaration d'Impôt sur le Revenu n° 2042-C-PRO case 5HQ ou 5TE).</li>
+        <li><strong>Hébergement :</strong> GitHub Inc. / GitHub Pages, 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA. Plateforme statique CDN haute disponibilité distribuée à l'échelle mondiale.</li>
+    </ul>
+
+    <h2>2. Affiliation Amazon Partenaires (Programme Multi-Boutiques / OneLink)</h2>
+    <p>
+        Ce site participe au Programme Partenaires d’Amazon EU, un programme d’affiliation conçu pour permettre à des sites de percevoir une rémunération grâce à la création de liens vers les sites officiels Amazon (.fr, .com, .de, .es, .it, .co.uk, .ca, .co.jp, .com.br, .nl, .com.au).
+    </p>
+    <p>
+        <strong>Déclaration officielle obligatoire :</strong><br>
+        <em>« En tant que Partenaire Amazon, nous réalisons un bénéfice sur les achats remplissant les conditions requises. »</em><br>
+        <em>« As an Amazon Associate, we earn from qualifying purchases. »</em><br>
+        <em>« Als Amazon-Partner verdienen wir an qualifizierten Verkäufen. »</em><br>
+        <em>« Como afiliado de Amazon, percibo ingresos por las compras adscritas que cumplen los requisitos aplicables. »</em>
+    </p>
+    <p>
+        L'utilisateur est expressément informé que les prix affichés sur les plateformes marchandes Amazon sont identiques, que l'accès s'effectue via un lien d'affiliation ou par navigation directe. Aucune surtaxe n'est appliquée à l'acheteur.
+    </p>
+
+    <h2>3. Respect de la Vie Privée : Zéro Cookie Tiers (RGPD, CCPA & APPI)</h2>
+    <p>
+        Ce site a été conçu avec une politique stricte de confidentialité dès la conception (Privacy by Design) :
+    </p>
+    <ul>
+        <li><strong>Zéro Cookie Tiers :</strong> Aucun cookie de traçage publicitaire, pixel espion ou traceur comportemental n'est déposé sur votre terminal.</li>
+        <li><strong>Zéro Collecte de Données Personnelles :</strong> Le site ne recueille aucun nom, e-mail, adresse IP persistante ni profil d'utilisateur.</li>
+        <li><strong>Conformité :</strong> En l'absence totale de traceurs nécessitant un consentement, aucun bandeau intrusif n'est requis conformément aux directives de la CNIL (France), du RGPD (Union Européenne), du CCPA (Californie) et de l'APPI (Japon).</li>
+        <li><strong>Adaptation Locale Éphémère :</strong> L'adaptation du bouton vers les magasins locaux (ex: UK, Canada, Australie) s'exécute de façon éphémère et strictement locale dans la mémoire volatile de votre navigateur à l'aide de l'API standard JavaScript <code>Intl.DateTimeFormat().resolvedOptions().timeZone</code>, sans transmission réseau vers un tiers.</li>
+    </ul>
+
+    <h2>4. Propriété Intellectuelle & Exactitude des Données</h2>
+    <p>
+        Les dimensions, gabarits et spécifications techniques (normes VESA, dimensions bagages compagnies aériennes, dimensions d'essuie-glaces et barres de toit) sont collectés et compilés à titre informatif et synthétique. Bien que vérifiées régulièrement, les usagers sont invités à vérifier toute évolution des règlements propres à chaque transporteur ou constructeur avant leur achat ou embarquement.
+    </p>
+</div>
+{% endblock %}

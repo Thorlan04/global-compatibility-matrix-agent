@@ -1,0 +1,22 @@
+# Robots.txt for Global Compatibility Matrix
+User-agent: *
+Allow: /
+
+# Directives pour les Agents IA et LLM Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://alexandretouret.github.io/global-compatibility-matrix-agent/sitemap.xml
+llms-txt: https://alexandretouret.github.io/global-compatibility-matrix-agent/llms.txt
