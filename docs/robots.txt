@@ -18,5 +18,5 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://alexandretouret.github.io/global-compatibility-matrix-agent/sitemap.xml
-llms-txt: https://alexandretouret.github.io/global-compatibility-matrix-agent/llms.txt
+Sitemap: https://Thorlan04.github.io/global-compatibility-matrix-agent/sitemap.xml
+llms-txt: https://Thorlan04.github.io/global-compatibility-matrix-agent/llms.txt

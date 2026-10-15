@@ -31,7 +31,7 @@ def get_site_url() -> str:
     """Récupère l'URL publique configurée du site."""
     return os.environ.get(
         "SITE_URL",
-        "https://alexandretouret.github.io/global-compatibility-matrix-agent",
+        "https://Thorlan04.github.io/global-compatibility-matrix-agent",
     ).rstrip("/")
 
 
@@ -164,7 +164,7 @@ def update_github_readme(all_matrices: List[Dict[str, Any]]) -> None:
 > **Base de Données Mondiale Multilingue de Compatibilités & Dimensions Exactes**
 > Déployée gratuitement sur GitHub Pages, indexée pour les Agents IA mondiaux (ChatGPT, Perplexity, Claude, Copilot, Gemini) et monétisée via un routeur Amazon Partenaires multi-boutiques.
 
-[![Autopilot 6H](https://github.com/alexandretouret/global-compatibility-matrix-agent/actions/workflows/autopilot.yml/badge.svg)](https://github.com/alexandretouret/global-compatibility-matrix-agent/actions/workflows/autopilot.yml)
+[![Autopilot 6H](https://github.com/Thorlan04/global-compatibility-matrix-agent/actions/workflows/autopilot.yml/badge.svg)](https://github.com/Thorlan04/global-compatibility-matrix-agent/actions/workflows/autopilot.yml)
 [![Zero Cookies](https://img.shields.io/badge/Privacy-Zero_Cookies_RGPD_CCPA-10b981.svg)]({site_url}/en/legal.html)
 [![AI Standards](https://img.shields.io/badge/GEO-llms.txt_Compliant-38bdf8.svg)]({site_url}/llms.txt)
 [![Catalog Items](https://img.shields.io/badge/Matrices-{nb_total}_Universal_Specs-f59e0b.svg)]({site_url}/)
@@ -251,7 +251,7 @@ def broadcast_indexnow(urls: List[str], state: Dict[str, Any]) -> None:
     try:
         host = urllib.parse.urlparse(site_url).netloc
     except Exception:
-        host = "alexandretouret.github.io"
+        host = "Thorlan04.github.io"
 
     key = state.get("indexnow_key", "9c1a5b82e4f04d7aa38d21b7f035ef19")
     key_location = f"{site_url}/{key}.txt"

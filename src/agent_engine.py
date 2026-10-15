@@ -194,7 +194,7 @@ CATEGORY_NAMES = {
 def get_site_url() -> str:
     return os.environ.get(
         "SITE_URL",
-        "https://alexandretouret.github.io/global-compatibility-matrix-agent",
+        "https://Thorlan04.github.io/global-compatibility-matrix-agent",
     ).rstrip("/")
 
 
