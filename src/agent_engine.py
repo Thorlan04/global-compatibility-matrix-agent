@@ -42,6 +42,16 @@ STATE_FILE = DATA_DIR / "global_matrix_state.json"
 TEMPLATES_DIR = PROJECT_ROOT / "templates"
 DOCS_DIR = PROJECT_ROOT / "docs"
 
+# Chargement automatique des variables .env si présent
+env_file = PROJECT_ROOT / ".env"
+if env_file.exists():
+    with open(env_file, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                k, v = line.split("=", 1)
+                os.environ.setdefault(k.strip(), v.strip())
+
 SUPPORTED_LANGUAGES: Dict[str, Dict[str, str]] = {
     "en": {
         "name": "English",
