@@ -1,15 +1,17 @@
 {
-  "last_updated": "2026-10-16T16:00:12.744301+00:00",
+  "last_updated": "2026-10-16T19:29:09.902374+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "lg-oled-c3-c4-vesa-mount-power",
-    "delta-air-lines-compatibility-matrix",
-    "easyjet",
-    "tesla-model-y-wipers-roof-trunk-dimensions",
     "delta",
-    "easyjet-baggage-powerbank-guide",
-    "ryanair-cabin-baggage-dimensions"
+    "delta-air-lines-compatibility-matrix",
+    "united",
+    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "united-airlines-baggage-lithium-battery-rules",
+    "ryanair-cabin-baggage-dimensions",
+    "easyjet",
+    "lg-oled-c3-c4-vesa-mount-power",
+    "easyjet-baggage-powerbank-guide"
   ],
   "topics_backlog": [
     {
@@ -2183,6 +2185,550 @@
             {
               "q": "Wat zijn de regels voor batterijen op Delta-vluchten?",
               "a": "Reserve lithium-ionbatterijen (tot 160 Wh) mogen alleen in de handbagage worden meegenomen en moeten beschermd zijn tegen kortsluiting. Batterijen van meer dan 160 Wh zijn sterk beperkt of verboden. Apparaten met batterijen kunnen in de handbagage of ruimbagage, maar als ze in de ruimbagage zitten, moeten ze volledig zijn uitgeschakeld en beschermd zijn tegen onbedoelde activering."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "united",
+      "slug": "united-airlines-baggage-lithium-battery-rules",
+      "subject": "United Airlines",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Personal Item Dimensions",
+          "metric": "43 x 25 x 22 cm",
+          "imperial": "17 x 10 x 9 in",
+          "status": "Verified",
+          "note": "Must fit under the seat in front of you. No specific weight limit.",
+          "item_translations": {
+            "en": "Personal Item Dimensions",
+            "de": "Maße des persönlichen Gegenstands",
+            "fr": "Dimensions de l'article personnel",
+            "es": "Dimensiones del artículo personal",
+            "it": "Dimensioni dell'articolo personale",
+            "ja": "身の回り品の寸法",
+            "pt": "Dimensões do Item Pessoal",
+            "nl": "Afmetingen van het persoonlijke item"
+          },
+          "note_translations": {
+            "en": "Must fit under the seat in front of you. No specific weight limit.",
+            "de": "Muss unter den Vordersitz passen. Keine spezifische Gewichtsbeschränkung.",
+            "fr": "Doit tenir sous le siège devant vous. Aucune limite de poids spécifique.",
+            "es": "Debe caber debajo del asiento delantero. Sin límite de peso específico.",
+            "it": "Deve stare sotto il sedile di fronte a te. Nessun limite di peso specifico.",
+            "ja": "前の座席の下に収まる必要があります。特定の重量制限はありません。",
+            "pt": "Deve caber debaixo do assento à sua frente. Sem limite de peso específico.",
+            "nl": "Moet onder de stoel voor u passen. Geen specifiek gewichtslimiet."
+          }
+        },
+        {
+          "item": "Standard Carry-on Bag Dimensions",
+          "metric": "56 x 35 x 22 cm",
+          "imperial": "22 x 14 x 9 in",
+          "status": "Verified",
+          "note": "Must fit in the overhead bin or under the seat. No specific weight limit for most flights.",
+          "item_translations": {
+            "en": "Standard Carry-on Bag Dimensions",
+            "de": "Maße des Standard-Handgepäcks",
+            "fr": "Dimensions du bagage à main standard",
+            "es": "Dimensiones del equipaje de mano estándar",
+            "it": "Dimensioni del bagaglio a mano standard",
+            "ja": "標準的な機内持ち込み手荷物の寸法",
+            "pt": "Dimensões da Bagagem de Mão Padrão",
+            "nl": "Afmetingen van de standaard handbagage"
+          },
+          "note_translations": {
+            "en": "Must fit in the overhead bin or under the seat. No specific weight limit for most flights.",
+            "de": "Muss in das Gepäckfach über dem Sitz oder unter den Sitz passen. Keine spezifische Gewichtsbeschränkung für die meisten Flüge.",
+            "fr": "Doit tenir dans le compartiment supérieur ou sous le siège. Aucune limite de poids spécifique pour la plupart des vols.",
+            "es": "Debe caber en el compartimento superior o debajo del asiento. Sin límite de peso específico para la mayoría de los vuelos.",
+            "it": "Deve stare nella cappelliera o sotto il sedile. Nessun limite di peso specifico per la maggior parte dei voli.",
+            "ja": "頭上の収納棚または座席の下に収まる必要があります。ほとんどのフライトで特定の重量制限はありません。",
+            "pt": "Deve caber no compartimento superior ou debaixo do assento. Sem limite de peso específico para a maioria dos voos.",
+            "nl": "Moet in het bagagevak boven of onder de stoel passen. Geen specifiek gewichtslimiet voor de meeste vluchten."
+          }
+        },
+        {
+          "item": "Basic Economy Carry-on Allowance",
+          "metric": "N/A",
+          "imperial": "N/A",
+          "status": "Restriction",
+          "note": "Only one personal item is allowed. A standard carry-on bag is not permitted unless you are a MileagePlus Premier member, a primary cardmember of a qualifying United credit card, or a Star Alliance Gold member.",
+          "item_translations": {
+            "en": "Basic Economy Carry-on Allowance",
+            "de": "Handgepäckbestimmungen für Basic Economy",
+            "fr": "Franchise de bagage à main Basic Economy",
+            "es": "Franquicia de equipaje de mano Basic Economy",
+            "it": "Franchigia bagaglio a mano Basic Economy",
+            "ja": "ベーシックエコノミーの機内持ち込み手荷物許容量",
+            "pt": "Franquia de Bagagem de Mão Basic Economy",
+            "nl": "Handbagage Toegestaan bij Basic Economy"
+          },
+          "note_translations": {
+            "en": "Only one personal item is allowed. A standard carry-on bag is not permitted unless you are a MileagePlus Premier member, a primary cardmember of a qualifying United credit card, or a Star Alliance Gold member.",
+            "de": "Nur ein persönlicher Gegenstand ist erlaubt. Ein Standard-Handgepäckstück ist nicht gestattet, es sei denn, Sie sind MileagePlus Premier-Mitglied, Hauptkarteninhaber einer qualifizierenden United-Kreditkarte oder Star Alliance Gold-Mitglied.",
+            "fr": "Seul un article personnel est autorisé. Un bagage à main standard n'est pas permis, sauf si vous êtes membre MileagePlus Premier, titulaire principal d'une carte de crédit United admissible ou membre Star Alliance Gold.",
+            "es": "Solo se permite un artículo personal. No se permite un equipaje de mano estándar a menos que sea miembro MileagePlus Premier, titular principal de una tarjeta de crédito United que califique o miembro Star Alliance Gold.",
+            "it": "È consentito solo un articolo personale. Un bagaglio a mano standard non è consentito a meno che tu non sia un membro MileagePlus Premier, un titolare di carta principale di una carta di credito United qualificata o un membro Star Alliance Gold.",
+            "ja": "身の回り品1点のみが許可されています。MileagePlus Premier会員、対象となるユナイテッドクレジットカードの主要カード会員、またはスターアライアンスゴールド会員でない限り、標準的な機内持ち込み手荷物は許可されません。",
+            "pt": "Apenas um item pessoal é permitido. Uma bagagem de mão padrão não é permitida, a menos que você seja um membro MileagePlus Premier, um titular principal de um cartão de crédito United qualificado ou um membro Star Alliance Gold.",
+            "nl": "Slechts één persoonlijk item is toegestaan. Een standaard handbagage is niet toegestaan, tenzij u een MileagePlus Premier-lid, een primaire kaarthouder van een in aanmerking komende United creditcard of een Star Alliance Gold-lid bent."
+          }
+        },
+        {
+          "item": "Lithium Batteries (Installed in Devices, <100 Wh)",
+          "metric": "< 100 Wh",
+          "imperial": "< 100 Wh",
+          "status": "Compliant",
+          "note": "Allowed in carry-on or checked baggage.",
+          "item_translations": {
+            "en": "Lithium Batteries (Installed in Devices, <100 Wh)",
+            "de": "Lithiumbatterien (in Geräten installiert, <100 Wh)",
+            "fr": "Batteries au lithium (installées dans des appareils, <100 Wh)",
+            "es": "Baterías de litio (instaladas en dispositivos, <100 Wh)",
+            "it": "Batterie al litio (installate in dispositivi, <100 Wh)",
+            "ja": "リチウム電池（機器に内蔵、100 Wh未満）",
+            "pt": "Baterias de Lítio (Instaladas em Dispositivos, <100 Wh)",
+            "nl": "Lithiumbatterijen (geïnstalleerd in apparaten, <100 Wh)"
+          },
+          "note_translations": {
+            "en": "Allowed in carry-on or checked baggage.",
+            "de": "Im Hand- oder aufgegebenen Gepäck erlaubt.",
+            "fr": "Autorisé en cabine ou en soute.",
+            "es": "Permitido en equipaje de mano o facturado.",
+            "it": "Consentito nel bagaglio a mano o da stiva.",
+            "ja": "機内持ち込み手荷物または受託手荷物で許可されています。",
+            "pt": "Permitido na bagagem de mão ou despachada.",
+            "nl": "Toegestaan in hand- of ruimbagage."
+          }
+        },
+        {
+          "item": "Lithium Batteries (Installed in Devices, 100-160 Wh)",
+          "metric": "100 - 160 Wh",
+          "imperial": "100 - 160 Wh",
+          "status": "Compliant with Approval",
+          "note": "Allowed in carry-on or checked baggage (checked requires airline approval).",
+          "item_translations": {
+            "en": "Lithium Batteries (Installed in Devices, 100-160 Wh)",
+            "de": "Lithiumbatterien (in Geräten installiert, 100-160 Wh)",
+            "fr": "Batteries au lithium (installées dans des appareils, 100-160 Wh)",
+            "es": "Baterías de litio (instaladas en dispositivos, 100-160 Wh)",
+            "it": "Batterie al litio (installate in dispositivi, 100-160 Wh)",
+            "ja": "リチウム電池（機器に内蔵、100-160 Wh）",
+            "pt": "Baterias de Lítio (Instaladas em Dispositivos, 100-160 Wh)",
+            "nl": "Lithiumbatterijen (geïnstalleerd in apparaten, 100-160 Wh)"
+          },
+          "note_translations": {
+            "en": "Allowed in carry-on or checked baggage (checked requires airline approval).",
+            "de": "Im Hand- oder aufgegebenen Gepäck erlaubt (aufgegebenes Gepäck erfordert Genehmigung der Fluggesellschaft).",
+            "fr": "Autorisé en cabine ou en soute (la soute nécessite l'approbation de la compagnie aérienne).",
+            "es": "Permitido en equipaje de mano o facturado (el facturado requiere aprobación de la aerolínea).",
+            "it": "Consentito nel bagaglio a mano o da stiva (il bagaglio da stiva richiede l'approvazione della compagnia aerea).",
+            "ja": "機内持ち込み手荷物または受託手荷物で許可されています（受託手荷物は航空会社の承認が必要です）。",
+            "pt": "Permitido na bagagem de mão ou despachada (despachada requer aprovação da companhia aérea).",
+            "nl": "Toegestaan in hand- of ruimbagage (ruimbagage vereist goedkeuring van de luchtvaartmaatschappij)."
+          }
+        },
+        {
+          "item": "Lithium Batteries (Spare/Loose, <100 Wh)",
+          "metric": "< 100 Wh (Max 20 per passenger)",
+          "imperial": "< 100 Wh (Max 20 per passenger)",
+          "status": "Compliant",
+          "note": "Carry-on baggage only. Must be protected from short circuit.",
+          "item_translations": {
+            "en": "Lithium Batteries (Spare/Loose, <100 Wh)",
+            "de": "Lithium-Ersatzbatterien (lose, <100 Wh)",
+            "fr": "Batteries au lithium de rechange (libres, <100 Wh)",
+            "es": "Baterías de litio de repuesto (sueltas, <100 Wh)",
+            "it": "Batterie al litio di ricambio (sfuse, <100 Wh)",
+            "ja": "リチウム予備電池（単体、100 Wh未満）",
+            "pt": "Baterias de Lítio (Sobressalentes/Soltas, <100 Wh)",
+            "nl": "Lithiumbatterijen (reserve/los, <100 Wh)"
+          },
+          "note_translations": {
+            "en": "Carry-on baggage only. Must be protected from short circuit.",
+            "de": "Nur im Handgepäck. Muss vor Kurzschluss geschützt sein.",
+            "fr": "Uniquement en cabine. Doit être protégé contre les courts-circuits.",
+            "es": "Solo en equipaje de mano. Debe estar protegido contra cortocircuitos.",
+            "it": "Solo nel bagaglio a mano. Deve essere protetto da cortocircuiti.",
+            "ja": "機内持ち込み手荷物のみ。短絡から保護されている必要があります。",
+            "pt": "Apenas na bagagem de mão. Deve ser protegido contra curto-circuito.",
+            "nl": "Alleen in handbagage. Moet beschermd zijn tegen kortsluiting."
+          }
+        },
+        {
+          "item": "Lithium Batteries (Spare/Loose, 100-160 Wh)",
+          "metric": "100 - 160 Wh (Max 2 per passenger)",
+          "imperial": "100 - 160 Wh (Max 2 per passenger)",
+          "status": "Compliant with Approval",
+          "note": "Carry-on baggage only. Must be protected from short circuit. Airline approval required.",
+          "item_translations": {
+            "en": "Lithium Batteries (Spare/Loose, 100-160 Wh)",
+            "de": "Lithium-Ersatzbatterien (lose, 100-160 Wh)",
+            "fr": "Batteries au lithium de rechange (libres, 100-160 Wh)",
+            "es": "Baterías de litio de repuesto (sueltas, 100-160 Wh)",
+            "it": "Batterie al litio di ricambio (sfuse, 100-160 Wh)",
+            "ja": "リチウム予備電池（単体、100-160 Wh）",
+            "pt": "Baterias de Lítio (Sobressalentes/Soltas, 100-160 Wh)",
+            "nl": "Lithiumbatterijen (reserve/los, 100-160 Wh)"
+          },
+          "note_translations": {
+            "en": "Carry-on baggage only. Must be protected from short circuit. Airline approval required.",
+            "de": "Nur im Handgepäck. Muss vor Kurzschluss geschützt sein. Genehmigung der Fluggesellschaft erforderlich.",
+            "fr": "Uniquement en cabine. Doit être protégé contre les courts-circuits. Approbation de la compagnie aérienne requise.",
+            "es": "Solo en equipaje de mano. Debe estar protegido contra cortocircuitos. Se requiere aprobación de la aerolínea.",
+            "it": "Solo nel bagaglio a mano. Deve essere protetto da cortocircuiti. Richiesta l'approvazione della compagnia aerea.",
+            "ja": "機内持ち込み手荷物のみ。短絡から保護されている必要があります。航空会社の承認が必要です。",
+            "pt": "Apenas na bagagem de mão. Deve ser protegido contra curto-circuito. Aprovação da companhia aérea é necessária.",
+            "nl": "Alleen in handbagage. Moet beschermd zijn tegen kortsluiting. Goedkeuring van de luchtvaartmaatschappij vereist."
+          }
+        },
+        {
+          "item": "Lithium Batteries (Over 160 Wh)",
+          "metric": "> 160 Wh",
+          "imperial": "> 160 Wh",
+          "status": "Not Allowed",
+          "note": "Not permitted in carry-on or checked baggage.",
+          "item_translations": {
+            "en": "Lithium Batteries (Over 160 Wh)",
+            "de": "Lithiumbatterien (über 160 Wh)",
+            "fr": "Batteries au lithium (plus de 160 Wh)",
+            "es": "Baterías de litio (más de 160 Wh)",
+            "it": "Batterie al litio (oltre 160 Wh)",
+            "ja": "リチウム電池（160 Wh超）",
+            "pt": "Baterias de Lítio (Acima de 160 Wh)",
+            "nl": "Lithiumbatterijen (boven 160 Wh)"
+          },
+          "note_translations": {
+            "en": "Not permitted in carry-on or checked baggage.",
+            "de": "Nicht im Hand- oder aufgegebenen Gepäck erlaubt.",
+            "fr": "Non autorisé en cabine ou en soute.",
+            "es": "No permitido en equipaje de mano o facturado.",
+            "it": "Non consentito nel bagaglio a mano o da stiva.",
+            "ja": "機内持ち込み手荷物または受託手荷物では許可されていません。",
+            "pt": "Não permitido na bagagem de mão ou despachada.",
+            "nl": "Niet toegestaan in hand- of ruimbagage."
+          }
+        },
+        {
+          "item": "E-cigarettes / Vaping Devices",
+          "metric": "N/A",
+          "imperial": "N/A",
+          "status": "Carry-on Only",
+          "note": "Must be in carry-on baggage only. Batteries should be removed if possible.",
+          "item_translations": {
+            "en": "E-cigarettes / Vaping Devices",
+            "de": "E-Zigaretten / Vaping-Geräte",
+            "fr": "Cigarettes électroniques / Dispositifs de vapotage",
+            "es": "Cigarrillos electrónicos / Dispositivos de vapeo",
+            "it": "Sigarette elettroniche / Dispositivi di svapo",
+            "ja": "電子タバコ / Vapingデバイス",
+            "pt": "Cigarros Eletrônicos / Dispositivos de Vaping",
+            "nl": "E-sigaretten / Vaping-apparaten"
+          },
+          "note_translations": {
+            "en": "Must be in carry-on baggage only. Batteries should be removed if possible.",
+            "de": "Nur im Handgepäck. Batterien sollten, wenn möglich, entfernt werden.",
+            "fr": "Uniquement en cabine. Les batteries doivent être retirées si possible.",
+            "es": "Solo en equipaje de mano. Las baterías deben retirarse si es posible.",
+            "it": "Solo nel bagaglio a mano. Le batterie dovrebbero essere rimosse se possibile.",
+            "ja": "機内持ち込み手荷物のみ。可能であればバッテリーを取り外す必要があります。",
+            "pt": "Apenas na bagagem de mão. As baterias devem ser removidas, se possível.",
+            "nl": "Alleen in handbagage. Batterijen moeten indien mogelijk worden verwijderd."
+          }
+        },
+        {
+          "item": "Smart Luggage (Non-Removable Battery)",
+          "metric": "> 0.3g Lithium Metal / > 2.7 Wh",
+          "imperial": "> 0.3g Lithium Metal / > 2.7 Wh",
+          "status": "Not Allowed",
+          "note": "Not permitted if battery is non-removable and exceeds specified limits. If removable, battery must be removed and carried in carry-on.",
+          "item_translations": {
+            "en": "Smart Luggage (Non-Removable Battery)",
+            "de": "Smart Luggage (nicht entfernbarer Akku)",
+            "fr": "Bagages intelligents (batterie non amovible)",
+            "es": "Equipaje inteligente (batería no extraíble)",
+            "it": "Bagaglio intelligente (batteria non rimovibile)",
+            "ja": "スマートラゲージ（取り外し不可バッテリー）",
+            "pt": "Bagagem Inteligente (Bateria Não Removível)",
+            "nl": "Smart Bagage (niet-verwijderbare batterij)"
+          },
+          "note_translations": {
+            "en": "Not permitted if battery is non-removable and exceeds specified limits. If removable, battery must be removed and carried in carry-on.",
+            "de": "Nicht gestattet, wenn der Akku nicht entfernbar ist und die angegebenen Grenzwerte überschreitet. Wenn entfernbar, muss der Akku entfernt und im Handgepäck mitgeführt werden.",
+            "fr": "Non autorisé si la batterie est non amovible et dépasse les limites spécifiées. Si amovible, la batterie doit être retirée et transportée en cabine.",
+            "es": "No permitido si la batería no es extraíble y excede los límites especificados. Si es extraíble, la batería debe retirarse y llevarse en el equipaje de mano.",
+            "it": "Non consentito se la batteria non è rimovibile e supera i limiti specificati. Se rimovibile, la batteria deve essere rimossa e trasportata nel bagaglio a mano.",
+            "ja": "バッテリーが取り外し不可で指定された制限を超える場合は許可されません。取り外し可能な場合は、バッテリーを取り外して機内持ち込み手荷物として携帯する必要があります。",
+            "pt": "Não permitido se a bateria não for removível e exceder os limites especificados. Se removível, a bateria deve ser removida e transportada na bagagem de mão.",
+            "nl": "Niet toegestaan als de batterij niet-verwijderbaar is en de gespecificeerde limieten overschrijdt. Indien verwijderbaar, moet de batterij worden verwijderd en in de handbagage worden meegenomen."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "united-airlines-baggage-lithium-battery-rules",
+          "title": "United Airlines Baggage & Lithium Battery Rules",
+          "summary": "Comprehensive guide to United Airlines' personal item, carry-on bag dimensions, and lithium battery regulations for a smooth travel experience.",
+          "amazon_search_query": "united airlines personal item bag, united airlines carry on bag, tsa approved lithium battery case",
+          "buy_box_title": "Recommended Travel Gear for United Airlines",
+          "buy_box_subtitle": "Ensure your bags and electronics comply with United's latest regulations.",
+          "allowed_guidelines": [
+            "One personal item (43 x 25 x 22 cm / 17 x 10 x 9 in) is allowed for all tickets, including Basic Economy.",
+            "One standard carry-on bag (56 x 35 x 22 cm / 22 x 14 x 9 in) is allowed for most tickets, except Basic Economy.",
+            "Lithium batteries under 100 Wh are generally permitted in carry-on or checked baggage (installed in devices) or carry-on only (spare)."
+          ],
+          "strict_restrictions": [
+            "Basic Economy tickets generally do not include a standard carry-on bag, only a personal item. Exceptions apply for MileagePlus Premier members, qualifying United credit cardholders, or Star Alliance Gold members.",
+            "Lithium batteries over 160 Wh are strictly prohibited in both carry-on and checked baggage.",
+            "Smart luggage with non-removable batteries exceeding specific limits is not allowed.",
+            "E-cigarettes and vaping devices are only allowed in carry-on baggage."
+          ],
+          "faqs": [
+            {
+              "q": "What are the personal item dimensions for United Airlines?",
+              "a": "Your personal item must not exceed 43 x 25 x 22 cm (17 x 10 x 9 inches) and must fit under the seat in front of you."
+            },
+            {
+              "q": "Can I bring a carry-on bag with a Basic Economy ticket on United?",
+              "a": "Generally, no. Basic Economy tickets only allow one personal item. A standard carry-on bag is not included unless you are a MileagePlus Premier member, a qualifying United credit cardholder, or a Star Alliance Gold member."
+            },
+            {
+              "q": "What are United's rules for lithium batteries?",
+              "a": "Batteries under 100 Wh are widely accepted. 100-160 Wh batteries require airline approval and have quantity limits. Batteries over 160 Wh are prohibited. Spare batteries must always be in carry-on baggage and protected from short circuit."
+            }
+          ]
+        },
+        "de": {
+          "slug": "united-airlines-gepaeck-lithium-batterie-regeln",
+          "title": "United Airlines Gepäck- und Lithiumbatterie-Bestimmungen",
+          "summary": "Umfassender Leitfaden zu den Bestimmungen von United Airlines für persönliche Gegenstände, Handgepäckmaße und Lithiumbatterien für ein reibungsloses Reiseerlebnis.",
+          "amazon_search_query": "united airlines persönlicher gegenstand tasche, united airlines handgepäck, tsa zugelassene lithium batterie hülle",
+          "buy_box_title": "Empfohlene Reiseausrüstung für United Airlines",
+          "buy_box_subtitle": "Stellen Sie sicher, dass Ihre Taschen und Elektronik den neuesten Bestimmungen von United entsprechen.",
+          "allowed_guidelines": [
+            "Ein persönlicher Gegenstand (43 x 25 x 22 cm / 17 x 10 x 9 Zoll) ist für alle Tickets, einschließlich Basic Economy, erlaubt.",
+            "Ein Standard-Handgepäckstück (56 x 35 x 22 cm / 22 x 14 x 9 Zoll) ist für die meisten Tickets, außer Basic Economy, erlaubt.",
+            "Lithiumbatterien unter 100 Wh sind im Allgemeinen im Hand- oder aufgegebenen Gepäck (in Geräten installiert) oder nur im Handgepäck (Ersatzbatterien) erlaubt."
+          ],
+          "strict_restrictions": [
+            "Basic Economy Tickets beinhalten in der Regel kein Standard-Handgepäck, sondern nur einen persönlichen Gegenstand. Ausnahmen gelten für MileagePlus Premier-Mitglieder, Inhaber qualifizierter United-Kreditkarten oder Star Alliance Gold-Mitglieder.",
+            "Lithiumbatterien über 160 Wh sind im Hand- und aufgegebenen Gepäck strengstens verboten.",
+            "Smart Luggage mit nicht entnehmbaren Batterien, die bestimmte Grenzwerte überschreiten, ist nicht erlaubt.",
+            "E-Zigaretten und Vaping-Geräte sind nur im Handgepäck erlaubt."
+          ],
+          "faqs": [
+            {
+              "q": "Welche Maße gelten für persönliche Gegenstände bei United Airlines?",
+              "a": "Ihr persönlicher Gegenstand darf 43 x 25 x 22 cm (17 x 10 x 9 Zoll) nicht überschreiten und muss unter den Vordersitz passen."
+            },
+            {
+              "q": "Darf ich mit einem Basic Economy Ticket bei United ein Handgepäckstück mitnehmen?",
+              "a": "Im Allgemeinen nein. Basic Economy Tickets erlauben nur einen persönlichen Gegenstand. Ein Standard-Handgepäckstück ist nicht inbegriffen, es sei denn, Sie sind MileagePlus Premier-Mitglied, Inhaber einer qualifizierenden United-Kreditkarte oder Star Alliance Gold-Mitglied."
+            },
+            {
+              "q": "Was sind die Regeln von United für Lithiumbatterien?",
+              "a": "Batterien unter 100 Wh sind weitgehend akzeptiert. Batterien von 100-160 Wh erfordern die Genehmigung der Fluggesellschaft und unterliegen Mengenbeschränkungen. Batterien über 160 Wh sind verboten. Ersatzbatterien müssen immer im Handgepäck mitgeführt und vor Kurzschluss geschützt werden."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "united-airlines-bagages-regles-batteries-lithium",
+          "title": "Règles de United Airlines concernant les bagages et les batteries au lithium",
+          "summary": "Guide complet des dimensions des articles personnels et des bagages à main, ainsi que des réglementations sur les batteries au lithium de United Airlines pour une expérience de voyage fluide.",
+          "amazon_search_query": "sac article personnel united airlines, bagage cabine united airlines, étui batterie lithium approuvé tsa",
+          "buy_box_title": "Équipement de voyage recommandé pour United Airlines",
+          "buy_box_subtitle": "Assurez-vous que vos bagages et appareils électroniques sont conformes aux dernières réglementations de United.",
+          "allowed_guidelines": [
+            "Un article personnel (43 x 25 x 22 cm / 17 x 10 x 9 po) est autorisé pour tous les billets, y compris Basic Economy.",
+            "Un bagage à main standard (56 x 35 x 22 cm / 22 x 14 x 9 po) est autorisé pour la plupart des billets, sauf Basic Economy.",
+            "Les batteries au lithium de moins de 100 Wh sont généralement autorisées en cabine ou en soute (installées dans des appareils) ou uniquement en cabine (de rechange)."
+          ],
+          "strict_restrictions": [
+            "Les billets Basic Economy n'incluent généralement pas de bagage à main standard, seulement un article personnel. Des exceptions s'appliquent pour les membres MileagePlus Premier, les titulaires de cartes de crédit United admissibles ou les membres Star Alliance Gold.",
+            "Les batteries au lithium de plus de 160 Wh sont strictement interdites en cabine et en soute.",
+            "Les bagages intelligents avec des batteries non amovibles dépassant les limites spécifiques ne sont pas autorisés.",
+            "Les cigarettes électroniques et les dispositifs de vapotage ne sont autorisés qu'en cabine."
+          ],
+          "faqs": [
+            {
+              "q": "Quelles sont les dimensions de l'article personnel pour United Airlines ?",
+              "a": "Votre article personnel ne doit pas dépasser 43 x 25 x 22 cm (17 x 10 x 9 pouces) et doit tenir sous le siège devant vous."
+            },
+            {
+              "q": "Puis-je emporter un bagage à main avec un billet Basic Economy sur United ?",
+              "a": "Généralement, non. Les billets Basic Economy n'autorisent qu'un seul article personnel. Un bagage à main standard n'est pas inclus, sauf si vous êtes membre MileagePlus Premier, titulaire d'une carte de crédit United admissible ou membre Star Alliance Gold."
+            },
+            {
+              "q": "Quelles sont les règles de United concernant les batteries au lithium ?",
+              "a": "Les batteries de moins de 100 Wh sont largement acceptées. Les batteries de 100 à 160 Wh nécessitent l'approbation de la compagnie aérienne et sont soumises à des limites de quantité. Les batteries de plus de 160 Wh sont interdites. Les batteries de rechange doivent toujours être dans les bagages à main et protégées contre les courts-circuits."
+            }
+          ]
+        },
+        "es": {
+          "slug": "united-airlines-equipaje-normas-baterias-litio",
+          "title": "Normas de United Airlines sobre equipaje y baterías de litio",
+          "summary": "Guía completa de las dimensiones de artículos personales y equipaje de mano, y las regulaciones de baterías de litio de United Airlines para una experiencia de viaje sin problemas.",
+          "amazon_search_query": "bolsa articulo personal united airlines, maleta cabina united airlines, funda bateria litio aprobada tsa",
+          "buy_box_title": "Equipo de viaje recomendado para United Airlines",
+          "buy_box_subtitle": "Asegúrese de que sus maletas y dispositivos electrónicos cumplan con las últimas regulaciones de United.",
+          "allowed_guidelines": [
+            "Se permite un artículo personal (43 x 25 x 22 cm / 17 x 10 x 9 pulgadas) para todos los billetes, incluido Basic Economy.",
+            "Se permite un equipaje de mano estándar (56 x 35 x 22 cm / 22 x 14 x 9 pulgadas) para la mayoría de los billetes, excepto Basic Economy.",
+            "Las baterías de litio de menos de 100 Wh generalmente están permitidas en el equipaje de mano o facturado (instaladas en dispositivos) o solo en el equipaje de mano (de repuesto)."
+          ],
+          "strict_restrictions": [
+            "Los billetes Basic Economy generalmente no incluyen equipaje de mano estándar, solo un artículo personal. Se aplican excepciones para miembros MileagePlus Premier, titulares de tarjetas de crédito United que califiquen o miembros Star Alliance Gold.",
+            "Las baterías de litio de más de 160 Wh están estrictamente prohibidas tanto en el equipaje de mano como en el facturado.",
+            "El equipaje inteligente con baterías no extraíbles que excedan los límites específicos no está permitido.",
+            "Los cigarrillos electrónicos y dispositivos de vapeo solo están permitidos en el equipaje de mano."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuáles son las dimensiones del artículo personal para United Airlines?",
+              "a": "Su artículo personal no debe exceder los 43 x 25 x 22 cm (17 x 10 x 9 pulgadas) y debe caber debajo del asiento delantero."
+            },
+            {
+              "q": "¿Puedo llevar una maleta de mano con un billete Basic Economy en United?",
+              "a": "Generalmente, no. Los billetes Basic Economy solo permiten un artículo personal. No se incluye un equipaje de mano estándar a menos que sea miembro MileagePlus Premier, titular de una tarjeta de crédito United que califique o miembro Star Alliance Gold."
+            },
+            {
+              "q": "¿Cuáles son las reglas de United para las baterías de litio?",
+              "a": "Las baterías de menos de 100 Wh son ampliamente aceptadas. Las baterías de 100-160 Wh requieren la aprobación de la aerolínea y tienen límites de cantidad. Las baterías de más de 160 Wh están prohibidas. Las baterías de repuesto siempre deben ir en el equipaje de mano y protegidas contra cortocircuitos."
+            }
+          ]
+        },
+        "it": {
+          "slug": "united-airlines-bagaglio-regole-batterie-litio",
+          "title": "Regole di United Airlines per bagagli e batterie al litio",
+          "summary": "Guida completa alle dimensioni degli articoli personali e del bagaglio a mano, e alle normative sulle batterie al litio di United Airlines per un'esperienza di viaggio senza intoppi.",
+          "amazon_search_query": "borsa articolo personale united airlines, bagaglio a mano united airlines, custodia batteria litio approvata tsa",
+          "buy_box_title": "Attrezzatura da viaggio consigliata per United Airlines",
+          "buy_box_subtitle": "Assicurati che i tuoi bagagli e dispositivi elettronici siano conformi alle ultime normative di United.",
+          "allowed_guidelines": [
+            "È consentito un articolo personale (43 x 25 x 22 cm / 17 x 10 x 9 pollici) per tutti i biglietti, inclusa la Basic Economy.",
+            "È consentito un bagaglio a mano standard (56 x 35 x 22 cm / 22 x 14 x 9 pollici) per la maggior parte dei biglietti, eccetto la Basic Economy.",
+            "Le batterie al litio sotto i 100 Wh sono generalmente consentite nel bagaglio a mano o da stiva (installate in dispositivi) o solo nel bagaglio a mano (di ricambio)."
+          ],
+          "strict_restrictions": [
+            "I biglietti Basic Economy generalmente non includono un bagaglio a mano standard, ma solo un articolo personale. Si applicano eccezioni per i membri MileagePlus Premier, i titolari di carte di credito United qualificanti o i membri Star Alliance Gold.",
+            "Le batterie al litio superiori a 160 Wh sono severamente vietate sia nel bagaglio a mano che in quello da stiva.",
+            "I bagagli intelligenti con batterie non rimovibili che superano i limiti specifici non sono ammessi.",
+            "Le sigarette elettroniche e i dispositivi di svapo sono consentiti solo nel bagaglio a mano."
+          ],
+          "faqs": [
+            {
+              "q": "Quali sono le dimensioni dell'articolo personale per United Airlines?",
+              "a": "Il tuo articolo personale non deve superare i 43 x 25 x 22 cm (17 x 10 x 9 pollici) e deve stare sotto il sedile di fronte a te."
+            },
+            {
+              "q": "Posso portare un bagaglio a mano con un biglietto Basic Economy su United?",
+              "a": "Generalmente, no. I biglietti Basic Economy consentono solo un articolo personale. Un bagaglio a mano standard non è incluso a meno che tu non sia un membro MileagePlus Premier, un titolare di carta di credito United qualificata o un membro Star Alliance Gold."
+            },
+            {
+              "q": "Quali sono le regole di United per le batterie al litio?",
+              "a": "Le batterie sotto i 100 Wh sono ampiamente accettate. Le batterie da 100-160 Wh richiedono l'approvazione della compagnia aerea e hanno limiti di quantità. Le batterie oltre i 160 Wh sono proibite. Le batterie di ricambio devono essere sempre nel bagaglio a mano e protette da cortocircuiti."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "ユナイテッド航空-手荷物-リチウム電池-規定",
+          "title": "ユナイテッド航空の手荷物およびリチウム電池に関する規定",
+          "summary": "ユナイテッド航空の身の回り品、機内持ち込み手荷物の寸法、およびリチウム電池に関する包括的なガイドで、スムーズな旅行体験を。",
+          "amazon_search_query": "ユナイテッド航空 身の回り品 バッグ, ユナイテッド航空 機内持ち込みバッグ, tsa 承認 リチウム電池 ケース",
+          "buy_box_title": "ユナイテッド航空推奨の旅行用品",
+          "buy_box_subtitle": "ユナイテッド航空の最新規定に準拠していることを確認してください。",
+          "allowed_guidelines": [
+            "身の回り品1点（43 x 25 x 22 cm / 17 x 10 x 9インチ）は、ベーシックエコノミーを含むすべての航空券で許可されています。",
+            "標準的な機内持ち込み手荷物1点（56 x 35 x 22 cm / 22 x 14 x 9インチ）は、ベーシックエコノミーを除くほとんどの航空券で許可されています。",
+            "100 Wh未満のリチウム電池は、通常、機内持ち込み手荷物または受託手荷物（機器に内蔵されている場合）または機内持ち込み手荷物のみ（予備電池）で許可されています。"
+          ],
+          "strict_restrictions": [
+            "ベーシックエコノミー航空券には通常、標準的な機内持ち込み手荷物は含まれず、身の回り品のみです。MileagePlus Premier会員、対象となるユナイテッドクレジットカードの主要カード会員、またはスターアライアンスゴールド会員には例外が適用されます。",
+            "160 Whを超えるリチウム電池は、機内持ち込み手荷物および受託手荷物の両方で厳しく禁止されています。",
+            "特定の制限を超える取り外し不可能なバッテリーを備えたスマートラゲージは許可されていません。",
+            "電子タバコおよびVapingデバイスは、機内持ち込み手荷物のみで許可されています。"
+          ],
+          "faqs": [
+            {
+              "q": "ユナイテッド航空の身の回り品の寸法は？",
+              "a": "身の回り品は43 x 25 x 22 cm（17 x 10 x 9インチ）を超えてはならず、前の座席の下に収まる必要があります。"
+            },
+            {
+              "q": "ユナイテッド航空のベーシックエコノミー航空券で機内持ち込み手荷物を持ち込めますか？",
+              "a": "通常、いいえ。ベーシックエコノミー航空券では身の回り品1点のみが許可されています。MileagePlus Premier会員、対象となるユナイテッドクレジットカードの主要カード会員、またはスターアライアンスゴールド会員でない限り、標準的な機内持ち込み手荷物は含まれません。"
+            },
+            {
+              "q": "ユナイテッド航空のリチウム電池に関する規定は何ですか？",
+              "a": "100 Wh未満のバッテリーは広く受け入れられています。100〜160 Whのバッテリーは航空会社の承認が必要で、数量制限があります。160 Whを超えるバッテリーは禁止されています。予備バッテリーは常に機内持ち込み手荷物に入れ、短絡から保護する必要があります。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "united-airlines-bagagem-regras-baterias-litio",
+          "title": "Regras de Bagagem e Baterias de Lítio da United Airlines",
+          "summary": "Guia completo das dimensões de itens pessoais e bagagem de mão, e regulamentações de baterias de lítio da United Airlines para uma experiência de viagem tranquila.",
+          "amazon_search_query": "bolsa item pessoal united airlines, mala de mão united airlines, capa bateria litio aprovada tsa",
+          "buy_box_title": "Equipamento de Viagem Recomendado para a United Airlines",
+          "buy_box_subtitle": "Garanta que suas malas e eletrônicos estejam em conformidade com as últimas regulamentações da United.",
+          "allowed_guidelines": [
+            "Um item pessoal (43 x 25 x 22 cm / 17 x 10 x 9 pol) é permitido para todos os bilhetes, incluindo Basic Economy.",
+            "Uma bagagem de mão padrão (56 x 35 x 22 cm / 22 x 14 x 9 pol) é permitida para a maioria dos bilhetes, exceto Basic Economy.",
+            "Baterias de lítio abaixo de 100 Wh são geralmente permitidas na bagagem de mão ou despachada (instaladas em dispositivos) ou apenas na bagagem de mão (sobressalentes)."
+          ],
+          "strict_restrictions": [
+            "Os bilhetes Basic Economy geralmente não incluem uma bagagem de mão padrão, apenas um item pessoal. Exceções se aplicam para membros MileagePlus Premier, titulares de cartões de crédito United qualificados ou membros Star Alliance Gold.",
+            "Baterias de lítio acima de 160 Wh são estritamente proibidas tanto na bagagem de mão quanto na despachada.",
+            "Bagagem inteligente com baterias não removíveis que excedam os limites específicos não é permitida.",
+            "Cigarros eletrônicos e dispositivos de vaping são permitidos apenas na bagagem de mão."
+          ],
+          "faqs": [
+            {
+              "q": "Quais são as dimensões do item pessoal para a United Airlines?",
+              "a": "Seu item pessoal não deve exceder 43 x 25 x 22 cm (17 x 10 x 9 polegadas) e deve caber debaixo do assento à sua frente."
+            },
+            {
+              "q": "Posso levar uma bagagem de mão com um bilhete Basic Economy na United?",
+              "a": "Geralmente, não. Os bilhetes Basic Economy permitem apenas um item pessoal. Uma bagagem de mão padrão não está incluída, a menos que você seja um membro MileagePlus Premier, um titular de cartão de crédito United qualificado ou um membro Star Alliance Gold."
+            },
+            {
+              "q": "Quais são as regras da United para baterias de lítio?",
+              "a": "Baterias abaixo de 100 Wh são amplamente aceitas. Baterias de 100-160 Wh exigem aprovação da companhia aérea e têm limites de quantidade. Baterias acima de 160 Wh são proibidas. Baterias sobressalentes devem estar sempre na bagagem de mão e protegidas contra curto-circuito."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "united-airlines-bagage-lithium-batterij-regels",
+          "title": "United Airlines Bagage- en Lithiumbatterijregels",
+          "summary": "Uitgebreide gids voor de afmetingen van persoonlijke items en handbagage, en de lithiumbatterijvoorschriften van United Airlines voor een soepele reiservaring.",
+          "amazon_search_query": "united airlines persoonlijk item tas, united airlines handbagage, tsa goedgekeurde lithium batterij hoes",
+          "buy_box_title": "Aanbevolen Reisuitrusting voor United Airlines",
+          "buy_box_subtitle": "Zorg ervoor dat uw tassen en elektronica voldoen aan de nieuwste voorschriften van United.",
+          "allowed_guidelines": [
+            "Eén persoonlijk item (43 x 25 x 22 cm / 17 x 10 x 9 inch) is toegestaan voor alle tickets, inclusief Basic Economy.",
+            "Eén standaard handbagage (56 x 35 x 22 cm / 22 x 14 x 9 inch) is toegestaan voor de meeste tickets, behalve Basic Economy.",
+            "Lithiumbatterijen onder 100 Wh zijn over het algemeen toegestaan in hand- of ruimbagage (geïnstalleerd in apparaten) of alleen in handbagage (reserve)."
+          ],
+          "strict_restrictions": [
+            "Basic Economy tickets omvatten over het algemeen geen standaard handbagage, alleen een persoonlijk item. Uitzonderingen gelden voor MileagePlus Premier-leden, houders van een kwalificerende United creditcard of Star Alliance Gold-leden.",
+            "Lithiumbatterijen boven 160 Wh zijn strikt verboden in zowel hand- als ruimbagage.",
+            "Smart bagage met niet-verwijderbare batterijen die specifieke limieten overschrijden, is niet toegestaan.",
+            "E-sigaretten en vaping-apparaten zijn alleen toegestaan in handbagage."
+          ],
+          "faqs": [
+            {
+              "q": "Wat zijn de afmetingen van het persoonlijke item voor United Airlines?",
+              "a": "Uw persoonlijke item mag niet groter zijn dan 43 x 25 x 22 cm (17 x 10 x 9 inch) en moet onder de stoel voor u passen."
+            },
+            {
+              "q": "Mag ik een handbagage meenemen met een Basic Economy ticket bij United?",
+              "a": "Over het algemeen niet. Basic Economy tickets staan slechts één persoonlijk item toe. Een standaard handbagage is niet inbegrepen, tenzij u een MileagePlus Premier-lid, een kwalificerende United creditcardhouder of een Star Alliance Gold-lid bent."
+            },
+            {
+              "q": "Wat zijn de regels van United voor lithiumbatterijen?",
+              "a": "Batterijen onder 100 Wh worden algemeen geaccepteerd. Batterijen van 100-160 Wh vereisen goedkeuring van de luchtvaartmaatschappij en hebben kwantiteitslimieten. Batterijen boven 160 Wh zijn verboden. Reservebatterijen moeten altijd in de handbagage worden meegenomen en beschermd zijn tegen kortsluiting."
             }
           ]
         }

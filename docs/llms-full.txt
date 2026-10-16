@@ -93,3 +93,27 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=delta+carry+on+bag+under+seat+pet+carrier&tag=autocompat-21
 
 ---
+
+## United Airlines (AIRLINES)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/united-airlines-baggage-lithium-battery-rules.html
+- Summary: Comprehensive guide to United Airlines' personal item, carry-on bag dimensions, and lithium battery regulations for a smooth travel experience.
+
+### Exact Specifications (Dual Units):
+* **Personal Item Dimensions**: Metric: `43 x 25 x 22 cm` | Imperial: `17 x 10 x 9 in` (Must fit under the seat in front of you. No specific weight limit.)
+* **Standard Carry-on Bag Dimensions**: Metric: `56 x 35 x 22 cm` | Imperial: `22 x 14 x 9 in` (Must fit in the overhead bin or under the seat. No specific weight limit for most flights.)
+* **Basic Economy Carry-on Allowance**: Metric: `N/A` | Imperial: `N/A` (Only one personal item is allowed. A standard carry-on bag is not permitted unless you are a MileagePlus Premier member, a primary cardmember of a qualifying United credit card, or a Star Alliance Gold member.)
+* **Lithium Batteries (Installed in Devices, <100 Wh)**: Metric: `< 100 Wh` | Imperial: `< 100 Wh` (Allowed in carry-on or checked baggage.)
+* **Lithium Batteries (Installed in Devices, 100-160 Wh)**: Metric: `100 - 160 Wh` | Imperial: `100 - 160 Wh` (Allowed in carry-on or checked baggage (checked requires airline approval).)
+* **Lithium Batteries (Spare/Loose, <100 Wh)**: Metric: `< 100 Wh (Max 20 per passenger)` | Imperial: `< 100 Wh (Max 20 per passenger)` (Carry-on baggage only. Must be protected from short circuit.)
+* **Lithium Batteries (Spare/Loose, 100-160 Wh)**: Metric: `100 - 160 Wh (Max 2 per passenger)` | Imperial: `100 - 160 Wh (Max 2 per passenger)` (Carry-on baggage only. Must be protected from short circuit. Airline approval required.)
+* **Lithium Batteries (Over 160 Wh)**: Metric: `> 160 Wh` | Imperial: `> 160 Wh` (Not permitted in carry-on or checked baggage.)
+* **E-cigarettes / Vaping Devices**: Metric: `N/A` | Imperial: `N/A` (Must be in carry-on baggage only. Batteries should be removed if possible.)
+* **Smart Luggage (Non-Removable Battery)**: Metric: `> 0.3g Lithium Metal / > 2.7 Wh` | Imperial: `> 0.3g Lithium Metal / > 2.7 Wh` (Not permitted if battery is non-removable and exceeds specified limits. If removable, battery must be removed and carried in carry-on.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=united+airlines+personal+item+bag%2C+united+airlines+carry+on+bag%2C+tsa+approved+lithium+battery+case&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=united+airlines+personal+item+bag%2C+united+airlines+carry+on+bag%2C+tsa+approved+lithium+battery+case&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=united+airlines+personal+item+bag%2C+united+airlines+carry+on+bag%2C+tsa+approved+lithium+battery+case&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=united+airlines+personal+item+bag%2C+united+airlines+carry+on+bag%2C+tsa+approved+lithium+battery+case&tag=autocompat-21
+
+---
