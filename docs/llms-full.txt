@@ -52,3 +52,22 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=Tesla+Model+Y+wiper+blades+26+19+pinch+tab&tag=autocompat-21
 
 ---
+
+## EasyJet (AIRLINES)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/easyjet-baggage-powerbank-guide.html
+- Summary: Comprehensive guide to EasyJet's cabin baggage allowances, including underseat and overhead bags, and power bank regulations for a smooth journey.
+
+### Exact Specifications (Dual Units):
+* **Small Cabin Bag (Underseat)**: Metric: `45 x 36 x 20 cm` | Imperial: `17.7 x 14.2 x 7.9 in` (Included for all passengers. Must fit under the seat in front of you. No specific weight limit, but must be able to lift it yourself.)
+* **Large Cabin Bag (Overhead)**: Metric: `56 x 45 x 25 cm (Max 15 kg)` | Imperial: `22.0 x 17.7 x 9.8 in (Max 33 lbs)` (Requires Up Front or Extra Legroom seat, easyJet Plus card, or FLEXI fare. Stored in overhead locker.)
+* **Power Bank (Up to 100 Wh)**: Metric: `Max 100 Wh` | Imperial: `Max 100 Wh` (Must be carried in cabin baggage only. No airline approval required. Typically corresponds to 27,000 mAh at 3.7V.)
+* **Power Bank (101-160 Wh)**: Metric: `101-160 Wh (Max 2 per passenger)` | Imperial: `101-160 Wh (Max 2 per passenger)` (Requires airline approval. Must be carried in cabin baggage only. Max 2 per passenger. Typically corresponds to 27,001 - 43,243 mAh at 3.7V.)
+* **Power Bank (Over 160 Wh)**: Metric: `Over 160 Wh` | Imperial: `Over 160 Wh` (Not permitted on board as cabin or checked baggage under any circumstances.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=easyjet+underseat+bag+45x36x20%2C+easyjet+cabin+bag+56x45x25&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=easyjet+underseat+bag+45x36x20%2C+easyjet+cabin+bag+56x45x25&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=easyjet+underseat+bag+45x36x20%2C+easyjet+cabin+bag+56x45x25&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=easyjet+underseat+bag+45x36x20%2C+easyjet+cabin+bag+56x45x25&tag=autocompat-21
+
+---

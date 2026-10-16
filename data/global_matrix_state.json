@@ -1,11 +1,13 @@
 {
-  "last_updated": "2026-10-16T02:56:41.861116+00:00",
+  "last_updated": "2026-10-16T08:56:31.113867+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
     "ryanair-cabin-baggage-dimensions",
     "lg-oled-c3-c4-vesa-mount-power",
-    "tesla-model-y-wipers-roof-trunk-dimensions"
+    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "easyjet",
+    "easyjet-baggage-powerbank-guide"
   ],
   "topics_backlog": [
     {
@@ -1280,6 +1282,423 @@
             {
               "q": "Welke kofferbakmat is het beste?",
               "a": "Een vormgegoten 3D mat van TPE beschermt het tapijt en de diepe onderbak."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "easyjet",
+      "slug": "easyjet-baggage-powerbank-guide",
+      "subject": "EasyJet",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Small Cabin Bag (Underseat)",
+          "metric": "45 x 36 x 20 cm",
+          "imperial": "17.7 x 14.2 x 7.9 in",
+          "status": "Compliant",
+          "note": "Included for all passengers. Must fit under the seat in front of you. No specific weight limit, but must be able to lift it yourself.",
+          "item_translations": {
+            "en": "Small Cabin Bag (Underseat)",
+            "de": "Kleine Kabinentasche (Unter dem Sitz)",
+            "fr": "Petit sac cabine (Sous le siège)",
+            "es": "Bolsa de cabina pequeña (Debajo del asiento)",
+            "it": "Borsa piccola da cabina (Sotto il sedile)",
+            "ja": "小型機内持ち込み手荷物（座席下）",
+            "pt": "Pequena Mala de Cabine (Debaixo do Assento)",
+            "nl": "Kleine handbagage (Onder de stoel)"
+          },
+          "note_translations": {
+            "en": "Included for all passengers. Must fit under the seat in front of you. No specific weight limit, but must be able to lift it yourself.",
+            "de": "Für alle Passagiere inbegriffen. Muss unter den Vordersitz passen. Keine spezifische Gewichtsbeschränkung, aber Sie müssen sie selbst heben können.",
+            "fr": "Inclus pour tous les passagers. Doit tenir sous le siège devant vous. Pas de limite de poids spécifique, mais vous devez pouvoir le soulever vous-même.",
+            "es": "Incluido para todos los pasajeros. Debe caber debajo del asiento delantero. Sin límite de peso específico, pero debe poder levantarlo usted mismo.",
+            "it": "Incluso per tutti i passeggeri. Deve stare sotto il sedile di fronte a te. Nessun limite di peso specifico, ma devi essere in grado di sollevarlo da solo.",
+            "ja": "全乗客に無料で含まれます。前の座席の下に収まる必要があります。特定の重量制限はありませんが、ご自身で持ち上げられる必要があります。",
+            "pt": "Incluído para todos os passageiros. Deve caber debaixo do assento à sua frente. Sem limite de peso específico, mas deve ser capaz de o levantar sozinho.",
+            "nl": "Inbegrepen voor alle passagiers. Moet onder de stoel voor u passen. Geen specifiek gewichtslimiet, maar u moet het zelf kunnen tillen."
+          }
+        },
+        {
+          "item": "Large Cabin Bag (Overhead)",
+          "metric": "56 x 45 x 25 cm (Max 15 kg)",
+          "imperial": "22.0 x 17.7 x 9.8 in (Max 33 lbs)",
+          "status": "Compliant (Conditional)",
+          "note": "Requires Up Front or Extra Legroom seat, easyJet Plus card, or FLEXI fare. Stored in overhead locker.",
+          "item_translations": {
+            "en": "Large Cabin Bag (Overhead)",
+            "de": "Große Kabinentasche (Überkopf)",
+            "fr": "Grand sac cabine (Compartiment supérieur)",
+            "es": "Bolsa de cabina grande (Compartimento superior)",
+            "it": "Borsa grande da cabina (Cappelliera)",
+            "ja": "大型機内持ち込み手荷物（頭上棚）",
+            "pt": "Mala de Cabine Grande (Compartimento Superior)",
+            "nl": "Grote handbagage (Bovenhoofdse bagagevak)"
+          },
+          "note_translations": {
+            "en": "Requires Up Front or Extra Legroom seat, easyJet Plus card, or FLEXI fare. Stored in overhead locker.",
+            "de": "Erfordert einen Sitzplatz 'Up Front' oder mit 'Extra Legroom', eine easyJet Plus-Karte oder einen FLEXI-Tarif. Wird im Gepäckfach über dem Sitz verstaut.",
+            "fr": "Nécessite un siège 'Up Front' ou 'Extra Legroom', une carte easyJet Plus ou un tarif FLEXI. Rangé dans le compartiment supérieur.",
+            "es": "Requiere asiento 'Up Front' o 'Extra Legroom', tarjeta easyJet Plus o tarifa FLEXI. Se guarda en el compartimento superior.",
+            "it": "Richiede un posto 'Up Front' o 'Extra Legroom', una carta easyJet Plus o una tariffa FLEXI. Riposto nella cappelliera.",
+            "ja": "「Up Front」または「Extra Legroom」の座席、easyJet Plusカード、またはFLEXI運賃が必要です。頭上の収納棚に収納されます。",
+            "pt": "Requer assento 'Up Front' ou 'Extra Legroom', cartão easyJet Plus ou tarifa FLEXI. Guardado no compartimento superior.",
+            "nl": "Vereist een 'Up Front' of 'Extra Legroom' stoel, easyJet Plus-kaart of FLEXI-tarief. Wordt opgeborgen in het bagagevak boven de stoel."
+          }
+        },
+        {
+          "item": "Power Bank (Up to 100 Wh)",
+          "metric": "Max 100 Wh",
+          "imperial": "Max 100 Wh",
+          "status": "Allowed",
+          "note": "Must be carried in cabin baggage only. No airline approval required. Typically corresponds to 27,000 mAh at 3.7V.",
+          "item_translations": {
+            "en": "Power Bank (Up to 100 Wh)",
+            "de": "Powerbank (Bis zu 100 Wh)",
+            "fr": "Batterie externe (Jusqu'à 100 Wh)",
+            "es": "Batería externa (Hasta 100 Wh)",
+            "it": "Power Bank (Fino a 100 Wh)",
+            "ja": "モバイルバッテリー（100Whまで）",
+            "pt": "Power Bank (Até 100 Wh)",
+            "nl": "Powerbank (Tot 100 Wh)"
+          },
+          "note_translations": {
+            "en": "Must be carried in cabin baggage only. No airline approval required. Typically corresponds to 27,000 mAh at 3.7V.",
+            "de": "Muss ausschließlich im Handgepäck mitgeführt werden. Keine Genehmigung der Fluggesellschaft erforderlich. Entspricht typischerweise 27.000 mAh bei 3,7V.",
+            "fr": "Doit être transporté uniquement en cabine. Aucune approbation de la compagnie aérienne n'est requise. Correspond généralement à 27 000 mAh à 3,7V.",
+            "es": "Debe llevarse únicamente en el equipaje de mano. No se requiere aprobación de la aerolínea. Típicamente corresponde a 27.000 mAh a 3,7V.",
+            "it": "Deve essere trasportato solo nel bagaglio a mano. Non è richiesta l'approvazione della compagnia aerea. Corrisponde tipicamente a 27.000 mAh a 3,7V.",
+            "ja": "機内持ち込み手荷物としてのみ携帯可能です。航空会社の承認は不要です。通常、3.7Vで27,000mAhに相当します。",
+            "pt": "Deve ser transportado apenas na bagagem de cabine. Não é necessária aprovação da companhia aérea. Corresponde tipicamente a 27.000 mAh a 3,7V.",
+            "nl": "Moet alleen in de handbagage worden meegenomen. Geen goedkeuring van de luchtvaartmaatschappij vereist. Komt typisch overeen met 27.000 mAh bij 3,7V."
+          }
+        },
+        {
+          "item": "Power Bank (101-160 Wh)",
+          "metric": "101-160 Wh (Max 2 per passenger)",
+          "imperial": "101-160 Wh (Max 2 per passenger)",
+          "status": "Allowed (With Approval)",
+          "note": "Requires airline approval. Must be carried in cabin baggage only. Max 2 per passenger. Typically corresponds to 27,001 - 43,243 mAh at 3.7V.",
+          "item_translations": {
+            "en": "Power Bank (101-160 Wh)",
+            "de": "Powerbank (101-160 Wh)",
+            "fr": "Batterie externe (101-160 Wh)",
+            "es": "Batería externa (101-160 Wh)",
+            "it": "Power Bank (101-160 Wh)",
+            "ja": "モバイルバッテリー（101-160Wh）",
+            "pt": "Power Bank (101-160 Wh)",
+            "nl": "Powerbank (101-160 Wh)"
+          },
+          "note_translations": {
+            "en": "Requires airline approval. Must be carried in cabin baggage only. Max 2 per passenger. Typically corresponds to 27,001 - 43,243 mAh at 3.7V.",
+            "de": "Erfordert die Genehmigung der Fluggesellschaft. Muss ausschließlich im Handgepäck mitgeführt werden. Maximal 2 pro Passagier. Entspricht typischerweise 27.001 - 43.243 mAh bei 3,7V.",
+            "fr": "Nécessite l'approbation de la compagnie aérienne. Doit être transporté uniquement en cabine. Maximum 2 par passager. Correspond généralement à 27 001 - 43 243 mAh à 3,7V.",
+            "es": "Requiere aprobación de la aerolínea. Debe llevarse únicamente en el equipaje de mano. Máximo 2 por pasajero. Típicamente corresponde a 27.001 - 43.243 mAh a 3,7V.",
+            "it": "Richiede l'approvazione della compagnia aerea. Deve essere trasportato solo nel bagaglio a mano. Massimo 2 per passeggero. Corrisponde tipicamente a 27.001 - 43.243 mAh a 3,7V.",
+            "ja": "航空会社の承認が必要です。機内持ち込み手荷物としてのみ携帯可能です。乗客1人あたり最大2個まで。通常、3.7Vで27,001〜43,243mAhに相当します。",
+            "pt": "Requer aprovação da companhia aérea. Deve ser transportado apenas na bagagem de cabine. Máximo de 2 por passageiro. Corresponde tipicamente a 27.001 - 43.243 mAh a 3,7V.",
+            "nl": "Vereist goedkeuring van de luchtvaartmaatschappij. Moet alleen in de handbagage worden meegenomen. Maximaal 2 per passagier. Komt typisch overeen met 27.001 - 43.243 mAh bij 3,7V."
+          }
+        },
+        {
+          "item": "Power Bank (Over 160 Wh)",
+          "metric": "Over 160 Wh",
+          "imperial": "Over 160 Wh",
+          "status": "Forbidden",
+          "note": "Not permitted on board as cabin or checked baggage under any circumstances.",
+          "item_translations": {
+            "en": "Power Bank (Over 160 Wh)",
+            "de": "Powerbank (Über 160 Wh)",
+            "fr": "Batterie externe (Plus de 160 Wh)",
+            "es": "Batería externa (Más de 160 Wh)",
+            "it": "Power Bank (Oltre 160 Wh)",
+            "ja": "モバイルバッテリー（160Wh超）",
+            "pt": "Power Bank (Mais de 160 Wh)",
+            "nl": "Powerbank (Boven 160 Wh)"
+          },
+          "note_translations": {
+            "en": "Not permitted on board as cabin or checked baggage under any circumstances.",
+            "de": "Unter keinen Umständen als Hand- oder aufgegebenes Gepäck an Bord erlaubt.",
+            "fr": "Non autorisé à bord en tant que bagage cabine ou en soute, quelles que soient les circonstances.",
+            "es": "No permitido a bordo como equipaje de mano o facturado bajo ninguna circunstancia.",
+            "it": "Non consentito a bordo come bagaglio a mano o da stiva in nessuna circostanza.",
+            "ja": "いかなる状況でも、機内持ち込み手荷物または受託手荷物として機内への持ち込みは許可されません。",
+            "pt": "Não permitido a bordo como bagagem de cabine ou de porão em nenhuma circunstância.",
+            "nl": "Onder geen enkele omstandigheid toegestaan aan boord als handbagage of ruimbagage."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "easyjet-baggage-powerbank-guide",
+          "title": "EasyJet Cabin Baggage & Power Bank Guide",
+          "summary": "Comprehensive guide to EasyJet's cabin baggage allowances, including underseat and overhead bags, and power bank regulations for a smooth journey.",
+          "amazon_search_query": "easyjet underseat bag 45x36x20, easyjet cabin bag 56x45x25",
+          "buy_box_title": "Find the Perfect EasyJet Compliant Bag",
+          "buy_box_subtitle": "Shop our selection of bags guaranteed to fit EasyJet's strict dimensions.",
+          "allowed_guidelines": [
+            "One small cabin bag (45x36x20cm / 17.7x14.2x7.9in) per passenger is included for free.",
+            "Larger cabin bags (56x45x25cm / 22.0x17.7x9.8in, max 15kg / 33lbs) are allowed with specific seat bookings or easyJet Plus.",
+            "Power banks up to 100 Wh are generally permitted in cabin baggage.",
+            "Power banks between 101-160 Wh require airline approval and are limited to two per passenger."
+          ],
+          "strict_restrictions": [
+            "Bags exceeding specified dimensions will be subject to additional fees and may be placed in the hold.",
+            "Power banks over 160 Wh are strictly forbidden on board.",
+            "Power banks must always be carried in cabin baggage, never in checked luggage.",
+            "Liquids in cabin baggage must adhere to 100ml container rules and fit in a clear, resealable bag."
+          ],
+          "faqs": [
+            {
+              "q": "What is EasyJet's free cabin bag size?",
+              "a": "EasyJet's free cabin bag (small cabin bag) must not exceed 45 x 36 x 20 cm (17.7 x 14.2 x 7.9 in) including handles and wheels, and must fit under the seat in front of you."
+            },
+            {
+              "q": "Can I bring a large carry-on bag with EasyJet?",
+              "a": "Yes, but only if you've booked an Up Front or Extra Legroom seat, are an easyJet Plus cardholder, or have a FLEXI fare. The maximum size is 56 x 45 x 25 cm (22.0 x 17.7 x 9.8 in) and it must weigh no more than 15 kg (33 lbs)."
+            },
+            {
+              "q": "Are power banks allowed on EasyJet flights?",
+              "a": "Yes, power banks up to 100 Wh are generally allowed in your cabin baggage. Those between 101-160 Wh require airline approval and are limited to two per passenger. Power banks over 160 Wh are forbidden."
+            }
+          ]
+        },
+        "de": {
+          "slug": "easyjet-gepaeck-powerbank-leitfaden",
+          "title": "EasyJet Handgepäck & Powerbank Leitfaden",
+          "summary": "Umfassender Leitfaden zu den Handgepäckbestimmungen von EasyJet, einschließlich Taschen unter dem Sitz und im Gepäckfach, sowie Powerbank-Vorschriften für eine reibungslose Reise.",
+          "amazon_search_query": "easyjet handgepäck unter sitz 45x36x20, easyjet handgepäck 56x45x25",
+          "buy_box_title": "Finden Sie die perfekte EasyJet-konforme Tasche",
+          "buy_box_subtitle": "Entdecken Sie unsere Auswahl an Taschen, die garantiert den strengen EasyJet-Maßen entsprechen.",
+          "allowed_guidelines": [
+            "Eine kleine Kabinentasche (45x36x20cm / 17.7x14.2x7.9in) pro Passagier ist kostenlos enthalten.",
+            "Größere Kabinentaschen (56x45x25cm / 22.0x17.7x9.8in, max. 15kg / 33lbs) sind mit bestimmten Sitzplatzbuchungen oder easyJet Plus erlaubt.",
+            "Powerbanks bis 100 Wh sind im Handgepäck generell erlaubt.",
+            "Powerbanks zwischen 101-160 Wh erfordern die Genehmigung der Fluggesellschaft und sind auf zwei pro Passagier begrenzt."
+          ],
+          "strict_restrictions": [
+            "Taschen, die die angegebenen Maße überschreiten, unterliegen zusätzlichen Gebühren und können im Frachtraum verstaut werden.",
+            "Powerbanks über 160 Wh sind an Bord strengstens verboten.",
+            "Powerbanks müssen immer im Handgepäck mitgeführt werden, niemals im aufgegebenen Gepäck.",
+            "Flüssigkeiten im Handgepäck müssen den 100-ml-Behälterregeln entsprechen und in einem durchsichtigen, wiederverschließbaren Beutel verstaut werden."
+          ],
+          "faqs": [
+            {
+              "q": "Wie groß darf das kostenlose Handgepäck bei EasyJet sein?",
+              "a": "Das kostenlose Handgepäck (kleine Kabinentasche) von EasyJet darf 45 x 36 x 20 cm (17.7 x 14.2 x 7.9 Zoll) einschließlich Griffen und Rädern nicht überschreiten und muss unter den Vordersitz passen."
+            },
+            {
+              "q": "Kann ich ein großes Handgepäckstück bei EasyJet mitnehmen?",
+              "a": "Ja, aber nur, wenn Sie einen Sitzplatz 'Up Front' oder mit 'Extra Legroom' gebucht haben, Inhaber einer easyJet Plus-Karte sind oder einen FLEXI-Tarif haben. Die maximale Größe beträgt 56 x 45 x 25 cm (22.0 x 17.7 x 9.8 Zoll) und es darf nicht mehr als 15 kg (33 lbs) wiegen."
+            },
+            {
+              "q": "Sind Powerbanks auf EasyJet-Flügen erlaubt?",
+              "a": "Ja, Powerbanks bis 100 Wh sind im Handgepäck generell erlaubt. Solche zwischen 101-160 Wh erfordern die Genehmigung der Fluggesellschaft und sind auf zwei pro Passagier begrenzt. Powerbanks über 160 Wh sind verboten."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "easyjet-bagages-cabine-batterie-externe-guide",
+          "title": "Guide EasyJet Bagages Cabine & Batteries Externes",
+          "summary": "Guide complet des franchises de bagages cabine d'EasyJet, y compris les sacs sous le siège et en compartiment supérieur, et les réglementations sur les batteries externes pour un voyage en toute sérénité.",
+          "amazon_search_query": "easyjet sac sous siege 45x36x20, easyjet sac cabine 56x45x25",
+          "buy_box_title": "Trouvez le sac parfait conforme à EasyJet",
+          "buy_box_subtitle": "Découvrez notre sélection de sacs garantis pour respecter les dimensions strictes d'EasyJet.",
+          "allowed_guidelines": [
+            "Un petit sac cabine (45x36x20cm / 17.7x14.2x7.9in) par passager est inclus gratuitement.",
+            "Les grands sacs cabine (56x45x25cm / 22.0x17.7x9.8in, max 15kg / 33lbs) sont autorisés avec des réservations de sièges spécifiques ou la carte easyJet Plus.",
+            "Les batteries externes jusqu'à 100 Wh sont généralement autorisées en cabine.",
+            "Les batteries externes entre 101 et 160 Wh nécessitent l'approbation de la compagnie aérienne et sont limitées à deux par passager."
+          ],
+          "strict_restrictions": [
+            "Les sacs dépassant les dimensions spécifiées seront soumis à des frais supplémentaires et pourront être placés en soute.",
+            "Les batteries externes de plus de 160 Wh sont strictement interdites à bord.",
+            "Les batteries externes doivent toujours être transportées en cabine, jamais en soute.",
+            "Les liquides en cabine doivent respecter la règle des contenants de 100 ml et être placés dans un sac transparent refermable."
+          ],
+          "faqs": [
+            {
+              "q": "Quelle est la taille du sac cabine gratuit d'EasyJet ?",
+              "a": "Le sac cabine gratuit d'EasyJet (petit sac cabine) ne doit pas dépasser 45 x 36 x 20 cm (17.7 x 14.2 x 7.9 pouces) y compris les poignées et les roues, et doit tenir sous le siège devant vous."
+            },
+            {
+              "q": "Puis-je apporter un grand sac de cabine avec EasyJet ?",
+              "a": "Oui, mais uniquement si vous avez réservé un siège 'Up Front' ou 'Extra Legroom', si vous êtes titulaire d'une carte easyJet Plus, ou si vous avez un tarif FLEXI. La taille maximale est de 56 x 45 x 25 cm (22.0 x 17.7 x 9.8 pouces) et il ne doit pas peser plus de 15 kg (33 lbs)."
+            },
+            {
+              "q": "Les batteries externes sont-elles autorisées sur les vols EasyJet ?",
+              "a": "Oui, les batteries externes jusqu'à 100 Wh sont généralement autorisées dans votre bagage cabine. Celles entre 101 et 160 Wh nécessitent l'approbation de la compagnie aérienne et sont limitées à deux par passager. Les batteries externes de plus de 160 Wh sont interdites."
+            }
+          ]
+        },
+        "es": {
+          "slug": "easyjet-equipaje-mano-powerbank-guia",
+          "title": "Guía EasyJet Equipaje de Mano y Power Banks",
+          "summary": "Guía completa sobre las franquicias de equipaje de mano de EasyJet, incluyendo bolsas debajo del asiento y en compartimentos superiores, y regulaciones de power banks para un viaje sin problemas.",
+          "amazon_search_query": "easyjet bolsa debajo asiento 45x36x20, easyjet equipaje cabina 56x45x25",
+          "buy_box_title": "Encuentra la bolsa perfecta compatible con EasyJet",
+          "buy_box_subtitle": "Compra nuestra selección de bolsas garantizadas para cumplir con las estrictas dimensiones de EasyJet.",
+          "allowed_guidelines": [
+            "Una bolsa de cabina pequeña (45x36x20cm / 17.7x14.2x7.9in) por pasajero está incluida de forma gratuita.",
+            "Las bolsas de cabina grandes (56x45x25cm / 22.0x17.7x9.8in, máx. 15kg / 33lbs) están permitidas con reservas de asientos específicos o easyJet Plus.",
+            "Los power banks de hasta 100 Wh generalmente están permitidos en el equipaje de mano.",
+            "Los power banks entre 101-160 Wh requieren aprobación de la aerolínea y están limitados a dos por pasajero."
+          ],
+          "strict_restrictions": [
+            "Las bolsas que excedan las dimensiones especificadas estarán sujetas a tarifas adicionales y pueden ser colocadas en la bodega.",
+            "Los power banks de más de 160 Wh están estrictamente prohibidos a bordo.",
+            "Los power banks siempre deben llevarse en el equipaje de mano, nunca en el equipaje facturado.",
+            "Los líquidos en el equipaje de mano deben cumplir con las reglas de envases de 100 ml y caber en una bolsa transparente y resellable."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuál es el tamaño del equipaje de mano gratuito de EasyJet?",
+              "a": "La bolsa de cabina gratuita de EasyJet (bolsa de cabina pequeña) no debe exceder los 45 x 36 x 20 cm (17.7 x 14.2 x 7.9 pulgadas) incluyendo asas y ruedas, y debe caber debajo del asiento delantero."
+            },
+            {
+              "q": "¿Puedo llevar una bolsa de mano grande con EasyJet?",
+              "a": "Sí, pero solo si ha reservado un asiento 'Up Front' o 'Extra Legroom', es titular de una tarjeta easyJet Plus o tiene una tarifa FLEXI. El tamaño máximo es de 56 x 45 x 25 cm (22.0 x 17.7 x 9.8 pulgadas) y no debe pesar más de 15 kg (33 lbs)."
+            },
+            {
+              "q": "¿Están permitidos los power banks en los vuelos de EasyJet?",
+              "a": "Sí, los power banks de hasta 100 Wh generalmente están permitidos en su equipaje de mano. Aquellos entre 101-160 Wh requieren aprobación de la aerolínea y están limitados a dos por pasajero. Los power banks de más de 160 Wh están prohibidos."
+            }
+          ]
+        },
+        "it": {
+          "slug": "easyjet-bagaglio-a-mano-power-bank-guida",
+          "title": "Guida EasyJet Bagaglio a Mano e Power Bank",
+          "summary": "Guida completa alle franchigie per il bagaglio a mano di EasyJet, inclusi i bagagli sotto il sedile e nelle cappelliere, e le normative sui power bank per un viaggio senza intoppi.",
+          "amazon_search_query": "easyjet borsa sotto sedile 45x36x20, easyjet bagaglio a mano 56x45x25",
+          "buy_box_title": "Trova la borsa perfetta conforme a EasyJet",
+          "buy_box_subtitle": "Acquista la nostra selezione di borse garantite per rispettare le dimensioni rigorose di EasyJet.",
+          "allowed_guidelines": [
+            "Un piccolo bagaglio a mano (45x36x20cm / 17.7x14.2x7.9in) per passeggero è incluso gratuitamente.",
+            "I bagagli a mano più grandi (56x45x25cm / 22.0x17.7x9.8in, max 15kg / 33lbs) sono consentiti con prenotazioni di posti specifici o easyJet Plus.",
+            "I power bank fino a 100 Wh sono generalmente consentiti nel bagaglio a mano.",
+            "I power bank tra 101-160 Wh richiedono l'approvazione della compagnia aerea e sono limitati a due per passeggero."
+          ],
+          "strict_restrictions": [
+            "I bagagli che superano le dimensioni specificate saranno soggetti a costi aggiuntivi e potrebbero essere collocati nella stiva.",
+            "I power bank oltre 160 Wh sono severamente vietati a bordo.",
+            "I power bank devono essere sempre trasportati nel bagaglio a mano, mai nel bagaglio da stiva.",
+            "I liquidi nel bagaglio a mano devono rispettare le regole dei contenitori da 100 ml e stare in una busta trasparente richiudibile."
+          ],
+          "faqs": [
+            {
+              "q": "Qual è la dimensione del bagaglio a mano gratuito di EasyJet?",
+              "a": "Il bagaglio a mano gratuito di EasyJet (piccolo bagaglio a mano) non deve superare i 45 x 36 x 20 cm (17.7 x 14.2 x 7.9 pollici) inclusi manici e ruote, e deve stare sotto il sedile di fronte a te."
+            },
+            {
+              "q": "Posso portare un bagaglio a mano grande con EasyJet?",
+              "a": "Sì, ma solo se hai prenotato un posto 'Up Front' o 'Extra Legroom', sei titolare di una carta easyJet Plus o hai una tariffa FLEXI. La dimensione massima è di 56 x 45 x 25 cm (22.0 x 17.7 x 9.8 pollici) e non deve pesare più di 15 kg (33 lbs)."
+            },
+            {
+              "q": "I power bank sono ammessi sui voli EasyJet?",
+              "a": "Sì, i power bank fino a 100 Wh sono generalmente ammessi nel tuo bagaglio a mano. Quelli tra 101-160 Wh richiedono l'approvazione della compagnia aerea e sono limitati a due per passeggero. I power bank oltre 160 Wh sono vietati."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "easyjet-kinae-temochi-mobile-battery-guide",
+          "title": "EasyJet 機内持ち込み手荷物＆モバイルバッテリーガイド",
+          "summary": "EasyJetの機内持ち込み手荷物（座席下および頭上棚）の許容量と、モバイルバッテリーの規制に関する包括的なガイドで、スムーズな旅をサポートします。",
+          "amazon_search_query": "easyjet 座席下バッグ 45x36x20, easyjet 機内持ち込みバッグ 56x45x25",
+          "buy_box_title": "EasyJetに適合する完璧なバッグを見つける",
+          "buy_box_subtitle": "EasyJetの厳格な寸法に適合することが保証されたバッグのセレクションをご覧ください。",
+          "allowed_guidelines": [
+            "小型機内持ち込み手荷物（45x36x20cm / 17.7x14.2x7.9in）は、全乗客に無料で含まれています。",
+            "大型機内持ち込み手荷物（56x45x25cm / 22.0x17.7x9.8in、最大15kg / 33lbs）は、特定の座席予約またはeasyJet Plusカード所有者のみ許可されます。",
+            "モバイルバッテリーは100Whまでであれば、通常機内持ち込み手荷物として許可されます。",
+            "モバイルバッテリーは101～160Whの場合、航空会社の承認が必要で、乗客1人あたり2個までに制限されます。"
+          ],
+          "strict_restrictions": [
+            "指定された寸法を超える手荷物は追加料金の対象となり、預け入れ手荷物として扱われる場合があります。",
+            "160Whを超えるモバイルバッテリーは機内への持ち込みが厳しく禁止されています。",
+            "モバイルバッテリーは常に機内持ち込み手荷物として携帯し、預け入れ手荷物には入れないでください。",
+            "機内持ち込み手荷物の液体は、100ml以下の容器に入れ、透明な再封可能な袋に入れる必要があります。"
+          ],
+          "faqs": [
+            {
+              "q": "EasyJetの無料機内持ち込み手荷物のサイズは？",
+              "a": "EasyJetの無料機内持ち込み手荷物（小型機内持ち込み手荷物）は、ハンドルと車輪を含めて45 x 36 x 20 cm（17.7 x 14.2 x 7.9インチ）を超えてはならず、前の座席の下に収まる必要があります。"
+            },
+            {
+              "q": "EasyJetで大型の機内持ち込み手荷物を持ち込めますか？",
+              "a": "はい、ただし「Up Front」または「Extra Legroom」の座席を予約している場合、easyJet Plusカードをお持ちの場合、またはFLEXI運賃の場合に限ります。最大サイズは56 x 45 x 25 cm（22.0 x 17.7 x 9.8インチ）で、重さは15 kg（33 lbs）を超えてはなりません。"
+            },
+            {
+              "q": "EasyJetのフライトでモバイルバッテリーは許可されていますか？",
+              "a": "はい、100Whまでのモバイルバッテリーは通常、機内持ち込み手荷物として許可されています。101～160Whのものは航空会社の承認が必要で、乗客1人あたり2個までに制限されます。160Whを超えるモバイルバッテリーは禁止されています。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "easyjet-bagagem-cabine-power-bank-guia",
+          "title": "Guia EasyJet Bagagem de Cabine e Power Banks",
+          "summary": "Guia completo sobre as franquias de bagagem de cabine da EasyJet, incluindo malas debaixo do assento e no compartimento superior, e regulamentos de power banks para uma viagem tranquila.",
+          "amazon_search_query": "easyjet mala debaixo assento 45x36x20, easyjet mala cabine 56x45x25",
+          "buy_box_title": "Encontre a Mala Perfeita Compatível com EasyJet",
+          "buy_box_subtitle": "Compre a nossa seleção de malas garantidas para se ajustarem às dimensões rigorosas da EasyJet.",
+          "allowed_guidelines": [
+            "Uma pequena mala de cabine (45x36x20cm / 17.7x14.2x7.9in) por passageiro está incluída gratuitamente.",
+            "Malas de cabine maiores (56x45x25cm / 22.0x17.7x9.8in, máx. 15kg / 33lbs) são permitidas com reservas de assentos específicos ou easyJet Plus.",
+            "Power banks até 100 Wh são geralmente permitidos na bagagem de cabine.",
+            "Power banks entre 101-160 Wh requerem aprovação da companhia aérea e estão limitados a dois por passageiro."
+          ],
+          "strict_restrictions": [
+            "Malas que excedam as dimensões especificadas estarão sujeitas a taxas adicionais e podem ser colocadas no porão.",
+            "Power banks com mais de 160 Wh são estritamente proibidos a bordo.",
+            "Power banks devem ser sempre transportados na bagagem de cabine, nunca na bagagem despachada.",
+            "Líquidos na bagagem de cabine devem aderir às regras de recipientes de 100ml e caber num saco transparente e resselável."
+          ],
+          "faqs": [
+            {
+              "q": "Qual é o tamanho da mala de cabine gratuita da EasyJet?",
+              "a": "A mala de cabine gratuita da EasyJet (pequena mala de cabine) não deve exceder 45 x 36 x 20 cm (17.7 x 14.2 x 7.9 polegadas) incluindo pegas e rodas, e deve caber debaixo do assento à sua frente."
+            },
+            {
+              "q": "Posso levar uma mala de mão grande com a EasyJet?",
+              "a": "Sim, mas apenas se tiver reservado um assento 'Up Front' ou 'Extra Legroom', for titular de um cartão easyJet Plus, ou tiver uma tarifa FLEXI. O tamanho máximo é de 56 x 45 x 25 cm (22.0 x 17.7 x 9.8 polegadas) e não deve pesar mais de 15 kg (33 lbs)."
+            },
+            {
+              "q": "Os power banks são permitidos em voos da EasyJet?",
+              "a": "Sim, power banks até 100 Wh são geralmente permitidos na sua bagagem de cabine. Aqueles entre 101-160 Wh requerem aprovação da companhia aérea e estão limitados a dois por passageiro. Power banks com mais de 160 Wh são proibidos."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "easyjet-handbagage-powerbank-gids",
+          "title": "EasyJet Handbagage & Powerbank Gids",
+          "summary": "Uitgebreide gids voor EasyJet's handbagagevrijstellingen, inclusief tassen onder de stoel en in het bagagevak, en powerbankvoorschriften voor een soepele reis.",
+          "amazon_search_query": "easyjet tas onder stoel 45x36x20, easyjet handbagage 56x45x25",
+          "buy_box_title": "Vind de perfecte EasyJet-conforme tas",
+          "buy_box_subtitle": "Bekijk onze selectie tassen die gegarandeerd voldoen aan de strikte afmetingen van EasyJet.",
+          "allowed_guidelines": [
+            "Eén kleine handbagage (45x36x20cm / 17.7x14.2x7.9in) per passagier is gratis inbegrepen.",
+            "Grotere handbagage (56x45x25cm / 22.0x17.7x9.8in, max 15kg / 33lbs) is toegestaan bij specifieke stoelboekingen of easyJet Plus.",
+            "Powerbanks tot 100 Wh zijn over het algemeen toegestaan in de handbagage.",
+            "Powerbanks tussen 101-160 Wh vereisen goedkeuring van de luchtvaartmaatschappij en zijn beperkt tot twee per passagier."
+          ],
+          "strict_restrictions": [
+            "Tassen die de gespecificeerde afmetingen overschrijden, zijn onderworpen aan extra kosten en kunnen in het ruim worden geplaatst.",
+            "Powerbanks van meer dan 160 Wh zijn strikt verboden aan boord.",
+            "Powerbanks moeten altijd in de handbagage worden meegenomen, nooit in ruimbagage.",
+            "Vloeistoffen in handbagage moeten voldoen aan de 100 ml-regels voor containers en in een doorzichtige, hersluitbare zak passen."
+          ],
+          "faqs": [
+            {
+              "q": "Wat is de gratis handbagagegrootte van EasyJet?",
+              "a": "De gratis handbagage (kleine handbagage) van EasyJet mag niet groter zijn dan 45 x 36 x 20 cm (17.7 x 14.2 x 7.9 inch) inclusief handvatten en wielen, en moet onder de stoel voor u passen."
+            },
+            {
+              "q": "Kan ik een grote handbagage meenemen met EasyJet?",
+              "a": "Ja, maar alleen als u een 'Up Front' of 'Extra Legroom' stoel heeft geboekt, een easyJet Plus-kaarthouder bent of een FLEXI-tarief heeft. De maximale afmeting is 56 x 45 x 25 cm (22.0 x 17.7 x 9.8 inch) en het mag niet meer wegen dan 15 kg (33 lbs)."
+            },
+            {
+              "q": "Zijn powerbanks toegestaan op EasyJet-vluchten?",
+              "a": "Ja, powerbanks tot 100 Wh zijn over het algemeen toegestaan in uw handbagage. Die tussen 101-160 Wh vereisen goedkeuring van de luchtvaartmaatschappij en zijn beperkt tot twee per passagier. Powerbanks van meer dan 160 Wh zijn verboden."
             }
           ]
         }
