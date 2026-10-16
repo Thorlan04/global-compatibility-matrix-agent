@@ -22,3 +22,4 @@
 - [LG OLED C3 & C4 (42 to 83 inch) VESA Mount & Screw Dimensions](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/lg-oled-c3-c4-vesa-mount-power.html): Hardware | VESA 300 x 200 mm (M6 screws, 12-14 mm depth) / 11.8 x 7.8 in (M6 screws, 0.47-0.55 in depth)
 - [Tesla Model Y Wiper Blades, Roof Rack & Cargo Dimensions](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/tesla-model-y-wipers-roof-trunk-dimensions.html): Auto | 650 mm (Driver) + 475 mm (Passenger) [Pinch Tab 19mm] / 26 inches (Driver) + 19 inches (Passenger)
 - [EasyJet](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/easyjet-baggage-powerbank-guide.html): Airlines | 45 x 36 x 20 cm / 17.7 x 14.2 x 7.9 in
+- [Delta Air Lines](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/delta-air-lines-compatibility-matrix.html): Airlines | 56 x 36 x 23 cm / 22 x 14 x 9 in

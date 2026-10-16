@@ -1,13 +1,15 @@
 {
-  "last_updated": "2026-10-16T08:56:31.113867+00:00",
+  "last_updated": "2026-10-16T10:37:16.293567+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "ryanair-cabin-baggage-dimensions",
     "lg-oled-c3-c4-vesa-mount-power",
-    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "delta-air-lines-compatibility-matrix",
     "easyjet",
-    "easyjet-baggage-powerbank-guide"
+    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "delta",
+    "easyjet-baggage-powerbank-guide",
+    "ryanair-cabin-baggage-dimensions"
   ],
   "topics_backlog": [
     {
@@ -1699,6 +1701,488 @@
             {
               "q": "Zijn powerbanks toegestaan op EasyJet-vluchten?",
               "a": "Ja, powerbanks tot 100 Wh zijn over het algemeen toegestaan in uw handbagage. Die tussen 101-160 Wh vereisen goedkeuring van de luchtvaartmaatschappij en zijn beperkt tot twee per passagier. Powerbanks van meer dan 160 Wh zijn verboden."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "delta",
+      "slug": "delta-air-lines-compatibility-matrix",
+      "subject": "Delta Air Lines",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Carry-on Baggage Dimensions",
+          "metric": "56 x 36 x 23 cm",
+          "imperial": "22 x 14 x 9 in",
+          "status": "Verified",
+          "note": "Includes handles and wheels. Must fit in the overhead bin or under the seat. No weight limit unless specified for certain international routes.",
+          "item_translations": {
+            "en": "Carry-on Baggage Dimensions",
+            "de": "Handgepäck Abmessungen",
+            "fr": "Dimensions du bagage cabine",
+            "es": "Dimensiones del equipaje de mano",
+            "it": "Dimensioni del bagaglio a mano",
+            "ja": "機内持ち込み手荷物の寸法",
+            "pt": "Dimensões da Bagagem de Mão",
+            "nl": "Afmetingen handbagage"
+          },
+          "note_translations": {
+            "en": "Includes handles and wheels. Must fit in the overhead bin or under the seat. No weight limit unless specified for certain international routes.",
+            "de": "Inklusive Griffe und Rollen. Muss in das Gepäckfach über dem Sitz oder unter den Vordersitz passen. Keine Gewichtsbeschränkung, es sei denn, dies ist für bestimmte internationale Strecken angegeben.",
+            "fr": "Comprend les poignées et les roues. Doit tenir dans le compartiment supérieur ou sous le siège. Aucune limite de poids sauf indication contraire pour certaines routes internationales.",
+            "es": "Incluye asas y ruedas. Debe caber en el compartimento superior o debajo del asiento. Sin límite de peso a menos que se especifique para ciertas rutas internacionales.",
+            "it": "Include maniglie e ruote. Deve entrare nella cappelliera o sotto il sedile. Nessun limite di peso a meno che non sia specificato per alcune rotte internazionali.",
+            "ja": "ハンドルと車輪を含む。頭上の収納棚または前の座席の下に収まる必要があります。特定の国際線で指定されていない限り、重量制限はありません。",
+            "pt": "Inclui alças e rodas. Deve caber no compartimento superior ou debaixo do assento. Sem limite de peso, a menos que especificado para certas rotas internacionais.",
+            "nl": "Inclusief handvatten en wielen. Moet in het bagagevak boven de stoel of onder de stoel passen. Geen gewichtslimiet, tenzij gespecificeerd voor bepaalde internationale routes."
+          }
+        },
+        {
+          "item": "Personal Item Dimensions",
+          "metric": "45 x 35 x 20 cm",
+          "imperial": "18 x 14 x 8 in",
+          "status": "Verified",
+          "note": "Must fit under the seat in front of you. Examples include a purse, briefcase, laptop bag, or small backpack. Dimensions are a common guideline as Delta does not publish exact figures.",
+          "item_translations": {
+            "en": "Personal Item Dimensions",
+            "de": "Abmessungen des persönlichen Gegenstands",
+            "fr": "Dimensions de l'article personnel",
+            "es": "Dimensiones del artículo personal",
+            "it": "Dimensioni dell'articolo personale",
+            "ja": "身の回り品の寸法",
+            "pt": "Dimensões do Item Pessoal",
+            "nl": "Afmetingen persoonlijk item"
+          },
+          "note_translations": {
+            "en": "Must fit under the seat in front of you. Examples include a purse, briefcase, laptop bag, or small backpack. Dimensions are a common guideline as Delta does not publish exact figures.",
+            "de": "Muss unter den Vordersitz passen. Beispiele sind eine Handtasche, Aktentasche, Laptoptasche oder ein kleiner Rucksack. Die Abmessungen sind eine allgemeine Richtlinie, da Delta keine genauen Angaben veröffentlicht.",
+            "fr": "Doit tenir sous le siège devant vous. Les exemples incluent un sac à main, une mallette, un sac pour ordinateur portable ou un petit sac à dos. Les dimensions sont une ligne directrice courante car Delta ne publie pas de chiffres exacts.",
+            "es": "Debe caber debajo del asiento delantero. Ejemplos incluyen un bolso, maletín, bolsa para portátil o una mochila pequeña. Las dimensiones son una guía común ya que Delta no publica cifras exactas.",
+            "it": "Deve entrare sotto il sedile di fronte a te. Esempi includono una borsa, una valigetta, una borsa per laptop o un piccolo zaino. Le dimensioni sono una linea guida comune poiché Delta non pubblica cifre esatte.",
+            "ja": "前の座席の下に収まる必要があります。例としては、財布、ブリーフケース、ラップトップバッグ、または小さなバックパックなどがあります。デルタ航空は正確な数値を公表していないため、寸法は一般的な目安です。",
+            "pt": "Deve caber debaixo do assento à sua frente. Exemplos incluem uma bolsa, pasta, bolsa para laptop ou uma pequena mochila. As dimensões são uma diretriz comum, pois a Delta não publica números exatos.",
+            "nl": "Moet onder de stoel voor u passen. Voorbeelden zijn een handtas, aktetas, laptoptas of een kleine rugzak. De afmetingen zijn een algemene richtlijn, aangezien Delta geen exacte cijfers publiceert."
+          }
+        },
+        {
+          "item": "Pet in Cabin Carrier Dimensions (Soft-sided)",
+          "metric": "45.7 x 28 x 28 cm",
+          "imperial": "18 x 11 x 11 in",
+          "status": "Verified",
+          "note": "Must fit under the seat in front of you. Pet must be able to stand up and turn around comfortably. Max dimensions may vary slightly by aircraft type and specific route. Prior approval required.",
+          "item_translations": {
+            "en": "Pet in Cabin Carrier Dimensions (Soft-sided)",
+            "de": "Haustier in Kabine Transportbox Abmessungen (weich)",
+            "fr": "Dimensions de la cage de transport pour animaux en cabine (souple)",
+            "es": "Dimensiones del transportín para mascotas en cabina (blando)",
+            "it": "Dimensioni del trasportino per animali in cabina (morbido)",
+            "ja": "機内持ち込みペットキャリーの寸法（ソフトタイプ）",
+            "pt": "Dimensões da Transportadora de Animais na Cabine (flexível)",
+            "nl": "Afmetingen huisdier draagtas in cabine (zacht)"
+          },
+          "note_translations": {
+            "en": "Must fit under the seat in front of you. Pet must be able to stand up and turn around comfortably. Max dimensions may vary slightly by aircraft type and specific route. Prior approval required.",
+            "de": "Muss unter den Vordersitz passen. Das Haustier muss bequem aufstehen und sich umdrehen können. Die maximalen Abmessungen können je nach Flugzeugtyp und spezifischer Route leicht variieren. Vorherige Genehmigung erforderlich.",
+            "fr": "Doit tenir sous le siège devant vous. L'animal doit pouvoir se tenir debout et se retourner confortablement. Les dimensions maximales peuvent varier légèrement selon le type d'avion et l'itinéraire spécifique. Approbation préalable requise.",
+            "es": "Debe caber debajo del asiento delantero. La mascota debe poder ponerse de pie y girar cómodamente. Las dimensiones máximas pueden variar ligeramente según el tipo de aeronave y la ruta específica. Se requiere aprobación previa.",
+            "it": "Deve entrare sotto il sedile di fronte a te. L'animale deve essere in grado di alzarsi e girarsi comodamente. Le dimensioni massime possono variare leggermente a seconda del tipo di aeromobile e della rotta specifica. È richiesta l'approvazione preventiva.",
+            "ja": "前の座席の下に収まる必要があります。ペットは快適に立ち上がり、向きを変えることができなければなりません。最大寸法は航空機の種類や特定の路線によって若干異なる場合があります。事前の承認が必要です。",
+            "pt": "Deve caber debaixo do assento à sua frente. O animal deve ser capaz de se levantar e virar confortavelmente. As dimensões máximas podem variar ligeiramente dependendo do tipo de aeronave e da rota específica. Aprovação prévia necessária.",
+            "nl": "Moet onder de stoel voor u passen. Het huisdier moet comfortabel kunnen staan en zich omdraaien. Maximale afmetingen kunnen enigszins variëren per vliegtuigtype en specifieke route. Voorafgaande goedkeuring vereist."
+          }
+        },
+        {
+          "item": "Pet in Cabin Carrier Dimensions (Hard-sided)",
+          "metric": "45.7 x 30.5 x 28 cm",
+          "imperial": "18 x 12 x 11 in",
+          "status": "Verified",
+          "note": "Must fit under the seat in front of you. Pet must be able to stand up and turn around comfortably. Max dimensions may vary slightly by aircraft type and specific route. Prior approval required.",
+          "item_translations": {
+            "en": "Pet in Cabin Carrier Dimensions (Hard-sided)",
+            "de": "Haustier in Kabine Transportbox Abmessungen (hart)",
+            "fr": "Dimensions de la cage de transport pour animaux en cabine (rigide)",
+            "es": "Dimensiones del transportín para mascotas en cabina (rígido)",
+            "it": "Dimensioni del trasportino per animali in cabina (rigido)",
+            "ja": "機内持ち込みペットキャリーの寸法（ハードタイプ）",
+            "pt": "Dimensões da Transportadora de Animais na Cabine (rígida)",
+            "nl": "Afmetingen huisdier draagtas in cabine (hard)"
+          },
+          "note_translations": {
+            "en": "Must fit under the seat in front of you. Pet must be able to stand up and turn around comfortably. Max dimensions may vary slightly by aircraft type and specific route. Prior approval required.",
+            "de": "Muss unter den Vordersitz passen. Das Haustier muss bequem aufstehen und sich umdrehen können. Die maximalen Abmessungen können je nach Flugzeugtyp und spezifischer Route leicht variieren. Vorherige Genehmigung erforderlich.",
+            "fr": "Doit tenir sous le siège devant vous. L'animal doit pouvoir se tenir debout et se retourner confortablement. Les dimensions maximales peuvent varier légèrement selon le type d'avion et l'itinéraire spécifique. Approbation préalable requise.",
+            "es": "Debe caber debajo del asiento delantero. La mascota debe poder ponerse de pie y girar cómodamente. Las dimensiones máximas pueden variar ligeramente según el tipo de aeronave y la ruta específica. Se requiere aprobación previa.",
+            "it": "Deve entrare sotto il sedile di fronte a te. L'animale deve essere in grado di alzarsi e girarsi comodamente. Le dimensioni massime possono variare leggermente a seconda del tipo di aeromobile e della rotta specifica. È richiesta l'approvazione preventiva.",
+            "ja": "前の座席の下に収まる必要があります。ペットは快適に立ち上がり、向きを変えることができなければなりません。最大寸法は航空機の種類や特定の路線によって若干異なる場合があります。事前の承認が必要です。",
+            "pt": "Deve caber debaixo do assento à sua frente. O animal deve ser capaz de se levantar e virar confortavelmente. As dimensões máximas podem variar ligeiramente dependendo do tipo de aeronave e da rota específica. Aprovação prévia necessária.",
+            "nl": "Moet onder de stoel voor u passen. Het huisdier moet comfortabel kunnen staan en zich omdraaien. Maximale afmetingen kunnen enigszins variëren per vliegtuigtype en specifieke route. Voorafgaande goedkeuring vereist."
+          }
+        },
+        {
+          "item": "Spare Lithium-ion Batteries (≤ 100 Wh)",
+          "metric": "Max 100 Wh",
+          "imperial": "Max 100 Wh",
+          "status": "Compliant",
+          "note": "Carry-on baggage only. Up to 20 spare batteries per passenger. Must be protected from short circuit.",
+          "item_translations": {
+            "en": "Spare Lithium-ion Batteries (≤ 100 Wh)",
+            "de": "Ersatz-Lithium-Ionen-Batterien (≤ 100 Wh)",
+            "fr": "Piles au lithium-ion de rechange (≤ 100 Wh)",
+            "es": "Baterías de iones de litio de repuesto (≤ 100 Wh)",
+            "it": "Batterie agli ioni di litio di ricambio (≤ 100 Wh)",
+            "ja": "予備のリチウムイオン電池（100 Wh以下）",
+            "pt": "Baterias de Íon-Lítio Sobressalentes (≤ 100 Wh)",
+            "nl": "Reserve lithium-ion batterijen (≤ 100 Wh)"
+          },
+          "note_translations": {
+            "en": "Carry-on baggage only. Up to 20 spare batteries per passenger. Must be protected from short circuit.",
+            "de": "Nur im Handgepäck. Bis zu 20 Ersatzbatterien pro Passagier. Muss vor Kurzschluss geschützt sein.",
+            "fr": "Uniquement en bagage à main. Jusqu'à 20 batteries de rechange par passager. Doivent être protégées contre les courts-circuits.",
+            "es": "Solo en equipaje de mano. Hasta 20 baterías de repuesto por pasajero. Deben estar protegidas contra cortocircuitos.",
+            "it": "Solo nel bagaglio a mano. Fino a 20 batterie di ricambio per passeggero. Devono essere protette da cortocircuiti.",
+            "ja": "機内持ち込み手荷物のみ。乗客1人あたり最大20個の予備バッテリー。短絡から保護されている必要があります。",
+            "pt": "Apenas na bagagem de mão. Até 20 baterias sobressalentes por passageiro. Devem ser protegidas contra curto-circuito.",
+            "nl": "Alleen in handbagage. Maximaal 20 reservebatterijen per passagier. Moet beschermd zijn tegen kortsluiting."
+          }
+        },
+        {
+          "item": "Spare Lithium-ion Batteries (101-160 Wh)",
+          "metric": "101-160 Wh",
+          "imperial": "101-160 Wh",
+          "status": "Compliant (with restrictions)",
+          "note": "Carry-on baggage only. Airline approval required. Max 2 spare batteries per passenger. Must be protected from short circuit.",
+          "item_translations": {
+            "en": "Spare Lithium-ion Batteries (101-160 Wh)",
+            "de": "Ersatz-Lithium-Ionen-Batterien (101-160 Wh)",
+            "fr": "Piles au lithium-ion de rechange (101-160 Wh)",
+            "es": "Baterías de iones de litio de repuesto (101-160 Wh)",
+            "it": "Batterie agli ioni di litio di ricambio (101-160 Wh)",
+            "ja": "予備のリチウムイオン電池（101-160 Wh）",
+            "pt": "Baterias de Íon-Lítio Sobressalentes (101-160 Wh)",
+            "nl": "Reserve lithium-ion batterijen (101-160 Wh)"
+          },
+          "note_translations": {
+            "en": "Carry-on baggage only. Airline approval required. Max 2 spare batteries per passenger. Must be protected from short circuit.",
+            "de": "Nur im Handgepäck. Genehmigung der Fluggesellschaft erforderlich. Maximal 2 Ersatzbatterien pro Passagier. Muss vor Kurzschluss geschützt sein.",
+            "fr": "Uniquement en bagage à main. Approbation de la compagnie aérienne requise. Maximum 2 batteries de rechange par passager. Doivent être protégées contre les courts-circuits.",
+            "es": "Solo en equipaje de mano. Se requiere aprobación de la aerolínea. Máximo 2 baterías de repuesto por pasajero. Deben estar protegidas contra cortocircuitos.",
+            "it": "Solo nel bagaglio a mano. Richiesta l'approvazione della compagnia aerea. Massimo 2 batterie di ricambio per passeggero. Devono essere protette da cortocircuiti.",
+            "ja": "機内持ち込み手荷物のみ。航空会社の承認が必要です。乗客1人あたり最大2個の予備バッテリー。短絡から保護されている必要があります。",
+            "pt": "Apenas na bagagem de mão. Aprovação da companhia aérea necessária. Máximo de 2 baterias sobressalentes por passageiro. Devem ser protegidas contra curto-circuito.",
+            "nl": "Alleen in handbagage. Goedkeuring van de luchtvaartmaatschappij vereist. Maximaal 2 reservebatterijen per passagier. Moet beschermd zijn tegen kortsluiting."
+          }
+        },
+        {
+          "item": "Lithium-ion Batteries in Device (> 160 Wh)",
+          "metric": "> 160 Wh",
+          "imperial": "> 160 Wh",
+          "status": "Restricted",
+          "note": "Forbidden in checked baggage. In carry-on, airline approval required and device must be protected from accidental activation.",
+          "item_translations": {
+            "en": "Lithium-ion Batteries in Device (> 160 Wh)",
+            "de": "Lithium-Ionen-Batterien in Geräten (> 160 Wh)",
+            "fr": "Piles au lithium-ion dans les appareils (> 160 Wh)",
+            "es": "Baterías de iones de litio en dispositivos (> 160 Wh)",
+            "it": "Batterie agli ioni di litio in dispositivi (> 160 Wh)",
+            "ja": "デバイス内のリチウムイオン電池（160 Wh超）",
+            "pt": "Baterias de Íon-Lítio em Dispositivos (> 160 Wh)",
+            "nl": "Lithium-ion batterijen in apparaten (> 160 Wh)"
+          },
+          "note_translations": {
+            "en": "Forbidden in checked baggage. In carry-on, airline approval required and device must be protected from accidental activation.",
+            "de": "Im aufgegebenen Gepäck verboten. Im Handgepäck ist die Genehmigung der Fluggesellschaft erforderlich und das Gerät muss vor versehentlicher Aktivierung geschützt sein.",
+            "fr": "Interdit en bagage enregistré. En bagage à main, l'approbation de la compagnie aérienne est requise et l'appareil doit être protégé contre toute activation accidentelle.",
+            "es": "Prohibido en equipaje facturado. En equipaje de mano, se requiere aprobación de la aerolínea y el dispositivo debe estar protegido contra activación accidental.",
+            "it": "Proibito nel bagaglio registrato. Nel bagaglio a mano, è richiesta l'approvazione della compagnia aerea e il dispositivo deve essere protetto da attivazione accidentale.",
+            "ja": "受託手荷物では禁止されています。機内持ち込み手荷物の場合は、航空会社の承認が必要であり、デバイスは偶発的な作動から保護されている必要があります。",
+            "pt": "Proibido na bagagem despachada. Na bagagem de mão, é necessária a aprovação da companhia aérea e o dispositivo deve ser protegido contra ativação acidental.",
+            "nl": "Verboden in ruimbagage. In handbagage is goedkeuring van de luchtvaartmaatschappij vereist en het apparaat moet beschermd zijn tegen onbedoelde activering."
+          }
+        },
+        {
+          "item": "Portable Electronic Devices (PEDs) in Checked Baggage",
+          "metric": "N/A",
+          "imperial": "N/A",
+          "status": "Compliant (with restrictions)",
+          "note": "Must be completely turned off and protected from accidental activation. Spare batteries are not allowed in checked baggage.",
+          "item_translations": {
+            "en": "Portable Electronic Devices (PEDs) in Checked Baggage",
+            "de": "Tragbare elektronische Geräte (PEDs) im aufgegebenen Gepäck",
+            "fr": "Appareils électroniques portables (PED) en bagage enregistré",
+            "es": "Dispositivos electrónicos portátiles (PED) en equipaje facturado",
+            "it": "Dispositivi elettronici portatili (PED) nel bagaglio registrato",
+            "ja": "受託手荷物内の携帯型電子機器（PED）",
+            "pt": "Dispositivos Eletrônicos Portáteis (PEDs) na Bagagem Despachada",
+            "nl": "Draagbare elektronische apparaten (PED's) in ruimbagage"
+          },
+          "note_translations": {
+            "en": "Must be completely turned off and protected from accidental activation. Spare batteries are not allowed in checked baggage.",
+            "de": "Muss vollständig ausgeschaltet und vor versehentlicher Aktivierung geschützt sein. Ersatzbatterien sind im aufgegebenen Gepäck nicht erlaubt.",
+            "fr": "Doit être complètement éteint et protégé contre toute activation accidentelle. Les batteries de rechange ne sont pas autorisées en bagage enregistré.",
+            "es": "Debe estar completamente apagado y protegido contra activación accidental. Las baterías de repuesto no están permitidas en el equipaje facturado.",
+            "it": "Deve essere completamente spento e protetto da attivazione accidentale. Le batterie di ricambio non sono ammesse nel bagaglio registrato.",
+            "ja": "完全に電源を切り、偶発的な作動から保護されている必要があります。予備バッテリーは受託手荷物では許可されていません。",
+            "pt": "Deve estar completamente desligado e protegido contra ativação acidental. Baterias sobressalentes não são permitidas na bagagem despachada.",
+            "nl": "Moet volledig zijn uitgeschakeld en beschermd zijn tegen onbedoelde activering. Reservebatterijen zijn niet toegestaan in ruimbagage."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "delta-air-lines-compatibility-matrix",
+          "title": "Delta Air Lines: Carry-on, Personal Item, Pet, and Battery Restrictions",
+          "summary": "Comprehensive guide to Delta Air Lines' baggage, pet, and battery policies, including exact dimensions and restrictions for a smooth travel experience.",
+          "amazon_search_query": "delta carry on bag under seat pet carrier",
+          "buy_box_title": "Recommended Travel Gear for Delta Air Lines",
+          "buy_box_subtitle": "Ensure a hassle-free journey with compliant bags and accessories.",
+          "allowed_guidelines": [
+            "One carry-on bag and one personal item are generally allowed per passenger.",
+            "Pets in cabin require prior approval and must fit comfortably in an approved carrier under the seat.",
+            "Most portable electronic devices with lithium-ion batteries under 100 Wh are permitted in carry-on or checked baggage (with precautions)."
+          ],
+          "strict_restrictions": [
+            "Carry-on bags must not exceed 22 x 14 x 9 inches (56 x 36 x 23 cm) including handles and wheels.",
+            "Spare lithium-ion batteries must always be in carry-on baggage and protected from short circuit.",
+            "Lithium-ion batteries over 160 Wh are generally forbidden or require special airline approval."
+          ],
+          "faqs": [
+            {
+              "q": "What are Delta's carry-on baggage dimensions?",
+              "a": "Delta's carry-on baggage must not exceed 22 x 14 x 9 inches (56 x 36 x 23 cm), including handles and wheels. There is generally no weight limit unless specified for certain international routes."
+            },
+            {
+              "q": "Can I bring a pet in the cabin on Delta?",
+              "a": "Yes, small dogs, cats, and household birds can travel in the cabin on most flights, provided they meet age, health, and destination requirements. The pet carrier must fit under the seat in front of you, with common soft-sided dimensions around 18 x 11 x 11 inches (45.7 x 28 x 28 cm). Prior approval from Delta is required."
+            },
+            {
+              "q": "What are the rules for batteries on Delta flights?",
+              "a": "Spare lithium-ion batteries (up to 160 Wh) must be in carry-on baggage only and protected from short circuit. Batteries over 160 Wh are highly restricted or forbidden. Devices with batteries can be in carry-on or checked baggage, but if in checked baggage, they must be turned off and protected from accidental activation."
+            }
+          ]
+        },
+        "de": {
+          "slug": "delta-air-lines-kompatibilitaetsmatrix",
+          "title": "Delta Air Lines: Handgepäck, persönlicher Gegenstand, Haustiere und Batteriebeschränkungen",
+          "summary": "Umfassender Leitfaden zu den Gepäck-, Haustier- und Batterievorschriften von Delta Air Lines, einschließlich genauer Abmessungen und Einschränkungen für ein reibungsloses Reiseerlebnis.",
+          "amazon_search_query": "delta handgepäck unter sitz haustiertransportbox",
+          "buy_box_title": "Empfohlene Reiseausrüstung für Delta Air Lines",
+          "buy_box_subtitle": "Sorgen Sie für eine problemlose Reise mit konformen Taschen und Zubehör.",
+          "allowed_guidelines": [
+            "Ein Handgepäckstück und ein persönlicher Gegenstand sind in der Regel pro Passagier erlaubt.",
+            "Haustiere in der Kabine erfordern eine vorherige Genehmigung und müssen bequem in einer zugelassenen Transportbox unter den Sitz passen.",
+            "Die meisten tragbaren elektronischen Geräte mit Lithium-Ionen-Batterien unter 100 Wh sind im Handgepäck oder aufgegebenen Gepäck (mit Vorsichtsmaßnahmen) erlaubt."
+          ],
+          "strict_restrictions": [
+            "Handgepäck darf 56 x 36 x 23 cm (22 x 14 x 9 Zoll) einschließlich Griffe und Rollen nicht überschreiten.",
+            "Ersatz-Lithium-Ionen-Batterien müssen immer im Handgepäck mitgeführt und vor Kurzschluss geschützt werden.",
+            "Lithium-Ionen-Batterien über 160 Wh sind im Allgemeinen verboten oder erfordern eine besondere Genehmigung der Fluggesellschaft."
+          ],
+          "faqs": [
+            {
+              "q": "Welche Abmessungen gelten für das Handgepäck bei Delta?",
+              "a": "Das Handgepäck von Delta darf 56 x 36 x 23 cm (22 x 14 x 9 Zoll) einschließlich Griffe und Rollen nicht überschreiten. Es gibt in der Regel keine Gewichtsbeschränkung, es sei denn, dies ist für bestimmte internationale Strecken angegeben."
+            },
+            {
+              "q": "Darf ich ein Haustier in der Kabine bei Delta mitnehmen?",
+              "a": "Ja, kleine Hunde, Katzen und Hausvögel können auf den meisten Flügen in der Kabine mitreisen, sofern sie die Alters-, Gesundheits- und Zielanforderungen erfüllen. Die Transportbox muss unter den Vordersitz passen, wobei gängige weiche Abmessungen etwa 45,7 x 28 x 28 cm (18 x 11 x 11 Zoll) betragen. Eine vorherige Genehmigung von Delta ist erforderlich."
+            },
+            {
+              "q": "Welche Regeln gelten für Batterien auf Delta-Flügen?",
+              "a": "Ersatz-Lithium-Ionen-Batterien (bis 160 Wh) dürfen nur im Handgepäck mitgeführt und müssen vor Kurzschluss geschützt werden. Batterien über 160 Wh sind stark eingeschränkt oder verboten. Geräte mit Batterien können im Handgepäck oder aufgegebenen Gepäck mitgeführt werden, müssen aber im aufgegebenen Gepäck ausgeschaltet und vor versehentlicher Aktivierung geschützt sein."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "delta-air-lines-matrice-de-compatibilite",
+          "title": "Delta Air Lines : Bagages cabine, article personnel, animaux et restrictions de batteries",
+          "summary": "Guide complet des politiques de Delta Air Lines concernant les bagages, les animaux de compagnie et les batteries, incluant les dimensions exactes et les restrictions pour une expérience de voyage fluide.",
+          "amazon_search_query": "delta bagage cabine sous siege transporteur animaux",
+          "buy_box_title": "Équipement de voyage recommandé pour Delta Air Lines",
+          "buy_box_subtitle": "Assurez un voyage sans tracas avec des sacs et accessoires conformes.",
+          "allowed_guidelines": [
+            "Un bagage à main et un article personnel sont généralement autorisés par passager.",
+            "Les animaux en cabine nécessitent une approbation préalable et doivent tenir confortablement dans une cage de transport approuvée sous le siège.",
+            "La plupart des appareils électroniques portables avec des batteries lithium-ion de moins de 100 Wh sont autorisés en bagage à main ou en soute (avec précautions)."
+          ],
+          "strict_restrictions": [
+            "Les bagages à main ne doivent pas dépasser 56 x 36 x 23 cm (22 x 14 x 9 pouces) y compris les poignées et les roues.",
+            "Les batteries de rechange au lithium-ion doivent toujours être en bagage à main et protégées contre les courts-circuits.",
+            "Les batteries lithium-ion de plus de 160 Wh sont généralement interdites ou nécessitent une approbation spéciale de la compagnie aérienne."
+          ],
+          "faqs": [
+            {
+              "q": "Quelles sont les dimensions des bagages à main chez Delta ?",
+              "a": "Les bagages à main de Delta ne doivent pas dépasser 56 x 36 x 23 cm (22 x 14 x 9 pouces), y compris les poignées et les roues. Il n'y a généralement pas de limite de poids, sauf indication contraire pour certaines routes internationales."
+            },
+            {
+              "q": "Puis-je emmener un animal de compagnie en cabine sur Delta ?",
+              "a": "Oui, les petits chiens, chats et oiseaux domestiques peuvent voyager en cabine sur la plupart des vols, à condition qu'ils répondent aux exigences d'âge, de santé et de destination. La cage de transport doit tenir sous le siège devant vous, avec des dimensions courantes pour les cages souples d'environ 45,7 x 28 x 28 cm (18 x 11 x 11 pouces). Une approbation préalable de Delta est requise."
+            },
+            {
+              "q": "Quelles sont les règles concernant les batteries sur les vols Delta ?",
+              "a": "Les batteries de rechange au lithium-ion (jusqu'à 160 Wh) doivent être uniquement en bagage à main et protégées contre les courts-circuits. Les batteries de plus de 160 Wh sont fortement restreintes ou interdites. Les appareils avec batteries peuvent être en bagage à main ou en soute, mais s'ils sont en soute, ils doivent être éteints et protégés contre toute activation accidentelle."
+            }
+          ]
+        },
+        "es": {
+          "slug": "delta-air-lines-matriz-de-compatibilidad",
+          "title": "Delta Air Lines: Equipaje de mano, artículo personal, mascotas y restricciones de baterías",
+          "summary": "Guía completa de las políticas de equipaje, mascotas y baterías de Delta Air Lines, incluyendo dimensiones exactas y restricciones para una experiencia de viaje sin problemas.",
+          "amazon_search_query": "delta equipaje de mano bajo asiento transportín mascotas",
+          "buy_box_title": "Equipo de viaje recomendado para Delta Air Lines",
+          "buy_box_subtitle": "Asegure un viaje sin complicaciones con maletas y accesorios conformes.",
+          "allowed_guidelines": [
+            "Generalmente se permite un equipaje de mano y un artículo personal por pasajero.",
+            "Las mascotas en cabina requieren aprobación previa y deben caber cómodamente en un transportín aprobado debajo del asiento.",
+            "La mayoría de los dispositivos electrónicos portátiles con baterías de iones de litio de menos de 100 Wh están permitidos en el equipaje de mano o facturado (con precauciones)."
+          ],
+          "strict_restrictions": [
+            "El equipaje de mano no debe exceder los 56 x 36 x 23 cm (22 x 14 x 9 pulgadas) incluyendo asas y ruedas.",
+            "Las baterías de iones de litio de repuesto siempre deben ir en el equipaje de mano y protegidas contra cortocircuitos.",
+            "Las baterías de iones de litio de más de 160 Wh generalmente están prohibidas o requieren aprobación especial de la aerolínea."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuáles son las dimensiones del equipaje de mano de Delta?",
+              "a": "El equipaje de mano de Delta no debe exceder los 56 x 36 x 23 cm (22 x 14 x 9 pulgadas), incluyendo asas y ruedas. Generalmente no hay límite de peso a menos que se especifique para ciertas rutas internacionales."
+            },
+            {
+              "q": "¿Puedo llevar una mascota en la cabina en Delta?",
+              "a": "Sí, perros pequeños, gatos y aves domésticas pueden viajar en la cabina en la mayoría de los vuelos, siempre que cumplan con los requisitos de edad, salud y destino. El transportín para mascotas debe caber debajo del asiento delantero, con dimensiones comunes para los de lados blandos de alrededor de 45,7 x 28 x 28 cm (18 x 11 x 11 pulgadas). Se requiere aprobación previa de Delta."
+            },
+            {
+              "q": "¿Cuáles son las reglas para las baterías en los vuelos de Delta?",
+              "a": "Las baterías de iones de litio de repuesto (hasta 160 Wh) deben ir solo en el equipaje de mano y protegidas contra cortocircuitos. Las baterías de más de 160 Wh están muy restringidas o prohibidas. Los dispositivos con baterías pueden ir en el equipaje de mano o facturado, pero si van en el equipaje facturado, deben estar apagados y protegidos contra activación accidental."
+            }
+          ]
+        },
+        "it": {
+          "slug": "delta-air-lines-matrice-di-compatibilita",
+          "title": "Delta Air Lines: Bagaglio a mano, articolo personale, animali domestici e restrizioni sulle batterie",
+          "summary": "Guida completa alle politiche di Delta Air Lines su bagagli, animali domestici e batterie, incluse dimensioni esatte e restrizioni per un'esperienza di viaggio senza intoppi.",
+          "amazon_search_query": "delta bagaglio a mano sotto sedile trasportino animali",
+          "buy_box_title": "Attrezzatura da viaggio consigliata per Delta Air Lines",
+          "buy_box_subtitle": "Assicurati un viaggio senza problemi con borse e accessori conformi.",
+          "allowed_guidelines": [
+            "Generalmente è consentito un bagaglio a mano e un articolo personale per passeggero.",
+            "Gli animali domestici in cabina richiedono previa approvazione e devono entrare comodamente in un trasportino approvato sotto il sedile.",
+            "La maggior parte dei dispositivi elettronici portatili con batterie agli ioni di litio inferiori a 100 Wh sono ammessi nel bagaglio a mano o registrato (con precauzioni)."
+          ],
+          "strict_restrictions": [
+            "I bagagli a mano non devono superare i 56 x 36 x 23 cm (22 x 14 x 9 pollici) inclusi maniglie e ruote.",
+            "Le batterie agli ioni di litio di ricambio devono essere sempre nel bagaglio a mano e protette da cortocircuito.",
+            "Le batterie agli ioni di litio superiori a 160 Wh sono generalmente proibite o richiedono un'approvazione speciale della compagnia aerea."
+          ],
+          "faqs": [
+            {
+              "q": "Quali sono le dimensioni del bagaglio a mano di Delta?",
+              "a": "Il bagaglio a mano di Delta non deve superare i 56 x 36 x 23 cm (22 x 14 x 9 pollici), incluse maniglie e ruote. Generalmente non c'è limite di peso a meno che non sia specificato per alcune rotte internazionali."
+            },
+            {
+              "q": "Posso portare un animale domestico in cabina su Delta?",
+              "a": "Sì, cani di piccola taglia, gatti e uccelli domestici possono viaggiare in cabina sulla maggior parte dei voli, a condizione che soddisfino i requisiti di età, salute e destinazione. Il trasportino per animali deve entrare sotto il sedile di fronte a te, con dimensioni comuni per quelli morbidi di circa 45,7 x 28 x 28 cm (18 x 11 x 11 pollici). È richiesta l'approvazione preventiva di Delta."
+            },
+            {
+              "q": "Quali sono le regole per le batterie sui voli Delta?",
+              "a": "Le batterie agli ioni di litio di ricambio (fino a 160 Wh) devono essere solo nel bagaglio a mano e protette da cortocircuito. Le batterie superiori a 160 Wh sono fortemente limitate o proibite. I dispositivi con batterie possono essere nel bagaglio a mano o registrato, ma se nel bagaglio registrato, devono essere spenti e protetti da attivazione accidentale."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "デルタ航空-互換性マトリックス",
+          "title": "デルタ航空：機内持ち込み手荷物、身の回り品、ペット、バッテリーの制限",
+          "summary": "デルタ航空の手荷物、ペット、バッテリーに関するポリシーの包括的なガイド。スムーズな旅行体験のための正確な寸法と制限が含まれています。",
+          "amazon_search_query": "デルタ航空 機内持ち込み 手荷物 座席下 ペットキャリー",
+          "buy_box_title": "デルタ航空におすすめの旅行用品",
+          "buy_box_subtitle": "規定に準拠したバッグとアクセサリーで、手間のかからない旅を。",
+          "allowed_guidelines": [
+            "通常、乗客1人につき機内持ち込み手荷物1個と身の回り品1個が許可されています。",
+            "機内持ち込みペットは事前の承認が必要で、承認されたキャリーバッグに快適に収まり、座席の下に置ける必要があります。",
+            "100 Wh以下のリチウムイオンバッテリーを搭載したほとんどの携帯型電子機器は、機内持ち込み手荷物または受託手荷物（注意事項あり）で許可されています。"
+          ],
+          "strict_restrictions": [
+            "機内持ち込み手荷物は、ハンドルと車輪を含め、56 x 36 x 23 cm（22 x 14 x 9インチ）を超えてはなりません。",
+            "予備のリチウムイオンバッテリーは常に機内持ち込み手荷物に入れ、短絡から保護する必要があります。",
+            "160 Whを超えるリチウムイオンバッテリーは、通常禁止されているか、航空会社の特別な承認が必要です。"
+          ],
+          "faqs": [
+            {
+              "q": "デルタ航空の機内持ち込み手荷物の寸法は？",
+              "a": "デルタ航空の機内持ち込み手荷物は、ハンドルと車輪を含め、56 x 36 x 23 cm（22 x 14 x 9インチ）を超えてはなりません。特定の国際線で指定されていない限り、通常、重量制限はありません。"
+            },
+            {
+              "q": "デルタ航空の機内にペットを連れて行けますか？",
+              "a": "はい、ほとんどのフライトで小型犬、猫、家庭用鳥を機内に連れて行くことができます。ただし、年齢、健康、目的地の要件を満たしている必要があります。ペットキャリーは前の座席の下に収まる必要があり、一般的なソフトタイプの寸法は約45.7 x 28 x 28 cm（18 x 11 x 11インチ）です。デルタ航空の事前の承認が必要です。"
+            },
+            {
+              "q": "デルタ航空のフライトでのバッテリーに関する規則は？",
+              "a": "予備のリチウムイオンバッテリー（160 Whまで）は機内持ち込み手荷物のみで、短絡から保護する必要があります。160 Whを超えるバッテリーは厳しく制限されているか、禁止されています。バッテリーを搭載したデバイスは機内持ち込み手荷物または受託手荷物に入れることができますが、受託手荷物の場合は電源を切り、偶発的な作動から保護する必要があります。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "delta-air-lines-matriz-de-compatibilidade",
+          "title": "Delta Air Lines: Bagagem de Mão, Item Pessoal, Animais de Estimação e Restrições de Bateria",
+          "summary": "Guia completo das políticas de bagagem, animais de estimação e baterias da Delta Air Lines, incluindo dimensões exatas e restrições para uma experiência de viagem tranquila.",
+          "amazon_search_query": "delta bagagem de mão sob assento transportadora de animais",
+          "buy_box_title": "Equipamento de Viagem Recomendado para Delta Air Lines",
+          "buy_box_subtitle": "Garanta uma viagem sem complicações com malas e acessórios conformes.",
+          "allowed_guidelines": [
+            "Geralmente, é permitida uma bagagem de mão e um item pessoal por passageiro.",
+            "Animais de estimação na cabine exigem aprovação prévia e devem caber confortavelmente em uma transportadora aprovada debaixo do assento.",
+            "A maioria dos dispositivos eletrônicos portáteis com baterias de íon-lítio abaixo de 100 Wh são permitidos na bagagem de mão ou despachada (com precauções)."
+          ],
+          "strict_restrictions": [
+            "As bagagens de mão não devem exceder 56 x 36 x 23 cm (22 x 14 x 9 polegadas), incluindo alças e rodas.",
+            "Baterias de íon-lítio sobressalentes devem estar sempre na bagagem de mão e protegidas contra curto-circuito.",
+            "Baterias de íon-lítio acima de 160 Wh são geralmente proibidas ou exigem aprovação especial da companhia aérea."
+          ],
+          "faqs": [
+            {
+              "q": "Quais são as dimensões da bagagem de mão da Delta?",
+              "a": "A bagagem de mão da Delta não deve exceder 56 x 36 x 23 cm (22 x 14 x 9 polegadas), incluindo alças e rodas. Geralmente não há limite de peso, a menos que especificado para certas rotas internacionais."
+            },
+            {
+              "q": "Posso levar um animal de estimação na cabine na Delta?",
+              "a": "Sim, cães pequenos, gatos e pássaros domésticos podem viajar na cabine na maioria dos voos, desde que atendam aos requisitos de idade, saúde e destino. A transportadora de animais deve caber debaixo do assento à sua frente, com dimensões comuns para as de lado macio em torno de 45,7 x 28 x 28 cm (18 x 11 x 11 polegadas). Aprovação prévia da Delta é necessária."
+            },
+            {
+              "q": "Quais são as regras para baterias em voos da Delta?",
+              "a": "Baterias de íon-lítio sobressalentes (até 160 Wh) devem estar apenas na bagagem de mão e protegidas contra curto-circuito. Baterias acima de 160 Wh são altamente restritas ou proibidas. Dispositivos com baterias podem estar na bagagem de mão ou despachada, mas se na bagagem despachada, devem estar desligados e protegidos contra ativação acidental."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "delta-air-lines-compatibiliteitsmatrix",
+          "title": "Delta Air Lines: Handbagage, persoonlijk item, huisdieren en batterijbeperkingen",
+          "summary": "Uitgebreide gids voor het bagage-, huisdier- en batterijbeleid van Delta Air Lines, inclusief exacte afmetingen en beperkingen voor een soepele reiservaring.",
+          "amazon_search_query": "delta handbagage onder stoel huisdier draagtas",
+          "buy_box_title": "Aanbevolen reisuitrusting voor Delta Air Lines",
+          "buy_box_subtitle": "Zorg voor een probleemloze reis met conforme tassen en accessoires.",
+          "allowed_guidelines": [
+            "Eén stuk handbagage en één persoonlijk item zijn over het algemeen toegestaan per passagier.",
+            "Huisdieren in de cabine vereisen voorafgaande goedkeuring en moeten comfortabel passen in een goedgekeurde draagtas onder de stoel.",
+            "De meeste draagbare elektronische apparaten met lithium-ionbatterijen onder 100 Wh zijn toegestaan in handbagage of ruimbagage (met voorzorgsmaatregelen)."
+          ],
+          "strict_restrictions": [
+            "Handbagage mag niet groter zijn dan 56 x 36 x 23 cm (22 x 14 x 9 inch) inclusief handvatten en wielen.",
+            "Reserve lithium-ionbatterijen moeten altijd in de handbagage worden meegenomen en beschermd zijn tegen kortsluiting.",
+            "Lithium-ionbatterijen van meer dan 160 Wh zijn over het algemeen verboden of vereisen speciale goedkeuring van de luchtvaartmaatschappij."
+          ],
+          "faqs": [
+            {
+              "q": "Wat zijn de afmetingen van de handbagage bij Delta?",
+              "a": "De handbagage van Delta mag niet groter zijn dan 56 x 36 x 23 cm (22 x 14 x 9 inch), inclusief handvatten en wielen. Er is over het algemeen geen gewichtslimiet, tenzij gespecificeerd voor bepaalde internationale routes."
+            },
+            {
+              "q": "Mag ik een huisdier meenemen in de cabine bij Delta?",
+              "a": "Ja, kleine honden, katten en huisvogels mogen op de meeste vluchten in de cabine reizen, mits ze voldoen aan de leeftijd-, gezondheids- en bestemmingsvereisten. De huisdier draagtas moet onder de stoel voor u passen, met gangbare zachte afmetingen van ongeveer 45,7 x 28 x 28 cm (18 x 11 x 11 inch). Voorafgaande goedkeuring van Delta is vereist."
+            },
+            {
+              "q": "Wat zijn de regels voor batterijen op Delta-vluchten?",
+              "a": "Reserve lithium-ionbatterijen (tot 160 Wh) mogen alleen in de handbagage worden meegenomen en moeten beschermd zijn tegen kortsluiting. Batterijen van meer dan 160 Wh zijn sterk beperkt of verboden. Apparaten met batterijen kunnen in de handbagage of ruimbagage, maar als ze in de ruimbagage zitten, moeten ze volledig zijn uitgeschakeld en beschermd zijn tegen onbedoelde activering."
             }
           ]
         }

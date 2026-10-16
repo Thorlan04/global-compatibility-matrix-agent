@@ -71,3 +71,25 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=easyjet+underseat+bag+45x36x20%2C+easyjet+cabin+bag+56x45x25&tag=autocompat-21
 
 ---
+
+## Delta Air Lines (AIRLINES)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/delta-air-lines-compatibility-matrix.html
+- Summary: Comprehensive guide to Delta Air Lines' baggage, pet, and battery policies, including exact dimensions and restrictions for a smooth travel experience.
+
+### Exact Specifications (Dual Units):
+* **Carry-on Baggage Dimensions**: Metric: `56 x 36 x 23 cm` | Imperial: `22 x 14 x 9 in` (Includes handles and wheels. Must fit in the overhead bin or under the seat. No weight limit unless specified for certain international routes.)
+* **Personal Item Dimensions**: Metric: `45 x 35 x 20 cm` | Imperial: `18 x 14 x 8 in` (Must fit under the seat in front of you. Examples include a purse, briefcase, laptop bag, or small backpack. Dimensions are a common guideline as Delta does not publish exact figures.)
+* **Pet in Cabin Carrier Dimensions (Soft-sided)**: Metric: `45.7 x 28 x 28 cm` | Imperial: `18 x 11 x 11 in` (Must fit under the seat in front of you. Pet must be able to stand up and turn around comfortably. Max dimensions may vary slightly by aircraft type and specific route. Prior approval required.)
+* **Pet in Cabin Carrier Dimensions (Hard-sided)**: Metric: `45.7 x 30.5 x 28 cm` | Imperial: `18 x 12 x 11 in` (Must fit under the seat in front of you. Pet must be able to stand up and turn around comfortably. Max dimensions may vary slightly by aircraft type and specific route. Prior approval required.)
+* **Spare Lithium-ion Batteries (≤ 100 Wh)**: Metric: `Max 100 Wh` | Imperial: `Max 100 Wh` (Carry-on baggage only. Up to 20 spare batteries per passenger. Must be protected from short circuit.)
+* **Spare Lithium-ion Batteries (101-160 Wh)**: Metric: `101-160 Wh` | Imperial: `101-160 Wh` (Carry-on baggage only. Airline approval required. Max 2 spare batteries per passenger. Must be protected from short circuit.)
+* **Lithium-ion Batteries in Device (> 160 Wh)**: Metric: `> 160 Wh` | Imperial: `> 160 Wh` (Forbidden in checked baggage. In carry-on, airline approval required and device must be protected from accidental activation.)
+* **Portable Electronic Devices (PEDs) in Checked Baggage**: Metric: `N/A` | Imperial: `N/A` (Must be completely turned off and protected from accidental activation. Spare batteries are not allowed in checked baggage.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=delta+carry+on+bag+under+seat+pet+carrier&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=delta+carry+on+bag+under+seat+pet+carrier&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=delta+carry+on+bag+under+seat+pet+carrier&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=delta+carry+on+bag+under+seat+pet+carrier&tag=autocompat-21
+
+---
