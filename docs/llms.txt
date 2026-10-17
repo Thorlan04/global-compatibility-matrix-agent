@@ -24,3 +24,4 @@
 - [EasyJet](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/easyjet-baggage-powerbank-guide.html): Airlines | 45 x 36 x 20 cm / 17.7 x 14.2 x 7.9 in
 - [Delta Air Lines](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/delta-air-lines-compatibility-matrix.html): Airlines | 56 x 36 x 23 cm / 22 x 14 x 9 in
 - [United Airlines](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/united-airlines-baggage-lithium-battery-rules.html): Airlines | 43 x 25 x 22 cm / 17 x 10 x 9 in
+- [American Airlines](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/american-airlines-compatibility-matrix.html): Airlines | 56 x 36 x 23 cm / 22 x 14 x 9 in

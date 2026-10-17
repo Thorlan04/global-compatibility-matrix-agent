@@ -117,3 +117,24 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=united+airlines+personal+item+bag%2C+united+airlines+carry+on+bag%2C+tsa+approved+lithium+battery+case&tag=autocompat-21
 
 ---
+
+## American Airlines (AIRLINES)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/american-airlines-compatibility-matrix.html
+- Summary: Detailed specifications for carry-on bags, personal items, cabin pet travel, and electronics on American Airlines flights. Ensure your items comply with regulations for a smooth journey.
+
+### Exact Specifications (Dual Units):
+* **Carry-on Bag**: Metric: `56 x 36 x 23 cm` | Imperial: `22 x 14 x 9 in` (Max dimensions including handles and wheels. No official weight limit, must fit in overhead bin and be liftable by passenger.)
+* **Personal Item (Underseat)**: Metric: `45 x 28 x 20 cm` | Imperial: `18 x 11 x 8 in` (Must fit under the seat in front of you. Approximate dimensions provided.)
+* **Cabin Pet Crate (Soft-sided)**: Metric: `46 x 28 x 28 cm (Max 9.07 kg)` | Imperial: `18 x 11 x 11 in (Max 20 lbs)` (Pet + carrier combined weight limit. Must fit under the seat. Pet must remain in carrier under seat. Only small dogs and cats allowed.)
+* **Cabin Pet Crate (Hard-sided)**: Metric: `48 x 33 x 23 cm (Max 9.07 kg)` | Imperial: `19 x 13 x 9 in (Max 20 lbs)` (Pet + carrier combined weight limit. Must fit under the seat. Pet must remain in carrier under seat. Only small dogs and cats allowed.)
+* **Lithium-ion Batteries (Devices & Spare, <100 Wh)**: Metric: `< 100 Wh` | Imperial: `< 100 Wh` (Allowed in carry-on or checked baggage (spare batteries only in carry-on).)
+* **Lithium-ion Batteries (Spare, 100-160 Wh)**: Metric: `100-160 Wh` | Imperial: `100-160 Wh` (Allowed in carry-on with airline approval (max 2 spare batteries). Not allowed in checked baggage.)
+* **Power Banks**: Metric: `N/A (Wh limits apply as per batteries)` | Imperial: `N/A (Wh limits apply as per batteries)` (Must be in carry-on baggage only. Not allowed in checked baggage. Wh limits apply as per lithium-ion batteries.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=American+Airlines+carry-on+bag+underseat+pet+carrier&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=American+Airlines+carry-on+bag+underseat+pet+carrier&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=American+Airlines+carry-on+bag+underseat+pet+carrier&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=American+Airlines+carry-on+bag+underseat+pet+carrier&tag=autocompat-21
+
+---

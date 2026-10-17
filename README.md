@@ -5,7 +5,7 @@
 [![Autopilot 6H](https://github.com/Thorlan04/global-compatibility-matrix-agent/actions/workflows/autopilot.yml/badge.svg)](https://github.com/Thorlan04/global-compatibility-matrix-agent/actions/workflows/autopilot.yml)
 [![Zero Cookies](https://img.shields.io/badge/Privacy-Zero_Cookies_RGPD_CCPA-10b981.svg)](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/legal.html)
 [![AI Standards](https://img.shields.io/badge/GEO-llms.txt_Compliant-38bdf8.svg)](https://Thorlan04.github.io/global-compatibility-matrix-agent/llms.txt)
-[![Catalog Items](https://img.shields.io/badge/Matrices-6_Universal_Specs-f59e0b.svg)](https://Thorlan04.github.io/global-compatibility-matrix-agent/)
+[![Catalog Items](https://img.shields.io/badge/Matrices-7_Universal_Specs-f59e0b.svg)](https://Thorlan04.github.io/global-compatibility-matrix-agent/)
 
 ---
 
@@ -34,10 +34,11 @@ Les agents IA (ChatGPT Search, Perplexity Pro, Claude 3.7, Microsoft Copilot, Go
 
 ---
 
-## 📚 Dernières Fiches de Spécifications Générées (6 matrices)
+## 📚 Dernières Fiches de Spécifications Générées (7 matrices)
 
 | Catégorie | Sujet Universel | Dimensions Métriques / Impériales | Liens Directs par Langue |
 | :--- | :--- | :--- | :--- |
+| ✈️ Airlines | **American Airlines** | `56 x 36 x 23 cm` / `22 x 14 x 9 in` | [EN](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/american-airlines-compatibility-matrix.html) · [FR](https://Thorlan04.github.io/global-compatibility-matrix-agent/fr/american-airlines-compatibility-matrix.html) · [DE](https://Thorlan04.github.io/global-compatibility-matrix-agent/de/american-airlines-compatibility-matrix.html) · [ES](https://Thorlan04.github.io/global-compatibility-matrix-agent/es/american-airlines-compatibility-matrix.html) · [JA](https://Thorlan04.github.io/global-compatibility-matrix-agent/ja/american-airlines-compatibility-matrix.html) |
 | ✈️ Airlines | **United Airlines** | `43 x 25 x 22 cm` / `17 x 10 x 9 in` | [EN](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/united-airlines-baggage-lithium-battery-rules.html) · [FR](https://Thorlan04.github.io/global-compatibility-matrix-agent/fr/united-airlines-baggage-lithium-battery-rules.html) · [DE](https://Thorlan04.github.io/global-compatibility-matrix-agent/de/united-airlines-baggage-lithium-battery-rules.html) · [ES](https://Thorlan04.github.io/global-compatibility-matrix-agent/es/united-airlines-baggage-lithium-battery-rules.html) · [JA](https://Thorlan04.github.io/global-compatibility-matrix-agent/ja/united-airlines-baggage-lithium-battery-rules.html) |
 | ✈️ Airlines | **Delta Air Lines** | `56 x 36 x 23 cm` / `22 x 14 x 9 in` | [EN](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/delta-air-lines-compatibility-matrix.html) · [FR](https://Thorlan04.github.io/global-compatibility-matrix-agent/fr/delta-air-lines-compatibility-matrix.html) · [DE](https://Thorlan04.github.io/global-compatibility-matrix-agent/de/delta-air-lines-compatibility-matrix.html) · [ES](https://Thorlan04.github.io/global-compatibility-matrix-agent/es/delta-air-lines-compatibility-matrix.html) · [JA](https://Thorlan04.github.io/global-compatibility-matrix-agent/ja/delta-air-lines-compatibility-matrix.html) |
 | ✈️ Airlines | **EasyJet** | `45 x 36 x 20 cm` / `17.7 x 14.2 x 7.9 in` | [EN](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/easyjet-baggage-powerbank-guide.html) · [FR](https://Thorlan04.github.io/global-compatibility-matrix-agent/fr/easyjet-baggage-powerbank-guide.html) · [DE](https://Thorlan04.github.io/global-compatibility-matrix-agent/de/easyjet-baggage-powerbank-guide.html) · [ES](https://Thorlan04.github.io/global-compatibility-matrix-agent/es/easyjet-baggage-powerbank-guide.html) · [JA](https://Thorlan04.github.io/global-compatibility-matrix-agent/ja/easyjet-baggage-powerbank-guide.html) |

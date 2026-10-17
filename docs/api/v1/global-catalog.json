@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-10-17T14:52:57.228602+00:00",
-  "total_items": 6,
+  "generated_at": "2026-10-17T20:03:14.194558+00:00",
+  "total_items": 7,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -2483,6 +2483,469 @@
             {
               "q": "Wat zijn de regels van United voor lithiumbatterijen?",
               "a": "Batterijen onder 100 Wh worden algemeen geaccepteerd. Batterijen van 100-160 Wh vereisen goedkeuring van de luchtvaartmaatschappij en hebben kwantiteitslimieten. Batterijen boven 160 Wh zijn verboden. Reservebatterijen moeten altijd in de handbagage worden meegenomen en beschermd zijn tegen kortsluiting."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "american",
+      "slug": "american-airlines-compatibility-matrix",
+      "subject": "American Airlines",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Carry-on Bag",
+          "metric": "56 x 36 x 23 cm",
+          "imperial": "22 x 14 x 9 in",
+          "status": "Compliant / Verified",
+          "note": "Max dimensions including handles and wheels. No official weight limit, must fit in overhead bin and be liftable by passenger.",
+          "item_translations": {
+            "en": "Carry-on Bag",
+            "de": "Handgepäck",
+            "fr": "Bagage à main",
+            "es": "Equipaje de mano",
+            "it": "Bagaglio a mano",
+            "ja": "機内持ち込み手荷物",
+            "pt": "Bagagem de mão",
+            "nl": "Handbagage"
+          },
+          "note_translations": {
+            "en": "Max dimensions including handles and wheels. No official weight limit, must fit in overhead bin and be liftable by passenger.",
+            "de": "Max. Maße inkl. Griffe und Rollen. Keine offizielle Gewichtsbeschränkung, muss ins Gepäckfach passen und vom Passagier anhebbar sein.",
+            "fr": "Dimensions maximales incluant les poignées et les roues. Aucune limite de poids officielle, doit tenir dans le compartiment supérieur et être soulevable par le passager.",
+            "es": "Dimensiones máximas incluyendo asas y ruedas. Sin límite de peso oficial, debe caber en el compartimento superior y ser levantable por el pasajero.",
+            "it": "Dimensioni massime inclusi maniglie e ruote. Nessun limite di peso ufficiale, deve entrare nella cappelliera ed essere sollevabile dal passeggero.",
+            "ja": "ハンドルと車輪を含む最大寸法。公式な重量制限はありませんが、頭上の収納棚に収まり、乗客が持ち上げられる必要があります。",
+            "pt": "Dimensões máximas incluindo alças e rodas. Sem limite de peso oficial, deve caber no compartimento superior e ser levantável pelo passageiro.",
+            "nl": "Max. afmetingen inclusief handvatten en wielen. Geen officiële gewichtslimiet, moet in het bagagevak passen en door de passagier te tillen zijn."
+          }
+        },
+        {
+          "item": "Personal Item (Underseat)",
+          "metric": "45 x 28 x 20 cm",
+          "imperial": "18 x 11 x 8 in",
+          "status": "Compliant / Verified",
+          "note": "Must fit under the seat in front of you. Approximate dimensions provided.",
+          "item_translations": {
+            "en": "Personal Item (Underseat)",
+            "de": "Persönlicher Gegenstand (unter dem Sitz)",
+            "fr": "Article personnel (sous le siège)",
+            "es": "Artículo personal (debajo del asiento)",
+            "it": "Articolo personale (sotto il sedile)",
+            "ja": "身の回り品（座席下）",
+            "pt": "Item pessoal (sob o assento)",
+            "nl": "Persoonlijk item (onder de stoel)"
+          },
+          "note_translations": {
+            "en": "Must fit under the seat in front of you. Approximate dimensions provided.",
+            "de": "Muss unter den Vordersitz passen. Ungefähre Maße angegeben.",
+            "fr": "Doit tenir sous le siège devant vous. Dimensions approximatives fournies.",
+            "es": "Debe caber debajo del asiento delantero. Dimensiones aproximadas proporcionadas.",
+            "it": "Deve entrare sotto il sedile di fronte a te. Dimensioni approssimative fornite.",
+            "ja": "前の座席の下に収まる必要があります。おおよその寸法です。",
+            "pt": "Deve caber sob o assento à sua frente. Dimensões aproximadas fornecidas.",
+            "nl": "Moet onder de stoel voor u passen. Geschatte afmetingen verstrekt."
+          }
+        },
+        {
+          "item": "Cabin Pet Crate (Soft-sided)",
+          "metric": "46 x 28 x 28 cm (Max 9.07 kg)",
+          "imperial": "18 x 11 x 11 in (Max 20 lbs)",
+          "status": "Compliant / Verified",
+          "note": "Pet + carrier combined weight limit. Must fit under the seat. Pet must remain in carrier under seat. Only small dogs and cats allowed.",
+          "item_translations": {
+            "en": "Cabin Pet Crate (Soft-sided)",
+            "de": "Haustier-Transportbox (weich)",
+            "fr": "Cage de transport pour animal de compagnie (souple)",
+            "es": "Transportín para mascota (blando)",
+            "it": "Trasportino per animali domestici (morbido)",
+            "ja": "機内持ち込みペットケージ（ソフトタイプ）",
+            "pt": "Caixa de transporte para animais de estimação (flexível)",
+            "nl": "Dierenreistas (zacht)"
+          },
+          "note_translations": {
+            "en": "Pet + carrier combined weight limit. Must fit under the seat. Pet must remain in carrier under seat. Only small dogs and cats allowed.",
+            "de": "Max. Gesamtgewicht von Tier + Transportbox. Muss unter den Sitz passen. Tier muss während des Fluges in der Box unter dem Sitz bleiben. Nur kleine Hunde und Katzen erlaubt.",
+            "fr": "Limite de poids combinée animal + cage. Doit tenir sous le siège. L'animal doit rester dans la cage sous le siège. Seuls les petits chiens et chats sont autorisés.",
+            "es": "Límite de peso combinado de mascota + transportín. Debe caber debajo del asiento. La mascota debe permanecer en el transportín debajo del asiento. Solo se permiten perros y gatos pequeños.",
+            "it": "Limite di peso combinato animale + trasportino. Deve entrare sotto il sedile. L'animale deve rimanere nel trasportino sotto il sedile. Sono ammessi solo cani e gatti di piccola taglia.",
+            "ja": "ペットとケージの合計重量制限。座席の下に収まる必要があります。ペットは座席下のケージ内に留まる必要があります。小型犬と猫のみ許可されています。",
+            "pt": "Limite de peso combinado animal + transportador. Deve caber sob o assento. O animal deve permanecer no transportador sob o assento. Apenas cães e gatos pequenos são permitidos.",
+            "nl": "Gecombineerd gewichtslimiet huisdier + reistas. Moet onder de stoel passen. Huisdier moet in de reistas onder de stoel blijven. Alleen kleine honden en katten toegestaan."
+          }
+        },
+        {
+          "item": "Cabin Pet Crate (Hard-sided)",
+          "metric": "48 x 33 x 23 cm (Max 9.07 kg)",
+          "imperial": "19 x 13 x 9 in (Max 20 lbs)",
+          "status": "Compliant / Verified",
+          "note": "Pet + carrier combined weight limit. Must fit under the seat. Pet must remain in carrier under seat. Only small dogs and cats allowed.",
+          "item_translations": {
+            "en": "Cabin Pet Crate (Hard-sided)",
+            "de": "Haustier-Transportbox (hart)",
+            "fr": "Cage de transport pour animal de compagnie (rigide)",
+            "es": "Transportín para mascota (rígido)",
+            "it": "Trasportino per animali domestici (rigido)",
+            "ja": "機内持ち込みペットケージ（ハードタイプ）",
+            "pt": "Caixa de transporte para animais de estimação (rígida)",
+            "nl": "Dierenreistas (hard)"
+          },
+          "note_translations": {
+            "en": "Pet + carrier combined weight limit. Must fit under the seat. Pet must remain in carrier under seat. Only small dogs and cats allowed.",
+            "de": "Max. Gesamtgewicht von Tier + Transportbox. Muss unter den Sitz passen. Tier muss während des Fluges in der Box unter dem Sitz bleiben. Nur kleine Hunde und Katzen erlaubt.",
+            "fr": "Limite de poids combinée animal + cage. Doit tenir sous le siège. L'animal doit rester dans la cage sous le siège. Seuls les petits chiens et chats sont autorisés.",
+            "es": "Límite de peso combinado de mascota + transportín. Debe caber debajo del asiento. La mascota debe permanecer en el transportín debajo del asiento. Solo se permiten perros y gatos pequeños.",
+            "it": "Limite di peso combinato animale + trasportino. Deve entrare sotto il sedile. L'animale deve rimanere nel trasportino sotto il sedile. Sono ammessi solo cani e gatti di piccola taglia.",
+            "ja": "ペットとケージの合計重量制限。座席の下に収まる必要があります。ペットは座席下のケージ内に留まる必要があります。小型犬と猫のみ許可されています。",
+            "pt": "Limite de peso combinado animal + transportador. Deve caber sob o assento. O animal deve permanecer no transportador sob o assento. Apenas cães e gatos pequenos são permitidos.",
+            "nl": "Gecombineerd gewichtslimiet huisdier + reistas. Moet onder de stoel passen. Huisdier moet in de reistas onder de stoel blijven. Alleen kleine honden en katten toegestaan."
+          }
+        },
+        {
+          "item": "Lithium-ion Batteries (Devices & Spare, <100 Wh)",
+          "metric": "< 100 Wh",
+          "imperial": "< 100 Wh",
+          "status": "Compliant / Verified",
+          "note": "Allowed in carry-on or checked baggage (spare batteries only in carry-on).",
+          "item_translations": {
+            "en": "Lithium-ion Batteries (Devices & Spare, <100 Wh)",
+            "de": "Lithium-Ionen-Akkus (Geräte & Ersatz, <100 Wh)",
+            "fr": "Batteries lithium-ion (Appareils & Rechange, <100 Wh)",
+            "es": "Baterías de iones de litio (Dispositivos y Repuesto, <100 Wh)",
+            "it": "Batterie agli ioni di litio (Dispositivi e Ricambio, <100 Wh)",
+            "ja": "リチウムイオン電池（機器内蔵および予備、100Wh未満）",
+            "pt": "Baterias de íon-lítio (Dispositivos e Sobressalentes, <100 Wh)",
+            "nl": "Lithium-ion batterijen (Apparaten & Reserve, <100 Wh)"
+          },
+          "note_translations": {
+            "en": "Allowed in carry-on or checked baggage (spare batteries only in carry-on).",
+            "de": "Im Handgepäck oder aufgegebenen Gepäck erlaubt (Ersatzakkus nur im Handgepäck).",
+            "fr": "Autorisé en cabine ou en soute (batteries de rechange uniquement en cabine).",
+            "es": "Permitido en equipaje de mano o facturado (baterías de repuesto solo en equipaje de mano).",
+            "it": "Consentito nel bagaglio a mano o da stiva (batterie di ricambio solo nel bagaglio a mano).",
+            "ja": "機内持ち込みまたは受託手荷物で許可（予備バッテリーは機内持ち込みのみ）。",
+            "pt": "Permitido na bagagem de mão ou despachada (baterias sobressalentes apenas na bagagem de mão).",
+            "nl": "Toegestaan in handbagage of ruimbagage (reservebatterijen alleen in handbagage)."
+          }
+        },
+        {
+          "item": "Lithium-ion Batteries (Spare, 100-160 Wh)",
+          "metric": "100-160 Wh",
+          "imperial": "100-160 Wh",
+          "status": "Compliant / Verified",
+          "note": "Allowed in carry-on with airline approval (max 2 spare batteries). Not allowed in checked baggage.",
+          "item_translations": {
+            "en": "Lithium-ion Batteries (Spare, 100-160 Wh)",
+            "de": "Lithium-Ionen-Akkus (Ersatz, 100-160 Wh)",
+            "fr": "Batteries lithium-ion (Rechange, 100-160 Wh)",
+            "es": "Baterías de iones de litio (Repuesto, 100-160 Wh)",
+            "it": "Batterie agli ioni di litio (Ricambio, 100-160 Wh)",
+            "ja": "リチウムイオン電池（予備、100-160Wh）",
+            "pt": "Baterias de íon-lítio (Sobressalentes, 100-160 Wh)",
+            "nl": "Lithium-ion batterijen (Reserve, 100-160 Wh)"
+          },
+          "note_translations": {
+            "en": "Allowed in carry-on with airline approval (max 2 spare batteries). Not allowed in checked baggage.",
+            "de": "Im Handgepäck mit Genehmigung der Fluggesellschaft erlaubt (max. 2 Ersatzakkus). Nicht im aufgegebenen Gepäck erlaubt.",
+            "fr": "Autorisé en cabine avec l'approbation de la compagnie aérienne (max. 2 batteries de rechange). Non autorisé en soute.",
+            "es": "Permitido en equipaje de mano con aprobación de la aerolínea (máx. 2 baterías de repuesto). No permitido en equipaje facturado.",
+            "it": "Consentito nel bagaglio a mano con approvazione della compagnia aerea (max 2 batterie di ricambio). Non consentito nel bagaglio da stiva.",
+            "ja": "航空会社の承認を得て機内持ち込み可能（予備バッテリーは最大2個）。受託手荷物では不可。",
+            "pt": "Permitido na bagagem de mão com aprovação da companhia aérea (máx. 2 baterias sobressalentes). Não permitido na bagagem despachada.",
+            "nl": "Toegestaan in handbagage met goedkeuring van de luchtvaartmaatschappij (max. 2 reservebatterijen). Niet toegestaan in ruimbagage."
+          }
+        },
+        {
+          "item": "Power Banks",
+          "metric": "N/A (Wh limits apply as per batteries)",
+          "imperial": "N/A (Wh limits apply as per batteries)",
+          "status": "Compliant / Verified",
+          "note": "Must be in carry-on baggage only. Not allowed in checked baggage. Wh limits apply as per lithium-ion batteries.",
+          "item_translations": {
+            "en": "Power Banks",
+            "de": "Powerbanks",
+            "fr": "Batteries externes",
+            "es": "Baterías externas",
+            "it": "Power bank",
+            "ja": "モバイルバッテリー",
+            "pt": "Power banks",
+            "nl": "Powerbanks"
+          },
+          "note_translations": {
+            "en": "Must be in carry-on baggage only. Not allowed in checked baggage. Wh limits apply as per lithium-ion batteries.",
+            "de": "Nur im Handgepäck erlaubt. Nicht im aufgegebenen Gepäck erlaubt. Wh-Grenzwerte gelten wie für Lithium-Ionen-Akkus.",
+            "fr": "Doit être uniquement en bagage à main. Non autorisé en soute. Les limites de Wh s'appliquent comme pour les batteries lithium-ion.",
+            "es": "Debe ir solo en el equipaje de mano. No permitido en equipaje facturado. Se aplican los límites de Wh como para las baterías de iones de litio.",
+            "it": "Deve essere solo nel bagaglio a mano. Non consentito nel bagaglio da stiva. I limiti di Wh si applicano come per le batterie agli ioni di litio.",
+            "ja": "機内持ち込み手荷物のみ。受託手荷物では不可。ワット時（Wh）制限はリチウムイオン電池に準じます。",
+            "pt": "Deve estar apenas na bagagem de mão. Não permitido na bagagem despachada. Os limites de Wh aplicam-se como para as baterias de íon-lítio.",
+            "nl": "Moet alleen in handbagage. Niet toegestaan in ruimbagage. Wh-limieten gelden zoals voor lithium-ion batterijen."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "american-airlines-compatibility-matrix",
+          "title": "American Airlines Compatibility Matrix: Carry-on, Personal Item, Pet & Electronics",
+          "summary": "Detailed specifications for carry-on bags, personal items, cabin pet travel, and electronics on American Airlines flights. Ensure your items comply with regulations for a smooth journey.",
+          "amazon_search_query": "American Airlines carry-on bag underseat pet carrier",
+          "buy_box_title": "Recommended Travel Gear for American Airlines",
+          "buy_box_subtitle": "Shop compliant bags and accessories for your next flight.",
+          "allowed_guidelines": [
+            "One carry-on bag and one personal item are generally allowed per passenger.",
+            "Small pets (dogs/cats) can travel in the cabin if they fit under the seat in an approved carrier.",
+            "Portable electronic devices and spare lithium batteries (within limits) must be carried in carry-on baggage."
+          ],
+          "strict_restrictions": [
+            "Carry-on bags exceeding 22 x 14 x 9 inches (56 x 36 x 23 cm) are not allowed in the cabin.",
+            "Personal items must fit completely under the seat in front of you.",
+            "Pets and their carriers exceeding 20 lbs (9.07 kg) combined weight are not allowed in the cabin.",
+            "Lithium-ion batteries over 160 Wh are prohibited. Spare batteries must be in carry-on only."
+          ],
+          "faqs": [
+            {
+              "q": "What are the carry-on bag dimensions for American Airlines?",
+              "a": "American Airlines allows one carry-on bag with maximum dimensions of 22 x 14 x 9 inches (56 x 36 x 23 cm), including handles and wheels. There is no official weight limit, but it must fit in the overhead bin and be liftable by the passenger."
+            },
+            {
+              "q": "Can I bring a pet in the cabin on American Airlines?",
+              "a": "Yes, small dogs and cats can travel in the cabin on American Airlines, provided they fit comfortably in an approved carrier under the seat in front of you. The combined weight of the pet and carrier must not exceed 20 lbs (9.07 kg)."
+            },
+            {
+              "q": "What are the rules for power banks and lithium batteries on American Airlines?",
+              "a": "Power banks and spare lithium-ion batteries must be carried in your carry-on baggage only; they are not allowed in checked baggage. Batteries under 100 Wh are generally permitted, while those between 100-160 Wh require airline approval (max 2 spare batteries). Batteries over 160 Wh are prohibited."
+            }
+          ]
+        },
+        "de": {
+          "slug": "american-airlines-kompatibilitaetsmatrix",
+          "title": "American Airlines Kompatibilitätsmatrix: Handgepäck, persönlicher Gegenstand, Haustier & Elektronik",
+          "summary": "Detaillierte Spezifikationen für Handgepäck, persönliche Gegenstände, Haustierreisen in der Kabine und Elektronik auf American Airlines Flügen. Stellen Sie sicher, dass Ihre Gegenstände den Vorschriften entsprechen, um eine reibungslose Reise zu gewährleisten.",
+          "amazon_search_query": "American Airlines Handgepäck unter dem Sitz Haustiertransportbox",
+          "buy_box_title": "Empfohlene Reiseausrüstung für American Airlines",
+          "buy_box_subtitle": "Kaufen Sie konforme Taschen und Zubehör für Ihren nächsten Flug.",
+          "allowed_guidelines": [
+            "Ein Handgepäckstück und ein persönlicher Gegenstand sind pro Passagier generell erlaubt.",
+            "Kleine Haustiere (Hunde/Katzen) dürfen in der Kabine reisen, wenn sie in einer zugelassenen Transportbox unter den Sitz passen.",
+            "Tragbare elektronische Geräte und Ersatz-Lithiumbatterien (innerhalb der Grenzen) müssen im Handgepäck mitgeführt werden."
+          ],
+          "strict_restrictions": [
+            "Handgepäck, das 56 x 36 x 23 cm (22 x 14 x 9 Zoll) überschreitet, ist in der Kabine nicht erlaubt.",
+            "Persönliche Gegenstände müssen vollständig unter den Vordersitz passen.",
+            "Haustiere und ihre Transportboxen, die zusammen 9,07 kg (20 lbs) überschreiten, sind in der Kabine nicht erlaubt.",
+            "Lithium-Ionen-Akkus über 160 Wh sind verboten. Ersatzakkus dürfen nur im Handgepäck mitgeführt werden."
+          ],
+          "faqs": [
+            {
+              "q": "Welche Maße gelten für Handgepäck bei American Airlines?",
+              "a": "American Airlines erlaubt ein Handgepäckstück mit maximalen Maßen von 56 x 36 x 23 cm (22 x 14 x 9 Zoll), einschließlich Griffen und Rollen. Es gibt keine offizielle Gewichtsbeschränkung, aber es muss ins Gepäckfach passen und vom Passagier anhebbar sein."
+            },
+            {
+              "q": "Darf ich ein Haustier in der Kabine von American Airlines mitnehmen?",
+              "a": "Ja, kleine Hunde und Katzen dürfen in der Kabine von American Airlines reisen, vorausgesetzt, sie passen bequem in eine zugelassene Transportbox unter den Vordersitz. Das Gesamtgewicht von Haustier und Transportbox darf 9,07 kg (20 lbs) nicht überschreiten."
+            },
+            {
+              "q": "Welche Regeln gelten für Powerbanks und Lithiumbatterien bei American Airlines?",
+              "a": "Powerbanks und Ersatz-Lithium-Ionen-Akkus dürfen nur im Handgepäck mitgeführt werden; sie sind im aufgegebenen Gepäck nicht erlaubt. Akkus unter 100 Wh sind generell erlaubt, während solche zwischen 100-160 Wh die Genehmigung der Fluggesellschaft erfordern (max. 2 Ersatzakkus). Akkus über 160 Wh sind verboten."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "american-airlines-matrice-compatibilite",
+          "title": "Matrice de Compatibilité American Airlines : Bagage à main, Article personnel, Animaux & Électronique",
+          "summary": "Spécifications détaillées pour les bagages à main, les articles personnels, le transport d'animaux en cabine et l'électronique sur les vols American Airlines. Assurez-vous que vos articles sont conformes aux réglementations pour un voyage sans encombre.",
+          "amazon_search_query": "American Airlines bagage à main sous siège cage transport animaux",
+          "buy_box_title": "Équipement de Voyage Recommandé pour American Airlines",
+          "buy_box_subtitle": "Achetez des sacs et accessoires conformes pour votre prochain vol.",
+          "allowed_guidelines": [
+            "Un bagage à main et un article personnel sont généralement autorisés par passager.",
+            "Les petits animaux de compagnie (chiens/chats) peuvent voyager en cabine s'ils tiennent sous le siège dans une cage approuvée.",
+            "Les appareils électroniques portables et les batteries au lithium de rechange (dans les limites) doivent être transportés en bagage à main."
+          ],
+          "strict_restrictions": [
+            "Les bagages à main dépassant 56 x 36 x 23 cm (22 x 14 x 9 pouces) ne sont pas autorisés en cabine.",
+            "Les articles personnels doivent tenir entièrement sous le siège devant vous.",
+            "Les animaux de compagnie et leurs cages dépassant un poids combiné de 9,07 kg (20 lbs) ne sont pas autorisés en cabine.",
+            "Les batteries lithium-ion de plus de 160 Wh sont interdites. Les batteries de rechange doivent être uniquement en bagage à main."
+          ],
+          "faqs": [
+            {
+              "q": "Quelles sont les dimensions des bagages à main pour American Airlines?",
+              "a": "American Airlines autorise un bagage à main avec des dimensions maximales de 56 x 36 x 23 cm (22 x 14 x 9 pouces), poignées et roues comprises. Il n'y a pas de limite de poids officielle, mais il doit tenir dans le compartiment supérieur et être soulevable par le passager."
+            },
+            {
+              "q": "Puis-je emmener un animal de compagnie en cabine sur American Airlines?",
+              "a": "Oui, les petits chiens et chats peuvent voyager en cabine sur American Airlines, à condition qu'ils tiennent confortablement dans une cage approuvée sous le siège devant vous. Le poids combiné de l'animal et de la cage ne doit pas dépasser 9,07 kg (20 lbs)."
+            },
+            {
+              "q": "Quelles sont les règles pour les batteries externes et les batteries au lithium sur American Airlines?",
+              "a": "Les batteries externes et les batteries lithium-ion de rechange doivent être transportées uniquement dans votre bagage à main; elles ne sont pas autorisées en soute. Les batteries de moins de 100 Wh sont généralement autorisées, tandis que celles entre 100 et 160 Wh nécessitent l'approbation de la compagnie aérienne (max. 2 batteries de rechange). Les batteries de plus de 160 Wh sont interdites."
+            }
+          ]
+        },
+        "es": {
+          "slug": "american-airlines-matriz-compatibilidad",
+          "title": "Matriz de Compatibilidad American Airlines: Equipaje de Mano, Artículo Personal, Mascotas y Electrónica",
+          "summary": "Especificaciones detalladas para equipaje de mano, artículos personales, viaje de mascotas en cabina y electrónica en vuelos de American Airlines. Asegúrese de que sus artículos cumplan con las regulaciones para un viaje sin problemas.",
+          "amazon_search_query": "American Airlines equipaje de mano debajo del asiento transportín para mascotas",
+          "buy_box_title": "Equipo de Viaje Recomendado para American Airlines",
+          "buy_box_subtitle": "Compre maletas y accesorios compatibles para su próximo vuelo.",
+          "allowed_guidelines": [
+            "Generalmente se permite un equipaje de mano y un artículo personal por pasajero.",
+            "Las mascotas pequeñas (perros/gatos) pueden viajar en la cabina si caben debajo del asiento en un transportín aprobado.",
+            "Los dispositivos electrónicos portátiles y las baterías de litio de repuesto (dentro de los límites) deben llevarse en el equipaje de mano."
+          ],
+          "strict_restrictions": [
+            "No se permite en cabina el equipaje de mano que exceda 56 x 36 x 23 cm (22 x 14 x 9 pulgadas).",
+            "Los artículos personales deben caber completamente debajo del asiento delantero.",
+            "Las mascotas y sus transportines que excedan un peso combinado de 9,07 kg (20 lbs) no están permitidos en cabina.",
+            "Las baterías de iones de litio de más de 160 Wh están prohibidas. Las baterías de repuesto deben ir solo en el equipaje de mano."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuáles son las dimensiones del equipaje de mano para American Airlines?",
+              "a": "American Airlines permite un equipaje de mano con dimensiones máximas de 56 x 36 x 23 cm (22 x 14 x 9 pulgadas), incluyendo asas y ruedas. No hay límite de peso oficial, pero debe caber en el compartimento superior y ser levantable por el pasajero."
+            },
+            {
+              "q": "¿Puedo llevar una mascota en la cabina de American Airlines?",
+              "a": "Sí, los perros y gatos pequeños pueden viajar en la cabina de American Airlines, siempre que quepan cómodamente en un transportín aprobado debajo del asiento delantero. El peso combinado de la mascota y el transportín no debe exceder los 9,07 kg (20 lbs)."
+            },
+            {
+              "q": "¿Cuáles son las reglas para las baterías externas y las baterías de litio en American Airlines?",
+              "a": "Las baterías externas y las baterías de iones de litio de repuesto deben llevarse únicamente en su equipaje de mano; no están permitidas en el equipaje facturado. Las baterías de menos de 100 Wh generalmente están permitidas, mientras que las de entre 100 y 160 Wh requieren la aprobación de la aerolínea (máx. 2 baterías de repuesto). Las baterías de más de 160 Wh están prohibidas."
+            }
+          ]
+        },
+        "it": {
+          "slug": "american-airlines-matrice-compatibilita",
+          "title": "Matrice di Compatibilità American Airlines: Bagaglio a Mano, Articolo Personale, Animali Domestici ed Elettronica",
+          "summary": "Specifiche dettagliate per bagagli a mano, articoli personali, trasporto di animali domestici in cabina ed elettronica sui voli American Airlines. Assicurati che i tuoi articoli siano conformi alle normative per un viaggio senza intoppi.",
+          "amazon_search_query": "American Airlines bagaglio a mano sotto il sedile trasportino animali",
+          "buy_box_title": "Attrezzatura da Viaggio Consigliata per American Airlines",
+          "buy_box_subtitle": "Acquista borse e accessori conformi per il tuo prossimo volo.",
+          "allowed_guidelines": [
+            "Generalmente è consentito un bagaglio a mano e un articolo personale per passeggero.",
+            "Animali domestici di piccola taglia (cani/gatti) possono viaggiare in cabina se rientrano sotto il sedile in un trasportino approvato.",
+            "Dispositivi elettronici portatili e batterie al litio di ricambio (entro i limiti) devono essere trasportati nel bagaglio a mano."
+          ],
+          "strict_restrictions": [
+            "I bagagli a mano che superano 56 x 36 x 23 cm (22 x 14 x 9 pollici) non sono ammessi in cabina.",
+            "Gli articoli personali devono entrare completamente sotto il sedile di fronte a te.",
+            "Animali domestici e i loro trasportini che superano un peso combinato di 9,07 kg (20 lbs) non sono ammessi in cabina.",
+            "Le batterie agli ioni di litio superiori a 160 Wh sono proibite. Le batterie di ricambio devono essere solo nel bagaglio a mano."
+          ],
+          "faqs": [
+            {
+              "q": "Quali sono le dimensioni del bagaglio a mano per American Airlines?",
+              "a": "American Airlines consente un bagaglio a mano con dimensioni massime di 56 x 36 x 23 cm (22 x 14 x 9 pollici), incluse maniglie e ruote. Non c'è un limite di peso ufficiale, ma deve entrare nella cappelliera ed essere sollevabile dal passeggero."
+            },
+            {
+              "q": "Posso portare un animale domestico in cabina su American Airlines?",
+              "a": "Sì, cani e gatti di piccola taglia possono viaggiare in cabina su American Airlines, a condizione che si adattino comodamente in un trasportino approvato sotto il sedile di fronte a te. Il peso combinato dell'animale e del trasportino non deve superare i 9,07 kg (20 lbs)."
+            },
+            {
+              "q": "Quali sono le regole per i power bank e le batterie al litio su American Airlines?",
+              "a": "I power bank e le batterie agli ioni di litio di ricambio devono essere trasportati solo nel bagaglio a mano; non sono ammessi nel bagaglio da stiva. Le batterie sotto i 100 Wh sono generalmente consentite, mentre quelle tra 100-160 Wh richiedono l'approvazione della compagnia aerea (massimo 2 batterie di ricambio). Le batterie oltre i 160 Wh sono proibite."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "american-airlines-compatibility-matrix",
+          "title": "アメリカン航空互換性マトリックス：機内持ち込み手荷物、身の回り品、ペット、電子機器",
+          "summary": "アメリカン航空便における機内持ち込み手荷物、身の回り品、機内ペット旅行、電子機器の詳細な仕様。スムーズな旅行のために、お手持ちの品が規定に準拠していることを確認してください。",
+          "amazon_search_query": "アメリカン航空 機内持ち込み手荷物 座席下 ペットキャリー",
+          "buy_box_title": "アメリカン航空推奨旅行用品",
+          "buy_box_subtitle": "次のフライトのために、規定に準拠したバッグやアクセサリーをお買い求めください。",
+          "allowed_guidelines": [
+            "通常、乗客1名につき機内持ち込み手荷物1個と身の回り品1個が許可されています。",
+            "小型のペット（犬／猫）は、承認されたケージに入れて座席の下に収まる場合、機内で旅行できます。",
+            "携帯型電子機器および予備のリチウム電池（制限内）は、機内持ち込み手荷物として携帯する必要があります。"
+          ],
+          "strict_restrictions": [
+            "22 x 14 x 9インチ（56 x 36 x 23 cm）を超える機内持ち込み手荷物は機内では許可されません。",
+            "身の回り品は、前の座席の下に完全に収まる必要があります。",
+            "ペットとケージの合計重量が20ポンド（9.07 kg）を超える場合は、機内では許可されません。",
+            "160 Whを超えるリチウムイオン電池は禁止されています。予備電池は機内持ち込みのみです。"
+          ],
+          "faqs": [
+            {
+              "q": "アメリカン航空の機内持ち込み手荷物の寸法は？",
+              "a": "アメリカン航空では、ハンドルと車輪を含め、最大寸法が22 x 14 x 9インチ（56 x 36 x 23 cm）の機内持ち込み手荷物1個が許可されています。公式な重量制限はありませんが、頭上の収納棚に収まり、乗客が持ち上げられる必要があります。"
+            },
+            {
+              "q": "アメリカン航空の機内にペットを連れて行けますか？",
+              "a": "はい、小型犬と猫はアメリカン航空の機内で旅行できます。ただし、承認されたケージに快適に収まり、前の座席の下に置ける場合に限ります。ペットとケージの合計重量は20ポンド（9.07 kg）を超えてはなりません。"
+            },
+            {
+              "q": "アメリカン航空でのモバイルバッテリーとリチウム電池の規則は？",
+              "a": "モバイルバッテリーと予備のリチウムイオン電池は、機内持ち込み手荷物としてのみ携帯する必要があります。受託手荷物としては許可されません。100 Wh未満の電池は通常許可されていますが、100～160 Whの電池は航空会社の承認が必要です（予備電池は最大2個）。160 Whを超える電池は禁止されています。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "american-airlines-matriz-compatibilidade",
+          "title": "Matriz de Compatibilidade American Airlines: Bagagem de Mão, Item Pessoal, Animais de Estimação e Eletrônicos",
+          "summary": "Especificações detalhadas para bagagem de mão, itens pessoais, transporte de animais de estimação na cabine e eletrônicos em voos da American Airlines. Garanta que seus itens estejam em conformidade com os regulamentos para uma viagem tranquila.",
+          "amazon_search_query": "American Airlines bagagem de mão sob assento transportador de animais",
+          "buy_box_title": "Equipamento de Viagem Recomendado para American Airlines",
+          "buy_box_subtitle": "Compre malas e acessórios compatíveis para o seu próximo voo.",
+          "allowed_guidelines": [
+            "Geralmente, uma bagagem de mão e um item pessoal são permitidos por passageiro.",
+            "Pequenos animais de estimação (cães/gatos) podem viajar na cabine se couberem sob o assento em um transportador aprovado.",
+            "Dispositivos eletrônicos portáteis e baterias de lítio sobressalentes (dentro dos limites) devem ser transportados na bagagem de mão."
+          ],
+          "strict_restrictions": [
+            "Bagagens de mão que excedam 56 x 36 x 23 cm (22 x 14 x 9 polegadas) não são permitidas na cabine.",
+            "Itens pessoais devem caber completamente sob o assento à sua frente.",
+            "Animais de estimação e seus transportadores que excedam um peso combinado de 9,07 kg (20 lbs) não são permitidos na cabine.",
+            "Baterias de íon-lítio acima de 160 Wh são proibidas. Baterias sobressalentes devem estar apenas na bagagem de mão."
+          ],
+          "faqs": [
+            {
+              "q": "Quais são as dimensões da bagagem de mão para a American Airlines?",
+              "a": "A American Airlines permite uma bagagem de mão com dimensões máximas de 56 x 36 x 23 cm (22 x 14 x 9 polegadas), incluindo alças e rodas. Não há limite de peso oficial, mas deve caber no compartimento superior e ser levantável pelo passageiro."
+            },
+            {
+              "q": "Posso levar um animal de estimação na cabine da American Airlines?",
+              "a": "Sim, cães e gatos pequenos podem viajar na cabine da American Airlines, desde que caibam confortavelmente em um transportador aprovado sob o assento à sua frente. O peso combinado do animal e do transportador não deve exceder 9,07 kg (20 lbs)."
+            },
+            {
+              "q": "Quais são as regras para power banks e baterias de lítio na American Airlines?",
+              "a": "Power banks e baterias de íon-lítio sobressalentes devem ser transportados apenas na sua bagagem de mão; eles não são permitidos na bagagem despachada. Baterias com menos de 100 Wh são geralmente permitidas, enquanto aquelas entre 100-160 Wh exigem aprovação da companhia aérea (máx. 2 baterias sobressalentes). Baterias acima de 160 Wh são proibidas."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "american-airlines-compatibiliteitsmatrix",
+          "title": "American Airlines Compatibiliteitsmatrix: Handbagage, Persoonlijk Item, Huisdier & Elektronica",
+          "summary": "Gedetailleerde specificaties voor handbagage, persoonlijke items, reizen met huisdieren in de cabine en elektronica op American Airlines vluchten. Zorg ervoor dat uw items voldoen aan de voorschriften voor een soepele reis.",
+          "amazon_search_query": "American Airlines handbagage onder stoel dierenreistas",
+          "buy_box_title": "Aanbevolen Reisartikelen voor American Airlines",
+          "buy_box_subtitle": "Koop conforme tassen en accessoires voor uw volgende vlucht.",
+          "allowed_guidelines": [
+            "Eén stuk handbagage en één persoonlijk item zijn over het algemeen per passagier toegestaan.",
+            "Kleine huisdieren (honden/katten) mogen in de cabine reizen als ze in een goedgekeurde reistas onder de stoel passen.",
+            "Draagbare elektronische apparaten en reserve lithiumbatterijen (binnen de limieten) moeten in de handbagage worden meegenomen."
+          ],
+          "strict_restrictions": [
+            "Handbagage die groter is dan 56 x 36 x 23 cm (22 x 14 x 9 inch) is niet toegestaan in de cabine.",
+            "Persoonlijke items moeten volledig onder de stoel voor u passen.",
+            "Huisdieren en hun reistassen die samen meer dan 9,07 kg (20 lbs) wegen, zijn niet toegestaan in de cabine.",
+            "Lithium-ion batterijen van meer dan 160 Wh zijn verboden. Reservebatterijen mogen alleen in de handbagage."
+          ],
+          "faqs": [
+            {
+              "q": "Wat zijn de afmetingen voor handbagage bij American Airlines?",
+              "a": "American Airlines staat één stuk handbagage toe met maximale afmetingen van 56 x 36 x 23 cm (22 x 14 x 9 inch), inclusief handvatten en wielen. Er is geen officiële gewichtslimiet, maar het moet in het bagagevak passen en door de passagier te tillen zijn."
+            },
+            {
+              "q": "Mag ik een huisdier meenemen in de cabine van American Airlines?",
+              "a": "Ja, kleine honden en katten mogen in de cabine van American Airlines reizen, mits ze comfortabel passen in een goedgekeurde reistas onder de stoel voor u. Het gecombineerde gewicht van het huisdier en de reistas mag niet meer dan 9,07 kg (20 lbs) bedragen."
+            },
+            {
+              "q": "Wat zijn de regels voor powerbanks en lithiumbatterijen bij American Airlines?",
+              "a": "Powerbanks en reserve lithium-ion batterijen moeten alleen in uw handbagage worden meegenomen; ze zijn niet toegestaan in ruimbagage. Batterijen onder de 100 Wh zijn over het algemeen toegestaan, terwijl die tussen 100-160 Wh goedkeuring van de luchtvaartmaatschappij vereisen (max. 2 reservebatterijen). Batterijen boven de 160 Wh zijn verboden."
             }
           ]
         }
