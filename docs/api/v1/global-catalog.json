@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-10-17T20:03:14.194558+00:00",
-  "total_items": 7,
+  "generated_at": "2026-10-18T02:49:59.322900+00:00",
+  "total_items": 8,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -2946,6 +2946,353 @@
             {
               "q": "Wat zijn de regels voor powerbanks en lithiumbatterijen bij American Airlines?",
               "a": "Powerbanks en reserve lithium-ion batterijen moeten alleen in uw handbagage worden meegenomen; ze zijn niet toegestaan in ruimbagage. Batterijen onder de 100 Wh zijn over het algemeen toegestaan, terwijl die tussen 100-160 Wh goedkeuring van de luchtvaartmaatschappij vereisen (max. 2 reservebatterijen). Batterijen boven de 160 Wh zijn verboden."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "southwest",
+      "slug": "southwest-airlines-baggage-policy",
+      "subject": "Southwest Airlines",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Carry-on Bag (Overhead Bin)",
+          "metric": "60.96 x 40.64 x 25.4 cm (No stated weight limit)",
+          "imperial": "24 x 16 x 10 in (No stated weight limit)",
+          "status": "Verified",
+          "note": "Dimensions include wheels and handles. Must fit in the overhead bin.",
+          "item_translations": {
+            "en": "Carry-on Bag (Overhead Bin)",
+            "de": "Handgepäck (Gepäckfach)",
+            "fr": "Bagage à main (Compartiment supérieur)",
+            "es": "Equipaje de mano (Compartimento superior)",
+            "it": "Bagaglio a mano (Cappelliera)",
+            "ja": "機内持ち込み手荷物 (頭上の収納棚)",
+            "pt": "Bagagem de Mão (Compartimento Superior)",
+            "nl": "Handbagage (Bovencompartiment)"
+          },
+          "note_translations": {
+            "en": "Dimensions include wheels and handles. Must fit in the overhead bin.",
+            "de": "Die Maße beinhalten Räder und Griffe. Muss in das Gepäckfach passen.",
+            "fr": "Les dimensions incluent les roues et les poignées. Doit tenir dans le compartiment supérieur.",
+            "es": "Las dimensiones incluyen ruedas y asas. Debe caber en el compartimento superior.",
+            "it": "Le dimensioni includono ruote e maniglie. Deve entrare nella cappelliera.",
+            "ja": "寸法には車輪とハンドルが含まれます。頭上の収納棚に収まる必要があります。",
+            "pt": "As dimensões incluem rodas e alças. Deve caber no compartimento superior.",
+            "nl": "Afmetingen zijn inclusief wielen en handvatten. Moet in het bovencompartiment passen."
+          }
+        },
+        {
+          "item": "Personal Item (Under Seat)",
+          "metric": "Approx. 46.99 x 34.29 x 21.59 cm (Must fit under seat)",
+          "imperial": "Approx. 18.5 x 13.5 x 8.5 in (Must fit under seat)",
+          "status": "Verified",
+          "note": "Southwest does not publish exact dimensions, only that it must fit completely under the seat in front of you. Typical under-seat dimensions are provided as a guideline.",
+          "item_translations": {
+            "en": "Personal Item (Under Seat)",
+            "de": "Persönlicher Gegenstand (Unter dem Sitz)",
+            "fr": "Article personnel (Sous le siège)",
+            "es": "Artículo personal (Debajo del asiento)",
+            "it": "Articolo personale (Sotto il sedile)",
+            "ja": "身の回り品 (座席下)",
+            "pt": "Item Pessoal (Sob o Assento)",
+            "nl": "Persoonlijk item (Onder de stoel)"
+          },
+          "note_translations": {
+            "en": "Southwest does not publish exact dimensions, only that it must fit completely under the seat in front of you. Typical under-seat dimensions are provided as a guideline.",
+            "de": "Southwest veröffentlicht keine genauen Maße, nur dass es vollständig unter den Vordersitz passen muss. Typische Maße für den Bereich unter dem Sitz dienen als Richtlinie.",
+            "fr": "Southwest ne publie pas de dimensions exactes, seulement qu'il doit tenir entièrement sous le siège devant vous. Les dimensions typiques sous le siège sont fournies à titre indicatif.",
+            "es": "Southwest no publica dimensiones exactas, solo que debe caber completamente debajo del asiento delantero. Las dimensiones típicas debajo del asiento se proporcionan como guía.",
+            "it": "Southwest non pubblica dimensioni esatte, solo che deve entrare completamente sotto il sedile di fronte a te. Le dimensioni tipiche sotto il sedile sono fornite come linea guida.",
+            "ja": "サウスウェスト航空は正確な寸法を公表していませんが、前の座席の下に完全に収まる必要があります。一般的な座席下の寸法は目安として提供されています。",
+            "pt": "A Southwest não publica dimensões exatas, apenas que deve caber completamente sob o assento à sua frente. As dimensões típicas sob o assento são fornecidas como uma diretriz.",
+            "nl": "Southwest publiceert geen exacte afmetingen, alleen dat het volledig onder de stoel voor u moet passen. Typische afmetingen voor onder de stoel worden als richtlijn gegeven."
+          }
+        },
+        {
+          "item": "In-cabin Pet Carrier",
+          "metric": "46.99 x 21.59 x 34.29 cm (L x H x W)",
+          "imperial": "18.5 x 8.5 x 13.5 in (L x H x W)",
+          "status": "Verified",
+          "note": "Must be able to fit under the seat in front of you. Pet must remain in the carrier at all times. Carrier must be leak-proof and well-ventilated.",
+          "item_translations": {
+            "en": "In-cabin Pet Carrier",
+            "de": "Haustiertransportbox (in der Kabine)",
+            "fr": "Cage de transport pour animaux (en cabine)",
+            "es": "Transportín para mascotas (en cabina)",
+            "it": "Trasportino per animali (in cabina)",
+            "ja": "機内持ち込みペットキャリア",
+            "pt": "Transportador de Animais (na Cabine)",
+            "nl": "Dierenreismand (in de cabine)"
+          },
+          "note_translations": {
+            "en": "Must be able to fit under the seat in front of you. Pet must remain in the carrier at all times. Carrier must be leak-proof and well-ventilated.",
+            "de": "Muss unter den Vordersitz passen. Das Haustier muss jederzeit in der Transportbox bleiben. Die Transportbox muss auslaufsicher und gut belüftet sein.",
+            "fr": "Doit pouvoir tenir sous le siège devant vous. L'animal doit rester dans sa cage en tout temps. La cage doit être étanche et bien ventilée.",
+            "es": "Debe caber debajo del asiento delantero. La mascota debe permanecer en el transportín en todo momento. El transportín debe ser a prueba de fugas y bien ventilado.",
+            "it": "Deve poter entrare sotto il sedile di fronte a te. L'animale deve rimanere nel trasportino in ogni momento. Il trasportino deve essere a prova di perdite e ben ventilato.",
+            "ja": "前の座席の下に収まる必要があります。ペットは常にキャリアの中にいる必要があります。キャリアは漏れ防止で換気が良いものである必要があります。",
+            "pt": "Deve caber sob o assento à sua frente. O animal de estimação deve permanecer no transportador em todos os momentos. O transportador deve ser à prova de vazamentos e bem ventilado.",
+            "nl": "Moet onder de stoel voor u passen. Het huisdier moet te allen tijde in de reismand blijven. De reismand moet lekvrij en goed geventileerd zijn."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "southwest-airlines-baggage-policy",
+          "title": "Southwest Airlines Baggage Policy & Dimensions",
+          "summary": "Comprehensive guide to Southwest Airlines carry-on, personal item, and pet carrier dimensions, including dual metric and imperial measurements.",
+          "amazon_search_query": "southwest airlines carry on bag under seat pet carrier",
+          "buy_box_title": "Recommended Southwest Compatible Bags",
+          "buy_box_subtitle": "Travel with confidence knowing your luggage meets Southwest's guidelines.",
+          "allowed_guidelines": [
+            "One carry-on bag and one personal item are allowed per passenger.",
+            "Carry-on bags must fit in the overhead bin.",
+            "Personal items must fit completely under the seat in front of you."
+          ],
+          "strict_restrictions": [
+            "Carry-on bags exceeding 24 x 16 x 10 inches (60.96 x 40.64 x 25.4 cm) will not be permitted in the cabin.",
+            "Personal items must not obstruct aisles or emergency exits.",
+            "Pet carriers must adhere to specified dimensions and fit under the seat; only small cats and dogs are allowed in-cabin."
+          ],
+          "faqs": [
+            {
+              "q": "Does Southwest Airlines have a weight limit for carry-on bags?",
+              "a": "No, Southwest Airlines does not impose a weight limit for carry-on bags, as long as they meet the size requirements and can be safely stowed in the overhead bin."
+            },
+            {
+              "q": "What are the exact dimensions for a personal item on Southwest?",
+              "a": "Southwest Airlines does not publish exact dimensions for personal items, only that they must fit completely under the seat in front of you. Typical under-seat dimensions are approximately 18.5 x 13.5 x 8.5 inches (46.99 x 34.29 x 21.59 cm)."
+            },
+            {
+              "q": "Can I bring a pet in the cabin on Southwest Airlines?",
+              "a": "Yes, small vaccinated domestic cats and dogs are permitted to travel in the cabin on Southwest Airlines, provided they are in an approved carrier that fits under the seat (18.5 x 8.5 x 13.5 inches / 46.99 x 21.59 x 34.29 cm)."
+            }
+          ]
+        },
+        "de": {
+          "slug": "southwest-airlines-gepaeckbestimmungen",
+          "title": "Southwest Airlines Gepäckbestimmungen & Maße",
+          "summary": "Umfassender Leitfaden zu den Maßen für Handgepäck, persönliche Gegenstände und Tiertransportboxen bei Southwest Airlines, einschließlich metrischer und imperialer Maße.",
+          "amazon_search_query": "southwest airlines handgepäck unter sitz tiertransportbox",
+          "buy_box_title": "Empfohlene Southwest-kompatible Taschen",
+          "buy_box_subtitle": "Reisen Sie beruhigt, da Ihr Gepäck den Richtlinien von Southwest entspricht.",
+          "allowed_guidelines": [
+            "Pro Passagier sind ein Handgepäckstück und ein persönlicher Gegenstand erlaubt.",
+            "Handgepäck muss in das Gepäckfach passen.",
+            "Persönliche Gegenstände müssen vollständig unter den Vordersitz passen."
+          ],
+          "strict_restrictions": [
+            "Handgepäck, das 60.96 x 40.64 x 25.4 cm (24 x 16 x 10 Zoll) überschreitet, ist in der Kabine nicht gestattet.",
+            "Persönliche Gegenstände dürfen Gänge oder Notausgänge nicht blockieren.",
+            "Tiertransportboxen müssen den angegebenen Maßen entsprechen und unter den Sitz passen; nur kleine Katzen und Hunde sind in der Kabine erlaubt."
+          ],
+          "faqs": [
+            {
+              "q": "Gibt es bei Southwest Airlines eine Gewichtsbeschränkung für Handgepäck?",
+              "a": "Nein, Southwest Airlines legt keine Gewichtsbeschränkung für Handgepäck fest, solange es die Größenanforderungen erfüllt und sicher im Gepäckfach verstaut werden kann."
+            },
+            {
+              "q": "Was sind die genauen Maße für einen persönlichen Gegenstand bei Southwest?",
+              "a": "Southwest Airlines veröffentlicht keine genauen Maße für persönliche Gegenstände, nur dass sie vollständig unter den Vordersitz passen müssen. Typische Maße für den Bereich unter dem Sitz sind ca. 46.99 x 34.29 x 21.59 cm (18.5 x 13.5 x 8.5 Zoll)."
+            },
+            {
+              "q": "Kann ich ein Haustier in der Kabine von Southwest Airlines mitnehmen?",
+              "a": "Ja, kleine geimpfte Hauskatzen und -hunde dürfen in der Kabine von Southwest Airlines reisen, vorausgesetzt, sie befinden sich in einer zugelassenen Transportbox, die unter den Sitz passt (46.99 x 21.59 x 34.29 cm / 18.5 x 8.5 x 13.5 Zoll)."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "southwest-airlines-politique-bagages",
+          "title": "Politique et Dimensions des Bagages Southwest Airlines",
+          "summary": "Guide complet des dimensions des bagages à main, articles personnels et cages de transport pour animaux de Southwest Airlines, incluant les mesures métriques et impériales.",
+          "amazon_search_query": "southwest airlines bagage cabine sous siege cage animaux",
+          "buy_box_title": "Sacs compatibles Southwest recommandés",
+          "buy_box_subtitle": "Voyagez en toute confiance en sachant que vos bagages respectent les directives de Southwest.",
+          "allowed_guidelines": [
+            "Un bagage à main et un article personnel sont autorisés par passager.",
+            "Les bagages à main doivent tenir dans le compartiment supérieur.",
+            "Les articles personnels doivent tenir entièrement sous le siège devant vous."
+          ],
+          "strict_restrictions": [
+            "Les bagages à main dépassant 60.96 x 40.64 x 25.4 cm (24 x 16 x 10 pouces) ne seront pas autorisés en cabine.",
+            "Les articles personnels ne doivent pas obstruer les allées ou les sorties de secours.",
+            "Les cages de transport pour animaux doivent respecter les dimensions spécifiées et tenir sous le siège ; seuls les petits chats et chiens sont autorisés en cabine."
+          ],
+          "faqs": [
+            {
+              "q": "Southwest Airlines a-t-elle une limite de poids pour les bagages à main ?",
+              "a": "Non, Southwest Airlines n'impose pas de limite de poids pour les bagages à main, tant qu'ils respectent les exigences de taille et peuvent être rangés en toute sécurité dans le compartiment supérieur."
+            },
+            {
+              "q": "Quelles sont les dimensions exactes pour un article personnel sur Southwest ?",
+              "a": "Southwest Airlines ne publie pas de dimensions exactes pour les articles personnels, seulement qu'ils doivent tenir entièrement sous le siège devant vous. Les dimensions typiques sous le siège sont d'environ 46.99 x 34.29 x 21.59 cm (18.5 x 13.5 x 8.5 pouces)."
+            },
+            {
+              "q": "Puis-je emmener un animal de compagnie en cabine sur Southwest Airlines ?",
+              "a": "Oui, les petits chats et chiens domestiques vaccinés sont autorisés à voyager en cabine sur Southwest Airlines, à condition qu'ils soient dans une cage approuvée qui tient sous le siège (46.99 x 21.59 x 34.29 cm / 18.5 x 8.5 x 13.5 pouces)."
+            }
+          ]
+        },
+        "es": {
+          "slug": "southwest-airlines-politica-equipaje",
+          "title": "Política y Dimensiones de Equipaje de Southwest Airlines",
+          "summary": "Guía completa de las dimensiones de equipaje de mano, artículo personal y transportín para mascotas de Southwest Airlines, incluyendo medidas métricas e imperiales.",
+          "amazon_search_query": "southwest airlines equipaje de mano debajo del asiento transportin mascotas",
+          "buy_box_title": "Bolsas compatibles con Southwest recomendadas",
+          "buy_box_subtitle": "Viaje con confianza sabiendo que su equipaje cumple con las pautas de Southwest.",
+          "allowed_guidelines": [
+            "Se permite un equipaje de mano y un artículo personal por pasajero.",
+            "El equipaje de mano debe caber en el compartimento superior.",
+            "Los artículos personales deben caber completamente debajo del asiento delantero."
+          ],
+          "strict_restrictions": [
+            "El equipaje de mano que exceda 60.96 x 40.64 x 25.4 cm (24 x 16 x 10 pulgadas) no estará permitido en la cabina.",
+            "Los artículos personales no deben obstruir los pasillos ni las salidas de emergencia.",
+            "Los transportines para mascotas deben cumplir con las dimensiones especificadas y caber debajo del asiento; solo se permiten gatos y perros pequeños en cabina."
+          ],
+          "faqs": [
+            {
+              "q": "¿Southwest Airlines tiene un límite de peso para el equipaje de mano?",
+              "a": "No, Southwest Airlines no impone un límite de peso para el equipaje de mano, siempre que cumpla con los requisitos de tamaño y pueda guardarse de forma segura en el compartimento superior."
+            },
+            {
+              "q": "¿Cuáles son las dimensiones exactas para un artículo personal en Southwest?",
+              "a": "Southwest Airlines no publica dimensiones exactas para los artículos personales, solo que deben caber completamente debajo del asiento delantero. Las dimensiones típicas debajo del asiento son aproximadamente 46.99 x 34.29 x 21.59 cm (18.5 x 13.5 x 8.5 pulgadas)."
+            },
+            {
+              "q": "¿Puedo llevar una mascota en la cabina de Southwest Airlines?",
+              "a": "Sí, se permite que pequeños gatos y perros domésticos vacunados viajen en la cabina de Southwest Airlines, siempre que estén en un transportín aprobado que quepa debajo del asiento (46.99 x 21.59 x 34.29 cm / 18.5 x 8.5 x 13.5 pulgadas)."
+            }
+          ]
+        },
+        "it": {
+          "slug": "southwest-airlines-politica-bagagli",
+          "title": "Politica e Dimensioni Bagagli Southwest Airlines",
+          "summary": "Guida completa alle dimensioni del bagaglio a mano, dell'articolo personale e del trasportino per animali di Southwest Airlines, incluse le misurazioni metriche e imperiali.",
+          "amazon_search_query": "southwest airlines bagaglio a mano sotto il sedile trasportino animali",
+          "buy_box_title": "Borse compatibili Southwest consigliate",
+          "buy_box_subtitle": "Viaggia con fiducia sapendo che il tuo bagaglio rispetta le linee guida di Southwest.",
+          "allowed_guidelines": [
+            "È consentito un bagaglio a mano e un articolo personale per passeggero.",
+            "I bagagli a mano devono entrare nella cappelliera.",
+            "Gli articoli personali devono entrare completamente sotto il sedile di fronte a te."
+          ],
+          "strict_restrictions": [
+            "I bagagli a mano che superano 60.96 x 40.64 x 25.4 cm (24 x 16 x 10 pollici) non saranno ammessi in cabina.",
+            "Gli articoli personali non devono ostruire i corridoi o le uscite di emergenza.",
+            "I trasportini per animali devono rispettare le dimensioni specificate e entrare sotto il sedile; solo piccoli gatti e cani sono ammessi in cabina."
+          ],
+          "faqs": [
+            {
+              "q": "Southwest Airlines ha un limite di peso per i bagagli a mano?",
+              "a": "No, Southwest Airlines non impone un limite di peso per i bagagli a mano, purché soddisfino i requisiti di dimensione e possano essere riposti in sicurezza nella cappelliera."
+            },
+            {
+              "q": "Quali sono le dimensioni esatte per un articolo personale su Southwest?",
+              "a": "Southwest Airlines non pubblica dimensioni esatte per gli articoli personali, solo che devono entrare completamente sotto il sedile di fronte a te. Le dimensioni tipiche sotto il sedile sono di circa 46.99 x 34.29 x 21.59 cm (18.5 x 13.5 x 8.5 pollici)."
+            },
+            {
+              "q": "Posso portare un animale domestico in cabina su Southwest Airlines?",
+              "a": "Sì, piccoli gatti e cani domestici vaccinati sono ammessi a viaggiare in cabina su Southwest Airlines, a condizione che siano in un trasportino approvato che entri sotto il sedile (46.99 x 21.59 x 34.29 cm / 18.5 x 8.5 x 13.5 pollici)."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "southwest-airlines-baggage-policy",
+          "title": "サウスウェスト航空 手荷物規定と寸法",
+          "summary": "サウスウェスト航空の機内持ち込み手荷物、身の回り品、ペットキャリアの寸法に関する包括的なガイド。メートル法とヤード・ポンド法の両方の測定値が含まれています。",
+          "amazon_search_query": "サウスウェスト航空 機内持ち込み手荷物 座席下 ペットキャリア",
+          "buy_box_title": "おすすめのサウスウェスト航空対応バッグ",
+          "buy_box_subtitle": "サウスウェスト航空のガイドラインに適合する荷物で安心してご旅行ください。",
+          "allowed_guidelines": [
+            "乗客1名につき、機内持ち込み手荷物1個と身の回り品1個が許可されています。",
+            "機内持ち込み手荷物は頭上の収納棚に収まる必要があります。",
+            "身の回り品は前の座席の下に完全に収まる必要があります。"
+          ],
+          "strict_restrictions": [
+            "60.96 x 40.64 x 25.4 cm (24 x 16 x 10インチ)を超える機内持ち込み手荷物は機内では許可されません。",
+            "身の回り品は通路や非常口を妨げてはなりません。",
+            "ペットキャリアは指定された寸法に準拠し、座席の下に収まる必要があります。小型の猫と犬のみが機内持ち込み可能です。"
+          ],
+          "faqs": [
+            {
+              "q": "サウスウェスト航空の機内持ち込み手荷物に重量制限はありますか？",
+              "a": "いいえ、サウスウェスト航空は機内持ち込み手荷物に重量制限を設けていません。ただし、サイズ要件を満たし、頭上の収納棚に安全に収納できる必要があります。"
+            },
+            {
+              "q": "サウスウェスト航空の身の回り品の正確な寸法は何ですか？",
+              "a": "サウスウェスト航空は身の回り品の正確な寸法を公表していませんが、前の座席の下に完全に収まる必要があるとされています。一般的な座席下の寸法は、約46.99 x 34.29 x 21.59 cm (18.5 x 13.5 x 8.5インチ)です。"
+            },
+            {
+              "q": "サウスウェスト航空の機内にペットを連れて行くことはできますか？",
+              "a": "はい、小型のワクチン接種済みの家庭用猫と犬は、座席の下に収まる承認済みのキャリア（46.99 x 21.59 x 34.29 cm / 18.5 x 8.5 x 13.5インチ）に入っている場合に限り、サウスウェスト航空の機内で旅行することが許可されています。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "southwest-airlines-politica-bagagem",
+          "title": "Política e Dimensões de Bagagem da Southwest Airlines",
+          "summary": "Guia completo para as dimensões de bagagem de mão, item pessoal e transportador de animais da Southwest Airlines, incluindo medidas métricas e imperiais.",
+          "amazon_search_query": "southwest airlines bagagem de mão sob assento transportador de animais",
+          "buy_box_title": "Bolsas recomendadas compatíveis com Southwest",
+          "buy_box_subtitle": "Viaje com confiança sabendo que sua bagagem atende às diretrizes da Southwest.",
+          "allowed_guidelines": [
+            "Uma bagagem de mão e um item pessoal são permitidos por passageiro.",
+            "As bagagens de mão devem caber no compartimento superior.",
+            "Os itens pessoais devem caber completamente sob o assento à sua frente."
+          ],
+          "strict_restrictions": [
+            "Bagagens de mão que excedam 60.96 x 40.64 x 25.4 cm (24 x 16 x 10 polegadas) não serão permitidas na cabine.",
+            "Itens pessoais não devem obstruir corredores ou saídas de emergência.",
+            "Transportadores de animais devem aderir às dimensões especificadas e caber sob o assento; apenas pequenos gatos e cães são permitidos na cabine."
+          ],
+          "faqs": [
+            {
+              "q": "A Southwest Airlines tem limite de peso para bagagem de mão?",
+              "a": "Não, a Southwest Airlines não impõe um limite de peso para bagagens de mão, desde que atendam aos requisitos de tamanho e possam ser guardadas com segurança no compartimento superior."
+            },
+            {
+              "q": "Quais são as dimensões exatas para um item pessoal na Southwest?",
+              "a": "A Southwest Airlines não publica dimensões exatas para itens pessoais, apenas que devem caber completamente sob o assento à sua frente. As dimensões típicas sob o assento são aproximadamente 46.99 x 34.29 x 21.59 cm (18.5 x 13.5 x 8.5 polegadas)."
+            },
+            {
+              "q": "Posso levar um animal de estimação na cabine da Southwest Airlines?",
+              "a": "Sim, pequenos gatos e cães domésticos vacinados são permitidos para viajar na cabine da Southwest Airlines, desde que estejam em um transportador aprovado que caiba sob o assento (46.99 x 21.59 x 34.29 cm / 18.5 x 8.5 x 13.5 polegadas)."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "southwest-airlines-bagagebeleid",
+          "title": "Southwest Airlines Bagagebeleid & Afmetingen",
+          "summary": "Uitgebreide gids voor de afmetingen van handbagage, persoonlijke items en dierenreismanden van Southwest Airlines, inclusief zowel metrische als imperiale metingen.",
+          "amazon_search_query": "southwest airlines handbagage onder stoel dierenreismand",
+          "buy_box_title": "Aanbevolen Southwest-compatibele tassen",
+          "buy_box_subtitle": "Reis met vertrouwen, wetende dat uw bagage voldoet aan de richtlijnen van Southwest.",
+          "allowed_guidelines": [
+            "Eén stuk handbagage en één persoonlijk item zijn toegestaan per passagier.",
+            "Handbagage moet in het bovencompartiment passen.",
+            "Persoonlijke items moeten volledig onder de stoel voor u passen."
+          ],
+          "strict_restrictions": [
+            "Handbagage die groter is dan 60.96 x 40.64 x 25.4 cm (24 x 16 x 10 inch) is niet toegestaan in de cabine.",
+            "Persoonlijke items mogen gangpaden of nooduitgangen niet blokkeren.",
+            "Dierenreismanden moeten voldoen aan de gespecificeerde afmetingen en onder de stoel passen; alleen kleine katten en honden zijn toegestaan in de cabine."
+          ],
+          "faqs": [
+            {
+              "q": "Heeft Southwest Airlines een gewichtslimiet voor handbagage?",
+              "a": "Nee, Southwest Airlines legt geen gewichtslimiet op voor handbagage, zolang deze voldoet aan de afmetingseisen en veilig in het bovencompartiment kan worden opgeborgen."
+            },
+            {
+              "q": "Wat zijn de exacte afmetingen voor een persoonlijk item bij Southwest?",
+              "a": "Southwest Airlines publiceert geen exacte afmetingen voor persoonlijke items, alleen dat ze volledig onder de stoel voor u moeten passen. Typische afmetingen voor onder de stoel zijn ongeveer 46.99 x 34.29 x 21.59 cm (18.5 x 13.5 x 8.5 inch)."
+            },
+            {
+              "q": "Kan ik een huisdier meenemen in de cabine van Southwest Airlines?",
+              "a": "Ja, kleine gevaccineerde huiskatten en -honden mogen reizen in de cabine van Southwest Airlines, mits ze in een goedgekeurde reismand zitten die onder de stoel past (46.99 x 21.59 x 34.29 cm / 18.5 x 8.5 x 13.5 inch)."
             }
           ]
         }

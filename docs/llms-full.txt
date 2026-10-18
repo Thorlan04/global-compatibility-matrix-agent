@@ -138,3 +138,20 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=American+Airlines+carry-on+bag+underseat+pet+carrier&tag=autocompat-21
 
 ---
+
+## Southwest Airlines (AIRLINES)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/southwest-airlines-baggage-policy.html
+- Summary: Comprehensive guide to Southwest Airlines carry-on, personal item, and pet carrier dimensions, including dual metric and imperial measurements.
+
+### Exact Specifications (Dual Units):
+* **Carry-on Bag (Overhead Bin)**: Metric: `60.96 x 40.64 x 25.4 cm (No stated weight limit)` | Imperial: `24 x 16 x 10 in (No stated weight limit)` (Dimensions include wheels and handles. Must fit in the overhead bin.)
+* **Personal Item (Under Seat)**: Metric: `Approx. 46.99 x 34.29 x 21.59 cm (Must fit under seat)` | Imperial: `Approx. 18.5 x 13.5 x 8.5 in (Must fit under seat)` (Southwest does not publish exact dimensions, only that it must fit completely under the seat in front of you. Typical under-seat dimensions are provided as a guideline.)
+* **In-cabin Pet Carrier**: Metric: `46.99 x 21.59 x 34.29 cm (L x H x W)` | Imperial: `18.5 x 8.5 x 13.5 in (L x H x W)` (Must be able to fit under the seat in front of you. Pet must remain in the carrier at all times. Carrier must be leak-proof and well-ventilated.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=southwest+airlines+carry+on+bag+under+seat+pet+carrier&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=southwest+airlines+carry+on+bag+under+seat+pet+carrier&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=southwest+airlines+carry+on+bag+under+seat+pet+carrier&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=southwest+airlines+carry+on+bag+under+seat+pet+carrier&tag=autocompat-21
+
+---
