@@ -5,7 +5,7 @@
 [![Autopilot 6H](https://github.com/Thorlan04/global-compatibility-matrix-agent/actions/workflows/autopilot.yml/badge.svg)](https://github.com/Thorlan04/global-compatibility-matrix-agent/actions/workflows/autopilot.yml)
 [![Zero Cookies](https://img.shields.io/badge/Privacy-Zero_Cookies_RGPD_CCPA-10b981.svg)](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/legal.html)
 [![AI Standards](https://img.shields.io/badge/GEO-llms.txt_Compliant-38bdf8.svg)](https://Thorlan04.github.io/global-compatibility-matrix-agent/llms.txt)
-[![Catalog Items](https://img.shields.io/badge/Matrices-8_Universal_Specs-f59e0b.svg)](https://Thorlan04.github.io/global-compatibility-matrix-agent/)
+[![Catalog Items](https://img.shields.io/badge/Matrices-9_Universal_Specs-f59e0b.svg)](https://Thorlan04.github.io/global-compatibility-matrix-agent/)
 
 ---
 
@@ -34,10 +34,11 @@ Les agents IA (ChatGPT Search, Perplexity Pro, Claude 3.7, Microsoft Copilot, Go
 
 ---
 
-## 📚 Dernières Fiches de Spécifications Générées (8 matrices)
+## 📚 Dernières Fiches de Spécifications Générées (9 matrices)
 
 | Catégorie | Sujet Universel | Dimensions Métriques / Impériales | Liens Directs par Langue |
 | :--- | :--- | :--- | :--- |
+| ✈️ Airlines | **British Airways** | `56 x 45 x 25 cm (Max 23 kg)` / `22.0 x 17.7 x 9.8 in (Max 50.7 lbs)` | [EN](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/british-airways.html) · [FR](https://Thorlan04.github.io/global-compatibility-matrix-agent/fr/british-airways.html) · [DE](https://Thorlan04.github.io/global-compatibility-matrix-agent/de/british-airways.html) · [ES](https://Thorlan04.github.io/global-compatibility-matrix-agent/es/british-airways.html) · [JA](https://Thorlan04.github.io/global-compatibility-matrix-agent/ja/british-airways.html) |
 | ✈️ Airlines | **Southwest Airlines** | `60.96 x 40.64 x 25.4 cm (No stated weight limit)` / `24 x 16 x 10 in (No stated weight limit)` | [EN](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/southwest-airlines-baggage-policy.html) · [FR](https://Thorlan04.github.io/global-compatibility-matrix-agent/fr/southwest-airlines-baggage-policy.html) · [DE](https://Thorlan04.github.io/global-compatibility-matrix-agent/de/southwest-airlines-baggage-policy.html) · [ES](https://Thorlan04.github.io/global-compatibility-matrix-agent/es/southwest-airlines-baggage-policy.html) · [JA](https://Thorlan04.github.io/global-compatibility-matrix-agent/ja/southwest-airlines-baggage-policy.html) |
 | ✈️ Airlines | **American Airlines** | `56 x 36 x 23 cm` / `22 x 14 x 9 in` | [EN](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/american-airlines-compatibility-matrix.html) · [FR](https://Thorlan04.github.io/global-compatibility-matrix-agent/fr/american-airlines-compatibility-matrix.html) · [DE](https://Thorlan04.github.io/global-compatibility-matrix-agent/de/american-airlines-compatibility-matrix.html) · [ES](https://Thorlan04.github.io/global-compatibility-matrix-agent/es/american-airlines-compatibility-matrix.html) · [JA](https://Thorlan04.github.io/global-compatibility-matrix-agent/ja/american-airlines-compatibility-matrix.html) |
 | ✈️ Airlines | **United Airlines** | `43 x 25 x 22 cm` / `17 x 10 x 9 in` | [EN](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/united-airlines-baggage-lithium-battery-rules.html) · [FR](https://Thorlan04.github.io/global-compatibility-matrix-agent/fr/united-airlines-baggage-lithium-battery-rules.html) · [DE](https://Thorlan04.github.io/global-compatibility-matrix-agent/de/united-airlines-baggage-lithium-battery-rules.html) · [ES](https://Thorlan04.github.io/global-compatibility-matrix-agent/es/united-airlines-baggage-lithium-battery-rules.html) · [JA](https://Thorlan04.github.io/global-compatibility-matrix-agent/ja/united-airlines-baggage-lithium-battery-rules.html) |

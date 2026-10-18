@@ -155,3 +155,19 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=southwest+airlines+carry+on+bag+under+seat+pet+carrier&tag=autocompat-21
 
 ---
+
+## British Airways (AIRLINES)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/british-airways.html
+- Summary: Comprehensive guide to British Airways' hand baggage and cabin bag allowances, including exact dimensions and weight limits for a smooth travel experience.
+
+### Exact Specifications (Dual Units):
+* **Hand Baggage (Carry-on)**: Metric: `56 x 45 x 25 cm (Max 23 kg)` | Imperial: `22.0 x 17.7 x 9.8 in (Max 50.7 lbs)` (One piece of hand baggage is allowed per passenger. This bag must fit in the overhead locker.)
+* **Cabin Bag (Personal Item)**: Metric: `40 x 30 x 15 cm (Max 23 kg)` | Imperial: `15.7 x 11.8 x 5.9 in (Max 50.7 lbs)` (One small cabin bag (e.g., handbag, laptop bag) is allowed in addition to hand baggage. This bag must fit under the seat in front of you. Both bags can weigh up to 23kg each.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=british+airways+carry+on+bag+underseat+bag&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=british+airways+carry+on+bag+underseat+bag&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=british+airways+carry+on+bag+underseat+bag&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=british+airways+carry+on+bag+underseat+bag&tag=autocompat-21
+
+---

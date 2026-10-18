@@ -1,21 +1,22 @@
 {
-  "last_updated": "2026-10-18T02:50:06.379841+00:00",
+  "last_updated": "2026-10-18T10:19:14.190467+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "ryanair-cabin-baggage-dimensions",
+    "american",
     "tesla-model-y-wipers-roof-trunk-dimensions",
     "delta-air-lines-compatibility-matrix",
-    "southwest-airlines-baggage-policy",
-    "united",
+    "lg-oled-c3-c4-vesa-mount-power",
     "united-airlines-baggage-lithium-battery-rules",
-    "american-airlines-compatibility-matrix",
     "southwest",
     "easyjet-baggage-powerbank-guide",
+    "british-airways",
     "easyjet",
-    "american",
     "delta",
-    "lg-oled-c3-c4-vesa-mount-power"
+    "american-airlines-compatibility-matrix",
+    "united",
+    "ryanair-cabin-baggage-dimensions",
+    "southwest-airlines-baggage-policy"
   ],
   "topics_backlog": [
     {
@@ -3543,6 +3544,326 @@
             {
               "q": "Kan ik een huisdier meenemen in de cabine van Southwest Airlines?",
               "a": "Ja, kleine gevaccineerde huiskatten en -honden mogen reizen in de cabine van Southwest Airlines, mits ze in een goedgekeurde reismand zitten die onder de stoel past (46.99 x 21.59 x 34.29 cm / 18.5 x 8.5 x 13.5 inch)."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "british-airways",
+      "slug": "british-airways",
+      "subject": "British Airways",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Hand Baggage (Carry-on)",
+          "metric": "56 x 45 x 25 cm (Max 23 kg)",
+          "imperial": "22.0 x 17.7 x 9.8 in (Max 50.7 lbs)",
+          "status": "Verified",
+          "note": "One piece of hand baggage is allowed per passenger. This bag must fit in the overhead locker.",
+          "item_translations": {
+            "en": "Hand Baggage (Carry-on)",
+            "de": "Handgepäck (Kabinenkoffer)",
+            "fr": "Bagage à main (Cabine)",
+            "es": "Equipaje de mano (Cabina)",
+            "it": "Bagaglio a mano (Cabina)",
+            "ja": "機内持ち込み手荷物",
+            "pt": "Bagagem de Mão (Cabine)",
+            "nl": "Handbagage (Cabine)"
+          },
+          "note_translations": {
+            "en": "One piece of hand baggage is allowed per passenger. This bag must fit in the overhead locker.",
+            "de": "Ein Stück Handgepäck ist pro Passagier erlaubt. Dieses Gepäckstück muss in das Gepäckfach über dem Sitz passen.",
+            "fr": "Un bagage à main est autorisé par passager. Ce sac doit tenir dans le compartiment supérieur.",
+            "es": "Se permite una pieza de equipaje de mano por pasajero. Esta maleta debe caber en el compartimento superior.",
+            "it": "È consentito un bagaglio a mano per passeggero. Questa borsa deve entrare nella cappelliera.",
+            "ja": "乗客1名につき1個の手荷物が許可されています。このバッグは頭上の収納棚に収まる必要があります。",
+            "pt": "É permitida uma peça de bagagem de mão por passageiro. Esta mala deve caber no compartimento superior.",
+            "nl": "Eén stuk handbagage is per passagier toegestaan. Deze tas moet in het bagagevak boven de stoel passen."
+          }
+        },
+        {
+          "item": "Cabin Bag (Personal Item)",
+          "metric": "40 x 30 x 15 cm (Max 23 kg)",
+          "imperial": "15.7 x 11.8 x 5.9 in (Max 50.7 lbs)",
+          "status": "Verified",
+          "note": "One small cabin bag (e.g., handbag, laptop bag) is allowed in addition to hand baggage. This bag must fit under the seat in front of you. Both bags can weigh up to 23kg each.",
+          "item_translations": {
+            "en": "Cabin Bag (Personal Item)",
+            "de": "Kleine Kabinentasche (Persönlicher Gegenstand)",
+            "fr": "Petit sac de cabine (Article personnel)",
+            "es": "Bolsa de cabina (Artículo personal)",
+            "it": "Borsa da cabina (Articolo personale)",
+            "ja": "機内持ち込み用小型バッグ (身の回り品)",
+            "pt": "Bolsa de Cabine (Item Pessoal)",
+            "nl": "Kleine cabinetas (Persoonlijk item)"
+          },
+          "note_translations": {
+            "en": "One small cabin bag (e.g., handbag, laptop bag) is allowed in addition to hand baggage. This bag must fit under the seat in front of you. Both bags can weigh up to 23kg each.",
+            "de": "Eine kleine Kabinentasche (z.B. Handtasche, Laptoptasche) ist zusätzlich zum Handgepäck erlaubt. Diese Tasche muss unter den Vordersitz passen. Beide Gepäckstücke dürfen jeweils bis zu 23 kg wiegen.",
+            "fr": "Un petit sac de cabine (par exemple, sac à main, sac pour ordinateur portable) est autorisé en plus du bagage à main. Ce sac doit tenir sous le siège devant vous. Les deux sacs peuvent peser jusqu'à 23 kg chacun.",
+            "es": "Se permite una pequeña bolsa de cabina (por ejemplo, bolso de mano, bolsa para portátil) además del equipaje de mano. Esta bolsa debe caber debajo del asiento delantero. Ambas maletas pueden pesar hasta 23 kg cada una.",
+            "it": "Una piccola borsa da cabina (es. borsa, borsa per laptop) è consentita in aggiunta al bagaglio a mano. Questa borsa deve entrare sotto il sedile di fronte a te. Entrambe le borse possono pesare fino a 23 kg ciascuna.",
+            "ja": "手荷物に加えて、小型の機内持ち込み用バッグ（ハンドバッグ、ラップトップバッグなど）が1つ許可されています。このバッグは前の座席の下に収まる必要があります。両方のバッグはそれぞれ最大23kgまで計量できます。",
+            "pt": "É permitida uma pequena bolsa de cabine (por exemplo, mala de mão, bolsa para portátil) além da bagagem de mão. Esta bolsa deve caber debaixo do assento à sua frente. Ambas as malas podem pesar até 23 kg cada.",
+            "nl": "Eén kleine cabinetas (bijv. handtas, laptoptas) is toegestaan naast de handbagage. Deze tas moet onder de stoel voor u passen. Beide tassen mogen elk tot 23 kg wegen."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "british-airways",
+          "title": "British Airways Hand Baggage & Cabin Bag Dimensions",
+          "summary": "Comprehensive guide to British Airways' hand baggage and cabin bag allowances, including exact dimensions and weight limits for a smooth travel experience.",
+          "amazon_search_query": "british airways carry on bag underseat bag",
+          "buy_box_title": "Recommended British Airways Compliant Luggage",
+          "buy_box_subtitle": "Travel with confidence, knowing your bags meet BA's strict requirements.",
+          "allowed_guidelines": [
+            "Passengers are permitted one piece of hand baggage and one small cabin bag.",
+            "Each bag can weigh up to 23kg (50.7 lbs).",
+            "Hand baggage must fit in the overhead locker, and the cabin bag must fit under the seat in front."
+          ],
+          "strict_restrictions": [
+            "Dimensions for hand baggage must not exceed 56 x 45 x 25 cm (22.0 x 17.7 x 9.8 in).",
+            "Dimensions for the small cabin bag must not exceed 40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in).",
+            "Any bag exceeding weight or dimension limits may be subject to check-in fees."
+          ],
+          "faqs": [
+            {
+              "q": "What are the dimensions for British Airways hand baggage?",
+              "a": "The maximum dimensions for hand baggage are 56 x 45 x 25 cm (22.0 x 17.7 x 9.8 in), including handles and wheels."
+            },
+            {
+              "q": "What is the weight limit for hand baggage on British Airways?",
+              "a": "Each piece of hand baggage, including your small cabin bag, can weigh up to 23 kg (50.7 lbs)."
+            },
+            {
+              "q": "Can I bring a laptop bag in addition to my carry-on on British Airways?",
+              "a": "Yes, you are allowed one small cabin bag (like a laptop bag or handbag) in addition to your main hand baggage. Its dimensions must not exceed 40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in)."
+            }
+          ]
+        },
+        "de": {
+          "slug": "british-airways",
+          "title": "British Airways Handgepäck & Kabinentaschen Maße",
+          "summary": "Umfassender Leitfaden zu den Handgepäck- und Kabinentaschenbestimmungen von British Airways, einschließlich genauer Maße und Gewichtsbeschränkungen für eine reibungslose Reise.",
+          "amazon_search_query": "british airways handgepäck unter dem sitz tasche",
+          "buy_box_title": "Empfohlenes British Airways konformes Gepäck",
+          "buy_box_subtitle": "Reisen Sie mit Zuversicht, da Sie wissen, dass Ihre Taschen den strengen Anforderungen von BA entsprechen.",
+          "allowed_guidelines": [
+            "Passagiere dürfen ein Stück Handgepäck und eine kleine Kabinentasche mitnehmen.",
+            "Jedes Gepäckstück darf bis zu 23 kg (50,7 lbs) wiegen.",
+            "Das Handgepäck muss in das Gepäckfach über dem Sitz passen, und die Kabinentasche muss unter den Vordersitz passen."
+          ],
+          "strict_restrictions": [
+            "Die Maße für das Handgepäck dürfen 56 x 45 x 25 cm (22,0 x 17,7 x 9,8 Zoll) nicht überschreiten.",
+            "Die Maße für die kleine Kabinentasche dürfen 40 x 30 x 15 cm (15,7 x 11,8 x 5,9 Zoll) nicht überschreiten.",
+            "Jedes Gepäckstück, das die Gewichts- oder Größenbeschränkungen überschreitet, kann zusätzlichen Gebühren unterliegen."
+          ],
+          "faqs": [
+            {
+              "q": "Welche Maße gelten für British Airways Handgepäck?",
+              "a": "Die maximalen Maße für Handgepäck betragen 56 x 45 x 25 cm (22,0 x 17,7 x 9,8 Zoll), einschließlich Griffe und Rollen."
+            },
+            {
+              "q": "Wie hoch ist das Gewichtslimit für Handgepäck bei British Airways?",
+              "a": "Jedes Handgepäckstück, einschließlich Ihrer kleinen Kabinentasche, darf bis zu 23 kg (50,7 lbs) wiegen."
+            },
+            {
+              "q": "Kann ich zusätzlich zu meinem Handgepäck eine Laptoptasche bei British Airways mitnehmen?",
+              "a": "Ja, Sie dürfen zusätzlich zu Ihrem Haupt-Handgepäck eine kleine Kabinentasche (wie eine Laptoptasche oder Handtasche) mitnehmen. Ihre Maße dürfen 40 x 30 x 15 cm (15,7 x 11,8 x 5,9 Zoll) nicht überschreiten."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "british-airways",
+          "title": "Dimensions des bagages à main et petits sacs de cabine British Airways",
+          "summary": "Guide complet des franchises de bagages à main et petits sacs de cabine de British Airways, incluant les dimensions exactes et les limites de poids pour un voyage en toute sérénité.",
+          "amazon_search_query": "british airways bagage cabine sac sous siege",
+          "buy_box_title": "Bagages conformes aux normes British Airways recommandés",
+          "buy_box_subtitle": "Voyagez en toute confiance, sachant que vos sacs respectent les exigences strictes de BA.",
+          "allowed_guidelines": [
+            "Les passagers sont autorisés à emporter un bagage à main et un petit sac de cabine.",
+            "Chaque sac peut peser jusqu'à 23 kg (50,7 lbs).",
+            "Le bagage à main doit tenir dans le compartiment supérieur, et le petit sac de cabine doit tenir sous le siège devant vous."
+          ],
+          "strict_restrictions": [
+            "Les dimensions du bagage à main ne doivent pas dépasser 56 x 45 x 25 cm (22,0 x 17,7 x 9,8 pouces).",
+            "Les dimensions du petit sac de cabine ne doivent pas dépasser 40 x 30 x 15 cm (15,7 x 11,8 x 5,9 pouces).",
+            "Tout sac dépassant les limites de poids ou de dimensions peut être soumis à des frais d'enregistrement."
+          ],
+          "faqs": [
+            {
+              "q": "Quelles sont les dimensions des bagages à main British Airways ?",
+              "a": "Les dimensions maximales pour les bagages à main sont de 56 x 45 x 25 cm (22,0 x 17,7 x 9,8 pouces), poignées et roues comprises."
+            },
+            {
+              "q": "Quelle est la limite de poids pour les bagages à main sur British Airways ?",
+              "a": "Chaque bagage à main, y compris votre petit sac de cabine, peut peser jusqu'à 23 kg (50,7 lbs)."
+            },
+            {
+              "q": "Puis-je apporter un sac pour ordinateur portable en plus de mon bagage à main sur British Airways ?",
+              "a": "Oui, vous êtes autorisé à emporter un petit sac de cabine (comme un sac pour ordinateur portable ou un sac à main) en plus de votre bagage à main principal. Ses dimensions ne doivent pas dépasser 40 x 30 x 15 cm (15,7 x 11,8 x 5,9 pouces)."
+            }
+          ]
+        },
+        "es": {
+          "slug": "british-airways",
+          "title": "Dimensiones del Equipaje de Mano y Bolsa de Cabina de British Airways",
+          "summary": "Guía completa sobre las franquicias de equipaje de mano y bolsas de cabina de British Airways, incluyendo dimensiones exactas y límites de peso para una experiencia de viaje sin problemas.",
+          "amazon_search_query": "british airways equipaje de mano bolsa debajo del asiento",
+          "buy_box_title": "Equipaje recomendado compatible con British Airways",
+          "buy_box_subtitle": "Viaje con confianza, sabiendo que sus maletas cumplen con los estrictos requisitos de BA.",
+          "allowed_guidelines": [
+            "Los pasajeros tienen permitido una pieza de equipaje de mano y una pequeña bolsa de cabina.",
+            "Cada maleta puede pesar hasta 23 kg (50,7 lbs).",
+            "El equipaje de mano debe caber en el compartimento superior, y la bolsa de cabina debe caber debajo del asiento delantero."
+          ],
+          "strict_restrictions": [
+            "Las dimensiones del equipaje de mano no deben exceder los 56 x 45 x 25 cm (22,0 x 17,7 x 9,8 pulgadas).",
+            "Las dimensiones de la pequeña bolsa de cabina no deben exceder los 40 x 30 x 15 cm (15,7 x 11,8 x 5,9 pulgadas).",
+            "Cualquier maleta que exceda los límites de peso o dimensiones puede estar sujeta a tarifas de facturación."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuáles son las dimensiones del equipaje de mano de British Airways?",
+              "a": "Las dimensiones máximas para el equipaje de mano son 56 x 45 x 25 cm (22,0 x 17,7 x 9,8 pulgadas), incluyendo asas y ruedas."
+            },
+            {
+              "q": "¿Cuál es el límite de peso para el equipaje de mano en British Airways?",
+              "a": "Cada pieza de equipaje de mano, incluyendo su pequeña bolsa de cabina, puede pesar hasta 23 kg (50,7 lbs)."
+            },
+            {
+              "q": "¿Puedo llevar una bolsa para portátil además de mi equipaje de mano en British Airways?",
+              "a": "Sí, se le permite una pequeña bolsa de cabina (como una bolsa para portátil o un bolso de mano) además de su equipaje de mano principal. Sus dimensiones no deben exceder los 40 x 30 x 15 cm (15,7 x 11,8 x 5,9 pulgadas)."
+            }
+          ]
+        },
+        "it": {
+          "slug": "british-airways",
+          "title": "Dimensioni Bagaglio a Mano e Borsa da Cabina British Airways",
+          "summary": "Guida completa alle franchigie per bagaglio a mano e borsa da cabina di British Airways, incluse dimensioni esatte e limiti di peso per un'esperienza di viaggio senza intoppi.",
+          "amazon_search_query": "british airways bagaglio a mano borsa sotto sedile",
+          "buy_box_title": "Bagaglio consigliato conforme a British Airways",
+          "buy_box_subtitle": "Viaggia con fiducia, sapendo che le tue borse soddisfano i rigorosi requisiti di BA.",
+          "allowed_guidelines": [
+            "Ai passeggeri è consentito un bagaglio a mano e una piccola borsa da cabina.",
+            "Ogni borsa può pesare fino a 23 kg (50,7 lbs).",
+            "Il bagaglio a mano deve entrare nella cappelliera e la borsa da cabina deve entrare sotto il sedile di fronte."
+          ],
+          "strict_restrictions": [
+            "Le dimensioni del bagaglio a mano non devono superare i 56 x 45 x 25 cm (22,0 x 17,7 x 9,8 pollici).",
+            "Le dimensioni della piccola borsa da cabina non devono superare i 40 x 30 x 15 cm (15,7 x 11,8 x 5,9 pollici).",
+            "Qualsiasi borsa che superi i limiti di peso o dimensioni potrebbe essere soggetta a costi di registrazione."
+          ],
+          "faqs": [
+            {
+              "q": "Quali sono le dimensioni del bagaglio a mano British Airways?",
+              "a": "Le dimensioni massime per il bagaglio a mano sono 56 x 45 x 25 cm (22,0 x 17,7 x 9,8 pollici), incluse maniglie e ruote."
+            },
+            {
+              "q": "Qual è il limite di peso per il bagaglio a mano su British Airways?",
+              "a": "Ogni pezzo di bagaglio a mano, inclusa la tua piccola borsa da cabina, può pesare fino a 23 kg (50,7 lbs)."
+            },
+            {
+              "q": "Posso portare una borsa per laptop oltre al mio bagaglio a mano su British Airways?",
+              "a": "Sì, ti è consentita una piccola borsa da cabina (come una borsa per laptop o una borsetta) in aggiunta al tuo bagaglio a mano principale. Le sue dimensioni non devono superare i 40 x 30 x 15 cm (15,7 x 11,8 x 5,9 pollici)."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "british-airways",
+          "title": "ブリティッシュ・エアウェイズ 機内持ち込み手荷物および小型バッグの寸法",
+          "summary": "ブリティッシュ・エアウェイズの機内持ち込み手荷物および小型バッグの許容量に関する包括的なガイド。正確な寸法と重量制限を含み、スムーズな旅行体験をサポートします。",
+          "amazon_search_query": "ブリティッシュエアウェイズ 機内持ち込み バッグ 座席下",
+          "buy_box_title": "推奨されるブリティッシュ・エアウェイズ準拠の荷物",
+          "buy_box_subtitle": "BAの厳格な要件を満たしていることを確認して、自信を持って旅行しましょう。",
+          "allowed_guidelines": [
+            "乗客は機内持ち込み手荷物1個と小型の機内持ち込み用バッグ1個が許可されています。",
+            "各バッグは最大23kg（50.7ポンド）まで計量できます。",
+            "機内持ち込み手荷物は頭上の収納棚に、小型の機内持ち込み用バッグは前の座席の下に収まる必要があります。"
+          ],
+          "strict_restrictions": [
+            "機内持ち込み手荷物の寸法は56 x 45 x 25 cm（22.0 x 17.7 x 9.8インチ）を超えてはなりません。",
+            "小型の機内持ち込み用バッグの寸法は40 x 30 x 15 cm（15.7 x 11.8 x 5.9インチ）を超えてはなりません。",
+            "重量または寸法制限を超えるバッグは、チェックイン料金の対象となる場合があります。"
+          ],
+          "faqs": [
+            {
+              "q": "ブリティッシュ・エアウェイズの機内持ち込み手荷物の寸法は？",
+              "a": "機内持ち込み手荷物の最大寸法は、ハンドルと車輪を含めて56 x 45 x 25 cm（22.0 x 17.7 x 9.8インチ）です。"
+            },
+            {
+              "q": "ブリティッシュ・エアウェイズの機内持ち込み手荷物の重量制限は？",
+              "a": "小型の機内持ち込み用バッグを含め、各機内持ち込み手荷物は最大23 kg（50.7ポンド）まで計量できます。"
+            },
+            {
+              "q": "ブリティッシュ・エアウェイズで機内持ち込み手荷物とは別にラップトップバッグを持ち込めますか？",
+              "a": "はい、メインの機内持ち込み手荷物とは別に、小型の機内持ち込み用バッグ（ラップトップバッグやハンドバッグなど）を1つ持ち込むことができます。その寸法は40 x 30 x 15 cm（15.7 x 11.8 x 5.9インチ）を超えてはなりません。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "british-airways",
+          "title": "Dimensões da Bagagem de Mão e Bolsa de Cabine British Airways",
+          "summary": "Guia completo sobre as franquias de bagagem de mão e bolsas de cabine da British Airways, incluindo dimensões exatas e limites de peso para uma experiência de viagem tranquila.",
+          "amazon_search_query": "british airways bagagem de mão bolsa debaixo do assento",
+          "buy_box_title": "Bagagem recomendada compatível com British Airways",
+          "buy_box_subtitle": "Viaje com confiança, sabendo que suas malas atendem aos rigorosos requisitos da BA.",
+          "allowed_guidelines": [
+            "Os passageiros têm permissão para uma peça de bagagem de mão e uma pequena bolsa de cabine.",
+            "Cada mala pode pesar até 23 kg (50,7 lbs).",
+            "A bagagem de mão deve caber no compartimento superior, e a bolsa de cabine deve caber debaixo do assento à frente."
+          ],
+          "strict_restrictions": [
+            "As dimensões da bagagem de mão não devem exceder 56 x 45 x 25 cm (22,0 x 17,7 x 9,8 polegadas).",
+            "As dimensões da pequena bolsa de cabine não devem exceder 40 x 30 x 15 cm (15,7 x 11,8 x 5,9 polegadas).",
+            "Qualquer mala que exceda os limites de peso ou dimensões pode estar sujeita a taxas de despacho."
+          ],
+          "faqs": [
+            {
+              "q": "Quais são as dimensões da bagagem de mão da British Airways?",
+              "a": "As dimensões máximas para a bagagem de mão são 56 x 45 x 25 cm (22,0 x 17,7 x 9,8 polegadas), incluindo alças e rodas."
+            },
+            {
+              "q": "Qual é o limite de peso para a bagagem de mão na British Airways?",
+              "a": "Cada peça de bagagem de mão, incluindo sua pequena bolsa de cabine, pode pesar até 23 kg (50,7 lbs)."
+            },
+            {
+              "q": "Posso levar uma bolsa para laptop além da minha bagagem de mão na British Airways?",
+              "a": "Sim, você tem permissão para uma pequena bolsa de cabine (como uma bolsa para laptop ou bolsa de mão) além da sua bagagem de mão principal. Suas dimensões não devem exceder 40 x 30 x 15 cm (15,7 x 11,8 x 5,9 polegadas)."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "british-airways",
+          "title": "British Airways Handbagage & Cabinetas Afmetingen",
+          "summary": "Uitgebreide gids voor de handbagage- en cabinetas-toeslagen van British Airways, inclusief exacte afmetingen en gewichtslimieten voor een soepele reiservaring.",
+          "amazon_search_query": "british airways handbagage onder de stoel tas",
+          "buy_box_title": "Aanbevolen British Airways conforme bagage",
+          "buy_box_subtitle": "Reis met vertrouwen, wetende dat uw tassen voldoen aan de strikte eisen van BA.",
+          "allowed_guidelines": [
+            "Passagiers mogen één stuk handbagage en één kleine cabinetas meenemen.",
+            "Elke tas mag tot 23 kg (50,7 lbs) wegen.",
+            "Handbagage moet in het bagagevak boven de stoel passen, en de cabinetas moet onder de stoel voor u passen."
+          ],
+          "strict_restrictions": [
+            "De afmetingen voor handbagage mogen niet groter zijn dan 56 x 45 x 25 cm (22,0 x 17,7 x 9,8 inch).",
+            "De afmetingen voor de kleine cabinetas mogen niet groter zijn dan 40 x 30 x 15 cm (15,7 x 11,8 x 5,9 inch).",
+            "Elke tas die de gewichts- of afmetingslimieten overschrijdt, kan onderworpen zijn aan incheckkosten."
+          ],
+          "faqs": [
+            {
+              "q": "Wat zijn de afmetingen voor British Airways handbagage?",
+              "a": "De maximale afmetingen voor handbagage zijn 56 x 45 x 25 cm (22,0 x 17,7 x 9,8 inch), inclusief handvatten en wielen."
+            },
+            {
+              "q": "Wat is het gewichtslimiet voor handbagage bij British Airways?",
+              "a": "Elk stuk handbagage, inclusief uw kleine cabinetas, mag tot 23 kg (50,7 lbs) wegen."
+            },
+            {
+              "q": "Kan ik een laptoptas meenemen naast mijn handbagage bij British Airways?",
+              "a": "Ja, u mag één kleine cabinetas (zoals een laptoptas of handtas) meenemen naast uw hoofdbagage. De afmetingen mogen niet groter zijn dan 40 x 30 x 15 cm (15,7 x 11,8 x 5,9 inch)."
             }
           ]
         }
