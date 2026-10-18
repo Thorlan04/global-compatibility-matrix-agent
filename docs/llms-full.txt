@@ -171,3 +171,20 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=british+airways+carry+on+bag+underseat+bag&tag=autocompat-21
 
 ---
+
+## Lufthansa (AIRLINES)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/lufthansa-airlines-baggage-guide.html
+- Summary: Comprehensive guide to Lufthansa's carry-on, personal item, and garment bag dimensions and weight limits, ensuring compliance for a smooth travel experience.
+
+### Exact Specifications (Dual Units):
+* **Carry-on Baggage (Cabin Baggage)**: Metric: `55 x 40 x 23 cm (Max 8 kg)` | Imperial: `21.7 x 15.7 x 9.1 in (Max 17.6 lbs)` (Dimensions include handles, pockets, and wheels. Weight limit applies per piece. Economy/Premium Economy: 1 piece. Business/First Class: 2 pieces.)
+* **Personal Item (Underseat Bag)**: Metric: `40 x 30 x 10 cm` | Imperial: `15.7 x 11.8 x 3.9 in` (Must fit under the seat in front of you. Dimensions include handles, pockets, and wheels. No specific weight limit, must be reasonable.)
+* **Foldable Garment Bag**: Metric: `57 x 54 x 15 cm (when folded)` | Imperial: `22.4 x 21.3 x 5.9 in (when folded)` (Can be carried instead of a piece of hand luggage, or in addition to two pieces of hand luggage in Business/First Class. Dimensions when folded. No specific weight limit, must be reasonable.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=lufthansa+carry+on+bag%2C+lufthansa+personal+item%2C+underseat+bag+lufthansa&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=lufthansa+carry+on+bag%2C+lufthansa+personal+item%2C+underseat+bag+lufthansa&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=lufthansa+carry+on+bag%2C+lufthansa+personal+item%2C+underseat+bag+lufthansa&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=lufthansa+carry+on+bag%2C+lufthansa+personal+item%2C+underseat+bag+lufthansa&tag=autocompat-21
+
+---

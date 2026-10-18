@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-10-18T10:19:08.291957+00:00",
-  "total_items": 9,
+  "generated_at": "2026-10-18T15:19:28.597502+00:00",
+  "total_items": 10,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -3613,6 +3613,353 @@
             {
               "q": "Kan ik een laptoptas meenemen naast mijn handbagage bij British Airways?",
               "a": "Ja, u mag één kleine cabinetas (zoals een laptoptas of handtas) meenemen naast uw hoofdbagage. De afmetingen mogen niet groter zijn dan 40 x 30 x 15 cm (15,7 x 11,8 x 5,9 inch)."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "lufthansa",
+      "slug": "lufthansa-airlines-baggage-guide",
+      "subject": "Lufthansa",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Carry-on Baggage (Cabin Baggage)",
+          "metric": "55 x 40 x 23 cm (Max 8 kg)",
+          "imperial": "21.7 x 15.7 x 9.1 in (Max 17.6 lbs)",
+          "status": "Verified",
+          "note": "Dimensions include handles, pockets, and wheels. Weight limit applies per piece. Economy/Premium Economy: 1 piece. Business/First Class: 2 pieces.",
+          "item_translations": {
+            "en": "Carry-on Baggage (Cabin Baggage)",
+            "de": "Handgepäck (Kabinen-Gepäck)",
+            "fr": "Bagage à main (Bagage cabine)",
+            "es": "Equipaje de mano (Equipaje de cabina)",
+            "it": "Bagaglio a mano (Bagaglio in cabina)",
+            "ja": "機内持ち込み手荷物",
+            "pt": "Bagagem de Mão (Bagagem de Cabine)",
+            "nl": "Handbagage (Cabinebagage)"
+          },
+          "note_translations": {
+            "en": "Dimensions include handles, pockets, and wheels. Weight limit applies per piece. Economy/Premium Economy: 1 piece. Business/First Class: 2 pieces.",
+            "de": "Die Maße beinhalten Griffe, Taschen und Rollen. Das Gewichtslimit gilt pro Stück. Economy/Premium Economy: 1 Stück. Business/First Class: 2 Stück.",
+            "fr": "Les dimensions incluent les poignées, les poches et les roulettes. La limite de poids s'applique par pièce. Économie/Premium Économie : 1 pièce. Affaires/Première Classe : 2 pièces.",
+            "es": "Las dimensiones incluyen asas, bolsillos y ruedas. El límite de peso se aplica por pieza. Economy/Premium Economy: 1 pieza. Business/First Class: 2 piezas.",
+            "it": "Le dimensioni includono maniglie, tasche e ruote. Il limite di peso si applica per pezzo. Economy/Premium Economy: 1 pezzo. Business/First Class: 2 pezzi.",
+            "ja": "寸法にはハンドル、ポケット、車輪が含まれます。重量制限は1個あたりに適用されます。エコノミー/プレミアムエコノミー：1個。ビジネス/ファーストクラス：2個。",
+            "pt": "As dimensões incluem alças, bolsos e rodas. O limite de peso aplica-se por peça. Economia/Premium Economy: 1 peça. Business/First Class: 2 peças.",
+            "nl": "Afmetingen zijn inclusief handvatten, zakken en wielen. Gewichtslimiet geldt per stuk. Economy/Premium Economy: 1 stuk. Business/First Class: 2 stuks."
+          }
+        },
+        {
+          "item": "Personal Item (Underseat Bag)",
+          "metric": "40 x 30 x 10 cm",
+          "imperial": "15.7 x 11.8 x 3.9 in",
+          "status": "Verified",
+          "note": "Must fit under the seat in front of you. Dimensions include handles, pockets, and wheels. No specific weight limit, must be reasonable.",
+          "item_translations": {
+            "en": "Personal Item (Underseat Bag)",
+            "de": "Persönlicher Gegenstand (Unter-Sitz-Tasche)",
+            "fr": "Article personnel (Sac sous le siège)",
+            "es": "Artículo personal (Bolsa debajo del asiento)",
+            "it": "Articolo personale (Borsa sotto il sedile)",
+            "ja": "身の回り品（座席下収納バッグ）",
+            "pt": "Item Pessoal (Bolsa debaixo do assento)",
+            "nl": "Persoonlijk item (Tas onder de stoel)"
+          },
+          "note_translations": {
+            "en": "Must fit under the seat in front of you. Dimensions include handles, pockets, and wheels. No specific weight limit, must be reasonable.",
+            "de": "Muss unter den Vordersitz passen. Die Maße beinhalten Griffe, Taschen und Rollen. Kein spezifisches Gewichtslimit, muss angemessen sein.",
+            "fr": "Doit tenir sous le siège devant vous. Les dimensions incluent les poignées, les poches et les roulettes. Pas de limite de poids spécifique, doit être raisonnable.",
+            "es": "Debe caber debajo del asiento delantero. Las dimensiones incluyen asas, bolsillos y ruedas. Sin límite de peso específico, debe ser razonable.",
+            "it": "Deve stare sotto il sedile di fronte a te. Le dimensioni includono maniglie, tasche e ruote. Nessun limite di peso specifico, deve essere ragionevole.",
+            "ja": "前の座席の下に収まる必要があります。寸法にはハンドル、ポケット、車輪が含まれます。特定の重量制限はありませんが、常識的な範囲である必要があります。",
+            "pt": "Deve caber debaixo do assento à sua frente. As dimensões incluem alças, bolsos e rodas. Sem limite de peso específico, deve ser razoável.",
+            "nl": "Moet onder de stoel voor u passen. Afmetingen zijn inclusief handvatten, zakken en wielen. Geen specifiek gewichtslimiet, moet redelijk zijn."
+          }
+        },
+        {
+          "item": "Foldable Garment Bag",
+          "metric": "57 x 54 x 15 cm (when folded)",
+          "imperial": "22.4 x 21.3 x 5.9 in (when folded)",
+          "status": "Verified",
+          "note": "Can be carried instead of a piece of hand luggage, or in addition to two pieces of hand luggage in Business/First Class. Dimensions when folded. No specific weight limit, must be reasonable.",
+          "item_translations": {
+            "en": "Foldable Garment Bag",
+            "de": "Faltbare Kleidersack",
+            "fr": "Housse à vêtements pliable",
+            "es": "Bolsa de ropa plegable",
+            "it": "Portabiti pieghevole",
+            "ja": "折りたたみ式ガーメントバッグ",
+            "pt": "Saco de Roupa Dobrável",
+            "nl": "Opvouwbare kledingzak"
+          },
+          "note_translations": {
+            "en": "Can be carried instead of a piece of hand luggage, or in addition to two pieces of hand luggage in Business/First Class. Dimensions when folded. No specific weight limit, must be reasonable.",
+            "de": "Kann anstelle eines Handgepäckstücks oder zusätzlich zu zwei Handgepäckstücken in der Business/First Class mitgeführt werden. Maße im zusammengeklappten Zustand. Kein spezifisches Gewichtslimit, muss angemessen sein.",
+            "fr": "Peut être transporté à la place d'un bagage à main, ou en plus de deux bagages à main en classe Affaires/Première. Dimensions une fois plié. Pas de limite de poids spécifique, doit être raisonnable.",
+            "es": "Puede llevarse en lugar de una pieza de equipaje de mano, o además de dos piezas de equipaje de mano en Business/First Class. Dimensiones cuando está plegado. Sin límite de peso específico, debe ser razonable.",
+            "it": "Può essere trasportato al posto di un bagaglio a mano, o in aggiunta a due bagagli a mano in Business/First Class. Dimensioni da piegato. Nessun limite di peso specifico, deve essere ragionevole.",
+            "ja": "機内持ち込み手荷物の代わりに、またはビジネスクラス/ファーストクラスでは2個の機内持ち込み手荷物に加えて持ち込むことができます。折りたたみ時の寸法です。特定の重量制限はありませんが、常識的な範囲である必要があります。",
+            "pt": "Pode ser transportado em vez de uma peça de bagagem de mão, ou adicionalmente a duas peças de bagagem de mão em Business/First Class. Dimensões quando dobrado. Sem limite de peso específico, deve ser razoável.",
+            "nl": "Kan worden meegenomen in plaats van een stuk handbagage, of naast twee stuks handbagage in Business/First Class. Afmetingen in opgevouwen toestand. Geen specifiek gewichtslimiet, moet redelijk zijn."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "lufthansa-airlines-baggage-guide",
+          "title": "Lufthansa Baggage Compatibility & Measurement Guide",
+          "summary": "Comprehensive guide to Lufthansa's carry-on, personal item, and garment bag dimensions and weight limits, ensuring compliance for a smooth travel experience.",
+          "amazon_search_query": "lufthansa carry on bag, lufthansa personal item, underseat bag lufthansa",
+          "buy_box_title": "Recommended Lufthansa Compatible Luggage",
+          "buy_box_subtitle": "Travel with confidence knowing your bags meet Lufthansa's strict requirements.",
+          "allowed_guidelines": [
+            "One carry-on bag and one personal item are generally allowed for Economy and Premium Economy passengers.",
+            "Two carry-on bags and one personal item are allowed for Business and First Class passengers.",
+            "Foldable garment bags can be carried as an alternative to a carry-on, or as an additional item in Business/First Class."
+          ],
+          "strict_restrictions": [
+            "All dimensions include handles, pockets, and wheels.",
+            "Bags exceeding specified dimensions or weight limits may be subject to gate-checking fees.",
+            "Personal items must fit completely under the seat in front of you."
+          ],
+          "faqs": [
+            {
+              "q": "What is Lufthansa's carry-on baggage allowance?",
+              "a": "Lufthansa generally allows one carry-on bag (55x40x23 cm / 21.7x15.7x9.1 in, max 8 kg / 17.6 lbs) and one personal item (40x30x10 cm / 15.7x11.8x3.9 in) for Economy and Premium Economy. Business and First Class passengers may bring two carry-on bags."
+            },
+            {
+              "q": "Can I bring a garment bag on Lufthansa?",
+              "a": "Yes, a foldable garment bag (max. 57x54x15 cm / 22.4x21.3x5.9 in when folded) can be carried instead of a piece of hand luggage. In Business and First Class, it can be carried in addition to two pieces of hand luggage."
+            },
+            {
+              "q": "What happens if my carry-on is too big for Lufthansa?",
+              "a": "If your carry-on exceeds the specified dimensions or weight, it may need to be checked into the hold, potentially incurring additional fees at the gate."
+            }
+          ]
+        },
+        "de": {
+          "slug": "lufthansa-airlines-gepaeck-leitfaden",
+          "title": "Lufthansa Gepäck Kompatibilitäts- und Messleitfaden",
+          "summary": "Umfassender Leitfaden zu den Maßen und Gewichtsbeschränkungen für Handgepäck, persönliche Gegenstände und Kleidersäcke bei Lufthansa, um eine reibungslose Reise zu gewährleisten.",
+          "amazon_search_query": "lufthansa handgepäck, lufthansa persönlicher gegenstand, unter-sitz-tasche lufthansa",
+          "buy_box_title": "Empfohlenes Lufthansa-kompatibles Gepäck",
+          "buy_box_subtitle": "Reisen Sie beruhigt, da Ihr Gepäck den strengen Anforderungen von Lufthansa entspricht.",
+          "allowed_guidelines": [
+            "Ein Handgepäckstück und ein persönlicher Gegenstand sind in der Regel für Passagiere der Economy und Premium Economy Class erlaubt.",
+            "Zwei Handgepäckstücke und ein persönlicher Gegenstand sind für Passagiere der Business und First Class erlaubt.",
+            "Faltbare Kleidersäcke können als Alternative zum Handgepäck oder als zusätzlicher Gegenstand in der Business/First Class mitgeführt werden."
+          ],
+          "strict_restrictions": [
+            "Alle Maße beinhalten Griffe, Taschen und Rollen.",
+            "Gepäckstücke, die die angegebenen Maße oder Gewichtsgrenzen überschreiten, können am Gate kostenpflichtig aufgegeben werden.",
+            "Persönliche Gegenstände müssen vollständig unter den Vordersitz passen."
+          ],
+          "faqs": [
+            {
+              "q": "Wie hoch ist die Handgepäckfreigrenze bei Lufthansa?",
+              "a": "Lufthansa erlaubt in der Regel ein Handgepäckstück (55x40x23 cm / 21.7x15.7x9.1 Zoll, max. 8 kg / 17.6 lbs) und einen persönlichen Gegenstand (40x30x10 cm / 15.7x11.8x3.9 Zoll) für Economy und Premium Economy. Business- und First-Class-Passagiere dürfen zwei Handgepäckstücke mitnehmen."
+            },
+            {
+              "q": "Kann ich einen Kleidersack bei Lufthansa mitnehmen?",
+              "a": "Ja, ein faltbarer Kleidersack (max. 57x54x15 cm / 22.4x21.3x5.9 Zoll im zusammengeklappten Zustand) kann anstelle eines Handgepäckstücks mitgeführt werden. In der Business- und First Class kann er zusätzlich zu zwei Handgepäckstücken mitgenommen werden."
+            },
+            {
+              "q": "Was passiert, wenn mein Handgepäck für Lufthansa zu groß ist?",
+              "a": "Wenn Ihr Handgepäck die angegebenen Maße oder das Gewicht überschreitet, muss es möglicherweise im Frachtraum aufgegeben werden, wobei am Gate zusätzliche Gebühren anfallen können."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "lufthansa-airlines-guide-bagages",
+          "title": "Guide de compatibilité et de mesures des bagages Lufthansa",
+          "summary": "Guide complet des dimensions et limites de poids des bagages à main, articles personnels et housses à vêtements de Lufthansa, assurant la conformité pour une expérience de voyage fluide.",
+          "amazon_search_query": "bagage cabine lufthansa, article personnel lufthansa, sac sous siege lufthansa",
+          "buy_box_title": "Bagages compatibles Lufthansa recommandés",
+          "buy_box_subtitle": "Voyagez en toute confiance en sachant que vos sacs répondent aux exigences strictes de Lufthansa.",
+          "allowed_guidelines": [
+            "Un bagage à main et un article personnel sont généralement autorisés pour les passagers en classe Économie et Premium Économie.",
+            "Deux bagages à main et un article personnel sont autorisés pour les passagers en classe Affaires et Première Classe.",
+            "Les housses à vêtements pliables peuvent être transportées en remplacement d'un bagage à main, ou comme article supplémentaire en classe Affaires/Première."
+          ],
+          "strict_restrictions": [
+            "Toutes les dimensions incluent les poignées, les poches et les roulettes.",
+            "Les sacs dépassant les dimensions ou les limites de poids spécifiées peuvent être soumis à des frais d'enregistrement à la porte d'embarquement.",
+            "Les articles personnels doivent tenir entièrement sous le siège devant vous."
+          ],
+          "faqs": [
+            {
+              "q": "Quelle est la franchise de bagages à main de Lufthansa ?",
+              "a": "Lufthansa autorise généralement un bagage à main (55x40x23 cm / 21.7x15.7x9.1 po, max 8 kg / 17.6 lbs) et un article personnel (40x30x10 cm / 15.7x11.8x3.9 po) pour l'Économie et la Premium Économie. Les passagers en classe Affaires et Première Classe peuvent apporter deux bagages à main."
+            },
+            {
+              "q": "Puis-je apporter une housse à vêtements sur Lufthansa ?",
+              "a": "Oui, une housse à vêtements pliable (max. 57x54x15 cm / 22.4x21.3x5.9 po une fois pliée) peut être transportée à la place d'un bagage à main. En classe Affaires et Première Classe, elle peut être transportée en plus de deux bagages à main."
+            },
+            {
+              "q": "Que se passe-t-il si mon bagage à main est trop grand pour Lufthansa ?",
+              "a": "Si votre bagage à main dépasse les dimensions ou le poids spécifiés, il pourrait devoir être enregistré en soute, ce qui pourrait entraîner des frais supplémentaires à la porte d'embarquement."
+            }
+          ]
+        },
+        "es": {
+          "slug": "lufthansa-airlines-guia-equipaje",
+          "title": "Guía de Compatibilidad y Medidas de Equipaje Lufthansa",
+          "summary": "Guía completa de las dimensiones y límites de peso del equipaje de mano, artículo personal y bolsa de ropa de Lufthansa, asegurando el cumplimiento para una experiencia de viaje sin problemas.",
+          "amazon_search_query": "maleta cabina lufthansa, articulo personal lufthansa, bolsa bajo asiento lufthansa",
+          "buy_box_title": "Equipaje Compatible con Lufthansa Recomendado",
+          "buy_box_subtitle": "Viaje con confianza sabiendo que sus maletas cumplen con los estrictos requisitos de Lufthansa.",
+          "allowed_guidelines": [
+            "Generalmente se permite una maleta de mano y un artículo personal para pasajeros de Economy y Premium Economy.",
+            "Se permiten dos maletas de mano y un artículo personal para pasajeros de Business y First Class.",
+            "Las bolsas de ropa plegables se pueden llevar como alternativa a una maleta de mano, o como un artículo adicional en Business/First Class."
+          ],
+          "strict_restrictions": [
+            "Todas las dimensiones incluyen asas, bolsillos y ruedas.",
+            "Las maletas que excedan las dimensiones o límites de peso especificados pueden estar sujetas a tarifas de facturación en la puerta de embarque.",
+            "Los artículos personales deben caber completamente debajo del asiento delantero."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuál es la franquicia de equipaje de mano de Lufthansa?",
+              "a": "Lufthansa generalmente permite una maleta de mano (55x40x23 cm / 21.7x15.7x9.1 pulg., máx. 8 kg / 17.6 lbs) y un artículo personal (40x30x10 cm / 15.7x11.8x3.9 pulg.) para Economy y Premium Economy. Los pasajeros de Business y First Class pueden llevar dos maletas de mano."
+            },
+            {
+              "q": "¿Puedo llevar una bolsa de ropa en Lufthansa?",
+              "a": "Sí, una bolsa de ropa plegable (máx. 57x54x15 cm / 22.4x21.3x5.9 pulg. cuando está plegada) se puede llevar en lugar de una pieza de equipaje de mano. En Business y First Class, se puede llevar además de dos piezas de equipaje de mano."
+            },
+            {
+              "q": "¿Qué sucede si mi equipaje de mano es demasiado grande para Lufthansa?",
+              "a": "Si su equipaje de mano excede las dimensiones o el peso especificados, es posible que deba ser facturado en la bodega, lo que podría generar cargos adicionales en la puerta de embarque."
+            }
+          ]
+        },
+        "it": {
+          "slug": "lufthansa-airlines-guida-bagagli",
+          "title": "Guida alla Compatibilità e Misurazione dei Bagagli Lufthansa",
+          "summary": "Guida completa alle dimensioni e ai limiti di peso del bagaglio a mano, dell'articolo personale e del portabiti di Lufthansa, garantendo la conformità per un'esperienza di viaggio senza intoppi.",
+          "amazon_search_query": "bagaglio a mano lufthansa, articolo personale lufthansa, borsa sotto sedile lufthansa",
+          "buy_box_title": "Bagagli Compatibili con Lufthansa Consigliati",
+          "buy_box_subtitle": "Viaggia con fiducia sapendo che i tuoi bagagli soddisfano i rigorosi requisiti di Lufthansa.",
+          "allowed_guidelines": [
+            "Un bagaglio a mano e un articolo personale sono generalmente consentiti per i passeggeri di Economy e Premium Economy.",
+            "Due bagagli a mano e un articolo personale sono consentiti per i passeggeri di Business e First Class.",
+            "I portabiti pieghevoli possono essere trasportati in alternativa a un bagaglio a mano, o come articolo aggiuntivo in Business/First Class."
+          ],
+          "strict_restrictions": [
+            "Tutte le dimensioni includono maniglie, tasche e ruote.",
+            "I bagagli che superano le dimensioni o i limiti di peso specificati potrebbero essere soggetti a costi di imbarco al gate.",
+            "Gli articoli personali devono stare completamente sotto il sedile di fronte a te."
+          ],
+          "faqs": [
+            {
+              "q": "Qual è la franchigia bagaglio a mano di Lufthansa?",
+              "a": "Lufthansa generalmente consente un bagaglio a mano (55x40x23 cm / 21.7x15.7x9.1 pollici, max 8 kg / 17.6 lbs) e un articolo personale (40x30x10 cm / 15.7x11.8x3.9 pollici) per Economy e Premium Economy. I passeggeri di Business e First Class possono portare due bagagli a mano."
+            },
+            {
+              "q": "Posso portare un portabiti su Lufthansa?",
+              "a": "Sì, un portabiti pieghevole (max. 57x54x15 cm / 22.4x21.3x5.9 pollici da piegato) può essere trasportato al posto di un bagaglio a mano. In Business e First Class, può essere trasportato in aggiunta a due bagagli a mano."
+            },
+            {
+              "q": "Cosa succede se il mio bagaglio a mano è troppo grande per Lufthansa?",
+              "a": "Se il tuo bagaglio a mano supera le dimensioni o il peso specificati, potrebbe dover essere imbarcato nella stiva, potenzialmente comportando costi aggiuntivi al gate."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "lufthansa-airlines-baggage-guide",
+          "title": "ルフトハンザ航空 手荷物互換性・測定ガイド",
+          "summary": "ルフトハンザ航空の機内持ち込み手荷物、身の回り品、ガーメントバッグの寸法と重量制限に関する包括的なガイドで、スムーズな旅行体験のための準拠を保証します。",
+          "amazon_search_query": "ルフトハンザ 機内持ち込み, ルフトハンザ 身の回り品, ルフトハンザ 座席下バッグ",
+          "buy_box_title": "推奨されるルフトハンザ対応ラゲージ",
+          "buy_box_subtitle": "ルフトハンザの厳格な要件を満たすバッグで安心してご旅行ください。",
+          "allowed_guidelines": [
+            "エコノミーおよびプレミアムエコノミーのお客様は、通常、機内持ち込み手荷物1個と身の回り品1個が許可されています。",
+            "ビジネスおよびファーストクラスのお客様は、機内持ち込み手荷物2個と身の回り品1個が許可されています。",
+            "折りたたみ式ガーメントバッグは、機内持ち込み手荷物の代わりに、またはビジネス/ファーストクラスでは追加のアイテムとして持ち込むことができます。"
+          ],
+          "strict_restrictions": [
+            "すべての寸法にはハンドル、ポケット、車輪が含まれます。",
+            "指定された寸法または重量制限を超えるバッグは、搭乗口での追加料金の対象となる場合があります。",
+            "身の回り品は、前の座席の下に完全に収まる必要があります。"
+          ],
+          "faqs": [
+            {
+              "q": "ルフトハンザ航空の機内持ち込み手荷物許容量は？",
+              "a": "ルフトハンザ航空では、通常、エコノミーおよびプレミアムエコノミーのお客様には機内持ち込み手荷物1個（55x40x23 cm / 21.7x15.7x9.1インチ、最大8 kg / 17.6 lbs）と身の回り品1個（40x30x10 cm / 15.7x11.8x3.9インチ）が許可されています。ビジネスおよびファーストクラスのお客様は、機内持ち込み手荷物2個を持ち込むことができます。"
+            },
+            {
+              "q": "ルフトハンザ航空でガーメントバッグを持ち込めますか？",
+              "a": "はい、折りたたみ式ガーメントバッグ（最大57x54x15 cm / 22.4x21.3x5.9インチ、折りたたみ時）は、機内持ち込み手荷物の代わりに持ち込むことができます。ビジネスおよびファーストクラスでは、2個の機内持ち込み手荷物に加えて持ち込むことができます。"
+            },
+            {
+              "q": "ルフトハンザ航空で機内持ち込み手荷物が大きすぎるとどうなりますか？",
+              "a": "機内持ち込み手荷物が指定された寸法または重量を超過した場合、貨物室に預ける必要があり、搭乗口で追加料金が発生する可能性があります。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "lufthansa-airlines-guia-bagagem",
+          "title": "Guia de Compatibilidade e Medidas de Bagagem Lufthansa",
+          "summary": "Guia completo das dimensões e limites de peso da bagagem de mão, item pessoal e saco de roupa da Lufthansa, garantindo a conformidade para uma experiência de viagem tranquila.",
+          "amazon_search_query": "mala de cabine lufthansa, item pessoal lufthansa, mala debaixo do assento lufthansa",
+          "buy_box_title": "Bagagem Compatível com Lufthansa Recomendada",
+          "buy_box_subtitle": "Viaje com confiança sabendo que suas malas atendem aos requisitos rigorosos da Lufthansa.",
+          "allowed_guidelines": [
+            "Uma bagagem de mão e um item pessoal são geralmente permitidos para passageiros de Economy e Premium Economy.",
+            "Duas bagagens de mão e um item pessoal são permitidos para passageiros de Business e First Class.",
+            "Sacos de roupa dobráveis podem ser transportados como alternativa a uma bagagem de mão, ou como um item adicional em Business/First Class."
+          ],
+          "strict_restrictions": [
+            "Todas as dimensões incluem alças, bolsos e rodas.",
+            "Malas que excedam as dimensões ou limites de peso especificados podem estar sujeitas a taxas de despacho no portão.",
+            "Itens pessoais devem caber completamente debaixo do assento à sua frente."
+          ],
+          "faqs": [
+            {
+              "q": "Qual é a franquia de bagagem de mão da Lufthansa?",
+              "a": "A Lufthansa geralmente permite uma bagagem de mão (55x40x23 cm / 21.7x15.7x9.1 pol., máx. 8 kg / 17.6 lbs) e um item pessoal (40x30x10 cm / 15.7x11.8x3.9 pol.) para Economy e Premium Economy. Passageiros de Business e First Class podem levar duas bagagens de mão."
+            },
+            {
+              "q": "Posso levar um saco de roupa na Lufthansa?",
+              "a": "Sim, um saco de roupa dobrável (máx. 57x54x15 cm / 22.4x21.3x5.9 pol. quando dobrado) pode ser transportado em vez de uma peça de bagagem de mão. Em Business e First Class, pode ser transportado além de duas peças de bagagem de mão."
+            },
+            {
+              "q": "O que acontece se minha bagagem de mão for muito grande para a Lufthansa?",
+              "a": "Se sua bagagem de mão exceder as dimensões ou o peso especificados, ela poderá precisar ser despachada para o porão, potencialmente incorrendo em taxas adicionais no portão."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "lufthansa-airlines-bagage-gids",
+          "title": "Lufthansa Bagage Compatibiliteits- en Meetgids",
+          "summary": "Uitgebreide gids voor de afmetingen en gewichtslimieten van Lufthansa's handbagage, persoonlijke items en kledingzakken, om naleving voor een soepele reiservaring te garanderen.",
+          "amazon_search_query": "lufthansa handbagage, lufthansa persoonlijk item, onderstoel tas lufthansa",
+          "buy_box_title": "Aanbevolen Lufthansa Compatibele Bagage",
+          "buy_box_subtitle": "Reis met vertrouwen, wetende dat uw tassen voldoen aan de strenge eisen van Lufthansa.",
+          "allowed_guidelines": [
+            "Eén stuk handbagage en één persoonlijk item zijn over het algemeen toegestaan voor Economy en Premium Economy passagiers.",
+            "Twee stuks handbagage en één persoonlijk item zijn toegestaan voor Business en First Class passagiers.",
+            "Opvouwbare kledingzakken kunnen worden meegenomen als alternatief voor handbagage, of als een extra item in Business/First Class."
+          ],
+          "strict_restrictions": [
+            "Alle afmetingen zijn inclusief handvatten, zakken en wielen.",
+            "Tassen die de gespecificeerde afmetingen of gewichtslimieten overschrijden, kunnen onderhevig zijn aan incheckkosten bij de gate.",
+            "Persoonlijke items moeten volledig onder de stoel voor u passen."
+          ],
+          "faqs": [
+            {
+              "q": "Wat is de handbagagevrijdom van Lufthansa?",
+              "a": "Lufthansa staat over het algemeen één stuk handbagage (55x40x23 cm / 21.7x15.7x9.1 inch, max 8 kg / 17.6 lbs) en één persoonlijk item (40x30x10 cm / 15.7x11.8x3.9 inch) toe voor Economy en Premium Economy. Business en First Class passagiers mogen twee stuks handbagage meenemen."
+            },
+            {
+              "q": "Kan ik een kledingzak meenemen op Lufthansa?",
+              "a": "Ja, een opvouwbare kledingzak (max. 57x54x15 cm / 22.4x21.3x5.9 inch opgevouwen) kan worden meegenomen in plaats van een stuk handbagage. In Business en First Class kan deze worden meegenomen naast twee stuks handbagage."
+            },
+            {
+              "q": "Wat gebeurt er als mijn handbagage te groot is voor Lufthansa?",
+              "a": "Als uw handbagage de gespecificeerde afmetingen of het gewicht overschrijdt, moet deze mogelijk in het ruim worden ingecheckt, wat mogelijk extra kosten bij de gate met zich meebrengt."
             }
           ]
         }
