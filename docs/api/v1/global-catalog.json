@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-10-20T03:12:45.033385+00:00",
-  "total_items": 11,
+  "generated_at": "2026-10-20T10:53:45.827366+00:00",
+  "total_items": 12,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -4280,6 +4280,353 @@
             {
               "q": "Wat gebeurt er als mijn handbagage te groot is voor Air France?",
               "a": "Als uw handbagage de toegestane afmetingen overschrijdt, kan deze in het ruim worden ingecheckt, wat mogelijk extra kosten met zich meebrengt."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "emirates",
+      "slug": "emirates-baggage-allowance",
+      "subject": "Emirates",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Standard Carry-on Baggage (Economy/Premium Economy)",
+          "metric": "55 x 38 x 22 cm (Max 7 kg)",
+          "imperial": "21.6 x 14.9 x 8.6 in (Max 15.4 lbs)",
+          "status": "Verified",
+          "note": "Dimensions include handles, pockets, and wheels. Must fit in the overhead locker or under the seat in front of you.",
+          "item_translations": {
+            "en": "Standard Carry-on Baggage (Economy/Premium Economy)",
+            "de": "Standard Handgepäck (Economy/Premium Economy)",
+            "fr": "Bagage à main standard (Economy/Premium Economy)",
+            "es": "Equipaje de mano estándar (Economy/Premium Economy)",
+            "it": "Bagaglio a mano standard (Economy/Premium Economy)",
+            "ja": "標準機内持ち込み手荷物 (エコノミー/プレミアムエコノミー)",
+            "pt": "Bagagem de Mão Padrão (Economy/Premium Economy)",
+            "nl": "Standaard Handbagage (Economy/Premium Economy)"
+          },
+          "note_translations": {
+            "en": "Dimensions include handles, pockets, and wheels. Must fit in the overhead locker or under the seat in front of you.",
+            "de": "Die Abmessungen beinhalten Griffe, Taschen und Rollen. Muss in das Gepäckfach über dem Sitz oder unter den Vordersitz passen.",
+            "fr": "Les dimensions incluent les poignées, les poches et les roulettes. Doit tenir dans le compartiment supérieur ou sous le siège devant vous.",
+            "es": "Las dimensiones incluyen asas, bolsillos y ruedas. Debe caber en el compartimento superior o debajo del asiento delantero.",
+            "it": "Le dimensioni includono maniglie, tasche e ruote. Deve essere riposto nella cappelliera o sotto il sedile di fronte a te.",
+            "ja": "寸法にはハンドル、ポケット、車輪が含まれます。頭上の収納棚または前の座席の下に収まる必要があります。",
+            "pt": "As dimensões incluem alças, bolsos e rodas. Deve caber no compartimento superior ou debaixo do assento à sua frente.",
+            "nl": "Afmetingen zijn inclusief handvatten, zakken en wielen. Moet passen in het bagagevak boven of onder de stoel voor u."
+          }
+        },
+        {
+          "item": "Personal Item (Handbag/Laptop Bag)",
+          "metric": "Max 45 x 35 x 20 cm (Combined weight with carry-on: Max 7 kg for Economy/Premium Economy)",
+          "imperial": "Max 17.7 x 13.7 x 7.8 in (Combined weight with carry-on: Max 15.4 lbs for Economy/Premium Economy)",
+          "status": "Verified",
+          "note": "Must fit under the seat in front of you. For Economy/Premium Economy, its weight is included in the overall 7 kg (15.4 lbs) carry-on allowance. For First/Business Class, two pieces are allowed, each up to 7 kg (15.4 lbs), with one being a briefcase (45x35x20cm) or garment bag.",
+          "item_translations": {
+            "en": "Personal Item (Handbag/Laptop Bag)",
+            "de": "Persönlicher Gegenstand (Handtasche/Laptoptasche)",
+            "fr": "Article personnel (Sac à main/Sac pour ordinateur portable)",
+            "es": "Artículo personal (Bolso de mano/Bolsa para portátil)",
+            "it": "Articolo personale (Borsa a mano/Borsa per laptop)",
+            "ja": "身の回り品 (ハンドバッグ/ノートパソコン用バッグ)",
+            "pt": "Item Pessoal (Bolsa de Mão/Mochila para Laptop)",
+            "nl": "Persoonlijk item (Handtas/Laptoptas)"
+          },
+          "note_translations": {
+            "en": "Must fit under the seat in front of you. For Economy/Premium Economy, its weight is included in the overall 7 kg (15.4 lbs) carry-on allowance. For First/Business Class, two pieces are allowed, each up to 7 kg (15.4 lbs), with one being a briefcase (45x35x20cm) or garment bag.",
+            "de": "Muss unter den Vordersitz passen. Für Economy/Premium Economy ist das Gewicht in der gesamten 7 kg (15.4 lbs) Handgepäckfreigrenze enthalten. Für First/Business Class sind zwei Gepäckstücke erlaubt, jedes bis zu 7 kg (15.4 lbs), wobei eines eine Aktentasche (45x35x20cm) oder ein Kleidersack sein kann.",
+            "fr": "Doit tenir sous le siège devant vous. Pour l'Economy/Premium Economy, son poids est inclus dans la franchise totale de 7 kg (15.4 lbs) pour les bagages à main. Pour la Première/Affaires, deux pièces sont autorisées, chacune jusqu'à 7 kg (15.4 lbs), l'une pouvant être une mallette (45x35x20cm) ou une housse à vêtements.",
+            "es": "Debe caber debajo del asiento delantero. Para Economy/Premium Economy, su peso está incluido en la franquicia total de 7 kg (15.4 lbs) de equipaje de mano. Para Primera/Business, se permiten dos piezas, cada una de hasta 7 kg (15.4 lbs), siendo una un maletín (45x35x20cm) o una funda para ropa.",
+            "it": "Deve essere riposto sotto il sedile di fronte a te. Per Economy/Premium Economy, il suo peso è incluso nella franchigia totale di 7 kg (15.4 lbs) per il bagaglio a mano. Per First/Business Class, sono consentiti due pezzi, ciascuno fino a 7 kg (15.4 lbs), di cui uno può essere una valigetta (45x35x20cm) o una borsa porta abiti.",
+            "ja": "前の座席の下に収まる必要があります。エコノミー/プレミアムエコノミーの場合、その重量は全体の7 kg (15.4 lbs) の機内持ち込み手荷物許容量に含まれます。ファースト/ビジネスの場合、各7 kg (15.4 lbs) までの手荷物が2個許可されており、そのうち1個はブリーフケース (45x35x20cm) またはガーメントバッグでも構いません。",
+            "pt": "Deve caber debaixo do assento à sua frente. Para Economy/Premium Economy, o seu peso está incluído na franquia total de 7 kg (15.4 lbs) de bagagem de mão. Para Primeira/Executiva, são permitidas duas peças, cada uma até 7 kg (15.4 lbs), sendo uma uma pasta (45x35x20cm) ou um porta-fatos.",
+            "nl": "Moet onder de stoel voor u passen. Voor Economy/Premium Economy is het gewicht ervan inbegrepen in de totale 7 kg (15.4 lbs) handbagagevrijstelling. Voor First/Business Class zijn twee stuks toegestaan, elk tot 7 kg (15.4 lbs), waarvan één een aktetas (45x35x20cm) of kledingtas kan zijn."
+          }
+        },
+        {
+          "item": "Duty-Free Purchases",
+          "metric": "Reasonable quantities (No specific dimensions/weight)",
+          "imperial": "Reasonable quantities (No specific dimensions/weight)",
+          "status": "Verified",
+          "note": "Permitted in addition to standard carry-on allowance, provided they are of reasonable quantity and fit securely in the cabin.",
+          "item_translations": {
+            "en": "Duty-Free Purchases",
+            "de": "Duty-Free Einkäufe",
+            "fr": "Achats hors taxes",
+            "es": "Compras libres de impuestos",
+            "it": "Acquisti Duty-Free",
+            "ja": "免税品購入",
+            "pt": "Compras Duty-Free",
+            "nl": "Duty-Free Aankopen"
+          },
+          "note_translations": {
+            "en": "Permitted in addition to standard carry-on allowance, provided they are of reasonable quantity and fit securely in the cabin.",
+            "de": "Zusätzlich zum Standard-Handgepäck erlaubt, sofern sie in angemessener Menge sind und sicher in der Kabine verstaut werden können.",
+            "fr": "Autorisé en plus de la franchise de bagage à main standard, à condition qu'ils soient en quantité raisonnable et qu'ils puissent être rangés en toute sécurité dans la cabine.",
+            "es": "Permitido además de la franquicia de equipaje de mano estándar, siempre que sean de cantidad razonable y quepan de forma segura en la cabina.",
+            "it": "Consentito in aggiunta alla franchigia bagaglio a mano standard, a condizione che siano in quantità ragionevole e si adattino in modo sicuro in cabina.",
+            "ja": "標準の機内持ち込み手荷物許容量に加えて許可されます。ただし、合理的な量であり、機内に安全に収納できる場合に限ります。",
+            "pt": "Permitido além da franquia de bagagem de mão padrão, desde que sejam em quantidade razoável e caibam com segurança na cabine.",
+            "nl": "Toegestaan naast de standaard handbagage, mits in redelijke hoeveelheid en veilig op te bergen in de cabine."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "emirates-baggage-allowance",
+          "title": "Emirates Baggage Allowance & Carry-on Dimensions",
+          "summary": "Comprehensive guide to Emirates' cabin baggage, personal item, and duty-free allowances, including exact dimensions and weight limits for a hassle-free journey.",
+          "amazon_search_query": "emirates carry on bag 55x38x22cm",
+          "buy_box_title": "Recommended Carry-on for Emirates",
+          "buy_box_subtitle": "Ensure your bag fits Emirates' strict cabin baggage requirements.",
+          "allowed_guidelines": [
+            "One standard carry-on bag per passenger in Economy/Premium Economy.",
+            "One additional personal item (handbag/laptop bag) is permitted.",
+            "Duty-free purchases are allowed in reasonable quantities."
+          ],
+          "strict_restrictions": [
+            "Strict adherence to 55x38x22cm (21.6x14.9x8.6in) for carry-on baggage.",
+            "Maximum weight of 7kg (15.4 lbs) for carry-on and personal item combined in Economy/Premium Economy.",
+            "All items must fit in the overhead locker or under the seat."
+          ],
+          "faqs": [
+            {
+              "q": "What are Emirates' carry-on baggage dimensions?",
+              "a": "Emirates allows one piece of carry-on baggage with maximum dimensions of 55 x 38 x 22 cm (21.6 x 14.9 x 8.6 inches) and a maximum weight of 7 kg (15.4 lbs) for Economy and Premium Economy."
+            },
+            {
+              "q": "Can I bring a laptop bag in addition to my carry-on on Emirates?",
+              "a": "Yes, Emirates permits one additional personal item such as a handbag or laptop bag. It must be small enough to fit under the seat in front of you, typically not exceeding 45 x 35 x 20 cm (17.7 x 13.7 x 7.8 inches), and its weight is included in the overall 7 kg (15.4 lbs) carry-on allowance for Economy/Premium Economy."
+            },
+            {
+              "q": "Are duty-free purchases counted towards my Emirates carry-on limit?",
+              "a": "No, duty-free purchases of alcohol, cigarettes, and perfumes are generally permitted in addition to your standard carry-on allowance, provided they are in reasonable quantities and can be securely stowed in the cabin."
+            }
+          ]
+        },
+        "de": {
+          "slug": "emirates-gepaeckbestimmungen",
+          "title": "Emirates Gepäckbestimmungen & Handgepäckmaße",
+          "summary": "Umfassender Leitfaden zu den Handgepäck-, persönlichen Gegenstands- und Duty-Free-Bestimmungen von Emirates, einschließlich genauer Abmessungen und Gewichtsbeschränkungen für eine reibungslose Reise.",
+          "amazon_search_query": "emirates handgepäck 55x38x22cm",
+          "buy_box_title": "Empfohlenes Handgepäck für Emirates",
+          "buy_box_subtitle": "Stellen Sie sicher, dass Ihre Tasche den strengen Handgepäckanforderungen von Emirates entspricht.",
+          "allowed_guidelines": [
+            "Ein Standard-Handgepäckstück pro Passagier in Economy/Premium Economy.",
+            "Ein zusätzlicher persönlicher Gegenstand (Handtasche/Laptoptasche) ist erlaubt.",
+            "Duty-Free-Einkäufe sind in angemessenen Mengen gestattet."
+          ],
+          "strict_restrictions": [
+            "Strikte Einhaltung von 55x38x22cm (21.6x14.9x8.6in) für Handgepäck.",
+            "Maximalgewicht von 7kg (15.4 lbs) für Handgepäck und persönlichen Gegenstand zusammen in Economy/Premium Economy.",
+            "Alle Gegenstände müssen in das Gepäckfach über dem Sitz oder unter den Sitz passen."
+          ],
+          "faqs": [
+            {
+              "q": "Welche Abmessungen gelten für das Handgepäck bei Emirates?",
+              "a": "Emirates erlaubt ein Handgepäckstück mit maximalen Abmessungen von 55 x 38 x 22 cm (21.6 x 14.9 x 8.6 Zoll) und einem Maximalgewicht von 7 kg (15.4 lbs) für Economy und Premium Economy."
+            },
+            {
+              "q": "Darf ich zusätzlich zu meinem Handgepäck eine Laptoptasche bei Emirates mitnehmen?",
+              "a": "Ja, Emirates erlaubt einen zusätzlichen persönlichen Gegenstand wie eine Handtasche oder Laptoptasche. Diese muss klein genug sein, um unter den Vordersitz zu passen, typischerweise nicht größer als 45 x 35 x 20 cm (17.7 x 13.7 x 7.8 Zoll), und ihr Gewicht ist in der gesamten 7 kg (15.4 lbs) Handgepäckfreigrenze für Economy/Premium Economy enthalten."
+            },
+            {
+              "q": "Werden Duty-Free-Einkäufe auf mein Emirates Handgepäcklimit angerechnet?",
+              "a": "Nein, Duty-Free-Einkäufe von Alkohol, Zigaretten und Parfüm sind in der Regel zusätzlich zu Ihrer Standard-Handgepäckfreigrenze erlaubt, sofern sie in angemessenen Mengen sind und sicher in der Kabine verstaut werden können."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "emirates-franchise-bagages",
+          "title": "Franchise Bagages & Dimensions Bagage à Main Emirates",
+          "summary": "Guide complet des franchises de bagages à main, d'articles personnels et d'achats hors taxes d'Emirates, y compris les dimensions exactes et les limites de poids pour un voyage sans tracas.",
+          "amazon_search_query": "sac cabine emirates 55x38x22cm",
+          "buy_box_title": "Bagage à main recommandé pour Emirates",
+          "buy_box_subtitle": "Assurez-vous que votre sac respecte les exigences strictes d'Emirates pour les bagages en cabine.",
+          "allowed_guidelines": [
+            "Un bagage à main standard par passager en Economy/Premium Economy.",
+            "Un article personnel supplémentaire (sac à main/sac pour ordinateur portable) est autorisé.",
+            "Les achats hors taxes sont autorisés en quantités raisonnables."
+          ],
+          "strict_restrictions": [
+            "Respect strict des dimensions 55x38x22cm (21.6x14.9x8.6in) pour les bagages à main.",
+            "Poids maximal de 7kg (15.4 lbs) pour le bagage à main et l'article personnel combinés en Economy/Premium Economy.",
+            "Tous les articles doivent tenir dans le compartiment supérieur ou sous le siège."
+          ],
+          "faqs": [
+            {
+              "q": "Quelles sont les dimensions des bagages à main chez Emirates?",
+              "a": "Emirates autorise un bagage à main avec des dimensions maximales de 55 x 38 x 22 cm (21.6 x 14.9 x 8.6 pouces) et un poids maximal de 7 kg (15.4 lbs) pour les classes Economy et Premium Economy."
+            },
+            {
+              "q": "Puis-je emporter un sac pour ordinateur portable en plus de mon bagage à main sur Emirates?",
+              "a": "Oui, Emirates autorise un article personnel supplémentaire tel qu'un sac à main ou un sac pour ordinateur portable. Il doit être suffisamment petit pour tenir sous le siège devant vous, généralement ne dépassant pas 45 x 35 x 20 cm (17.7 x 13.7 x 7.8 pouces), et son poids est inclus dans la franchise totale de 7 kg (15.4 lbs) pour les bagages à main en Economy/Premium Economy."
+            },
+            {
+              "q": "Les achats hors taxes sont-ils comptabilisés dans ma limite de bagages à main Emirates?",
+              "a": "Non, les achats hors taxes d'alcool, de cigarettes et de parfums sont généralement autorisés en plus de votre franchise de bagage à main standard, à condition qu'ils soient en quantités raisonnables et puissent être rangés en toute sécurité dans la cabine."
+            }
+          ]
+        },
+        "es": {
+          "slug": "emirates-franquicia-equipaje",
+          "title": "Franquicia de Equipaje y Dimensiones de Equipaje de Mano Emirates",
+          "summary": "Guía completa sobre el equipaje de mano, artículos personales y franquicias de duty-free de Emirates, incluyendo dimensiones exactas y límites de peso para un viaje sin complicaciones.",
+          "amazon_search_query": "maleta cabina emirates 55x38x22cm",
+          "buy_box_title": "Equipaje de mano recomendado para Emirates",
+          "buy_box_subtitle": "Asegúrese de que su maleta cumpla con los estrictos requisitos de equipaje de cabina de Emirates.",
+          "allowed_guidelines": [
+            "Una maleta de mano estándar por pasajero en Economy/Premium Economy.",
+            "Se permite un artículo personal adicional (bolso de mano/bolsa para portátil).",
+            "Las compras libres de impuestos están permitidas en cantidades razonables."
+          ],
+          "strict_restrictions": [
+            "Estricto cumplimiento de 55x38x22cm (21.6x14.9x8.6in) para el equipaje de mano.",
+            "Peso máximo de 7kg (15.4 lbs) para el equipaje de mano y el artículo personal combinados en Economy/Premium Economy.",
+            "Todos los artículos deben caber en el compartimento superior o debajo del asiento."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuáles son las dimensiones del equipaje de mano de Emirates?",
+              "a": "Emirates permite una pieza de equipaje de mano con dimensiones máximas de 55 x 38 x 22 cm (21.6 x 14.9 x 8.6 pulgadas) y un peso máximo de 7 kg (15.4 lbs) para Economy y Premium Economy."
+            },
+            {
+              "q": "¿Puedo llevar una bolsa para portátil además de mi equipaje de mano en Emirates?",
+              "a": "Sí, Emirates permite un artículo personal adicional como un bolso de mano o una bolsa para portátil. Debe ser lo suficientemente pequeño para caber debajo del asiento delantero, normalmente no excediendo los 45 x 35 x 20 cm (17.7 x 13.7 x 7.8 pulgadas), y su peso está incluido en la franquicia total de 7 kg (15.4 lbs) para el equipaje de mano en Economy/Premium Economy."
+            },
+            {
+              "q": "¿Las compras libres de impuestos cuentan para mi límite de equipaje de mano de Emirates?",
+              "a": "No, las compras libres de impuestos de alcohol, cigarrillos y perfumes generalmente se permiten además de su franquicia de equipaje de mano estándar, siempre que sean en cantidades razonables y puedan guardarse de forma segura en la cabina."
+            }
+          ]
+        },
+        "it": {
+          "slug": "emirates-franchigia-bagaglio",
+          "title": "Franchigia Bagaglio e Dimensioni Bagaglio a Mano Emirates",
+          "summary": "Guida completa al bagaglio a mano, agli articoli personali e alle franchigie duty-free di Emirates, incluse dimensioni esatte e limiti di peso per un viaggio senza problemi.",
+          "amazon_search_query": "bagaglio a mano emirates 55x38x22cm",
+          "buy_box_title": "Bagaglio a mano consigliato per Emirates",
+          "buy_box_subtitle": "Assicurati che la tua borsa rispetti i rigorosi requisiti di Emirates per il bagaglio a mano.",
+          "allowed_guidelines": [
+            "Un bagaglio a mano standard per passeggero in Economy/Premium Economy.",
+            "È consentito un articolo personale aggiuntivo (borsa a mano/borsa per laptop).",
+            "Gli acquisti duty-free sono consentiti in quantità ragionevoli."
+          ],
+          "strict_restrictions": [
+            "Rigorosa aderenza a 55x38x22cm (21.6x14.9x8.6in) per il bagaglio a mano.",
+            "Peso massimo di 7kg (15.4 lbs) per bagaglio a mano e articolo personale combinati in Economy/Premium Economy.",
+            "Tutti gli articoli devono essere riposti nella cappelliera o sotto il sedile."
+          ],
+          "faqs": [
+            {
+              "q": "Quali sono le dimensioni del bagaglio a mano di Emirates?",
+              "a": "Emirates consente un bagaglio a mano con dimensioni massime di 55 x 38 x 22 cm (21.6 x 14.9 x 8.6 pollici) e un peso massimo di 7 kg (15.4 lbs) per Economy e Premium Economy."
+            },
+            {
+              "q": "Posso portare una borsa per laptop oltre al mio bagaglio a mano su Emirates?",
+              "a": "Sì, Emirates consente un articolo personale aggiuntivo come una borsa a mano o una borsa per laptop. Deve essere abbastanza piccolo da stare sotto il sedile di fronte a te, tipicamente non superando i 45 x 35 x 20 cm (17.7 x 13.7 x 7.8 pollici), e il suo peso è incluso nella franchigia totale di 7 kg (15.4 lbs) per il bagaglio a mano in Economy/Premium Economy."
+            },
+            {
+              "q": "Gli acquisti duty-free contano per il mio limite di bagaglio a mano Emirates?",
+              "a": "No, gli acquisti duty-free di alcol, sigarette e profumi sono generalmente consentiti in aggiunta alla tua franchigia bagaglio a mano standard, a condizione che siano in quantità ragionevole e si adattino in modo sicuro in cabina."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "エミレーツ-手荷物許容量",
+          "title": "エミレーツ航空 手荷物許容量と機内持ち込み手荷物寸法",
+          "summary": "エミレーツ航空の機内持ち込み手荷物、身の回り品、免税品の許容量に関する包括的なガイド。正確な寸法と重量制限を含み、手間のかからない旅をサポートします。",
+          "amazon_search_query": "エミレーツ 機内持ち込みバッグ 55x38x22cm",
+          "buy_box_title": "エミレーツ航空推奨機内持ち込みバッグ",
+          "buy_box_subtitle": "エミレーツ航空の厳格な機内持ち込み手荷物要件に適合していることを確認してください。",
+          "allowed_guidelines": [
+            "エコノミー/プレミアムエコノミーでは、標準機内持ち込み手荷物1個。",
+            "身の回り品（ハンドバッグ/ノートパソコン用バッグ）1個追加が許可されています。",
+            "免税品は常識的な量であれば許可されています。"
+          ],
+          "strict_restrictions": [
+            "機内持ち込み手荷物は55x38x22cm (21.6x14.9x8.6in) を厳守。",
+            "機内持ち込み手荷物と身の回り品の合計重量はエコノミー/プレミアムエコノミーで最大7kg (15.4 lbs)。",
+            "すべての品目は頭上の収納棚または座席の下に収まる必要があります。"
+          ],
+          "faqs": [
+            {
+              "q": "エミレーツ航空の機内持ち込み手荷物の寸法は？",
+              "a": "エミレーツ航空では、エコノミーおよびプレミアムエコノミーの場合、最大寸法55 x 38 x 22 cm (21.6 x 14.9 x 8.6インチ)、最大重量7 kg (15.4 lbs) の機内持ち込み手荷物1個が許可されています。"
+            },
+            {
+              "q": "エミレーツ航空で機内持ち込み手荷物とは別にノートパソコン用バッグを持ち込めますか？",
+              "a": "はい、エミレーツ航空ではハンドバッグやノートパソコン用バッグなどの身の回り品を1個追加で持ち込むことができます。前の座席の下に収まるほど小さい必要があり、通常は45 x 35 x 20 cm (17.7 x 13.7 x 7.8インチ) を超えず、その重量はエコノミー/プレミアムエコノミーの全体の7 kg (15.4 lbs) の機内持ち込み手荷物許容量に含まれます。"
+            },
+            {
+              "q": "免税品はエミレーツ航空の機内持ち込み手荷物制限に含まれますか？",
+              "a": "いいえ、アルコール、タバコ、香水の免税品は、通常、常識的な量であり、機内に安全に収納できる限り、標準の機内持ち込み手荷物許容量に加えて許可されます。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "emirates-franquia-bagagem",
+          "title": "Franquia de Bagagem e Dimensões de Bagagem de Mão Emirates",
+          "summary": "Guia completo para a bagagem de mão, item pessoal e franquias duty-free da Emirates, incluindo dimensões exatas e limites de peso para uma viagem sem complicações.",
+          "amazon_search_query": "mala de cabine emirates 55x38x22cm",
+          "buy_box_title": "Bagagem de Mão Recomendada para Emirates",
+          "buy_box_subtitle": "Certifique-se de que sua mala atende aos rigorosos requisitos de bagagem de cabine da Emirates.",
+          "allowed_guidelines": [
+            "Uma bagagem de mão padrão por passageiro em Economy/Premium Economy.",
+            "Um item pessoal adicional (bolsa de mão/mochila para laptop) é permitido.",
+            "Compras duty-free são permitidas em quantidades razoáveis."
+          ],
+          "strict_restrictions": [
+            "Adesão rigorosa a 55x38x22cm (21.6x14.9x8.6in) para bagagem de mão.",
+            "Peso máximo de 7kg (15.4 lbs) para bagagem de mão e item pessoal combinados em Economy/Premium Economy.",
+            "Todos os itens devem caber no compartimento superior ou debaixo do assento."
+          ],
+          "faqs": [
+            {
+              "q": "Quais são as dimensões da bagagem de mão da Emirates?",
+              "a": "A Emirates permite uma peça de bagagem de mão com dimensões máximas de 55 x 38 x 22 cm (21.6 x 14.9 x 8.6 polegadas) e um peso máximo de 7 kg (15.4 lbs) para Economy e Premium Economy."
+            },
+            {
+              "q": "Posso levar uma mochila para laptop além da minha bagagem de mão na Emirates?",
+              "a": "Sim, a Emirates permite um item pessoal adicional, como uma bolsa de mão ou mochila para laptop. Deve ser pequeno o suficiente para caber debaixo do assento à sua frente, tipicamente não excedendo 45 x 35 x 20 cm (17.7 x 13.7 x 7.8 polegadas), e seu peso está incluído na franquia total de 7 kg (15.4 lbs) de bagagem de mão para Economy/Premium Economy."
+            },
+            {
+              "q": "As compras duty-free contam para o meu limite de bagagem de mão da Emirates?",
+              "a": "Não, as compras duty-free de álcool, cigarros e perfumes são geralmente permitidas além da sua franquia de bagagem de mão padrão, desde que sejam em quantidades razoáveis e possam ser guardadas com segurança na cabine."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "emirates-bagagevrijstelling",
+          "title": "Emirates Bagagevrijstelling & Handbagage Afmetingen",
+          "summary": "Uitgebreide gids voor Emirates' handbagage, persoonlijke items en duty-free vrijstellingen, inclusief exacte afmetingen en gewichtslimieten voor een zorgeloze reis.",
+          "amazon_search_query": "emirates handbagage 55x38x22cm",
+          "buy_box_title": "Aanbevolen handbagage voor Emirates",
+          "buy_box_subtitle": "Zorg ervoor dat uw tas voldoet aan de strenge handbagagevereisten van Emirates.",
+          "allowed_guidelines": [
+            "Eén standaard handbagage per passagier in Economy/Premium Economy.",
+            "Eén extra persoonlijk item (handtas/laptoptas) is toegestaan.",
+            "Duty-free aankopen zijn toegestaan in redelijke hoeveelheden."
+          ],
+          "strict_restrictions": [
+            "Strikte naleving van 55x38x22cm (21.6x14.9x8.6in) voor handbagage.",
+            "Maximaal gewicht van 7kg (15.4 lbs) voor handbagage en persoonlijk item gecombineerd in Economy/Premium Economy.",
+            "Alle items moeten in het bagagevak boven of onder de stoel passen."
+          ],
+          "faqs": [
+            {
+              "q": "Wat zijn de afmetingen van de handbagage van Emirates?",
+              "a": "Emirates staat één stuk handbagage toe met maximale afmetingen van 55 x 38 x 22 cm (21.6 x 14.9 x 8.6 inch) en een maximaal gewicht van 7 kg (15.4 lbs) voor Economy en Premium Economy."
+            },
+            {
+              "q": "Mag ik naast mijn handbagage ook een laptoptas meenemen bij Emirates?",
+              "a": "Ja, Emirates staat één extra persoonlijk item toe, zoals een handtas of laptoptas. Deze moet klein genoeg zijn om onder de stoel voor u te passen, doorgaans niet groter dan 45 x 35 x 20 cm (17.7 x 13.7 x 7.8 inch), en het gewicht ervan is inbegrepen in de totale 7 kg (15.4 lbs) handbagagevrijstelling voor Economy/Premium Economy."
+            },
+            {
+              "q": "Worden duty-free aankopen meegeteld voor mijn Emirates handbagagelimiet?",
+              "a": "Nee, duty-free aankopen van alcohol, sigaretten en parfums zijn over het algemeen toegestaan naast uw standaard handbagagevrijstelling, mits ze in redelijke hoeveelheden zijn en veilig in de cabine kunnen worden opgeborgen."
             }
           ]
         }

@@ -204,3 +204,20 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=air+france+cabin+bag+55x35x25cm%2C+air+france+underseat+bag+40x30x15cm&tag=autocompat-21
 
 ---
+
+## Emirates (AIRLINES)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/emirates-baggage-allowance.html
+- Summary: Comprehensive guide to Emirates' cabin baggage, personal item, and duty-free allowances, including exact dimensions and weight limits for a hassle-free journey.
+
+### Exact Specifications (Dual Units):
+* **Standard Carry-on Baggage (Economy/Premium Economy)**: Metric: `55 x 38 x 22 cm (Max 7 kg)` | Imperial: `21.6 x 14.9 x 8.6 in (Max 15.4 lbs)` (Dimensions include handles, pockets, and wheels. Must fit in the overhead locker or under the seat in front of you.)
+* **Personal Item (Handbag/Laptop Bag)**: Metric: `Max 45 x 35 x 20 cm (Combined weight with carry-on: Max 7 kg for Economy/Premium Economy)` | Imperial: `Max 17.7 x 13.7 x 7.8 in (Combined weight with carry-on: Max 15.4 lbs for Economy/Premium Economy)` (Must fit under the seat in front of you. For Economy/Premium Economy, its weight is included in the overall 7 kg (15.4 lbs) carry-on allowance. For First/Business Class, two pieces are allowed, each up to 7 kg (15.4 lbs), with one being a briefcase (45x35x20cm) or garment bag.)
+* **Duty-Free Purchases**: Metric: `Reasonable quantities (No specific dimensions/weight)` | Imperial: `Reasonable quantities (No specific dimensions/weight)` (Permitted in addition to standard carry-on allowance, provided they are of reasonable quantity and fit securely in the cabin.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=emirates+carry+on+bag+55x38x22cm&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=emirates+carry+on+bag+55x38x22cm&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=emirates+carry+on+bag+55x38x22cm&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=emirates+carry+on+bag+55x38x22cm&tag=autocompat-21
+
+---
