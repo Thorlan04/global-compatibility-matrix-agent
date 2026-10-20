@@ -188,3 +188,19 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=lufthansa+carry+on+bag%2C+lufthansa+personal+item%2C+underseat+bag+lufthansa&tag=autocompat-21
 
 ---
+
+## Air France (AIRLINES)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/air-france-baggage-allowance.html
+- Summary: Detailed guide to Air France's cabin and personal item baggage policies, including size and weight limits for a smooth travel experience.
+
+### Exact Specifications (Dual Units):
+* **Cabin Baggage**: Metric: `55 x 35 x 25 cm (Max 12 kg)` | Imperial: `21.7 x 13.8 x 9.8 in (Max 26.5 lbs)` (Includes one cabin bag and one personal item. Total weight for both items combined.)
+* **Under-seat Personal Item**: Metric: `40 x 30 x 15 cm` | Imperial: `15.7 x 11.8 x 5.9 in` (Must fit under the seat in front of you. Weight is included in the cabin baggage allowance.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=air+france+cabin+bag+55x35x25cm%2C+air+france+underseat+bag+40x30x15cm&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=air+france+cabin+bag+55x35x25cm%2C+air+france+underseat+bag+40x30x15cm&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=air+france+cabin+bag+55x35x25cm%2C+air+france+underseat+bag+40x30x15cm&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=air+france+cabin+bag+55x35x25cm%2C+air+france+underseat+bag+40x30x15cm&tag=autocompat-21
+
+---

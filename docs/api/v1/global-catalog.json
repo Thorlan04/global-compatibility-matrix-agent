@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-10-19T18:35:20.705541+00:00",
-  "total_items": 10,
+  "generated_at": "2026-10-20T03:12:45.033385+00:00",
+  "total_items": 11,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -3960,6 +3960,326 @@
             {
               "q": "Wat gebeurt er als mijn handbagage te groot is voor Lufthansa?",
               "a": "Als uw handbagage de gespecificeerde afmetingen of het gewicht overschrijdt, moet deze mogelijk in het ruim worden ingecheckt, wat mogelijk extra kosten bij de gate met zich meebrengt."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "air-france",
+      "slug": "air-france-baggage-allowance",
+      "subject": "Air France",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Cabin Baggage",
+          "metric": "55 x 35 x 25 cm (Max 12 kg)",
+          "imperial": "21.7 x 13.8 x 9.8 in (Max 26.5 lbs)",
+          "status": "Compliant / Verified",
+          "note": "Includes one cabin bag and one personal item. Total weight for both items combined.",
+          "item_translations": {
+            "en": "Cabin Baggage",
+            "de": "Handgepäck",
+            "fr": "Bagage Cabine",
+            "es": "Equipaje de Cabina",
+            "it": "Bagaglio a Mano",
+            "ja": "機内持ち込み手荷物",
+            "pt": "Bagagem de Mão",
+            "nl": "Handbagage"
+          },
+          "note_translations": {
+            "en": "Includes one cabin bag and one personal item. Total weight for both items combined.",
+            "de": "Beinhaltet ein Handgepäckstück und einen persönlichen Gegenstand. Gesamtgewicht für beide Gegenstände zusammen.",
+            "fr": "Inclut un bagage cabine et un accessoire personnel. Poids total combiné pour les deux articles.",
+            "es": "Incluye un equipaje de cabina y un artículo personal. Peso total combinado para ambos artículos.",
+            "it": "Include un bagaglio a mano e un articolo personale. Peso totale combinato per entrambi gli articoli.",
+            "ja": "機内持ち込み手荷物1点と身の回り品1点が含まれます。両方の合計重量です。",
+            "pt": "Inclui uma bagagem de mão e um item pessoal. Peso total combinado para ambos os itens.",
+            "nl": "Inclusief één stuk handbagage en één persoonlijk item. Totaalgewicht voor beide items samen."
+          }
+        },
+        {
+          "item": "Under-seat Personal Item",
+          "metric": "40 x 30 x 15 cm",
+          "imperial": "15.7 x 11.8 x 5.9 in",
+          "status": "Compliant / Verified",
+          "note": "Must fit under the seat in front of you. Weight is included in the cabin baggage allowance.",
+          "item_translations": {
+            "en": "Under-seat Personal Item",
+            "de": "Persönlicher Gegenstand unter dem Sitz",
+            "fr": "Accessoire Personnel sous le Siège",
+            "es": "Artículo Personal bajo el Asiento",
+            "it": "Articolo Personale sotto il Sedile",
+            "ja": "座席下収納品",
+            "pt": "Item Pessoal sob o Assento",
+            "nl": "Persoonlijk item onder de stoel"
+          },
+          "note_translations": {
+            "en": "Must fit under the seat in front of you. Weight is included in the cabin baggage allowance.",
+            "de": "Muss unter den Vordersitz passen. Das Gewicht ist im Handgepäcklimit enthalten.",
+            "fr": "Doit tenir sous le siège devant vous. Le poids est inclus dans la franchise de bagage cabine.",
+            "es": "Debe caber debajo del asiento delantero. El peso está incluido en la franquicia de equipaje de cabina.",
+            "it": "Deve stare sotto il sedile di fronte a te. Il peso è incluso nella franchigia del bagaglio a mano.",
+            "ja": "前の座席の下に収まる必要があります。重量は機内持ち込み手荷物の許容量に含まれます。",
+            "pt": "Deve caber debaixo do assento à sua frente. O peso está incluído na franquia de bagagem de mão.",
+            "nl": "Moet onder de stoel voor u passen. Het gewicht is inbegrepen bij de handbagagevrijdom."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "air-france-baggage-allowance",
+          "title": "Air France Baggage Allowance & Dimensions",
+          "summary": "Detailed guide to Air France's cabin and personal item baggage policies, including size and weight limits for a smooth travel experience.",
+          "amazon_search_query": "air france cabin bag 55x35x25cm, air france underseat bag 40x30x15cm",
+          "buy_box_title": "Recommended Air France Compliant Bags",
+          "buy_box_subtitle": "Travel with confidence, knowing your bags meet Air France's strict requirements.",
+          "allowed_guidelines": [
+            "One cabin bag per passenger.",
+            "One personal item (e.g., handbag, laptop bag) per passenger.",
+            "Total weight for both items combined must not exceed 12 kg (26.5 lbs)."
+          ],
+          "strict_restrictions": [
+            "Cabin bag dimensions must not exceed 55 x 35 x 25 cm (21.7 x 13.8 x 9.8 in).",
+            "Personal item dimensions must not exceed 40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in).",
+            "Overweight or oversized bags may be subject to gate check fees."
+          ],
+          "faqs": [
+            {
+              "q": "What is the maximum weight for Air France cabin baggage?",
+              "a": "The total combined weight for your cabin bag and personal item must not exceed 12 kg (26.5 lbs)."
+            },
+            {
+              "q": "Can I bring a backpack as a personal item on Air France?",
+              "a": "Yes, as long as it fits within the dimensions of 40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in) and the total weight with your main cabin bag is within the limit."
+            },
+            {
+              "q": "What happens if my cabin bag is too big for Air France?",
+              "a": "If your cabin bag exceeds the allowed dimensions, it may be checked into the hold, potentially incurring additional fees."
+            }
+          ]
+        },
+        "de": {
+          "slug": "air-france-gepaeckbestimmungen",
+          "title": "Air France Gepäckbestimmungen & Abmessungen",
+          "summary": "Detaillierte Anleitung zu den Handgepäckrichtlinien von Air France, einschließlich Größen- und Gewichtsbeschränkungen für eine reibungslose Reise.",
+          "amazon_search_query": "air france handgepäck 55x35x25cm, air france unter dem sitz tasche 40x30x15cm",
+          "buy_box_title": "Empfohlene Air France konforme Taschen",
+          "buy_box_subtitle": "Reisen Sie beruhigt, da Ihre Taschen den strengen Anforderungen von Air France entsprechen.",
+          "allowed_guidelines": [
+            "Ein Handgepäckstück pro Passagier.",
+            "Ein persönlicher Gegenstand (z.B. Handtasche, Laptoptasche) pro Passagier.",
+            "Das Gesamtgewicht beider Gegenstände zusammen darf 12 kg (26.5 lbs) nicht überschreiten."
+          ],
+          "strict_restrictions": [
+            "Die Abmessungen des Handgepäckstücks dürfen 55 x 35 x 25 cm (21.7 x 13.8 x 9.8 in) nicht überschreiten.",
+            "Die Abmessungen des persönlichen Gegenstands dürfen 40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in) nicht überschreiten.",
+            "Übergepäck oder übergroße Taschen können am Gate Gebühren verursachen."
+          ],
+          "faqs": [
+            {
+              "q": "Was ist das maximale Gewicht für Air France Handgepäck?",
+              "a": "Das kombinierte Gesamtgewicht für Ihr Handgepäck und Ihren persönlichen Gegenstand darf 12 kg (26.5 lbs) nicht überschreiten."
+            },
+            {
+              "q": "Kann ich einen Rucksack als persönlichen Gegenstand bei Air France mitnehmen?",
+              "a": "Ja, solange er die Abmessungen von 40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in) einhält und das Gesamtgewicht mit Ihrem Haupt-Handgepäck innerhalb des Limits liegt."
+            },
+            {
+              "q": "Was passiert, wenn mein Handgepäck für Air France zu groß ist?",
+              "a": "Wenn Ihr Handgepäck die zulässigen Abmessungen überschreitet, kann es in den Frachtraum eingecheckt werden, was möglicherweise zusätzliche Gebühren nach sich zieht."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "air-france-franchise-bagages",
+          "title": "Franchise Bagages & Dimensions Air France",
+          "summary": "Guide détaillé des politiques de bagages cabine et d'accessoires personnels d'Air France, incluant les limites de taille et de poids pour un voyage serein.",
+          "amazon_search_query": "air france bagage cabine 55x35x25cm, air france sac sous siege 40x30x15cm",
+          "buy_box_title": "Sacs Recommandés Conformes Air France",
+          "buy_box_subtitle": "Voyagez en toute confiance, sachant que vos sacs respectent les exigences strictes d'Air France.",
+          "allowed_guidelines": [
+            "Un bagage cabine par passager.",
+            "Un accessoire personnel (ex: sac à main, sac pour ordinateur portable) par passager.",
+            "Le poids total combiné des deux articles ne doit pas dépasser 12 kg (26.5 lbs)."
+          ],
+          "strict_restrictions": [
+            "Les dimensions du bagage cabine ne doivent pas dépasser 55 x 35 x 25 cm (21.7 x 13.8 x 9.8 in).",
+            "Les dimensions de l'accessoire personnel ne doivent pas dépasser 40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in).",
+            "Les bagages en surpoids ou surdimensionnés peuvent être soumis à des frais d'enregistrement à la porte."
+          ],
+          "faqs": [
+            {
+              "q": "Quel est le poids maximum pour les bagages cabine Air France ?",
+              "a": "Le poids total combiné de votre bagage cabine et de votre accessoire personnel ne doit pas dépasser 12 kg (26.5 lbs)."
+            },
+            {
+              "q": "Puis-je emporter un sac à dos comme accessoire personnel sur Air France ?",
+              "a": "Oui, tant qu'il respecte les dimensions de 40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in) et que le poids total avec votre bagage cabine principal est dans la limite."
+            },
+            {
+              "q": "Que se passe-t-il si mon bagage cabine est trop grand pour Air France ?",
+              "a": "Si votre bagage cabine dépasse les dimensions autorisées, il pourra être enregistré en soute, entraînant potentiellement des frais supplémentaires."
+            }
+          ]
+        },
+        "es": {
+          "slug": "air-france-franquicia-equipaje",
+          "title": "Franquicia y Dimensiones de Equipaje Air France",
+          "summary": "Guía detallada de las políticas de equipaje de cabina y artículos personales de Air France, incluyendo límites de tamaño y peso para una experiencia de viaje sin problemas.",
+          "amazon_search_query": "air france equipaje cabina 55x35x25cm, air france bolso bajo asiento 40x30x15cm",
+          "buy_box_title": "Bolsos Recomendados Conformes a Air France",
+          "buy_box_subtitle": "Viaje con confianza, sabiendo que sus bolsos cumplen con los estrictos requisitos de Air France.",
+          "allowed_guidelines": [
+            "Un equipaje de cabina por pasajero.",
+            "Un artículo personal (ej. bolso de mano, bolsa para portátil) por pasajero.",
+            "El peso total combinado de ambos artículos no debe exceder los 12 kg (26.5 lbs)."
+          ],
+          "strict_restrictions": [
+            "Las dimensiones del equipaje de cabina no deben exceder 55 x 35 x 25 cm (21.7 x 13.8 x 9.8 in).",
+            "Las dimensiones del artículo personal no deben exceder 40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in).",
+            "El equipaje con sobrepeso o sobredimensionado puede estar sujeto a tarifas de facturación en la puerta de embarque."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuál es el peso máximo para el equipaje de cabina de Air France?",
+              "a": "El peso total combinado de su equipaje de cabina y su artículo personal no debe exceder los 12 kg (26.5 lbs)."
+            },
+            {
+              "q": "¿Puedo llevar una mochila como artículo personal en Air France?",
+              "a": "Sí, siempre y cuando cumpla con las dimensiones de 40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in) y el peso total con su equipaje de cabina principal esté dentro del límite."
+            },
+            {
+              "q": "¿Qué sucede si mi equipaje de cabina es demasiado grande para Air France?",
+              "a": "Si su equipaje de cabina excede las dimensiones permitidas, puede ser facturado en la bodega, lo que podría generar cargos adicionales."
+            }
+          ]
+        },
+        "it": {
+          "slug": "air-france-franchigia-bagaglio",
+          "title": "Franchigia Bagaglio e Dimensioni Air France",
+          "summary": "Guida dettagliata alle politiche di bagaglio a mano e articoli personali di Air France, inclusi limiti di dimensioni e peso per un'esperienza di viaggio senza intoppi.",
+          "amazon_search_query": "air france bagaglio a mano 55x35x25cm, air france borsa sotto sedile 40x30x15cm",
+          "buy_box_title": "Borse Consigliate Conformi ad Air France",
+          "buy_box_subtitle": "Viaggia con fiducia, sapendo che le tue borse soddisfano i rigorosi requisiti di Air France.",
+          "allowed_guidelines": [
+            "Un bagaglio a mano per passeggero.",
+            "Un articolo personale (es. borsa, borsa per laptop) per passeggero.",
+            "Il peso totale combinato di entrambi gli articoli non deve superare i 12 kg (26.5 lbs)."
+          ],
+          "strict_restrictions": [
+            "Le dimensioni del bagaglio a mano non devono superare 55 x 35 x 25 cm (21.7 x 13.8 x 9.8 in).",
+            "Le dimensioni dell'articolo personale non devono superare 40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in).",
+            "I bagagli in sovrappeso o fuori misura possono essere soggetti a costi di imbarco al gate."
+          ],
+          "faqs": [
+            {
+              "q": "Qual è il peso massimo per il bagaglio a mano Air France?",
+              "a": "Il peso totale combinato del tuo bagaglio a mano e del tuo articolo personale non deve superare i 12 kg (26.5 lbs)."
+            },
+            {
+              "q": "Posso portare uno zaino come articolo personale su Air France?",
+              "a": "Sì, purché rientri nelle dimensioni di 40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in) e il peso totale con il tuo bagaglio a mano principale sia entro il limite."
+            },
+            {
+              "q": "Cosa succede se il mio bagaglio a mano è troppo grande per Air France?",
+              "a": "Se il tuo bagaglio a mano supera le dimensioni consentite, potrebbe essere imbarcato nella stiva, comportando potenzialmente costi aggiuntivi."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "air-france-baggage-allowance",
+          "title": "エールフランス手荷物許容量と寸法",
+          "summary": "エールフランスの機内持ち込み手荷物および身の回り品のポリシーに関する詳細ガイド。スムーズな旅行のためのサイズと重量制限が含まれています。",
+          "amazon_search_query": "エールフランス 機内持ち込み 55x35x25cm, エールフランス 座席下 バッグ 40x30x15cm",
+          "buy_box_title": "エールフランス準拠のおすすめバッグ",
+          "buy_box_subtitle": "エールフランスの厳格な要件を満たしていることを確認して、安心してご旅行ください。",
+          "allowed_guidelines": [
+            "乗客1名につき機内持ち込み手荷物1点。",
+            "乗客1名につき身の回り品1点（例：ハンドバッグ、ノートパソコン用バッグ）。",
+            "両方の合計重量は12 kg (26.5 lbs)を超えてはなりません。"
+          ],
+          "strict_restrictions": [
+            "機内持ち込み手荷物の寸法は55 x 35 x 25 cm (21.7 x 13.8 x 9.8 in)を超えてはなりません。",
+            "身の回り品の寸法は40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in)を超えてはなりません。",
+            "重量超過またはサイズ超過のバッグは、搭乗口での追加料金の対象となる場合があります。"
+          ],
+          "faqs": [
+            {
+              "q": "エールフランスの機内持ち込み手荷物の最大重量はどれくらいですか？",
+              "a": "機内持ち込み手荷物と身の回り品の合計重量は12 kg (26.5 lbs)を超えてはなりません。"
+            },
+            {
+              "q": "エールフランスでバックパックを身の回り品として持ち込めますか？",
+              "a": "はい、40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in)の寸法に収まり、主要な機内持ち込み手荷物との合計重量が制限内であれば可能です。"
+            },
+            {
+              "q": "エールフランスで機内持ち込み手荷物が大きすぎるとどうなりますか？",
+              "a": "機内持ち込み手荷物が許容寸法を超えている場合、貨物室に預けられる可能性があり、追加料金が発生する場合があります。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "air-france-franquia-bagagem",
+          "title": "Franquia e Dimensões de Bagagem Air France",
+          "summary": "Guia detalhado das políticas de bagagem de cabine e itens pessoais da Air France, incluindo limites de tamanho e peso para uma experiência de viagem tranquila.",
+          "amazon_search_query": "air france mala de cabine 55x35x25cm, air france mala debaixo do assento 40x30x15cm",
+          "buy_box_title": "Malas Recomendadas em Conformidade com a Air France",
+          "buy_box_subtitle": "Viaje com confiança, sabendo que suas malas atendem aos rigorosos requisitos da Air France.",
+          "allowed_guidelines": [
+            "Uma bagagem de cabine por passageiro.",
+            "Um item pessoal (ex: bolsa de mão, bolsa para laptop) por passageiro.",
+            "O peso total combinado de ambos os itens não deve exceder 12 kg (26.5 lbs)."
+          ],
+          "strict_restrictions": [
+            "As dimensões da bagagem de cabine não devem exceder 55 x 35 x 25 cm (21.7 x 13.8 x 9.8 in).",
+            "As dimensões do item pessoal não devem exceder 40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in).",
+            "Malas com excesso de peso ou tamanho podem estar sujeitas a taxas de despacho no portão."
+          ],
+          "faqs": [
+            {
+              "q": "Qual é o peso máximo para a bagagem de cabine da Air France?",
+              "a": "O peso total combinado da sua bagagem de cabine e do seu item pessoal não deve exceder 12 kg (26.5 lbs)."
+            },
+            {
+              "q": "Posso levar uma mochila como item pessoal na Air France?",
+              "a": "Sim, desde que caiba nas dimensões de 40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in) e o peso total com a sua bagagem de cabine principal esteja dentro do limite."
+            },
+            {
+              "q": "O que acontece se a minha bagagem de cabine for muito grande para a Air France?",
+              "a": "Se a sua bagagem de cabine exceder as dimensões permitidas, ela poderá ser despachada para o porão, potencialmente incorrendo em taxas adicionais."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "air-france-bagagevrijdom",
+          "title": "Air France Bagagevrijdom & Afmetingen",
+          "summary": "Gedetailleerde gids voor het handbagage- en persoonlijke itembeleid van Air France, inclusief afmetingen en gewichtslimieten voor een soepele reiservaring.",
+          "amazon_search_query": "air france handbagage 55x35x25cm, air france tas onder stoel 40x30x15cm",
+          "buy_box_title": "Aanbevolen Air France Compliante Tassen",
+          "buy_box_subtitle": "Reis met vertrouwen, wetende dat uw tassen voldoen aan de strenge eisen van Air France.",
+          "allowed_guidelines": [
+            "Eén stuk handbagage per passagier.",
+            "Eén persoonlijk item (bijv. handtas, laptoptas) per passagier.",
+            "Het totale gecombineerde gewicht voor beide items mag niet meer dan 12 kg (26.5 lbs) bedragen."
+          ],
+          "strict_restrictions": [
+            "De afmetingen van de handbagage mogen niet meer dan 55 x 35 x 25 cm (21.7 x 13.8 x 9.8 in) bedragen.",
+            "De afmetingen van het persoonlijke item mogen niet meer dan 40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in) bedragen.",
+            "Overgewicht of te grote tassen kunnen leiden tot extra kosten bij de gate."
+          ],
+          "faqs": [
+            {
+              "q": "Wat is het maximale gewicht voor Air France handbagage?",
+              "a": "Het totale gecombineerde gewicht voor uw handbagage en persoonlijke item mag niet meer dan 12 kg (26.5 lbs) bedragen."
+            },
+            {
+              "q": "Kan ik een rugzak meenemen als persoonlijk item bij Air France?",
+              "a": "Ja, zolang deze binnen de afmetingen van 40 x 30 x 15 cm (15.7 x 11.8 x 5.9 in) past en het totale gewicht met uw hoofdbagage binnen de limiet valt."
+            },
+            {
+              "q": "Wat gebeurt er als mijn handbagage te groot is voor Air France?",
+              "a": "Als uw handbagage de toegestane afmetingen overschrijdt, kan deze in het ruim worden ingecheckt, wat mogelijk extra kosten met zich meebrengt."
             }
           ]
         }
