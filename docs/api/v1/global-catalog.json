@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-10-21T11:04:56.905488+00:00",
-  "total_items": 13,
+  "generated_at": "2026-10-21T16:32:50.734140+00:00",
+  "total_items": 14,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -5071,6 +5071,326 @@
             {
               "q": "Is een persoonlijk item toegestaan naast handbagage?",
               "a": "Ja, passagiers mogen doorgaans één persoonlijk item, zoals een laptoptas, handtas of kleine rugzak, meenemen naast hun standaard handbagage. Het moet klein genoeg zijn om onder de stoel voor u te passen."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "transavia",
+      "slug": "transavia-baggage-allowance",
+      "subject": "Transavia",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Small Hand Luggage (Under-seat)",
+          "metric": "40 x 30 x 20 cm (Geen gewichtslimiet)",
+          "imperial": "15.7 x 11.8 x 7.8 in (No weight limit)",
+          "status": "Compliant / Verified",
+          "note": "Must fit under the seat in front.",
+          "item_translations": {
+            "en": "Small Hand Luggage (Under-seat)",
+            "de": "Kleines Handgepäck (Unter dem Sitz)",
+            "fr": "Bagage à main petit format (Sous le siège)",
+            "es": "Equipaje de mano pequeño (Debajo del asiento)",
+            "it": "Bagaglio a mano piccolo (Sotto il sedile)",
+            "ja": "小型手荷物（座席下）",
+            "pt": "Bagagem de mão pequena (Debaixo do assento)",
+            "nl": "Kleine Handbagage (Onder de stoel)"
+          },
+          "note_translations": {
+            "en": "Must fit under the seat in front.",
+            "de": "Muss unter den Vordersitz passen.",
+            "fr": "Doit tenir sous le siège devant vous.",
+            "es": "Debe caber debajo del asiento delantero.",
+            "it": "Deve stare sotto il sedile di fronte.",
+            "ja": "前の座席の下に収まる必要があります。",
+            "pt": "Deve caber debaixo do assento da frente.",
+            "nl": "Moet onder de stoel voor u passen."
+          }
+        },
+        {
+          "item": "Large Hand Luggage (Overhead Locker)",
+          "metric": "55 x 35 x 25 cm (Max 10 kg)",
+          "imperial": "21.6 x 13.7 x 9.8 in (Max 22 lbs)",
+          "status": "Compliant / Verified",
+          "note": "Paid option, or included in certain fare types. Stored in the overhead compartment.",
+          "item_translations": {
+            "en": "Large Hand Luggage (Overhead Locker)",
+            "de": "Großes Handgepäck (Gepäckfach über dem Kopf)",
+            "fr": "Grand bagage à main (Compartiment supérieur)",
+            "es": "Equipaje de mano grande (Compartimento superior)",
+            "it": "Bagaglio a mano grande (Cappelliera)",
+            "ja": "大型手荷物（頭上の収納棚）",
+            "pt": "Bagagem de mão grande (Compartimento superior)",
+            "nl": "Grote Handbagage (Bovenhoofdse bagagevak)"
+          },
+          "note_translations": {
+            "en": "Paid option, or included in certain fare types. Stored in the overhead compartment.",
+            "de": "Kostenpflichtige Option oder in bestimmten Tarifarten enthalten. Wird im Gepäckfach über dem Kopf verstaut.",
+            "fr": "Option payante, ou incluse dans certains types de tarifs. Rangé dans le compartiment supérieur.",
+            "es": "Opción de pago, o incluida en ciertas tarifas. Se guarda en el compartimento superior.",
+            "it": "Opzione a pagamento, o inclusa in alcune tariffe. Riposto nel vano portabagagli superiore.",
+            "ja": "有料オプション、または特定の運賃タイプに含まれます。頭上の収納棚に保管されます。",
+            "pt": "Opção paga, ou incluída em certos tipos de tarifas. Armazenado no compartimento superior.",
+            "nl": "Betaalde optie, of inbegrepen bij bepaalde tarieven. Wordt opgeborgen in het bovenhoofdse bagagevak."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "transavia-baggage-allowance",
+          "title": "Transavia Baggage Allowance & Dimensions",
+          "summary": "Detailed compatibility matrix for Transavia hand luggage, including under-seat and overhead locker dimensions and weight limits.",
+          "amazon_search_query": "transavia underseat bag 40x30x20, transavia cabin bag 55x35x25",
+          "buy_box_title": "Find the Perfect Bag for Your Transavia Flight",
+          "buy_box_subtitle": "Shop compliant luggage for under-seat and overhead compartments.",
+          "allowed_guidelines": [
+            "One small hand luggage item (max 40x30x20cm) is always free and must fit under the seat.",
+            "One large hand luggage item (max 55x35x25cm, max 10kg) can be added for a fee or is included in certain fare types, to be stored in the overhead locker.",
+            "Ensure your bag's dimensions include wheels and handles."
+          ],
+          "strict_restrictions": [
+            "Bags exceeding the specified dimensions will be subject to gate check fees and may be placed in the hold.",
+            "Overweight large hand luggage will incur additional charges.",
+            "Liquids in hand luggage must comply with airport security regulations (max 100ml per container, in a transparent, resealable bag)."
+          ],
+          "faqs": [
+            {
+              "q": "What are the free hand luggage dimensions for Transavia?",
+              "a": "Transavia allows one small hand luggage item with maximum dimensions of 40x30x20 cm (15.7x11.8x7.8 in) for free. It must fit under the seat in front of you."
+            },
+            {
+              "q": "Can I bring a larger cabin bag with Transavia?",
+              "a": "Yes, you can bring a larger cabin bag with maximum dimensions of 55x35x25 cm (21.6x13.7x9.8 in) and a maximum weight of 10 kg (22 lbs). This is usually a paid option or included in certain fare types."
+            },
+            {
+              "q": "Is there a weight limit for the small under-seat bag?",
+              "a": "No, Transavia does not specify a weight limit for the small hand luggage item, as long as it fits under the seat in front of you."
+            }
+          ]
+        },
+        "de": {
+          "slug": "transavia-gepaeckbestimmungen",
+          "title": "Transavia Gepäckbestimmungen & Abmessungen",
+          "summary": "Detaillierte Kompatibilitätsmatrix für Transavia Handgepäck, einschließlich Abmessungen für unter dem Sitz und im Gepäckfach sowie Gewichtsbeschränkungen.",
+          "amazon_search_query": "transavia unter dem sitz tasche 40x30x20, transavia kabinengepaeck 55x35x25",
+          "buy_box_title": "Finden Sie die perfekte Tasche für Ihren Transavia Flug",
+          "buy_box_subtitle": "Kaufen Sie konformes Gepäck für unter dem Sitz und für die Gepäckfächer.",
+          "allowed_guidelines": [
+            "Ein kleines Handgepäckstück (max. 40x30x20cm) ist immer kostenlos und muss unter den Sitz passen.",
+            "Ein großes Handgepäckstück (max. 55x35x25cm, max. 10kg) kann gegen Gebühr hinzugefügt werden oder ist in bestimmten Tarifarten enthalten und wird im Gepäckfach über dem Kopf verstaut.",
+            "Stellen Sie sicher, dass die Abmessungen Ihrer Tasche Räder und Griffe einschließen."
+          ],
+          "strict_restrictions": [
+            "Taschen, die die angegebenen Abmessungen überschreiten, unterliegen Gebühren am Gate und können im Frachtraum verstaut werden.",
+            "Übergewichtiges großes Handgepäck führt zu zusätzlichen Gebühren.",
+            "Flüssigkeiten im Handgepäck müssen den Sicherheitsbestimmungen des Flughafens entsprechen (max. 100ml pro Behälter, in einem transparenten, wiederverschließbaren Beutel)."
+          ],
+          "faqs": [
+            {
+              "q": "Welche Abmessungen hat das kostenlose Handgepäck bei Transavia?",
+              "a": "Transavia erlaubt ein kleines Handgepäckstück mit maximalen Abmessungen von 40x30x20 cm (15.7x11.8x7.8 Zoll) kostenlos. Es muss unter den Vordersitz passen."
+            },
+            {
+              "q": "Kann ich ein größeres Kabinengepäckstück bei Transavia mitnehmen?",
+              "a": "Ja, Sie können ein größeres Kabinengepäckstück mit maximalen Abmessungen von 55x35x25 cm (21.6x13.7x9.8 Zoll) und einem Maximalgewicht von 10 kg (22 lbs) mitnehmen. Dies ist in der Regel eine kostenpflichtige Option oder in bestimmten Tarifarten enthalten."
+            },
+            {
+              "q": "Gibt es eine Gewichtsbeschränkung für die kleine Tasche unter dem Sitz?",
+              "a": "Nein, Transavia gibt keine Gewichtsbeschränkung für das kleine Handgepäckstück an, solange es unter den Vordersitz passt."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "transavia-franchise-bagages",
+          "title": "Transavia : Franchise Bagages & Dimensions",
+          "summary": "Matrice de compatibilité détaillée pour les bagages à main Transavia, incluant les dimensions sous le siège et pour le compartiment supérieur, ainsi que les limites de poids.",
+          "amazon_search_query": "transavia sac sous siege 40x30x20, transavia bagage cabine 55x35x25",
+          "buy_box_title": "Trouvez le sac parfait pour votre vol Transavia",
+          "buy_box_subtitle": "Achetez des bagages conformes pour sous le siège et les compartiments supérieurs.",
+          "allowed_guidelines": [
+            "Un petit bagage à main (max 40x30x20cm) est toujours gratuit et doit tenir sous le siège.",
+            "Un grand bagage à main (max 55x35x25cm, max 10kg) peut être ajouté moyennant des frais ou est inclus dans certains types de tarifs, à ranger dans le compartiment supérieur.",
+            "Assurez-vous que les dimensions de votre sac incluent les roues et les poignées."
+          ],
+          "strict_restrictions": [
+            "Les sacs dépassant les dimensions spécifiées seront soumis à des frais d'enregistrement à la porte d'embarquement et pourront être placés en soute.",
+            "Les bagages à main grands formats en surpoids entraîneront des frais supplémentaires.",
+            "Les liquides en bagage à main doivent respecter les réglementations de sécurité de l'aéroport (max 100ml par contenant, dans un sac transparent refermable)."
+          ],
+          "faqs": [
+            {
+              "q": "Quelles sont les dimensions du bagage à main gratuit chez Transavia ?",
+              "a": "Transavia autorise un petit bagage à main gratuit avec des dimensions maximales de 40x30x20 cm (15.7x11.8x7.8 pouces). Il doit tenir sous le siège devant vous."
+            },
+            {
+              "q": "Puis-je emporter un bagage cabine plus grand avec Transavia ?",
+              "a": "Oui, vous pouvez emporter un bagage cabine plus grand avec des dimensions maximales de 55x35x25 cm (21.6x13.7x9.8 pouces) et un poids maximal de 10 kg (22 lbs). C'est généralement une option payante ou incluse dans certains types de tarifs."
+            },
+            {
+              "q": "Y a-t-il une limite de poids pour le petit sac sous le siège ?",
+              "a": "Non, Transavia ne spécifie pas de limite de poids pour le petit bagage à main, tant qu'il tient sous le siège devant vous."
+            }
+          ]
+        },
+        "es": {
+          "slug": "transavia-franquicia-equipaje",
+          "title": "Transavia: Franquicia y Dimensiones del Equipaje",
+          "summary": "Matriz de compatibilidad detallada para el equipaje de mano de Transavia, incluyendo las dimensiones para debajo del asiento y el compartimento superior, así como los límites de peso.",
+          "amazon_search_query": "transavia bolso debajo asiento 40x30x20, transavia equipaje cabina 55x35x25",
+          "buy_box_title": "Encuentra la maleta perfecta para tu vuelo con Transavia",
+          "buy_box_subtitle": "Compra equipaje compatible para debajo del asiento y compartimentos superiores.",
+          "allowed_guidelines": [
+            "Un artículo de equipaje de mano pequeño (máx. 40x30x20cm) es siempre gratuito y debe caber debajo del asiento.",
+            "Se puede añadir un artículo de equipaje de mano grande (máx. 55x35x25cm, máx. 10kg) con un coste adicional o está incluido en ciertas tarifas, para ser guardado en el compartimento superior.",
+            "Asegúrate de que las dimensiones de tu bolso incluyan ruedas y asas."
+          ],
+          "strict_restrictions": [
+            "Los bolsos que excedan las dimensiones especificadas estarán sujetos a tarifas de facturación en la puerta de embarque y podrán ser colocados en la bodega.",
+            "El equipaje de mano grande con sobrepeso incurrirá en cargos adicionales.",
+            "Los líquidos en el equipaje de mano deben cumplir con las regulaciones de seguridad del aeropuerto (máx. 100ml por envase, en una bolsa transparente y resellable)."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuáles son las dimensiones del equipaje de mano gratuito para Transavia?",
+              "a": "Transavia permite un artículo de equipaje de mano pequeño con dimensiones máximas de 40x30x20 cm (15.7x11.8x7.8 pulgadas) de forma gratuita. Debe caber debajo del asiento delantero."
+            },
+            {
+              "q": "¿Puedo llevar una maleta de cabina más grande con Transavia?",
+              "a": "Sí, puedes llevar una maleta de cabina más grande con dimensiones máximas de 55x35x25 cm (21.6x13.7x9.8 pulgadas) y un peso máximo de 10 kg (22 lbs). Esta es generalmente una opción de pago o está incluida en ciertas tarifas."
+            },
+            {
+              "q": "¿Hay un límite de peso para la maleta pequeña debajo del asiento?",
+              "a": "No, Transavia no especifica un límite de peso para el artículo de equipaje de mano pequeño, siempre y cuando quepa debajo del asiento delantero."
+            }
+          ]
+        },
+        "it": {
+          "slug": "transavia-franchigia-bagaglio",
+          "title": "Transavia: Franchigia e Dimensioni del Bagaglio",
+          "summary": "Matrice di compatibilità dettagliata per il bagaglio a mano Transavia, incluse le dimensioni per sotto il sedile e per la cappelliera, e i limiti di peso.",
+          "amazon_search_query": "transavia borsa sotto sedile 40x30x20, transavia bagaglio a mano 55x35x25",
+          "buy_box_title": "Trova la borsa perfetta per il tuo volo Transavia",
+          "buy_box_subtitle": "Acquista bagagli conformi per sotto il sedile e i vani superiori.",
+          "allowed_guidelines": [
+            "Un piccolo bagaglio a mano (max 40x30x20cm) è sempre gratuito e deve stare sotto il sedile.",
+            "Un bagaglio a mano grande (max 55x35x25cm, max 10kg) può essere aggiunto a pagamento o è incluso in alcune tariffe, da riporre nella cappelliera.",
+            "Assicurati che le dimensioni della tua borsa includano ruote e maniglie."
+          ],
+          "strict_restrictions": [
+            "I bagagli che superano le dimensioni specificate saranno soggetti a costi di imbarco al gate e potrebbero essere riposti nella stiva.",
+            "Il bagaglio a mano grande in eccesso di peso comporterà costi aggiuntivi.",
+            "I liquidi nel bagaglio a mano devono essere conformi alle normative di sicurezza aeroportuale (max 100ml per contenitore, in una busta trasparente e richiudibile)."
+          ],
+          "faqs": [
+            {
+              "q": "Quali sono le dimensioni del bagaglio a mano gratuito per Transavia?",
+              "a": "Transavia consente un piccolo bagaglio a mano con dimensioni massime di 40x30x20 cm (15.7x11.8x7.8 pollici) gratuitamente. Deve stare sotto il sedile di fronte a te."
+            },
+            {
+              "q": "Posso portare un bagaglio a mano più grande con Transavia?",
+              "a": "Sì, puoi portare un bagaglio a mano più grande con dimensioni massime di 55x35x25 cm (21.6x13.7x9.8 pollici) e un peso massimo di 10 kg (22 lbs). Questa è solitamente un'opzione a pagamento o inclusa in alcune tariffe."
+            },
+            {
+              "q": "C'è un limite di peso per la borsa piccola sotto il sedile?",
+              "a": "No, Transavia non specifica un limite di peso per il piccolo bagaglio a mano, purché stia sotto il sedile di fronte a te."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "transavia-temochinimotsu-kyoyoryo",
+          "title": "トランスアビア手荷物許容量と寸法",
+          "summary": "トランスアビアの手荷物に関する詳細な互換性マトリックス。座席下および頭上の収納棚の寸法と重量制限が含まれます。",
+          "amazon_search_query": "トランスアビア 座席下バッグ 40x30x20, トランスアビア 機内持ち込みバッグ 55x35x25",
+          "buy_box_title": "トランスアビア便に最適なバッグを見つける",
+          "buy_box_subtitle": "座席下および頭上の収納棚に適合する荷物を購入する。",
+          "allowed_guidelines": [
+            "小型手荷物1個（最大40x30x20cm）は常に無料で、座席の下に収まる必要があります。",
+            "大型手荷物1個（最大55x35x25cm、最大10kg）は有料オプションとして追加できます。または特定の運賃タイプに含まれており、頭上の収納棚に保管されます。",
+            "バッグの寸法には車輪とハンドルが含まれていることを確認してください。"
+          ],
+          "strict_restrictions": [
+            "指定された寸法を超えるバッグは、搭乗口でのチェックイン手数料の対象となり、貨物室に預けられる場合があります。",
+            "重量超過の大型手荷物には追加料金が発生します。",
+            "機内持ち込み手荷物の液体は、空港の保安規定に従う必要があります（容器あたり最大100ml、透明で再封可能な袋に入れる）。"
+          ],
+          "faqs": [
+            {
+              "q": "トランスアビアの無料手荷物の寸法はどのくらいですか？",
+              "a": "トランスアビアでは、最大寸法40x30x20 cm（15.7x11.8x7.8インチ）の小型手荷物1個を無料で許可しています。前の座席の下に収まる必要があります。"
+            },
+            {
+              "q": "トランスアビアでより大きな機内持ち込みバッグを持ち込めますか？",
+              "a": "はい、最大寸法55x35x25 cm（21.6x13.7x9.8インチ）、最大重量10 kg（22ポンド）のより大きな機内持ち込みバッグを持ち込むことができます。これは通常、有料オプションであるか、特定の運賃タイプに含まれています。"
+            },
+            {
+              "q": "座席下の小型バッグに重量制限はありますか？",
+              "a": "いいえ、トランスアビアは小型手荷物アイテムの重量制限を規定していません。前の座席の下に収まる限り問題ありません。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "transavia-franquia-bagagem",
+          "title": "Transavia: Franquia e Dimensões de Bagagem",
+          "summary": "Matriz de compatibilidade detalhada para a bagagem de mão da Transavia, incluindo dimensões para debaixo do assento e compartimento superior, e limites de peso.",
+          "amazon_search_query": "transavia mala debaixo assento 40x30x20, transavia mala cabine 55x35x25",
+          "buy_box_title": "Encontre a mala perfeita para o seu voo Transavia",
+          "buy_box_subtitle": "Compre bagagem compatível para debaixo do assento e compartimentos superiores.",
+          "allowed_guidelines": [
+            "Um item de bagagem de mão pequeno (máx. 40x30x20cm) é sempre gratuito e deve caber debaixo do assento.",
+            "Um item de bagagem de mão grande (máx. 55x35x25cm, máx. 10kg) pode ser adicionado mediante pagamento ou está incluído em certos tipos de tarifas, para ser guardado no compartimento superior.",
+            "Certifique-se de que as dimensões da sua mala incluem rodas e alças."
+          ],
+          "strict_restrictions": [
+            "Malas que excedam as dimensões especificadas estarão sujeitas a taxas de despacho no portão e poderão ser colocadas no porão.",
+            "Bagagem de mão grande com excesso de peso incorrerá em custos adicionais.",
+            "Líquidos na bagagem de mão devem cumprir as regulamentações de segurança do aeroporto (máx. 100ml por recipiente, em um saco transparente e resselável)."
+          ],
+          "faqs": [
+            {
+              "q": "Quais são as dimensões da bagagem de mão gratuita para a Transavia?",
+              "a": "A Transavia permite um item de bagagem de mão pequeno com dimensões máximas de 40x30x20 cm (15.7x11.8x7.8 polegadas) gratuitamente. Deve caber debaixo do assento à sua frente."
+            },
+            {
+              "q": "Posso levar uma mala de cabine maior com a Transavia?",
+              "a": "Sim, pode levar uma mala de cabine maior com dimensões máximas de 55x35x25 cm (21.6x13.7x9.8 polegadas) e um peso máximo de 10 kg (22 lbs). Esta é geralmente uma opção paga ou incluída em certos tipos de tarifas."
+            },
+            {
+              "q": "Existe um limite de peso para a mala pequena debaixo do assento?",
+              "a": "Não, a Transavia não especifica um limite de peso para o item de bagagem de mão pequeno, desde que caiba debaixo do assento à sua frente."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "transavia-bagageregels",
+          "title": "Transavia Bagageregels & Afmetingen",
+          "summary": "Gedetailleerde compatibiliteitsmatrix voor Transavia handbagage, inclusief afmetingen voor onder de stoel en het bagagevak boven, en gewichtslimieten.",
+          "amazon_search_query": "transavia tas onder stoel 40x30x20, transavia cabinebagage 55x35x25",
+          "buy_box_title": "Vind de perfecte tas voor uw Transavia vlucht",
+          "buy_box_subtitle": "Koop conforme bagage voor onder de stoel en de bagagevakken boven.",
+          "allowed_guidelines": [
+            "Eén klein stuk handbagage (max 40x30x20cm) is altijd gratis en moet onder de stoel passen.",
+            "Eén groot stuk handbagage (max 55x35x25cm, max 10kg) kan tegen betaling worden toegevoegd of is inbegrepen bij bepaalde tarieven, en wordt opgeborgen in het bagagevak boven.",
+            "Zorg ervoor dat de afmetingen van uw tas wielen en handvatten omvatten."
+          ],
+          "strict_restrictions": [
+            "Tassen die de gespecificeerde afmetingen overschrijden, zijn onderworpen aan incheckkosten bij de gate en kunnen in het ruim worden geplaatst.",
+            "Overgewicht grote handbagage brengt extra kosten met zich mee.",
+            "Vloeistoffen in handbagage moeten voldoen aan de veiligheidsvoorschriften van de luchthaven (max 100ml per verpakking, in een doorzichtige, hersluitbare zak)."
+          ],
+          "faqs": [
+            {
+              "q": "Wat zijn de afmetingen van de gratis handbagage bij Transavia?",
+              "a": "Transavia staat één klein stuk handbagage toe met maximale afmetingen van 40x30x20 cm (15.7x11.8x7.8 inch) gratis. Het moet onder de stoel voor u passen."
+            },
+            {
+              "q": "Kan ik een grotere cabinebagage meenemen met Transavia?",
+              "a": "Ja, u kunt een grotere cabinebagage meenemen met maximale afmetingen van 55x35x25 cm (21.6x13.7x9.8 inch) en een maximaal gewicht van 10 kg (22 lbs). Dit is meestal een betaalde optie of inbegrepen bij bepaalde tarieven."
+            },
+            {
+              "q": "Is er een gewichtslimiet voor de kleine tas onder de stoel?",
+              "a": "Nee, Transavia specificeert geen gewichtslimiet voor het kleine stuk handbagage, zolang het maar onder de stoel voor u past."
             }
           ]
         }
