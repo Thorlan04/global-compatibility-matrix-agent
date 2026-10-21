@@ -1,28 +1,30 @@
 {
-  "last_updated": "2026-10-20T21:11:46.277079+00:00",
+  "last_updated": "2026-10-21T03:07:58.096599+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "british-airways",
-    "ryanair-cabin-baggage-dimensions",
-    "easyjet-baggage-powerbank-guide",
-    "lg-oled-c3-c4-vesa-mount-power",
-    "american-airlines-compatibility-matrix",
-    "southwest",
     "emirates-baggage-allowance",
-    "lufthansa-airlines-baggage-guide",
+    "emirates",
+    "qatar-airways-baggage-power-bank-guide",
+    "american-airlines-compatibility-matrix",
+    "ryanair-cabin-baggage-dimensions",
+    "easyjet",
+    "qatar-airways",
+    "lufthansa",
+    "british-airways",
+    "lg-oled-c3-c4-vesa-mount-power",
+    "united-airlines-baggage-lithium-battery-rules",
+    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "air-france-baggage-allowance",
     "air-france",
+    "united",
+    "delta-air-lines-compatibility-matrix",
+    "easyjet-baggage-powerbank-guide",
+    "southwest",
     "southwest-airlines-baggage-policy",
     "delta",
-    "air-france-baggage-allowance",
-    "united-airlines-baggage-lithium-battery-rules",
-    "emirates",
-    "american",
-    "delta-air-lines-compatibility-matrix",
-    "tesla-model-y-wipers-roof-trunk-dimensions",
-    "lufthansa",
-    "united",
-    "easyjet"
+    "lufthansa-airlines-baggage-guide",
+    "american"
   ],
   "topics_backlog": [
     {
@@ -4884,6 +4886,450 @@
             {
               "q": "Worden duty-free aankopen meegeteld voor mijn Emirates handbagagelimiet?",
               "a": "Nee, duty-free aankopen van alcohol, sigaretten en parfums zijn over het algemeen toegestaan naast uw standaard handbagagevrijstelling, mits ze in redelijke hoeveelheden zijn en veilig in de cabine kunnen worden opgeborgen."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "qatar-airways",
+      "slug": "qatar-airways-baggage-power-bank-guide",
+      "subject": "Qatar Airways",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Carry-on Baggage (Economy Class)",
+          "metric": "50 x 37 x 25 cm (Max 7 kg)",
+          "imperial": "19.7 x 14.6 x 9.8 in (Max 15.4 lbs)",
+          "status": "Verified",
+          "note": "One piece allowed per passenger. Must fit in the overhead locker.",
+          "item_translations": {
+            "en": "Carry-on Baggage (Economy Class)",
+            "de": "Handgepäck (Economy Class)",
+            "fr": "Bagage à main (Classe Économique)",
+            "es": "Equipaje de mano (Clase Turista)",
+            "it": "Bagaglio a mano (Classe Economica)",
+            "ja": "機内持ち込み手荷物 (エコノミークラス)",
+            "pt": "Bagagem de Mão (Classe Económica)",
+            "nl": "Handbagage (Economy Class)"
+          },
+          "note_translations": {
+            "en": "One piece allowed per passenger. Must fit in the overhead locker.",
+            "de": "Ein Stück pro Passagier erlaubt. Muss in das Gepäckfach über dem Sitz passen.",
+            "fr": "Une pièce autorisée par passager. Doit tenir dans le compartiment supérieur.",
+            "es": "Se permite una pieza por pasajero. Debe caber en el compartimento superior.",
+            "it": "Un pezzo consentito per passeggero. Deve entrare nella cappelliera.",
+            "ja": "乗客1名につき1個まで。頭上の収納棚に収まる必要があります。",
+            "pt": "Uma peça permitida por passageiro. Deve caber no compartimento superior.",
+            "nl": "Eén stuk per passagier toegestaan. Moet in het bagagevak boven de stoel passen."
+          }
+        },
+        {
+          "item": "Carry-on Baggage (Business/First Class)",
+          "metric": "Two pieces, each 50 x 37 x 25 cm (Max total 15 kg)",
+          "imperial": "Two pieces, each 19.7 x 14.6 x 9.8 in (Max total 33.1 lbs)",
+          "status": "Verified",
+          "note": "Total weight for both pieces must not exceed 15 kg. Must fit in the overhead locker.",
+          "item_translations": {
+            "en": "Carry-on Baggage (Business/First Class)",
+            "de": "Handgepäck (Business/First Class)",
+            "fr": "Bagage à main (Classe Affaires/Première)",
+            "es": "Equipaje de mano (Clase Business/Primera)",
+            "it": "Bagaglio a mano (Classe Business/Prima)",
+            "ja": "機内持ち込み手荷物 (ビジネスクラス/ファーストクラス)",
+            "pt": "Bagagem de Mão (Classe Executiva/Primeira)",
+            "nl": "Handbagage (Business/First Class)"
+          },
+          "note_translations": {
+            "en": "Total weight for both pieces must not exceed 15 kg. Must fit in the overhead locker.",
+            "de": "Das Gesamtgewicht beider Stücke darf 15 kg nicht überschreiten. Muss in das Gepäckfach über dem Sitz passen.",
+            "fr": "Le poids total des deux pièces ne doit pas dépasser 15 kg. Doit tenir dans le compartiment supérieur.",
+            "es": "El peso total de ambas piezas no debe exceder los 15 kg. Debe caber en el compartimento superior.",
+            "it": "Il peso totale di entrambi i pezzi non deve superare i 15 kg. Deve entrare nella cappelliera.",
+            "ja": "2個の合計重量が15kgを超えてはなりません。頭上の収納棚に収まる必要があります。",
+            "pt": "O peso total de ambas as peças não deve exceder 15 kg. Deve caber no compartimento superior.",
+            "nl": "Het totale gewicht van beide stukken mag 15 kg niet overschrijden. Moet in het bagagevak boven de stoel passen."
+          }
+        },
+        {
+          "item": "Personal Item (e.g., laptop bag, handbag)",
+          "metric": "Must fit under the seat (typically approx. 40 x 30 x 15 cm)",
+          "imperial": "Must fit under the seat (typically approx. 15.7 x 11.8 x 5.9 in)",
+          "status": "Verified",
+          "note": "Allowed in addition to carry-on baggage.",
+          "item_translations": {
+            "en": "Personal Item (e.g., laptop bag, handbag)",
+            "de": "Persönlicher Gegenstand (z.B. Laptoptasche, Handtasche)",
+            "fr": "Article personnel (ex: sacoche d'ordinateur portable, sac à main)",
+            "es": "Artículo personal (ej. bolsa para portátil, bolso de mano)",
+            "it": "Articolo personale (es. borsa per laptop, borsetta)",
+            "ja": "身の回り品 (例: ノートパソコン用バッグ、ハンドバッグ)",
+            "pt": "Item Pessoal (ex: mala de portátil, mala de mão)",
+            "nl": "Persoonlijk item (bijv. laptoptas, handtas)"
+          },
+          "note_translations": {
+            "en": "Allowed in addition to carry-on baggage.",
+            "de": "Zusätzlich zum Handgepäck erlaubt.",
+            "fr": "Autorisé en plus du bagage à main.",
+            "es": "Permitido además del equipaje de mano.",
+            "it": "Consentito in aggiunta al bagaglio a mano.",
+            "ja": "機内持ち込み手荷物に加えて許可されています。",
+            "pt": "Permitido além da bagagem de mão.",
+            "nl": "Toegestaan naast de handbagage."
+          }
+        },
+        {
+          "item": "Power Bank (Lithium-ion Battery) - Up to 100 Wh",
+          "metric": "Max 100 Wh (approx. 27,000 mAh at 3.7V)",
+          "imperial": "Max 100 Wh (approx. 27,000 mAh at 3.7V)",
+          "status": "Compliant",
+          "note": "Must be carried in hand baggage only. No airline approval required.",
+          "item_translations": {
+            "en": "Power Bank (Lithium-ion Battery) - Up to 100 Wh",
+            "de": "Powerbank (Lithium-Ionen-Akku) - Bis zu 100 Wh",
+            "fr": "Batterie externe (Batterie lithium-ion) - Jusqu'à 100 Wh",
+            "es": "Batería externa (Batería de iones de litio) - Hasta 100 Wh",
+            "it": "Power Bank (Batteria agli ioni di litio) - Fino a 100 Wh",
+            "ja": "モバイルバッテリー (リチウムイオン電池) - 100 Whまで",
+            "pt": "Power Bank (Bateria de iões de lítio) - Até 100 Wh",
+            "nl": "Powerbank (Lithium-ion batterij) - Tot 100 Wh"
+          },
+          "note_translations": {
+            "en": "Must be carried in hand baggage only. No airline approval required.",
+            "de": "Muss ausschließlich im Handgepäck mitgeführt werden. Keine Genehmigung der Fluggesellschaft erforderlich.",
+            "fr": "Doit être transportée uniquement en bagage à main. Aucune approbation de la compagnie aérienne n'est requise.",
+            "es": "Debe llevarse únicamente en el equipaje de mano. No se requiere aprobación de la aerolínea.",
+            "it": "Deve essere trasportato solo nel bagaglio a mano. Non è richiesta l'approvazione della compagnia aerea.",
+            "ja": "機内持ち込み手荷物のみで携帯する必要があります。航空会社の承認は不要です。",
+            "pt": "Deve ser transportado apenas na bagagem de mão. Não é necessária aprovação da companhia aérea.",
+            "nl": "Moet uitsluitend in de handbagage worden meegenomen. Geen goedkeuring van de luchtvaartmaatschappij vereist."
+          }
+        },
+        {
+          "item": "Power Bank (Lithium-ion Battery) - 101-160 Wh",
+          "metric": "101-160 Wh (approx. 27,000-43,000 mAh at 3.7V)",
+          "imperial": "101-160 Wh (approx. 27,000-43,000 mAh at 3.7V)",
+          "status": "Compliant with restrictions",
+          "note": "Must be carried in hand baggage only. Max two (2) per passenger. Airline approval required.",
+          "item_translations": {
+            "en": "Power Bank (Lithium-ion Battery) - 101-160 Wh",
+            "de": "Powerbank (Lithium-Ionen-Akku) - 101-160 Wh",
+            "fr": "Batterie externe (Batterie lithium-ion) - 101-160 Wh",
+            "es": "Batería externa (Batería de iones de litio) - 101-160 Wh",
+            "it": "Power Bank (Batteria agli ioni di litio) - 101-160 Wh",
+            "ja": "モバイルバッテリー (リチウムイオン電池) - 101-160 Wh",
+            "pt": "Power Bank (Bateria de iões de lítio) - 101-160 Wh",
+            "nl": "Powerbank (Lithium-ion batterij) - 101-160 Wh"
+          },
+          "note_translations": {
+            "en": "Must be carried in hand baggage only. Max two (2) per passenger. Airline approval required.",
+            "de": "Muss ausschließlich im Handgepäck mitgeführt werden. Maximal zwei (2) pro Passagier. Genehmigung der Fluggesellschaft erforderlich.",
+            "fr": "Doit être transportée uniquement en bagage à main. Maximum deux (2) par passager. Approbation de la compagnie aérienne requise.",
+            "es": "Debe llevarse únicamente en el equipaje de mano. Máximo dos (2) por pasajero. Se requiere aprobación de la aerolínea.",
+            "it": "Deve essere trasportato solo nel bagaglio a mano. Massimo due (2) per passeggero. È richiesta l'approvazione della compagnia aerea.",
+            "ja": "機内持ち込み手荷物のみで携帯する必要があります。乗客1名につき最大2個まで。航空会社の承認が必要です。",
+            "pt": "Deve ser transportado apenas na bagagem de mão. Máximo de dois (2) por passageiro. É necessária aprovação da companhia aérea.",
+            "nl": "Moet uitsluitend in de handbagage worden meegenomen. Maximaal twee (2) per passagier. Goedkeuring van de luchtvaartmaatschappij vereist."
+          }
+        },
+        {
+          "item": "Power Bank (Lithium-ion Battery) - Over 160 Wh",
+          "metric": "Over 160 Wh",
+          "imperial": "Over 160 Wh",
+          "status": "Not Allowed",
+          "note": "Prohibited in both hand and checked baggage.",
+          "item_translations": {
+            "en": "Power Bank (Lithium-ion Battery) - Over 160 Wh",
+            "de": "Powerbank (Lithium-Ionen-Akku) - Über 160 Wh",
+            "fr": "Batterie externe (Batterie lithium-ion) - Plus de 160 Wh",
+            "es": "Batería externa (Batería de iones de litio) - Más de 160 Wh",
+            "it": "Power Bank (Batteria agli ioni di litio) - Oltre 160 Wh",
+            "ja": "モバイルバッテリー (リチウムイオン電池) - 160 Wh超",
+            "pt": "Power Bank (Bateria de iões de lítio) - Mais de 160 Wh",
+            "nl": "Powerbank (Lithium-ion batterij) - Boven 160 Wh"
+          },
+          "note_translations": {
+            "en": "Prohibited in both hand and checked baggage.",
+            "de": "Sowohl im Hand- als auch im aufgegebenen Gepäck verboten.",
+            "fr": "Interdit en bagage à main et en bagage enregistré.",
+            "es": "Prohibido tanto en equipaje de mano como en equipaje facturado.",
+            "it": "Proibito sia nel bagaglio a mano che nel bagaglio da stiva.",
+            "ja": "機内持ち込み手荷物および受託手荷物の両方で禁止されています。",
+            "pt": "Proibido tanto na bagagem de mão quanto na bagagem despachada.",
+            "nl": "Verboden in zowel hand- als ruimbagage."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "qatar-airways-baggage-power-bank-guide",
+          "title": "Qatar Airways Hand Baggage & Power Bank Policy",
+          "summary": "Comprehensive guide to Qatar Airways' carry-on baggage allowances for Economy, Business, and First Class passengers, including dimensions, weight limits, and power bank regulations.",
+          "amazon_search_query": "carry on luggage 50x37x25cm 7kg, travel power bank airline approved",
+          "buy_box_title": "Recommended Carry-on for Qatar Airways",
+          "buy_box_subtitle": "Ensure your bag fits Qatar Airways' strict dimensions.",
+          "allowed_guidelines": [
+            "One piece of carry-on baggage for Economy Class (50x37x25cm, 7kg).",
+            "Two pieces of carry-on baggage for Business/First Class (each 50x37x25cm, total 15kg).",
+            "A personal item (e.g., laptop bag, handbag) is allowed in addition to carry-on.",
+            "Power banks up to 100 Wh are allowed in carry-on baggage without approval."
+          ],
+          "strict_restrictions": [
+            "Carry-on baggage must not exceed specified dimensions and weight limits.",
+            "Power banks between 101-160 Wh require airline approval and are limited to two per passenger.",
+            "Power banks over 160 Wh are strictly prohibited in both carry-on and checked baggage.",
+            "Lithium batteries and power banks are not permitted in checked baggage."
+          ],
+          "faqs": [
+            {
+              "q": "What are the carry-on dimensions for Qatar Airways Economy Class?",
+              "a": "For Economy Class, Qatar Airways allows one piece of carry-on baggage with maximum dimensions of 50 x 37 x 25 cm (19.7 x 14.6 x 9.8 inches) and a maximum weight of 7 kg (15.4 lbs)."
+            },
+            {
+              "q": "Can I bring a power bank on Qatar Airways?",
+              "a": "Yes, power banks are allowed in carry-on baggage only. Those up to 100 Wh are generally permitted without approval. Power banks between 101-160 Wh require airline approval and are limited to two per passenger. Power banks over 160 Wh are prohibited."
+            },
+            {
+              "q": "Is a personal item allowed in addition to carry-on baggage?",
+              "a": "Yes, passengers are typically allowed to bring one personal item, such as a laptop bag, handbag, or small backpack, in addition to their standard carry-on baggage. It must be small enough to fit under the seat in front of you."
+            }
+          ]
+        },
+        "de": {
+          "slug": "qatar-airways-gepaeck-powerbank-richtlinien",
+          "title": "Qatar Airways Handgepäck & Powerbank-Richtlinien",
+          "summary": "Umfassender Leitfaden zu den Handgepäckbestimmungen von Qatar Airways für Economy-, Business- und First Class-Passagiere, einschließlich Abmessungen, Gewichtsbeschränkungen und Powerbank-Vorschriften.",
+          "amazon_search_query": "handgepäck 50x37x25cm 7kg, reise powerbank flugzeug zugelassen",
+          "buy_box_title": "Empfohlenes Handgepäck für Qatar Airways",
+          "buy_box_subtitle": "Stellen Sie sicher, dass Ihre Tasche den strengen Maßen von Qatar Airways entspricht.",
+          "allowed_guidelines": [
+            "Ein Stück Handgepäck für die Economy Class (50x37x25cm, 7kg).",
+            "Zwei Stücke Handgepäck für die Business/First Class (jeweils 50x37x25cm, insgesamt 15kg).",
+            "Ein persönlicher Gegenstand (z.B. Laptoptasche, Handtasche) ist zusätzlich zum Handgepäck erlaubt.",
+            "Powerbanks bis 100 Wh sind im Handgepäck ohne Genehmigung erlaubt."
+          ],
+          "strict_restrictions": [
+            "Das Handgepäck darf die angegebenen Abmessungen und Gewichtsbeschränkungen nicht überschreiten.",
+            "Powerbanks zwischen 101-160 Wh erfordern die Genehmigung der Fluggesellschaft und sind auf zwei pro Passagier begrenzt.",
+            "Powerbanks über 160 Wh sind sowohl im Hand- als auch im aufgegebenen Gepäck strengstens verboten.",
+            "Lithiumbatterien und Powerbanks sind im aufgegebenen Gepäck nicht gestattet."
+          ],
+          "faqs": [
+            {
+              "q": "Welche Handgepäckmaße gelten für die Qatar Airways Economy Class?",
+              "a": "Für die Economy Class erlaubt Qatar Airways ein Stück Handgepäck mit maximalen Abmessungen von 50 x 37 x 25 cm (19.7 x 14.6 x 9.8 Zoll) und einem Maximalgewicht von 7 kg (15.4 lbs)."
+            },
+            {
+              "q": "Darf ich eine Powerbank bei Qatar Airways mitnehmen?",
+              "a": "Ja, Powerbanks sind nur im Handgepäck erlaubt. Solche bis 100 Wh sind in der Regel ohne Genehmigung gestattet. Powerbanks zwischen 101-160 Wh erfordern die Genehmigung der Fluggesellschaft und sind auf zwei pro Passagier begrenzt. Powerbanks über 160 Wh sind verboten."
+            },
+            {
+              "q": "Ist ein persönlicher Gegenstand zusätzlich zum Handgepäck erlaubt?",
+              "a": "Ja, Passagiere dürfen in der Regel zusätzlich zu ihrem Standard-Handgepäck einen persönlichen Gegenstand, wie eine Laptoptasche, Handtasche oder einen kleinen Rucksack, mitnehmen. Dieser muss klein genug sein, um unter den Vordersitz zu passen."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "qatar-airways-bagages-a-main-batterie-externe-guide",
+          "title": "Politique Bagages à Main & Batteries Externes Qatar Airways",
+          "summary": "Guide complet des franchises de bagages à main de Qatar Airways pour les passagers des classes Économique, Affaires et Première, incluant les dimensions, les limites de poids et les réglementations concernant les batteries externes.",
+          "amazon_search_query": "bagage cabine 50x37x25cm 7kg, batterie externe voyage approuvée avion",
+          "buy_box_title": "Bagage Cabine Recommandé pour Qatar Airways",
+          "buy_box_subtitle": "Assurez-vous que votre sac respecte les dimensions strictes de Qatar Airways.",
+          "allowed_guidelines": [
+            "Une pièce de bagage à main pour la Classe Économique (50x37x25cm, 7kg).",
+            "Deux pièces de bagage à main pour la Classe Affaires/Première (chacune 50x37x25cm, total 15kg).",
+            "Un article personnel (ex: sacoche d'ordinateur portable, sac à main) est autorisé en plus du bagage à main.",
+            "Les batteries externes jusqu'à 100 Wh sont autorisées en bagage à main sans approbation."
+          ],
+          "strict_restrictions": [
+            "Les bagages à main ne doivent pas dépasser les dimensions et les limites de poids spécifiées.",
+            "Les batteries externes entre 101 et 160 Wh nécessitent l'approbation de la compagnie aérienne et sont limitées à deux par passager.",
+            "Les batteries externes de plus de 160 Wh sont strictement interdites en bagage à main et en bagage enregistré.",
+            "Les batteries au lithium et les batteries externes ne sont pas autorisées en bagage enregistré."
+          ],
+          "faqs": [
+            {
+              "q": "Quelles sont les dimensions des bagages à main pour la Classe Économique de Qatar Airways ?",
+              "a": "Pour la Classe Économique, Qatar Airways autorise une pièce de bagage à main avec des dimensions maximales de 50 x 37 x 25 cm (19.7 x 14.6 x 9.8 pouces) et un poids maximal de 7 kg (15.4 lbs)."
+            },
+            {
+              "q": "Puis-je emporter une batterie externe sur Qatar Airways ?",
+              "a": "Oui, les batteries externes sont autorisées uniquement en bagage à main. Celles jusqu'à 100 Wh sont généralement permises sans approbation. Les batteries externes entre 101 et 160 Wh nécessitent l'approbation de la compagnie aérienne et sont limitées à deux par passager. Celles de plus de 160 Wh sont interdites."
+            },
+            {
+              "q": "Un article personnel est-il autorisé en plus du bagage à main ?",
+              "a": "Oui, les passagers sont généralement autorisés à apporter un article personnel, tel qu'une sacoche d'ordinateur portable, un sac à main ou un petit sac à dos, en plus de leur bagage à main standard. Il doit être suffisamment petit pour tenir sous le siège devant vous."
+            }
+          ]
+        },
+        "es": {
+          "slug": "qatar-airways-equipaje-mano-power-bank-guia",
+          "title": "Política de Equipaje de Mano y Baterías Externas de Qatar Airways",
+          "summary": "Guía completa sobre las franquicias de equipaje de mano de Qatar Airways para pasajeros de Clase Turista, Business y Primera, incluyendo dimensiones, límites de peso y regulaciones de baterías externas.",
+          "amazon_search_query": "equipaje de mano 50x37x25cm 7kg, power bank viaje aprobado aerolínea",
+          "buy_box_title": "Equipaje de Mano Recomendado para Qatar Airways",
+          "buy_box_subtitle": "Asegúrese de que su bolso cumpla con las estrictas dimensiones de Qatar Airways.",
+          "allowed_guidelines": [
+            "Una pieza de equipaje de mano para Clase Turista (50x37x25cm, 7kg).",
+            "Dos piezas de equipaje de mano para Clase Business/Primera (cada una 50x37x25cm, total 15kg).",
+            "Se permite un artículo personal (ej. bolsa para portátil, bolso de mano) además del equipaje de mano.",
+            "Las baterías externas de hasta 100 Wh están permitidas en el equipaje de mano sin aprobación."
+          ],
+          "strict_restrictions": [
+            "El equipaje de mano no debe exceder las dimensiones y límites de peso especificados.",
+            "Las baterías externas entre 101-160 Wh requieren aprobación de la aerolínea y están limitadas a dos por pasajero.",
+            "Las baterías externas de más de 160 Wh están estrictamente prohibidas tanto en equipaje de mano como en equipaje facturado.",
+            "Las baterías de litio y las baterías externas no están permitidas en el equipaje facturado."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuáles son las dimensiones del equipaje de mano para la Clase Turista de Qatar Airways?",
+              "a": "Para la Clase Turista, Qatar Airways permite una pieza de equipaje de mano con dimensiones máximas de 50 x 37 x 25 cm (19.7 x 14.6 x 9.8 pulgadas) y un peso máximo de 7 kg (15.4 lbs)."
+            },
+            {
+              "q": "¿Puedo llevar una batería externa en Qatar Airways?",
+              "a": "Sí, las baterías externas están permitidas solo en el equipaje de mano. Las de hasta 100 Wh generalmente se permiten sin aprobación. Las baterías externas entre 101-160 Wh requieren aprobación de la aerolínea y están limitadas a dos por pasajero. Las de más de 160 Wh están prohibidas."
+            },
+            {
+              "q": "¿Se permite un artículo personal además del equipaje de mano?",
+              "a": "Sí, los pasajeros suelen poder llevar un artículo personal, como una bolsa para portátil, un bolso de mano o una mochila pequeña, además de su equipaje de mano estándar. Debe ser lo suficientemente pequeño como para caber debajo del asiento delantero."
+            }
+          ]
+        },
+        "it": {
+          "slug": "qatar-airways-bagaglio-a-mano-power-bank-guida",
+          "title": "Politica Bagaglio a Mano e Power Bank di Qatar Airways",
+          "summary": "Guida completa alle franchigie per il bagaglio a mano di Qatar Airways per i passeggeri di Classe Economica, Business e Prima, incluse dimensioni, limiti di peso e regolamenti sui power bank.",
+          "amazon_search_query": "bagaglio a mano 50x37x25cm 7kg, power bank viaggio approvato aereo",
+          "buy_box_title": "Bagaglio a Mano Consigliato per Qatar Airways",
+          "buy_box_subtitle": "Assicurati che la tua borsa rispetti le dimensioni rigorose di Qatar Airways.",
+          "allowed_guidelines": [
+            "Un pezzo di bagaglio a mano per la Classe Economica (50x37x25cm, 7kg).",
+            "Due pezzi di bagaglio a mano per la Classe Business/Prima (ciascuno 50x37x25cm, totale 15kg).",
+            "Un articolo personale (es. borsa per laptop, borsetta) è consentito in aggiunta al bagaglio a mano.",
+            "I power bank fino a 100 Wh sono consentiti nel bagaglio a mano senza approvazione."
+          ],
+          "strict_restrictions": [
+            "Il bagaglio a mano non deve superare le dimensioni e i limiti di peso specificati.",
+            "I power bank tra 101-160 Wh richiedono l'approvazione della compagnia aerea e sono limitati a due per passeggero.",
+            "I power bank oltre 160 Wh sono severamente proibiti sia nel bagaglio a mano che nel bagaglio da stiva.",
+            "Le batterie al litio e i power bank non sono ammessi nel bagaglio da stiva."
+          ],
+          "faqs": [
+            {
+              "q": "Quali sono le dimensioni del bagaglio a mano per la Classe Economica di Qatar Airways?",
+              "a": "Per la Classe Economica, Qatar Airways consente un pezzo di bagaglio a mano con dimensioni massime di 50 x 37 x 25 cm (19.7 x 14.6 x 9.8 pollici) e un peso massimo di 7 kg (15.4 lbs)."
+            },
+            {
+              "q": "Posso portare un power bank su Qatar Airways?",
+              "a": "Sì, i power bank sono consentiti solo nel bagaglio a mano. Quelli fino a 100 Wh sono generalmente permessi senza approvazione. I power bank tra 101-160 Wh richiedono l'approvazione della compagnia aerea e sono limitati a due per passeggero. Quelli oltre 160 Wh sono proibiti."
+            },
+            {
+              "q": "È consentito un articolo personale in aggiunta al bagaglio a mano?",
+              "a": "Sì, i passeggeri sono generalmente autorizzati a portare un articolo personale, come una borsa per laptop, una borsetta o un piccolo zaino, in aggiunta al loro bagaglio a mano standard. Deve essere abbastanza piccolo da stare sotto il sedile di fronte a te."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "qatar-airways-kinai-mochikomi-power-bank-gaido",
+          "title": "カタール航空 機内持ち込み手荷物とモバイルバッテリーの規定",
+          "summary": "カタール航空のエコノミークラス、ビジネスクラス、ファーストクラスの乗客向け機内持ち込み手荷物許容量に関する包括的なガイド。寸法、重量制限、モバイルバッテリーの規制が含まれます。",
+          "amazon_search_query": "機内持ち込みスーツケース 50x37x25cm 7kg, 旅行用モバイルバッテリー 航空会社承認済み",
+          "buy_box_title": "カタール航空におすすめの機内持ち込み手荷物",
+          "buy_box_subtitle": "お客様のバッグがカタール航空の厳格な寸法に適合していることを確認してください。",
+          "allowed_guidelines": [
+            "エコノミークラスの機内持ち込み手荷物は1個 (50x37x25cm、7kg)。",
+            "ビジネスクラス/ファーストクラスの機内持ち込み手荷物は2個 (各50x37x25cm、合計15kg)。",
+            "身の回り品 (例: ノートパソコン用バッグ、ハンドバッグ) は機内持ち込み手荷物に加えて許可されています。",
+            "100 Whまでのモバイルバッテリーは、承認なしで機内持ち込み手荷物として許可されています。"
+          ],
+          "strict_restrictions": [
+            "機内持ち込み手荷物は、指定された寸法と重量制限を超えてはなりません。",
+            "101～160 Whのモバイルバッテリーは、航空会社の承認が必要で、乗客1名につき2個までに制限されています。",
+            "160 Whを超えるモバイルバッテリーは、機内持ち込み手荷物および受託手荷物の両方で厳しく禁止されています。",
+            "リチウム電池およびモバイルバッテリーは、受託手荷物として許可されていません。"
+          ],
+          "faqs": [
+            {
+              "q": "カタール航空エコノミークラスの機内持ち込み手荷物の寸法は？",
+              "a": "エコノミークラスでは、カタール航空は最大寸法50 x 37 x 25 cm (19.7 x 14.6 x 9.8インチ)、最大重量7 kg (15.4 lbs) の機内持ち込み手荷物を1個許可しています。"
+            },
+            {
+              "q": "カタール航空にモバイルバッテリーを持ち込めますか？",
+              "a": "はい、モバイルバッテリーは機内持ち込み手荷物としてのみ許可されています。100 Whまでのものは通常、承認なしで許可されます。101～160 Whのモバイルバッテリーは航空会社の承認が必要で、乗客1名につき2個までに制限されています。160 Whを超えるものは禁止されています。"
+            },
+            {
+              "q": "機内持ち込み手荷物に加えて身の回り品は許可されていますか？",
+              "a": "はい、通常、乗客は標準の機内持ち込み手荷物に加えて、ノートパソコン用バッグ、ハンドバッグ、小さなバックパックなどの身の回り品を1個持ち込むことができます。これは前の座席の下に収まるほど小さい必要があります。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "qatar-airways-bagagem-de-mao-power-bank-guia",
+          "title": "Política de Bagagem de Mão e Power Bank da Qatar Airways",
+          "summary": "Guia completo sobre as franquias de bagagem de mão da Qatar Airways para passageiros de Classe Económica, Executiva e Primeira, incluindo dimensões, limites de peso e regulamentos de power banks.",
+          "amazon_search_query": "mala de cabine 50x37x25cm 7kg, power bank viagem aprovado avião",
+          "buy_box_title": "Bagagem de Mão Recomendada para Qatar Airways",
+          "buy_box_subtitle": "Certifique-se de que a sua mala se ajusta às dimensões rigorosas da Qatar Airways.",
+          "allowed_guidelines": [
+            "Uma peça de bagagem de mão para Classe Económica (50x37x25cm, 7kg).",
+            "Duas peças de bagagem de mão para Classe Executiva/Primeira (cada uma 50x37x25cm, total 15kg).",
+            "Um item pessoal (ex: mala de portátil, mala de mão) é permitido além da bagagem de mão.",
+            "Power banks até 100 Wh são permitidos na bagagem de mão sem aprovação."
+          ],
+          "strict_restrictions": [
+            "A bagagem de mão não deve exceder as dimensões e limites de peso especificados.",
+            "Power banks entre 101-160 Wh requerem aprovação da companhia aérea e são limitados a dois por passageiro.",
+            "Power banks acima de 160 Wh são estritamente proibidos tanto na bagagem de mão quanto na bagagem despachada.",
+            "Baterias de lítio e power banks não são permitidos na bagagem despachada."
+          ],
+          "faqs": [
+            {
+              "q": "Quais são as dimensões da bagagem de mão para a Classe Económica da Qatar Airways?",
+              "a": "Para a Classe Económica, a Qatar Airways permite uma peça de bagagem de mão com dimensões máximas de 50 x 37 x 25 cm (19.7 x 14.6 x 9.8 polegadas) e um peso máximo de 7 kg (15.4 lbs)."
+            },
+            {
+              "q": "Posso levar um power bank na Qatar Airways?",
+              "a": "Sim, power banks são permitidos apenas na bagagem de mão. Aqueles até 100 Wh são geralmente permitidos sem aprovação. Power banks entre 101-160 Wh requerem aprovação da companhia aérea e são limitados a dois por passageiro. Power banks acima de 160 Wh são proibidos."
+            },
+            {
+              "q": "É permitido um item pessoal além da bagagem de mão?",
+              "a": "Sim, os passageiros geralmente podem levar um item pessoal, como uma mala de portátil, uma mala de mão ou uma pequena mochila, além da sua bagagem de mão padrão. Deve ser pequeno o suficiente para caber debaixo do assento à sua frente."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "qatar-airways-handbagage-powerbank-gids",
+          "title": "Qatar Airways Handbagage & Powerbank Beleid",
+          "summary": "Uitgebreide gids voor de handbagagevrijdom van Qatar Airways voor Economy, Business en First Class passagiers, inclusief afmetingen, gewichtslimieten en powerbankvoorschriften.",
+          "amazon_search_query": "handbagage 50x37x25cm 7kg, reis powerbank luchtvaartmaatschappij goedgekeurd",
+          "buy_box_title": "Aanbevolen Handbagage voor Qatar Airways",
+          "buy_box_subtitle": "Zorg ervoor dat uw tas voldoet aan de strikte afmetingen van Qatar Airways.",
+          "allowed_guidelines": [
+            "Eén stuk handbagage voor Economy Class (50x37x25cm, 7kg).",
+            "Twee stuks handbagage voor Business/First Class (elk 50x37x25cm, totaal 15kg).",
+            "Een persoonlijk item (bijv. laptoptas, handtas) is toegestaan naast de handbagage.",
+            "Powerbanks tot 100 Wh zijn toegestaan in handbagage zonder goedkeuring."
+          ],
+          "strict_restrictions": [
+            "Handbagage mag de gespecificeerde afmetingen en gewichtslimieten niet overschrijden.",
+            "Powerbanks tussen 101-160 Wh vereisen goedkeuring van de luchtvaartmaatschappij en zijn beperkt tot twee per passagier.",
+            "Powerbanks boven 160 Wh zijn strikt verboden in zowel hand- als ruimbagage.",
+            "Lithiumbatterijen en powerbanks zijn niet toegestaan in ruimbagage."
+          ],
+          "faqs": [
+            {
+              "q": "Wat zijn de handbagageafmetingen voor Qatar Airways Economy Class?",
+              "a": "Voor Economy Class staat Qatar Airways één stuk handbagage toe met maximale afmetingen van 50 x 37 x 25 cm (19.7 x 14.6 x 9.8 inch) en een maximaal gewicht van 7 kg (15.4 lbs)."
+            },
+            {
+              "q": "Mag ik een powerbank meenemen op Qatar Airways?",
+              "a": "Ja, powerbanks zijn alleen toegestaan in handbagage. Die tot 100 Wh zijn over het algemeen zonder goedkeuring toegestaan. Powerbanks tussen 101-160 Wh vereisen goedkeuring van de luchtvaartmaatschappij en zijn beperkt tot twee per passagier. Powerbanks boven 160 Wh zijn verboden."
+            },
+            {
+              "q": "Is een persoonlijk item toegestaan naast handbagage?",
+              "a": "Ja, passagiers mogen doorgaans één persoonlijk item, zoals een laptoptas, handtas of kleine rugzak, meenemen naast hun standaard handbagage. Het moet klein genoeg zijn om onder de stoel voor u te passen."
             }
           ]
         }

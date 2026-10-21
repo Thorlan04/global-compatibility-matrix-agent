@@ -221,3 +221,23 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=emirates+carry+on+bag+55x38x22cm&tag=autocompat-21
 
 ---
+
+## Qatar Airways (AIRLINES)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/qatar-airways-baggage-power-bank-guide.html
+- Summary: Comprehensive guide to Qatar Airways' carry-on baggage allowances for Economy, Business, and First Class passengers, including dimensions, weight limits, and power bank regulations.
+
+### Exact Specifications (Dual Units):
+* **Carry-on Baggage (Economy Class)**: Metric: `50 x 37 x 25 cm (Max 7 kg)` | Imperial: `19.7 x 14.6 x 9.8 in (Max 15.4 lbs)` (One piece allowed per passenger. Must fit in the overhead locker.)
+* **Carry-on Baggage (Business/First Class)**: Metric: `Two pieces, each 50 x 37 x 25 cm (Max total 15 kg)` | Imperial: `Two pieces, each 19.7 x 14.6 x 9.8 in (Max total 33.1 lbs)` (Total weight for both pieces must not exceed 15 kg. Must fit in the overhead locker.)
+* **Personal Item (e.g., laptop bag, handbag)**: Metric: `Must fit under the seat (typically approx. 40 x 30 x 15 cm)` | Imperial: `Must fit under the seat (typically approx. 15.7 x 11.8 x 5.9 in)` (Allowed in addition to carry-on baggage.)
+* **Power Bank (Lithium-ion Battery) - Up to 100 Wh**: Metric: `Max 100 Wh (approx. 27,000 mAh at 3.7V)` | Imperial: `Max 100 Wh (approx. 27,000 mAh at 3.7V)` (Must be carried in hand baggage only. No airline approval required.)
+* **Power Bank (Lithium-ion Battery) - 101-160 Wh**: Metric: `101-160 Wh (approx. 27,000-43,000 mAh at 3.7V)` | Imperial: `101-160 Wh (approx. 27,000-43,000 mAh at 3.7V)` (Must be carried in hand baggage only. Max two (2) per passenger. Airline approval required.)
+* **Power Bank (Lithium-ion Battery) - Over 160 Wh**: Metric: `Over 160 Wh` | Imperial: `Over 160 Wh` (Prohibited in both hand and checked baggage.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=carry+on+luggage+50x37x25cm+7kg%2C+travel+power+bank+airline+approved&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=carry+on+luggage+50x37x25cm+7kg%2C+travel+power+bank+airline+approved&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=carry+on+luggage+50x37x25cm+7kg%2C+travel+power+bank+airline+approved&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=carry+on+luggage+50x37x25cm+7kg%2C+travel+power+bank+airline+approved&tag=autocompat-21
+
+---

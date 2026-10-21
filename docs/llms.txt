@@ -30,3 +30,4 @@
 - [Lufthansa](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/lufthansa-airlines-baggage-guide.html): Airlines | 55 x 40 x 23 cm (Max 8 kg) / 21.7 x 15.7 x 9.1 in (Max 17.6 lbs)
 - [Air France](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/air-france-baggage-allowance.html): Airlines | 55 x 35 x 25 cm (Max 12 kg) / 21.7 x 13.8 x 9.8 in (Max 26.5 lbs)
 - [Emirates](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/emirates-baggage-allowance.html): Airlines | 55 x 38 x 22 cm (Max 7 kg) / 21.6 x 14.9 x 8.6 in (Max 15.4 lbs)
+- [Qatar Airways](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/qatar-airways-baggage-power-bank-guide.html): Airlines | 50 x 37 x 25 cm (Max 7 kg) / 19.7 x 14.6 x 9.8 in (Max 15.4 lbs)
