@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-10-21T21:11:26.230024+00:00",
-  "total_items": 14,
+  "generated_at": "2026-10-22T03:06:04.851071+00:00",
+  "total_items": 15,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -5391,6 +5391,326 @@
             {
               "q": "Is er een gewichtslimiet voor de kleine tas onder de stoel?",
               "a": "Nee, Transavia specificeert geen gewichtslimiet voor het kleine stuk handbagage, zolang het maar onder de stoel voor u past."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "vueling",
+      "slug": "vueling-baggage-allowance",
+      "subject": "Vueling",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Personal Item / Underseat Bag",
+          "metric": "40 x 20 x 30 cm",
+          "imperial": "15.75 x 7.87 x 11.81 in",
+          "status": "Verified",
+          "note": "Must fit under the seat in front of you. Included with all fares.",
+          "item_translations": {
+            "en": "Personal Item / Underseat Bag",
+            "de": "Persönlicher Gegenstand / Unter-dem-Sitz-Tasche",
+            "fr": "Article personnel / Sac sous le siège",
+            "es": "Artículo personal / Equipaje bajo el asiento",
+            "it": "Articolo personale / Borsa sotto il sedile",
+            "ja": "パーソナルアイテム / 座席下バッグ",
+            "pt": "Item pessoal / Mala debaixo do assento",
+            "nl": "Persoonlijk item / Tas onder de stoel"
+          },
+          "note_translations": {
+            "en": "Must fit under the seat in front of you. Included with all fares.",
+            "de": "Muss unter den Vordersitz passen. In allen Tarifen enthalten.",
+            "fr": "Doit tenir sous le siège devant vous. Inclus avec tous les tarifs.",
+            "es": "Debe caber debajo del asiento delantero. Incluido en todas las tarifas.",
+            "it": "Deve stare sotto il sedile di fronte a te. Incluso con tutte le tariffe.",
+            "ja": "前の座席の下に収まる必要があります。すべての運賃に含まれています。",
+            "pt": "Deve caber debaixo do assento à sua frente. Incluído em todas as tarifas.",
+            "nl": "Moet onder de stoel voor u passen. Inbegrepen bij alle tarieven."
+          }
+        },
+        {
+          "item": "Cabin Bag / Carry-on Luggage",
+          "metric": "55 x 40 x 20 cm (Max 10 kg)",
+          "imperial": "21.65 x 15.75 x 7.87 in (Max 22.05 lbs)",
+          "status": "Verified",
+          "note": "Requires Optima, Excellence, or TimeFlex fare, or additional purchase. Must fit in the overhead locker.",
+          "item_translations": {
+            "en": "Cabin Bag / Carry-on Luggage",
+            "de": "Handgepäck / Kabinengepäck",
+            "fr": "Bagage cabine / Bagage à main",
+            "es": "Equipaje de cabina / Maleta de mano",
+            "it": "Bagaglio a mano / Bagaglio in cabina",
+            "ja": "機内持ち込み手荷物 / キャリーオンラゲッジ",
+            "pt": "Bagagem de cabine / Mala de mão",
+            "nl": "Handbagage / Cabinebagage"
+          },
+          "note_translations": {
+            "en": "Requires Optima, Excellence, or TimeFlex fare, or additional purchase. Must fit in the overhead locker.",
+            "de": "Erfordert Optima-, Excellence- oder TimeFlex-Tarif oder zusätzlichen Kauf. Muss in das Gepäckfach über dem Sitz passen.",
+            "fr": "Nécessite un tarif Optima, Excellence ou TimeFlex, ou un achat supplémentaire. Doit tenir dans le compartiment supérieur.",
+            "es": "Requiere tarifa Optima, Excellence o TimeFlex, o compra adicional. Debe caber en el compartimento superior.",
+            "it": "Richiede tariffa Optima, Excellence o TimeFlex, o acquisto aggiuntivo. Deve stare nella cappelliera.",
+            "ja": "Optima、Excellence、またはTimeFlex運賃、または追加購入が必要です。頭上のロッカーに収まる必要があります。",
+            "pt": "Requer tarifa Optima, Excellence ou TimeFlex, ou compra adicional. Deve caber no compartimento superior.",
+            "nl": "Vereist Optima-, Excellence- of TimeFlex-tarief, of extra aankoop. Moet in het bagagevak boven de stoel passen."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "vueling-baggage-allowance",
+          "title": "Vueling Baggage Allowance & Dimensions",
+          "summary": "Official Vueling Airlines guidelines for personal items, underseat bags, and cabin luggage (carry-on) dimensions and weight limits.",
+          "amazon_search_query": "vueling underseat bag 40x20x30, vueling cabin bag 55x40x20",
+          "buy_box_title": "Find Vueling Compliant Luggage",
+          "buy_box_subtitle": "Shop bags that fit Vueling's strict size requirements.",
+          "allowed_guidelines": [
+            "One personal item (underseat bag) is included with all fares.",
+            "Cabin bag (carry-on) requires specific fares (Optima, Excellence, TimeFlex) or an additional purchase.",
+            "Ensure your bags fit the sizers at the airport to avoid extra charges."
+          ],
+          "strict_restrictions": [
+            "Personal item must fit under the seat (40x20x30 cm / 15.75x7.87x11.81 in).",
+            "Cabin bag must fit in the overhead locker (55x40x20 cm / 21.65x15.75x7.87 in) and not exceed 10 kg (22.05 lbs).",
+            "Overweight or oversized bags will be checked into the hold for an additional fee."
+          ],
+          "faqs": [
+            {
+              "q": "What is Vueling's personal item size?",
+              "a": "Vueling allows one personal item per passenger with maximum dimensions of 40x20x30 cm (15.75x7.87x11.81 inches). It must fit under the seat in front of you."
+            },
+            {
+              "q": "What are Vueling's cabin bag dimensions and weight?",
+              "a": "Vueling's cabin bag (carry-on) dimensions are 55x40x20 cm (21.65x15.75x7.87 inches) with a maximum weight of 10 kg (22.05 lbs). This allowance is typically for specific fares or purchased separately."
+            },
+            {
+              "q": "Can I bring a backpack as a personal item on Vueling?",
+              "a": "Yes, as long as your backpack adheres to the maximum dimensions of 40x20x30 cm (15.75x7.87x11.81 inches) and can be stowed under the seat in front of you."
+            }
+          ]
+        },
+        "de": {
+          "slug": "vueling-gepaeckbestimmungen",
+          "title": "Vueling Gepäckbestimmungen & Abmessungen",
+          "summary": "Offizielle Vueling Airlines Richtlinien für persönliche Gegenstände, Unter-dem-Sitz-Taschen und Handgepäck (Kabine) Abmessungen und Gewichtsbeschränkungen.",
+          "amazon_search_query": "vueling unter dem sitz tasche 40x20x30, vueling handgepaeck 55x40x20",
+          "buy_box_title": "Vueling-konformes Gepäck finden",
+          "buy_box_subtitle": "Kaufen Sie Taschen, die Vuelings strenge Größenanforderungen erfüllen.",
+          "allowed_guidelines": [
+            "Ein persönlicher Gegenstand (Unter-dem-Sitz-Tasche) ist in allen Tarifen enthalten.",
+            "Handgepäck (Kabine) erfordert spezielle Tarife (Optima, Excellence, TimeFlex) oder einen zusätzlichen Kauf.",
+            "Stellen Sie sicher, dass Ihr Gepäck in die Gepäcklehren am Flughafen passt, um zusätzliche Gebühren zu vermeiden."
+          ],
+          "strict_restrictions": [
+            "Persönlicher Gegenstand muss unter den Sitz passen (40x20x30 cm / 15.75x7.87x11.81 Zoll).",
+            "Handgepäck muss in das Gepäckfach über dem Sitz passen (55x40x20 cm / 21.65x15.75x7.87 Zoll) und darf 10 kg (22.05 lbs) nicht überschreiten.",
+            "Übergepäck oder übergroßes Gepäck wird gegen eine zusätzliche Gebühr in den Frachtraum verladen."
+          ],
+          "faqs": [
+            {
+              "q": "Wie groß darf ein persönlicher Gegenstand bei Vueling sein?",
+              "a": "Vueling erlaubt einen persönlichen Gegenstand pro Passagier mit maximalen Abmessungen von 40x20x30 cm (15.75x7.87x11.81 Zoll). Er muss unter den Vordersitz passen."
+            },
+            {
+              "q": "Welche Abmessungen und welches Gewicht hat das Handgepäck bei Vueling?",
+              "a": "Die Abmessungen für Handgepäck (Kabine) bei Vueling betragen 55x40x20 cm (21.65x15.75x7.87 Zoll) mit einem Maximalgewicht von 10 kg (22.05 lbs). Diese Freigepäckmenge gilt in der Regel für bestimmte Tarife oder muss separat erworben werden."
+            },
+            {
+              "q": "Kann ich einen Rucksack als persönlichen Gegenstand bei Vueling mitnehmen?",
+              "a": "Ja, solange Ihr Rucksack die maximalen Abmessungen von 40x20x30 cm (15.75x7.87x11.81 Zoll) einhält und unter den Vordersitz verstaut werden kann."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "vueling-franchise-bagages",
+          "title": "Vueling Franchise Bagages & Dimensions",
+          "summary": "Directives officielles de Vueling Airlines pour les articles personnels, les sacs sous le siège et les bagages cabine (à main) dimensions et limites de poids.",
+          "amazon_search_query": "vueling sac sous siege 40x20x30, vueling bagage cabine 55x40x20",
+          "buy_box_title": "Trouver des bagages conformes à Vueling",
+          "buy_box_subtitle": "Achetez des sacs qui respectent les exigences de taille strictes de Vueling.",
+          "allowed_guidelines": [
+            "Un article personnel (sac sous le siège) est inclus avec tous les tarifs.",
+            "Le bagage cabine (à main) nécessite des tarifs spécifiques (Optima, Excellence, TimeFlex) ou un achat supplémentaire.",
+            "Assurez-vous que vos sacs rentrent dans les gabarits à l'aéroport pour éviter des frais supplémentaires."
+          ],
+          "strict_restrictions": [
+            "L'article personnel doit tenir sous le siège (40x20x30 cm / 15.75x7.87x11.81 po).",
+            "Le bagage cabine doit tenir dans le compartiment supérieur (55x40x20 cm / 21.65x15.75x7.87 po) et ne pas dépasser 10 kg (22.05 lbs).",
+            "Les bagages en surpoids ou surdimensionnés seront enregistrés en soute moyennant des frais supplémentaires."
+          ],
+          "faqs": [
+            {
+              "q": "Quelle est la taille d'un article personnel chez Vueling ?",
+              "a": "Vueling autorise un article personnel par passager avec des dimensions maximales de 40x20x30 cm (15.75x7.87x11.81 pouces). Il doit tenir sous le siège devant vous."
+            },
+            {
+              "q": "Quelles sont les dimensions et le poids d'un bagage cabine chez Vueling ?",
+              "a": "Les dimensions du bagage cabine (à main) de Vueling sont de 55x40x20 cm (21.65x15.75x7.87 pouces) avec un poids maximum de 10 kg (22.05 lbs). Cette franchise est généralement pour des tarifs spécifiques ou achetée séparément."
+            },
+            {
+              "q": "Puis-je emporter un sac à dos comme article personnel sur Vueling ?",
+              "a": "Oui, tant que votre sac à dos respecte les dimensions maximales de 40x20x30 cm (15.75x7.87x11.81 pouces) et peut être rangé sous le siège devant vous."
+            }
+          ]
+        },
+        "es": {
+          "slug": "vueling-franquicia-equipaje",
+          "title": "Vueling Franquicia de Equipaje y Dimensiones",
+          "summary": "Directrices oficiales de Vueling Airlines para artículos personales, equipaje de mano bajo el asiento y equipaje de cabina (de mano) dimensiones y límites de peso.",
+          "amazon_search_query": "vueling equipaje bajo asiento 40x20x30, vueling maleta cabina 55x40x20",
+          "buy_box_title": "Encuentra equipaje compatible con Vueling",
+          "buy_box_subtitle": "Compra maletas que cumplan con los estrictos requisitos de tamaño de Vueling.",
+          "allowed_guidelines": [
+            "Un artículo personal (equipaje bajo el asiento) está incluido en todas las tarifas.",
+            "El equipaje de cabina (de mano) requiere tarifas específicas (Optima, Excellence, TimeFlex) o una compra adicional.",
+            "Asegúrate de que tus maletas encajen en los medidores del aeropuerto para evitar cargos adicionales."
+          ],
+          "strict_restrictions": [
+            "El artículo personal debe caber debajo del asiento (40x20x30 cm / 15.75x7.87x11.81 pulg).",
+            "El equipaje de cabina debe caber en el compartimento superior (55x40x20 cm / 21.65x15.75x7.87 pulg) y no exceder los 10 kg (22.05 lbs).",
+            "Las maletas con sobrepeso o sobredimensionadas serán facturadas en bodega con un cargo adicional."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuál es el tamaño del artículo personal de Vueling?",
+              "a": "Vueling permite un artículo personal por pasajero con dimensiones máximas de 40x20x30 cm (15.75x7.87x11.81 pulgadas). Debe caber debajo del asiento delantero."
+            },
+            {
+              "q": "¿Cuáles son las dimensiones y el peso del equipaje de cabina de Vueling?",
+              "a": "Las dimensiones del equipaje de cabina (de mano) de Vueling son 55x40x20 cm (21.65x15.75x7.87 pulgadas) con un peso máximo de 10 kg (22.05 lbs). Esta franquicia suele ser para tarifas específicas o se compra por separado."
+            },
+            {
+              "q": "¿Puedo llevar una mochila como artículo personal en Vueling?",
+              "a": "Sí, siempre y cuando tu mochila cumpla con las dimensiones máximas de 40x20x30 cm (15.75x7.87x11.81 pulgadas) y pueda guardarse debajo del asiento delantero."
+            }
+          ]
+        },
+        "it": {
+          "slug": "vueling-franchigia-bagaglio",
+          "title": "Vueling Franchigia Bagaglio e Dimensioni",
+          "summary": "Linee guida ufficiali di Vueling Airlines per articoli personali, borse sotto il sedile e bagaglio a mano (in cabina) dimensioni e limiti di peso.",
+          "amazon_search_query": "vueling borsa sotto sedile 40x20x30, vueling bagaglio a mano 55x40x20",
+          "buy_box_title": "Trova bagagli conformi a Vueling",
+          "buy_box_subtitle": "Acquista borse che rispettano i rigorosi requisiti di dimensione di Vueling.",
+          "allowed_guidelines": [
+            "Un articolo personale (borsa sotto il sedile) è incluso con tutte le tariffe.",
+            "Il bagaglio a mano (in cabina) richiede tariffe specifiche (Optima, Excellence, TimeFlex) o un acquisto aggiuntivo.",
+            "Assicurati che le tue borse rientrino nei misuratori in aeroporto per evitare costi aggiuntivi."
+          ],
+          "strict_restrictions": [
+            "L'articolo personale deve stare sotto il sedile (40x20x30 cm / 15.75x7.87x11.81 pollici).",
+            "Il bagaglio a mano deve stare nella cappelliera (55x40x20 cm / 21.65x15.75x7.87 pollici) e non superare i 10 kg (22.05 lbs).",
+            "I bagagli in eccesso di peso o dimensioni saranno imbarcati in stiva con un costo aggiuntivo."
+          ],
+          "faqs": [
+            {
+              "q": "Qual è la dimensione dell'articolo personale di Vueling?",
+              "a": "Vueling consente un articolo personale per passeggero con dimensioni massime di 40x20x30 cm (15.75x7.87x11.81 pollici). Deve stare sotto il sedile di fronte a te."
+            },
+            {
+              "q": "Quali sono le dimensioni e il peso del bagaglio a mano di Vueling?",
+              "a": "Le dimensioni del bagaglio a mano (in cabina) di Vueling sono 55x40x20 cm (21.65x15.75x7.87 pollici) con un peso massimo di 10 kg (22.05 lbs). Questa franchigia è tipicamente per tariffe specifiche o acquistata separatamente."
+            },
+            {
+              "q": "Posso portare uno zaino come articolo personale su Vueling?",
+              "a": "Sì, a condizione che il tuo zaino rispetti le dimensioni massime di 40x20x30 cm (15.75x7.87x11.81 pollici) e possa essere riposto sotto il sedile di fronte a te."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "vueling-tejimochi-kyoka",
+          "title": "ブエリング 手荷物許容量と寸法",
+          "summary": "ブエリング航空のパーソナルアイテム、座席下バッグ、機内持ち込み手荷物（キャリーオン）の寸法と重量制限に関する公式ガイドライン。",
+          "amazon_search_query": "ブエリング 座席下バッグ 40x20x30, ブエリング 機内持ち込み 55x40x20",
+          "buy_box_title": "ブエリング準拠の荷物を見つける",
+          "buy_box_subtitle": "ブエリングの厳格なサイズ要件に合うバッグを購入する。",
+          "allowed_guidelines": [
+            "パーソナルアイテム（座席下バッグ）はすべての運賃に含まれています。",
+            "機内持ち込み手荷物（キャリーオン）は特定の運賃（Optima, Excellence, TimeFlex）または追加購入が必要です。",
+            "追加料金を避けるため、空港のサイズ測定器に荷物が収まることを確認してください。"
+          ],
+          "strict_restrictions": [
+            "パーソナルアイテムは前の座席の下に収まる必要があります（40x20x30 cm / 15.75x7.87x11.81 インチ）。",
+            "機内持ち込み手荷物は頭上のロッカーに収まる必要があります（55x40x20 cm / 21.65x15.75x7.87 インチ）で、10 kg（22.05 lbs）を超えてはなりません。",
+            "重量超過またはサイズ超過の荷物は、追加料金で預け入れ荷物として扱われます。"
+          ],
+          "faqs": [
+            {
+              "q": "ブエリングのパーソナルアイテムのサイズは？",
+              "a": "ブエリングでは、最大寸法40x20x30 cm（15.75x7.87x11.81インチ）のパーソナルアイテムを乗客1人につき1つ許可しています。これは前の座席の下に収まる必要があります。"
+            },
+            {
+              "q": "ブエリングの機内持ち込み手荷物の寸法と重量は？",
+              "a": "ブエリングの機内持ち込み手荷物（キャリーオン）の寸法は55x40x20 cm（21.65x15.75x7.87インチ）で、最大重量は10 kg（22.05 lbs）です。この許容量は通常、特定の運賃または別途購入した場合に適用されます。"
+            },
+            {
+              "q": "ブエリングでバックパックをパーソナルアイテムとして持ち込めますか？",
+              "a": "はい、バックパックが最大寸法40x20x30 cm（15.75x7.87x11.81インチ）に準拠し、前の座席の下に収納できる限り可能です。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "vueling-franquia-bagagem",
+          "title": "Vueling Franquia de Bagagem e Dimensões",
+          "summary": "Diretrizes oficiais da Vueling Airlines para itens pessoais, malas debaixo do assento e bagagem de cabine (de mão) dimensões e limites de peso.",
+          "amazon_search_query": "vueling mala debaixo assento 40x20x30, vueling mala de cabine 55x40x20",
+          "buy_box_title": "Encontre bagagem compatível com Vueling",
+          "buy_box_subtitle": "Compre malas que se ajustem aos rigorosos requisitos de tamanho da Vueling.",
+          "allowed_guidelines": [
+            "Um item pessoal (mala debaixo do assento) está incluído em todas as tarifas.",
+            "A bagagem de cabine (de mão) requer tarifas específicas (Optima, Excellence, TimeFlex) ou uma compra adicional.",
+            "Certifique-se de que suas malas se encaixam nos medidores do aeroporto para evitar cobranças extras."
+          ],
+          "strict_restrictions": [
+            "O item pessoal deve caber debaixo do assento (40x20x30 cm / 15.75x7.87x11.81 pol).",
+            "A bagagem de cabine deve caber no compartimento superior (55x40x20 cm / 21.65x15.75x7.87 pol) e não exceder 10 kg (22.05 lbs).",
+            "Malas com excesso de peso ou tamanho serão despachadas no porão com uma taxa adicional."
+          ],
+          "faqs": [
+            {
+              "q": "Qual o tamanho do item pessoal da Vueling?",
+              "a": "A Vueling permite um item pessoal por passageiro com dimensões máximas de 40x20x30 cm (15.75x7.87x11.81 polegadas). Deve caber debaixo do assento à sua frente."
+            },
+            {
+              "q": "Quais são as dimensões e o peso da bagagem de cabine da Vueling?",
+              "a": "As dimensões da bagagem de cabine (de mão) da Vueling são 55x40x20 cm (21.65x15.75x7.87 polegadas) com um peso máximo de 10 kg (22.05 lbs). Esta franquia é tipicamente para tarifas específicas ou comprada separadamente."
+            },
+            {
+              "q": "Posso levar uma mochila como item pessoal na Vueling?",
+              "a": "Sim, desde que sua mochila esteja de acordo com as dimensões máximas de 40x20x30 cm (15.75x7.87x11.81 polegadas) e possa ser guardada debaixo do assento à sua frente."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "vueling-bagagevrijdom",
+          "title": "Vueling Bagagevrijdom & Afmetingen",
+          "summary": "Officiële Vueling Airlines richtlijnen voor persoonlijke items, tassen onder de stoel en handbagage (cabine) afmetingen en gewichtslimieten.",
+          "amazon_search_query": "vueling tas onder stoel 40x20x30, vueling handbagage 55x40x20",
+          "buy_box_title": "Vueling-compatibele bagage vinden",
+          "buy_box_subtitle": "Koop tassen die voldoen aan de strikte maateisen van Vueling.",
+          "allowed_guidelines": [
+            "Eén persoonlijk item (tas onder de stoel) is inbegrepen bij alle tarieven.",
+            "Handbagage (cabine) vereist specifieke tarieven (Optima, Excellence, TimeFlex) of een extra aankoop.",
+            "Zorg ervoor dat uw tassen in de bagagemeters op de luchthaven passen om extra kosten te vermijden."
+          ],
+          "strict_restrictions": [
+            "Persoonlijk item moet onder de stoel passen (40x20x30 cm / 15.75x7.87x11.81 inch).",
+            "Handbagage moet in het bagagevak boven de stoel passen (55x40x20 cm / 21.65x15.75x7.87 inch) en mag niet meer dan 10 kg (22.05 lbs) wegen.",
+            "Overgewicht of te grote tassen worden tegen een extra vergoeding in het ruim ingecheckt."
+          ],
+          "faqs": [
+            {
+              "q": "Wat is de afmeting van een persoonlijk item bij Vueling?",
+              "a": "Vueling staat één persoonlijk item per passagier toe met maximale afmetingen van 40x20x30 cm (15.75x7.87x11.81 inch). Het moet onder de stoel voor u passen."
+            },
+            {
+              "q": "Wat zijn de afmetingen en het gewicht van handbagage bij Vueling?",
+              "a": "De afmetingen van handbagage (cabine) bij Vueling zijn 55x40x20 cm (21.65x15.75x7.87 inch) met een maximaal gewicht van 10 kg (22.05 lbs). Deze bagagevrijdom geldt doorgaans voor specifieke tarieven of wordt apart aangeschaft."
+            },
+            {
+              "q": "Kan ik een rugzak meenemen als persoonlijk item bij Vueling?",
+              "a": "Ja, zolang uw rugzak voldoet aan de maximale afmetingen van 40x20x30 cm (15.75x7.87x11.81 inch) en onder de stoel voor u kan worden opgeborgen."
             }
           ]
         }

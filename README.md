@@ -5,7 +5,7 @@
 [![Autopilot 6H](https://github.com/Thorlan04/global-compatibility-matrix-agent/actions/workflows/autopilot.yml/badge.svg)](https://github.com/Thorlan04/global-compatibility-matrix-agent/actions/workflows/autopilot.yml)
 [![Zero Cookies](https://img.shields.io/badge/Privacy-Zero_Cookies_RGPD_CCPA-10b981.svg)](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/legal.html)
 [![AI Standards](https://img.shields.io/badge/GEO-llms.txt_Compliant-38bdf8.svg)](https://Thorlan04.github.io/global-compatibility-matrix-agent/llms.txt)
-[![Catalog Items](https://img.shields.io/badge/Matrices-14_Universal_Specs-f59e0b.svg)](https://Thorlan04.github.io/global-compatibility-matrix-agent/)
+[![Catalog Items](https://img.shields.io/badge/Matrices-15_Universal_Specs-f59e0b.svg)](https://Thorlan04.github.io/global-compatibility-matrix-agent/)
 
 ---
 
@@ -34,10 +34,11 @@ Les agents IA (ChatGPT Search, Perplexity Pro, Claude 3.7, Microsoft Copilot, Go
 
 ---
 
-## 📚 Dernières Fiches de Spécifications Générées (14 matrices)
+## 📚 Dernières Fiches de Spécifications Générées (15 matrices)
 
 | Catégorie | Sujet Universel | Dimensions Métriques / Impériales | Liens Directs par Langue |
 | :--- | :--- | :--- | :--- |
+| ✈️ Airlines | **Vueling** | `40 x 20 x 30 cm` / `15.75 x 7.87 x 11.81 in` | [EN](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/vueling-baggage-allowance.html) · [FR](https://Thorlan04.github.io/global-compatibility-matrix-agent/fr/vueling-baggage-allowance.html) · [DE](https://Thorlan04.github.io/global-compatibility-matrix-agent/de/vueling-baggage-allowance.html) · [ES](https://Thorlan04.github.io/global-compatibility-matrix-agent/es/vueling-baggage-allowance.html) · [JA](https://Thorlan04.github.io/global-compatibility-matrix-agent/ja/vueling-baggage-allowance.html) |
 | ✈️ Airlines | **Transavia** | `40 x 30 x 20 cm (Geen gewichtslimiet)` / `15.7 x 11.8 x 7.8 in (No weight limit)` | [EN](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/transavia-baggage-allowance.html) · [FR](https://Thorlan04.github.io/global-compatibility-matrix-agent/fr/transavia-baggage-allowance.html) · [DE](https://Thorlan04.github.io/global-compatibility-matrix-agent/de/transavia-baggage-allowance.html) · [ES](https://Thorlan04.github.io/global-compatibility-matrix-agent/es/transavia-baggage-allowance.html) · [JA](https://Thorlan04.github.io/global-compatibility-matrix-agent/ja/transavia-baggage-allowance.html) |
 | ✈️ Airlines | **Qatar Airways** | `50 x 37 x 25 cm (Max 7 kg)` / `19.7 x 14.6 x 9.8 in (Max 15.4 lbs)` | [EN](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/qatar-airways-baggage-power-bank-guide.html) · [FR](https://Thorlan04.github.io/global-compatibility-matrix-agent/fr/qatar-airways-baggage-power-bank-guide.html) · [DE](https://Thorlan04.github.io/global-compatibility-matrix-agent/de/qatar-airways-baggage-power-bank-guide.html) · [ES](https://Thorlan04.github.io/global-compatibility-matrix-agent/es/qatar-airways-baggage-power-bank-guide.html) · [JA](https://Thorlan04.github.io/global-compatibility-matrix-agent/ja/qatar-airways-baggage-power-bank-guide.html) |
 | ✈️ Airlines | **Emirates** | `55 x 38 x 22 cm (Max 7 kg)` / `21.6 x 14.9 x 8.6 in (Max 15.4 lbs)` | [EN](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/emirates-baggage-allowance.html) · [FR](https://Thorlan04.github.io/global-compatibility-matrix-agent/fr/emirates-baggage-allowance.html) · [DE](https://Thorlan04.github.io/global-compatibility-matrix-agent/de/emirates-baggage-allowance.html) · [ES](https://Thorlan04.github.io/global-compatibility-matrix-agent/es/emirates-baggage-allowance.html) · [JA](https://Thorlan04.github.io/global-compatibility-matrix-agent/ja/emirates-baggage-allowance.html) |
