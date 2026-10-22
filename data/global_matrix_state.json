@@ -1,34 +1,35 @@
 {
-  "last_updated": "2026-10-22T11:04:36.822657+00:00",
+  "last_updated": "2026-10-22T16:33:20.345510+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "emirates-baggage-allowance",
-    "air-france-baggage-allowance",
-    "vueling",
-    "qatar-airways-baggage-power-bank-guide",
-    "united",
-    "easyjet",
-    "ryanair-cabin-baggage-dimensions",
-    "lufthansa-airlines-baggage-guide",
-    "tesla-model-y-wipers-roof-trunk-dimensions",
-    "southwest-airlines-baggage-policy",
     "lufthansa",
-    "qatar-airways",
-    "transavia",
-    "southwest",
-    "air-france",
     "emirates",
-    "vueling-baggage-allowance",
-    "transavia-baggage-allowance",
-    "delta",
-    "delta-air-lines-compatibility-matrix",
-    "united-airlines-baggage-lithium-battery-rules",
-    "british-airways",
+    "wizz-air",
+    "ryanair-cabin-baggage-dimensions",
     "lg-oled-c3-c4-vesa-mount-power",
-    "easyjet-baggage-powerbank-guide",
+    "united-airlines-baggage-lithium-battery-rules",
+    "southwest",
+    "emirates-baggage-allowance",
+    "delta",
+    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "american",
+    "air-france",
+    "delta-air-lines-compatibility-matrix",
+    "air-france-baggage-allowance",
+    "easyjet",
+    "transavia-baggage-allowance",
+    "qatar-airways",
     "american-airlines-compatibility-matrix",
-    "american"
+    "qatar-airways-baggage-power-bank-guide",
+    "southwest-airlines-baggage-policy",
+    "vueling",
+    "united",
+    "lufthansa-airlines-baggage-guide",
+    "british-airways",
+    "transavia",
+    "easyjet-baggage-powerbank-guide",
+    "vueling-baggage-allowance"
   ],
   "topics_backlog": [
     {
@@ -5974,6 +5975,326 @@
             {
               "q": "Kan ik een rugzak meenemen als persoonlijk item bij Vueling?",
               "a": "Ja, zolang uw rugzak voldoet aan de maximale afmetingen van 40x20x30 cm (15.75x7.87x11.81 inch) en onder de stoel voor u kan worden opgeborgen."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "wizz-air",
+      "slug": "wizz-air",
+      "subject": "Wizz Air",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Free Carry-on Bag (Under Seat)",
+          "metric": "40 x 30 x 20 cm",
+          "imperial": "15.75 x 11.81 x 7.87 in",
+          "status": "Verified",
+          "note": "All passengers are entitled to one free personal item. Must fit under the seat in front of you.",
+          "item_translations": {
+            "en": "Free Carry-on Bag (Under Seat)",
+            "de": "Kostenloses Handgepäck (Unter dem Sitz)",
+            "fr": "Bagage à main gratuit (Sous le siège)",
+            "es": "Equipaje de mano gratuito (Debajo del asiento)",
+            "it": "Bagaglio a mano gratuito (Sotto il sedile)",
+            "ja": "無料機内持ち込み手荷物（座席下）",
+            "pt": "Bagagem de Mão Gratuita (Debaixo do Assento)",
+            "nl": "Gratis Handbagage (Onder de stoel)"
+          },
+          "note_translations": {
+            "en": "All passengers are entitled to one free personal item. Must fit under the seat in front of you.",
+            "de": "Alle Passagiere haben Anspruch auf einen kostenlosen persönlichen Gegenstand. Muss unter den Vordersitz passen.",
+            "fr": "Tous les passagers ont droit à un article personnel gratuit. Doit tenir sous le siège devant vous.",
+            "es": "Todos los pasajeros tienen derecho a un artículo personal gratuito. Debe caber debajo del asiento delantero.",
+            "it": "Tutti i passeggeri hanno diritto a un articolo personale gratuito. Deve entrare sotto il sedile di fronte a te.",
+            "ja": "すべての乗客は無料の身の回り品1点を持ち込めます。前の座席の下に収まる必要があります。",
+            "pt": "Todos os passageiros têm direito a um item pessoal gratuito. Deve caber debaixo do assento à sua frente.",
+            "nl": "Alle passagiers hebben recht op één gratis persoonlijk item. Moet onder de stoel voor u passen."
+          }
+        },
+        {
+          "item": "WIZZ Priority Carry-on Bag (Trolley Bag)",
+          "metric": "55 x 40 x 23 cm (Max 10 kg)",
+          "imperial": "21.65 x 15.75 x 9.06 in (Max 22.05 lbs)",
+          "status": "Verified",
+          "note": "Requires purchase of WIZZ Priority service. Must fit in the overhead locker.",
+          "item_translations": {
+            "en": "WIZZ Priority Carry-on Bag (Trolley Bag)",
+            "de": "WIZZ Priority Handgepäck (Rollkoffer)",
+            "fr": "Bagage à main WIZZ Priority (Sac à roulettes)",
+            "es": "Equipaje de mano WIZZ Priority (Maleta con ruedas)",
+            "it": "Bagaglio a mano WIZZ Priority (Trolley)",
+            "ja": "WIZZ優先機内持ち込み手荷物（トロリーバッグ）",
+            "pt": "Bagagem de Mão WIZZ Priority (Mala de Rodinhas)",
+            "nl": "WIZZ Priority Handbagage (Trolleytas)"
+          },
+          "note_translations": {
+            "en": "Requires purchase of WIZZ Priority service. Must fit in the overhead locker.",
+            "de": "Erfordert den Kauf des WIZZ Priority Services. Muss in das Gepäckfach über dem Sitz passen.",
+            "fr": "Nécessite l'achat du service WIZZ Priority. Doit tenir dans le compartiment supérieur.",
+            "es": "Requiere la compra del servicio WIZZ Priority. Debe caber en el compartimento superior.",
+            "it": "Richiede l'acquisto del servizio WIZZ Priority. Deve entrare nella cappelliera.",
+            "ja": "WIZZ優先サービスを購入する必要があります。頭上の収納棚に収まる必要があります。",
+            "pt": "Requer a compra do serviço WIZZ Priority. Deve caber no compartimento superior.",
+            "nl": "Vereist de aankoop van de WIZZ Priority service. Moet in het bagagevak boven de stoel passen."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "wizz-air-baggage-allowance",
+          "title": "Wizz Air Baggage Allowance & Dimensions",
+          "summary": "Wizz Air operates a strict baggage policy. All passengers are entitled to one free carry-on bag (under-seat bag). Passengers who purchase WIZZ Priority can also bring a larger trolley bag.",
+          "amazon_search_query": "Wizz Air underseat bag 40x30x20, Wizz Air cabin bag 55x40x23",
+          "buy_box_title": "Recommended Bags for Wizz Air Flights",
+          "buy_box_subtitle": "Find compliant carry-on and trolley bags for your Wizz Air journey.",
+          "allowed_guidelines": [
+            "One free personal item (40x30x20cm / 15.75x11.81x7.87in) per passenger, must fit under the seat.",
+            "One additional trolley bag (55x40x23cm / 21.65x15.75x9.06in, max 10kg / 22.05lbs) for WIZZ Priority passengers, must fit in the overhead locker.",
+            "Duty-free purchases are generally allowed in addition to your carry-on."
+          ],
+          "strict_restrictions": [
+            "Bags exceeding the free carry-on dimensions will incur charges and may be checked into the hold.",
+            "Trolley bags are only permitted with WIZZ Priority or as checked luggage.",
+            "Strict weight limits apply for all bags, including carry-on."
+          ],
+          "faqs": [
+            {
+              "q": "What is the free carry-on allowance for Wizz Air?",
+              "a": "All Wizz Air passengers can bring one free personal item measuring 40x30x20cm (15.75 x 11.81 x 7.87 inches), which must fit under the seat in front of them."
+            },
+            {
+              "q": "How can I bring a larger cabin bag with Wizz Air?",
+              "a": "To bring a larger trolley bag (55x40x23cm, max 10kg), you must purchase the WIZZ Priority service. This bag will be stored in the overhead locker."
+            },
+            {
+              "q": "What happens if my bag is too big?",
+              "a": "Bags exceeding the specified dimensions or weight limits will be subject to additional fees and may need to be checked into the aircraft hold."
+            }
+          ]
+        },
+        "de": {
+          "slug": "wizz-air-gepaeckbestimmungen",
+          "title": "Wizz Air Gepäckbestimmungen & Abmessungen",
+          "summary": "Wizz Air hat eine strenge Gepäckpolitik. Alle Passagiere haben Anspruch auf ein kostenloses Handgepäckstück (Tasche unter dem Sitz). Passagiere, die WIZZ Priority kaufen, können auch einen größeren Rollkoffer mitnehmen.",
+          "amazon_search_query": "Wizz Air Tasche unter dem Sitz 40x30x20, Wizz Air Handgepäck 55x40x23",
+          "buy_box_title": "Empfohlene Taschen für Wizz Air Flüge",
+          "buy_box_subtitle": "Finden Sie konforme Handgepäck- und Rollkoffer für Ihre Wizz Air Reise.",
+          "allowed_guidelines": [
+            "Ein kostenloses persönliches Gepäckstück (40x30x20cm / 15.75x11.81x7.87in) pro Passagier, muss unter den Sitz passen.",
+            "Ein zusätzlicher Rollkoffer (55x40x23cm / 21.65x15.75x9.06in, max. 10kg / 22.05lbs) für WIZZ Priority Passagiere, muss in das Gepäckfach über dem Sitz passen.",
+            "Duty-Free-Einkäufe sind in der Regel zusätzlich zum Handgepäck erlaubt."
+          ],
+          "strict_restrictions": [
+            "Gepäckstücke, die die Abmessungen des kostenlosen Handgepäcks überschreiten, werden kostenpflichtig und können in den Frachtraum verladen werden.",
+            "Rollkoffer sind nur mit WIZZ Priority oder als aufgegebenes Gepäck erlaubt.",
+            "Für alle Gepäckstücke, einschließlich Handgepäck, gelten strenge Gewichtsbeschränkungen."
+          ],
+          "faqs": [
+            {
+              "q": "Was ist die kostenlose Handgepäckmenge bei Wizz Air?",
+              "a": "Alle Wizz Air Passagiere können einen kostenlosen persönlichen Gegenstand mit den Maßen 40x30x20cm (15.75 x 11.81 x 7.87 Zoll) mitnehmen, der unter den Vordersitz passen muss."
+            },
+            {
+              "q": "Wie kann ich ein größeres Handgepäckstück bei Wizz Air mitnehmen?",
+              "a": "Um einen größeren Rollkoffer (55x40x23cm, max. 10kg) mitzunehmen, müssen Sie den WIZZ Priority Service erwerben. Dieser Koffer wird im Gepäckfach über dem Sitz verstaut."
+            },
+            {
+              "q": "Was passiert, wenn mein Gepäck zu groß ist?",
+              "a": "Gepäckstücke, die die angegebenen Abmessungen oder Gewichtsgrenzen überschreiten, unterliegen zusätzlichen Gebühren und müssen möglicherweise in den Frachtraum des Flugzeugs eingecheckt werden."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "wizz-air-franchise-bagages",
+          "title": "Franchise Bagages & Dimensions Wizz Air",
+          "summary": "Wizz Air applique une politique de bagages stricte. Tous les passagers ont droit à un bagage à main gratuit (sac sous le siège). Les passagers qui achètent WIZZ Priority peuvent également apporter un sac à roulettes plus grand.",
+          "amazon_search_query": "Wizz Air sac sous siège 40x30x20, Wizz Air bagage cabine 55x40x23",
+          "buy_box_title": "Sacs Recommandés pour les Vols Wizz Air",
+          "buy_box_subtitle": "Trouvez des sacs à main et des sacs à roulettes conformes pour votre voyage Wizz Air.",
+          "allowed_guidelines": [
+            "Un article personnel gratuit (40x30x20cm / 15.75x11.81x7.87in) par passager, doit tenir sous le siège.",
+            "Un sac à roulettes supplémentaire (55x40x23cm / 21.65x15.75x9.06in, max 10kg / 22.05lbs) pour les passagers WIZZ Priority, doit tenir dans le compartiment supérieur.",
+            "Les achats hors taxes sont généralement autorisés en plus de votre bagage à main."
+          ],
+          "strict_restrictions": [
+            "Les sacs dépassant les dimensions du bagage à main gratuit entraîneront des frais et pourront être enregistrés en soute.",
+            "Les sacs à roulettes ne sont autorisés qu'avec WIZZ Priority ou comme bagages enregistrés.",
+            "Des limites de poids strictes s'appliquent à tous les bagages, y compris les bagages à main."
+          ],
+          "faqs": [
+            {
+              "q": "Quelle est la franchise de bagage à main gratuit pour Wizz Air ?",
+              "a": "Tous les passagers de Wizz Air peuvent apporter un article personnel gratuit mesurant 40x30x20cm (15.75 x 11.81 x 7.87 pouces), qui doit tenir sous le siège devant eux."
+            },
+            {
+              "q": "Comment puis-je apporter un bagage cabine plus grand avec Wizz Air ?",
+              "a": "Pour apporter un sac à roulettes plus grand (55x40x23cm, max 10kg), vous devez acheter le service WIZZ Priority. Ce sac sera rangé dans le compartiment supérieur."
+            },
+            {
+              "q": "Que se passe-t-il si mon sac est trop grand ?",
+              "a": "Les sacs dépassant les dimensions ou les limites de poids spécifiées seront soumis à des frais supplémentaires et pourraient devoir être enregistrés en soute."
+            }
+          ]
+        },
+        "es": {
+          "slug": "wizz-air-franquicia-equipaje",
+          "title": "Franquicia y Dimensiones de Equipaje Wizz Air",
+          "summary": "Wizz Air opera una política de equipaje estricta. Todos los pasajeros tienen derecho a un equipaje de mano gratuito (bolso debajo del asiento). Los pasajeros que compran WIZZ Priority también pueden llevar una maleta con ruedas más grande.",
+          "amazon_search_query": "Wizz Air bolso debajo del asiento 40x30x20, Wizz Air equipaje de cabina 55x40x23",
+          "buy_box_title": "Bolsos Recomendados para Vuelos Wizz Air",
+          "buy_box_subtitle": "Encuentre bolsos de mano y maletas con ruedas compatibles para su viaje con Wizz Air.",
+          "allowed_guidelines": [
+            "Un artículo personal gratuito (40x30x20cm / 15.75x11.81x7.87in) por pasajero, debe caber debajo del asiento.",
+            "Una maleta con ruedas adicional (55x40x23cm / 21.65x15.75x9.06in, máx. 10kg / 22.05lbs) para pasajeros WIZZ Priority, debe caber en el compartimento superior.",
+            "Las compras libres de impuestos generalmente están permitidas además de su equipaje de mano."
+          ],
+          "strict_restrictions": [
+            "Los bolsos que excedan las dimensiones del equipaje de mano gratuito incurrirán en cargos y pueden ser facturados en la bodega.",
+            "Las maletas con ruedas solo están permitidas con WIZZ Priority o como equipaje facturado.",
+            "Se aplican límites de peso estrictos para todos los bolsos, incluido el equipaje de mano."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuál es la franquicia de equipaje de mano gratuito para Wizz Air?",
+              "a": "Todos los pasajeros de Wizz Air pueden llevar un artículo personal gratuito que mida 40x30x20cm (15.75 x 11.81 x 7.87 pulgadas), el cual debe caber debajo del asiento delantero."
+            },
+            {
+              "q": "¿Cómo puedo llevar una maleta de cabina más grande con Wizz Air?",
+              "a": "Para llevar una maleta con ruedas más grande (55x40x23cm, máx. 10kg), debe comprar el servicio WIZZ Priority. Esta maleta se guardará en el compartimento superior."
+            },
+            {
+              "q": "¿Qué sucede si mi bolso es demasiado grande?",
+              "a": "Los bolsos que excedan las dimensiones o los límites de peso especificados estarán sujetos a tarifas adicionales y es posible que deban ser facturados en la bodega del avión."
+            }
+          ]
+        },
+        "it": {
+          "slug": "wizz-air-franchigia-bagaglio",
+          "title": "Franchigia e Dimensioni Bagaglio Wizz Air",
+          "summary": "Wizz Air applica una politica bagagli rigorosa. Tutti i passeggeri hanno diritto a un bagaglio a mano gratuito (borsa sotto il sedile). I passeggeri che acquistano WIZZ Priority possono anche portare un trolley più grande.",
+          "amazon_search_query": "Wizz Air borsa sotto sedile 40x30x20, Wizz Air bagaglio a mano 55x40x23",
+          "buy_box_title": "Borse Consigliate per Voli Wizz Air",
+          "buy_box_subtitle": "Trova bagagli a mano e trolley conformi per il tuo viaggio Wizz Air.",
+          "allowed_guidelines": [
+            "Un articolo personale gratuito (40x30x20cm / 15.75x11.81x7.87in) per passeggero, deve entrare sotto il sedile.",
+            "Un trolley aggiuntivo (55x40x23cm / 21.65x15.75x9.06in, max 10kg / 22.05lbs) per i passeggeri WIZZ Priority, deve entrare nella cappelliera.",
+            "Gli acquisti duty-free sono generalmente consentiti in aggiunta al bagaglio a mano."
+          ],
+          "strict_restrictions": [
+            "I bagagli che superano le dimensioni del bagaglio a mano gratuito comporteranno costi aggiuntivi e potrebbero essere imbarcati in stiva.",
+            "I trolley sono consentiti solo con WIZZ Priority o come bagaglio da stiva.",
+            "Si applicano limiti di peso rigorosi per tutti i bagagli, incluso il bagaglio a mano."
+          ],
+          "faqs": [
+            {
+              "q": "Qual è la franchigia gratuita per il bagaglio a mano con Wizz Air?",
+              "a": "Tutti i passeggeri Wizz Air possono portare un articolo personale gratuito che misura 40x30x20cm (15.75 x 11.81 x 7.87 pollici), che deve entrare sotto il sedile di fronte a loro."
+            },
+            {
+              "q": "Come posso portare un bagaglio a mano più grande con Wizz Air?",
+              "a": "Per portare un trolley più grande (55x40x23cm, max 10kg), è necessario acquistare il servizio WIZZ Priority. Questo bagaglio verrà riposto nella cappelliera."
+            },
+            {
+              "q": "Cosa succede se il mio bagaglio è troppo grande?",
+              "a": "I bagagli che superano le dimensioni o i limiti di peso specificati saranno soggetti a costi aggiuntivi e potrebbero dover essere imbarcati nella stiva dell'aeromobile."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "wizz-air-tejimono-kyoka",
+          "title": "Wizz Air 手荷物許容量と寸法",
+          "summary": "Wizz Airは厳格な手荷物ポリシーを運用しています。すべての乗客は無料の機内持ち込み手荷物（座席下バッグ）1点を持つことができます。WIZZ Priorityを購入した乗客は、より大きなトロリーバッグも持ち込むことができます。",
+          "amazon_search_query": "Wizz Air 座席下バッグ 40x30x20, Wizz Air 機内持ち込みバッグ 55x40x23",
+          "buy_box_title": "Wizz Airフライトにおすすめのバッグ",
+          "buy_box_subtitle": "Wizz Airの旅に適合する機内持ち込み手荷物とトロリーバッグを見つけましょう。",
+          "allowed_guidelines": [
+            "乗客1名につき無料の身の回り品1点（40x30x20cm / 15.75x11.81x7.87in）、前の座席の下に収まる必要があります。",
+            "WIZZ Priorityの乗客は、追加のトロリーバッグ1点（55x40x23cm / 21.65x15.75x9.06in、最大10kg / 22.05lbs）を持ち込むことができ、頭上の収納棚に収まる必要があります。",
+            "免税品は通常、機内持ち込み手荷物とは別に許可されます。"
+          ],
+          "strict_restrictions": [
+            "無料の機内持ち込み手荷物の寸法を超えるバッグは追加料金が発生し、受託手荷物として預けられる場合があります。",
+            "トロリーバッグはWIZZ Priorityを購入した場合、または受託手荷物としてのみ許可されます。",
+            "機内持ち込み手荷物を含むすべてのバッグに厳格な重量制限が適用されます。"
+          ],
+          "faqs": [
+            {
+              "q": "Wizz Airの無料機内持ち込み手荷物許容量はどのくらいですか？",
+              "a": "すべてのWizz Airの乗客は、40x30x20cm（15.75 x 11.81 x 7.87インチ）の無料の身の回り品1点を持ち込むことができ、これは前の座席の下に収まる必要があります。"
+            },
+            {
+              "q": "Wizz Airでより大きな機内持ち込みバッグを持ち込むにはどうすればよいですか？",
+              "a": "より大きなトロリーバッグ（55x40x23cm、最大10kg）を持ち込むには、WIZZ Priorityサービスを購入する必要があります。このバッグは頭上の収納棚に保管されます。"
+            },
+            {
+              "q": "バッグが大きすぎる場合はどうなりますか？",
+              "a": "指定された寸法または重量制限を超えるバッグは、追加料金の対象となり、航空機の貨物室に預けられる必要がある場合があります。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "wizz-air-franquia-bagagem",
+          "title": "Franquia e Dimensões de Bagagem Wizz Air",
+          "summary": "A Wizz Air opera uma política de bagagem rigorosa. Todos os passageiros têm direito a uma bagagem de mão gratuita (mala debaixo do assento). Passageiros que compram WIZZ Priority também podem trazer uma mala de rodinhas maior.",
+          "amazon_search_query": "Wizz Air mala debaixo do assento 40x30x20, Wizz Air mala de cabine 55x40x23",
+          "buy_box_title": "Malas Recomendadas para Voos Wizz Air",
+          "buy_box_subtitle": "Encontre malas de mão e malas de rodinhas compatíveis para sua viagem Wizz Air.",
+          "allowed_guidelines": [
+            "Um item pessoal gratuito (40x30x20cm / 15.75x11.81x7.87in) por passageiro, deve caber debaixo do assento.",
+            "Uma mala de rodinhas adicional (55x40x23cm / 21.65x15.75x9.06in, máx. 10kg / 22.05lbs) para passageiros WIZZ Priority, deve caber no compartimento superior.",
+            "Compras duty-free são geralmente permitidas além da sua bagagem de mão."
+          ],
+          "strict_restrictions": [
+            "Malas que excedam as dimensões da bagagem de mão gratuita incorrerão em taxas e podem ser despachadas para o porão.",
+            "Malas de rodinhas são permitidas apenas com WIZZ Priority ou como bagagem despachada.",
+            "Limites de peso rigorosos aplicam-se a todas as malas, incluindo a bagagem de mão."
+          ],
+          "faqs": [
+            {
+              "q": "Qual é a franquia de bagagem de mão gratuita para a Wizz Air?",
+              "a": "Todos os passageiros da Wizz Air podem trazer um item pessoal gratuito medindo 40x30x20cm (15.75 x 11.81 x 7.87 polegadas), que deve caber debaixo do assento à sua frente."
+            },
+            {
+              "q": "Como posso trazer uma mala de cabine maior com a Wizz Air?",
+              "a": "Para trazer uma mala de rodinhas maior (55x40x23cm, máx. 10kg), você deve comprar o serviço WIZZ Priority. Esta mala será armazenada no compartimento superior."
+            },
+            {
+              "q": "O que acontece se minha mala for muito grande?",
+              "a": "Malas que excedam as dimensões ou limites de peso especificados estarão sujeitas a taxas adicionais e podem precisar ser despachadas para o porão da aeronave."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "wizz-air-bagagevrijdom",
+          "title": "Wizz Air Bagagevrijdom & Afmetingen",
+          "summary": "Wizz Air hanteert een strikt bagagebeleid. Alle passagiers hebben recht op één gratis handbagage (tas onder de stoel). Passagiers die WIZZ Priority kopen, kunnen ook een grotere trolleytas meenemen.",
+          "amazon_search_query": "Wizz Air tas onder stoel 40x30x20, Wizz Air handbagage 55x40x23",
+          "buy_box_title": "Aanbevolen Tassen voor Wizz Air Vluchten",
+          "buy_box_subtitle": "Vind conforme handbagage en trolleytassen voor uw Wizz Air reis.",
+          "allowed_guidelines": [
+            "Eén gratis persoonlijk item (40x30x20cm / 15.75x11.81x7.87in) per passagier, moet onder de stoel passen.",
+            "Eén extra trolleytas (55x40x23cm / 21.65x15.75x9.06in, max 10kg / 22.05lbs) voor WIZZ Priority passagiers, moet in het bagagevak boven de stoel passen.",
+            "Duty-free aankopen zijn over het algemeen toegestaan naast uw handbagage."
+          ],
+          "strict_restrictions": [
+            "Tassen die de afmetingen van de gratis handbagage overschrijden, brengen kosten met zich mee en kunnen in het ruim worden ingecheckt.",
+            "Trolleytassen zijn alleen toegestaan met WIZZ Priority of als ruimbagage.",
+            "Strikte gewichtslimieten zijn van toepassing op alle tassen, inclusief handbagage."
+          ],
+          "faqs": [
+            {
+              "q": "Wat is de gratis handbagagevrijdom voor Wizz Air?",
+              "a": "Alle Wizz Air passagiers mogen één gratis persoonlijk item meenemen van 40x30x20cm (15.75 x 11.81 x 7.87 inch), dat onder de stoel voor hen moet passen."
+            },
+            {
+              "q": "Hoe kan ik een grotere cabinebagage meenemen met Wizz Air?",
+              "a": "Om een grotere trolleytas (55x40x23cm, max 10kg) mee te nemen, moet u de WIZZ Priority service aanschaffen. Deze tas wordt in het bagagevak boven de stoel opgeborgen."
+            },
+            {
+              "q": "Wat gebeurt er als mijn tas te groot is?",
+              "a": "Tassen die de gespecificeerde afmetingen of gewichtslimieten overschrijden, zijn onderworpen aan extra kosten en moeten mogelijk worden ingecheckt in het ruim van het vliegtuig."
             }
           ]
         }

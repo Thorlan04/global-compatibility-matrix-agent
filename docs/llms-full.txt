@@ -273,3 +273,19 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=vueling+underseat+bag+40x20x30%2C+vueling+cabin+bag+55x40x20&tag=autocompat-21
 
 ---
+
+## Wizz Air (AIRLINES)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/wizz-air.html
+- Summary: Wizz Air operates a strict baggage policy. All passengers are entitled to one free carry-on bag (under-seat bag). Passengers who purchase WIZZ Priority can also bring a larger trolley bag.
+
+### Exact Specifications (Dual Units):
+* **Free Carry-on Bag (Under Seat)**: Metric: `40 x 30 x 20 cm` | Imperial: `15.75 x 11.81 x 7.87 in` (All passengers are entitled to one free personal item. Must fit under the seat in front of you.)
+* **WIZZ Priority Carry-on Bag (Trolley Bag)**: Metric: `55 x 40 x 23 cm (Max 10 kg)` | Imperial: `21.65 x 15.75 x 9.06 in (Max 22.05 lbs)` (Requires purchase of WIZZ Priority service. Must fit in the overhead locker.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=Wizz+Air+underseat+bag+40x30x20%2C+Wizz+Air+cabin+bag+55x40x23&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=Wizz+Air+underseat+bag+40x30x20%2C+Wizz+Air+cabin+bag+55x40x23&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=Wizz+Air+underseat+bag+40x30x20%2C+Wizz+Air+cabin+bag+55x40x23&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=Wizz+Air+underseat+bag+40x30x20%2C+Wizz+Air+cabin+bag+55x40x23&tag=autocompat-21
+
+---
