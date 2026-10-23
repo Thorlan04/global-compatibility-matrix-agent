@@ -323,3 +323,18 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=carry+on+luggage+56x36x23cm+7kg&tag=autocompat-21
 
 ---
+
+## ANA & Japan Airlines (AIRLINES)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/ana-japan-airlines-carry-on-luggage-compatibility.html
+- Summary: This matrix provides verified compatibility and exact measurement specifications for carry-on baggage on ANA (All Nippon Airways) and Japan Airlines (JAL) flights, covering both domestic and international routes.
+
+### Exact Specifications (Dual Units):
+* **Carry-on Baggage Dimensions & Weight (Domestic & International)**: Metric: `55 x 40 x 25 cm (Max 10 kg), Total linear dimensions: 115 cm` | Imperial: `21.7 x 15.7 x 9.8 in (Max 22 lbs), Total linear dimensions: 45.3 in` (These dimensions include handles, pockets, and wheels. Applies to most fare types and aircraft.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=carry+on+luggage+55x40x25cm+ana+jal+compliant&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=carry+on+luggage+55x40x25cm+ana+jal+compliant&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=carry+on+luggage+55x40x25cm+ana+jal+compliant&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=carry+on+luggage+55x40x25cm+ana+jal+compliant&tag=autocompat-21
+
+---

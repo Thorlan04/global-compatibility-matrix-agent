@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-10-23T16:24:10.145720+00:00",
-  "total_items": 18,
+  "generated_at": "2026-10-23T20:56:53.142990+00:00",
+  "total_items": 19,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -6725,6 +6725,299 @@
             {
               "q": "Wat gebeurt er als mijn handbagage te zwaar of te groot is?",
               "a": "Als uw handbagage de gespecificeerde afmetingen of gewichtslimieten overschrijdt, moet deze als ruimbagage worden ingecheckt. Dit kan extra kosten met zich meebrengen, vooral als het uw toegestane ruimbagage overschrijdt."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ana-jal",
+      "slug": "ana-japan-airlines-carry-on-luggage-compatibility",
+      "subject": "ANA & Japan Airlines",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Carry-on Baggage Dimensions & Weight (Domestic & International)",
+          "metric": "55 x 40 x 25 cm (Max 10 kg), Total linear dimensions: 115 cm",
+          "imperial": "21.7 x 15.7 x 9.8 in (Max 22 lbs), Total linear dimensions: 45.3 in",
+          "status": "Verified",
+          "note": "These dimensions include handles, pockets, and wheels. Applies to most fare types and aircraft.",
+          "item_translations": {
+            "en": "Carry-on Baggage Dimensions & Weight (Domestic & International)",
+            "de": "Handgepäckmaße & Gewicht (Inland & International)",
+            "fr": "Dimensions et poids des bagages à main (Domestique & International)",
+            "es": "Dimensiones y peso del equipaje de mano (Nacional e Internacional)",
+            "it": "Dimensioni e peso del bagaglio a mano (Nazionale e Internazionale)",
+            "ja": "機内持ち込み手荷物の寸法と重量（国内線・国際線）",
+            "pt": "Dimensões e Peso da Bagagem de Mão (Doméstica e Internacional)",
+            "nl": "Afmetingen en Gewicht Handbagage (Binnenlandse & Internationale vluchten)"
+          },
+          "note_translations": {
+            "en": "These dimensions include handles, pockets, and wheels. Applies to most fare types and aircraft.",
+            "de": "Diese Maße umfassen Griffe, Taschen und Rollen. Gilt für die meisten Tarifarten und Flugzeuge.",
+            "fr": "Ces dimensions incluent les poignées, les poches et les roulettes. S'applique à la plupart des types de tarifs et des avions.",
+            "es": "Estas dimensiones incluyen asas, bolsillos y ruedas. Se aplica a la mayoría de las tarifas y aeronaves.",
+            "it": "Queste dimensioni includono maniglie, tasche e ruote. Si applica alla maggior parte dei tipi di tariffe e aeromobili.",
+            "ja": "これらの寸法には、ハンドル、ポケット、車輪が含まれます。ほとんどの運賃タイプと航空機に適用されます。",
+            "pt": "Estas dimensões incluem alças, bolsos e rodas. Aplica-se à maioria dos tipos de tarifas e aeronaves.",
+            "nl": "Deze afmetingen zijn inclusief handvatten, zakken en wielen. Geldt voor de meeste tarieftypen en vliegtuigen."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "ana-japan-airlines-carry-on-luggage-compatibility",
+          "title": "ANA & Japan Airlines Carry-on Luggage Compatibility Matrix",
+          "summary": "This matrix provides verified compatibility and exact measurement specifications for carry-on baggage on ANA (All Nippon Airways) and Japan Airlines (JAL) flights, covering both domestic and international routes.",
+          "amazon_search_query": "carry on luggage 55x40x25cm ana jal compliant",
+          "buy_box_title": "Find Compliant Carry-on Luggage for ANA & JAL",
+          "buy_box_subtitle": "Shop for bags that meet the exact dimensions and weight requirements.",
+          "allowed_guidelines": [
+            "One piece of carry-on baggage per passenger.",
+            "One personal item (e.g., handbag, laptop bag) in addition to carry-on.",
+            "Baggage must fit in the overhead bin or under the seat in front of you."
+          ],
+          "strict_restrictions": [
+            "Strict adherence to maximum dimensions (55x40x25 cm / 21.7x15.7x9.8 in) including all protrusions.",
+            "Maximum weight limit of 10 kg (22 lbs) will be enforced.",
+            "Liquids, aerosols, and gels must comply with international security regulations (100ml containers in a 1-liter clear bag)."
+          ],
+          "faqs": [
+            {
+              "q": "Are the carry-on baggage rules the same for ANA and JAL?",
+              "a": "Yes, both ANA and Japan Airlines generally follow the same standard carry-on baggage dimensions and weight limits for domestic and international flights, which are 55x40x25 cm (10 kg)."
+            },
+            {
+              "q": "What happens if my carry-on is slightly over the dimensions?",
+              "a": "Airlines may require oversized carry-on baggage to be checked at the gate, potentially incurring additional fees. It's best to ensure your bag fits within the specified limits."
+            },
+            {
+              "q": "Can I bring a personal item in addition to my carry-on?",
+              "a": "Yes, in addition to your main carry-on bag, you are typically allowed one personal item such as a laptop bag, handbag, or small backpack that can fit under the seat in front of you."
+            }
+          ]
+        },
+        "de": {
+          "slug": "ana-japan-airlines-handgepaeck-kompatibilitaet",
+          "title": "ANA & Japan Airlines Handgepäck Kompatibilitätsmatrix",
+          "summary": "Diese Matrix bietet verifizierte Kompatibilitäts- und genaue Maßangaben für Handgepäck auf Flügen von ANA (All Nippon Airways) und Japan Airlines (JAL), sowohl für Inlands- als auch für internationale Strecken.",
+          "amazon_search_query": "handgepäck 55x40x25cm ana jal konform",
+          "buy_box_title": "Finden Sie konformes Handgepäck für ANA & JAL",
+          "buy_box_subtitle": "Kaufen Sie Taschen, die den genauen Abmessungen und Gewichtsanforderungen entsprechen.",
+          "allowed_guidelines": [
+            "Ein Stück Handgepäck pro Passagier.",
+            "Ein persönlicher Gegenstand (z.B. Handtasche, Laptoptasche) zusätzlich zum Handgepäck.",
+            "Gepäck muss in das Gepäckfach über dem Sitz oder unter den Vordersitz passen."
+          ],
+          "strict_restrictions": [
+            "Strikte Einhaltung der maximalen Abmessungen (55x40x25 cm / 21.7x15.7x9.8 Zoll) einschließlich aller Überstände.",
+            "Das maximale Gewicht von 10 kg (22 lbs) wird strikt durchgesetzt.",
+            "Flüssigkeiten, Aerosole und Gele müssen den internationalen Sicherheitsbestimmungen entsprechen (100ml Behälter in einem 1-Liter-Klarsichtbeutel)."
+          ],
+          "faqs": [
+            {
+              "q": "Sind die Handgepäckregeln für ANA und JAL gleich?",
+              "a": "Ja, sowohl ANA als auch Japan Airlines folgen im Allgemeinen den gleichen Standardmaßen und Gewichtsbeschränkungen für Handgepäck auf Inlands- und internationalen Flügen, nämlich 55x40x25 cm (10 kg)."
+            },
+            {
+              "q": "Was passiert, wenn mein Handgepäck die Maße leicht überschreitet?",
+              "a": "Fluggesellschaften können verlangen, dass überdimensioniertes Handgepäck am Gate aufgegeben wird, was zusätzliche Gebühren verursachen kann. Es ist am besten, sicherzustellen, dass Ihre Tasche innerhalb der angegebenen Grenzen liegt."
+            },
+            {
+              "q": "Kann ich zusätzlich zu meinem Handgepäck einen persönlichen Gegenstand mitnehmen?",
+              "a": "Ja, zusätzlich zu Ihrem Haupt-Handgepäckstück dürfen Sie in der Regel einen persönlichen Gegenstand wie eine Laptoptasche, Handtasche oder einen kleinen Rucksack mitnehmen, der unter den Vordersitz passt."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "ana-japan-airlines-compatibilite-bagage-cabine",
+          "title": "Matrice de Compatibilité des Bagages à Main ANA & Japan Airlines",
+          "summary": "Cette matrice fournit des spécifications de compatibilité vérifiées et des mesures exactes pour les bagages à main sur les vols ANA (All Nippon Airways) et Japan Airlines (JAL), couvrant les routes nationales et internationales.",
+          "amazon_search_query": "bagage cabine 55x40x25cm ana jal conforme",
+          "buy_box_title": "Trouvez des Bagages à Main Conformes pour ANA & JAL",
+          "buy_box_subtitle": "Achetez des sacs qui respectent les dimensions et les exigences de poids exactes.",
+          "allowed_guidelines": [
+            "Un bagage à main par passager.",
+            "Un article personnel (par exemple, sac à main, sac pour ordinateur portable) en plus du bagage à main.",
+            "Les bagages doivent tenir dans le compartiment supérieur ou sous le siège devant vous."
+          ],
+          "strict_restrictions": [
+            "Respect strict des dimensions maximales (55x40x25 cm / 21.7x15.7x9.8 pouces) incluant toutes les protubérances.",
+            "La limite de poids maximale de 10 kg (22 lbs) sera appliquée.",
+            "Les liquides, aérosols et gels doivent être conformes aux réglementations de sécurité internationales (récipients de 100 ml dans un sac transparent d'un litre)."
+          ],
+          "faqs": [
+            {
+              "q": "Les règles concernant les bagages à main sont-elles les mêmes pour ANA et JAL ?",
+              "a": "Oui, ANA et Japan Airlines suivent généralement les mêmes dimensions et limites de poids standard pour les bagages à main sur les vols nationaux et internationaux, soit 55x40x25 cm (10 kg)."
+            },
+            {
+              "q": "Que se passe-t-il si mon bagage à main dépasse légèrement les dimensions ?",
+              "a": "Les compagnies aériennes peuvent exiger que les bagages à main surdimensionnés soient enregistrés à la porte d'embarquement, ce qui peut entraîner des frais supplémentaires. Il est préférable de s'assurer que votre sac respecte les limites spécifiées."
+            },
+            {
+              "q": "Puis-je emporter un article personnel en plus de mon bagage à main ?",
+              "a": "Oui, en plus de votre bagage à main principal, vous êtes généralement autorisé à emporter un article personnel tel qu'un sac pour ordinateur portable, un sac à main ou un petit sac à dos qui peut tenir sous le siège devant vous."
+            }
+          ]
+        },
+        "es": {
+          "slug": "ana-japan-airlines-compatibilidad-equipaje-mano",
+          "title": "Matriz de Compatibilidad de Equipaje de Mano ANA & Japan Airlines",
+          "summary": "Esta matriz proporciona especificaciones de compatibilidad verificadas y medidas exactas para el equipaje de mano en vuelos de ANA (All Nippon Airways) y Japan Airlines (JAL), cubriendo rutas nacionales e internacionales.",
+          "amazon_search_query": "equipaje de mano 55x40x25cm ana jal compatible",
+          "buy_box_title": "Encuentre Equipaje de Mano Compatible para ANA & JAL",
+          "buy_box_subtitle": "Compre maletas que cumplan con las dimensiones y requisitos de peso exactos.",
+          "allowed_guidelines": [
+            "Una pieza de equipaje de mano por pasajero.",
+            "Un artículo personal (por ejemplo, bolso, bolsa para portátil) además del equipaje de mano.",
+            "El equipaje debe caber en el compartimento superior o debajo del asiento delantero."
+          ],
+          "strict_restrictions": [
+            "Estricto cumplimiento de las dimensiones máximas (55x40x25 cm / 21.7x15.7x9.8 pulgadas) incluyendo todas las protuberancias.",
+            "Se aplicará un límite de peso máximo de 10 kg (22 lbs).",
+            "Líquidos, aerosoles y geles deben cumplir con las regulaciones de seguridad internacionales (envases de 100 ml en una bolsa transparente de 1 litro)."
+          ],
+          "faqs": [
+            {
+              "q": "¿Son las mismas las reglas de equipaje de mano para ANA y JAL?",
+              "a": "Sí, tanto ANA como Japan Airlines generalmente siguen las mismas dimensiones y límites de peso estándar para el equipaje de mano en vuelos nacionales e internacionales, que son 55x40x25 cm (10 kg)."
+            },
+            {
+              "q": "¿Qué sucede si mi equipaje de mano excede ligeramente las dimensiones?",
+              "a": "Las aerolíneas pueden requerir que el equipaje de mano de gran tamaño sea facturado en la puerta de embarque, lo que podría generar tarifas adicionales. Es mejor asegurarse de que su maleta se ajuste a los límites especificados."
+            },
+            {
+              "q": "¿Puedo llevar un artículo personal además de mi equipaje de mano?",
+              "a": "Sí, además de su equipaje de mano principal, normalmente se le permite llevar un artículo personal como una bolsa para portátil, un bolso de mano o una mochila pequeña que pueda caber debajo del asiento delantero."
+            }
+          ]
+        },
+        "it": {
+          "slug": "ana-japan-airlines-compatibilita-bagaglio-a-mano",
+          "title": "Matrice di Compatibilità Bagaglio a Mano ANA & Japan Airlines",
+          "summary": "Questa matrice fornisce specifiche di compatibilità verificate e misurazioni esatte per il bagaglio a mano sui voli ANA (All Nippon Airways) e Japan Airlines (JAL), coprendo rotte nazionali e internazionali.",
+          "amazon_search_query": "bagaglio a mano 55x40x25cm ana jal conforme",
+          "buy_box_title": "Trova Bagaglio a Mano Conforme per ANA & JAL",
+          "buy_box_subtitle": "Acquista borse che soddisfano le dimensioni e i requisiti di peso esatti.",
+          "allowed_guidelines": [
+            "Un bagaglio a mano per passeggero.",
+            "Un articolo personale (es. borsa, borsa per laptop) in aggiunta al bagaglio a mano.",
+            "Il bagaglio deve entrare nella cappelliera o sotto il sedile di fronte a te."
+          ],
+          "strict_restrictions": [
+            "Rigorosa aderenza alle dimensioni massime (55x40x25 cm / 21.7x15.7x9.8 pollici) incluse tutte le sporgenze.",
+            "Il limite massimo di peso di 10 kg (22 lbs) sarà applicato.",
+            "Liquidi, aerosol e gel devono essere conformi alle normative di sicurezza internazionali (contenitori da 100 ml in una busta trasparente da 1 litro)."
+          ],
+          "faqs": [
+            {
+              "q": "Le regole per il bagaglio a mano sono le stesse per ANA e JAL?",
+              "a": "Sì, sia ANA che Japan Airlines seguono generalmente le stesse dimensioni e limiti di peso standard per il bagaglio a mano sui voli nazionali e internazionali, che sono 55x40x25 cm (10 kg)."
+            },
+            {
+              "q": "Cosa succede se il mio bagaglio a mano supera leggermente le dimensioni?",
+              "a": "Le compagnie aeree potrebbero richiedere che il bagaglio a mano di dimensioni eccessive venga imbarcato al gate, potenzialmente comportando costi aggiuntivi. È meglio assicurarsi che la borsa rientri nei limiti specificati."
+            },
+            {
+              "q": "Posso portare un articolo personale oltre al mio bagaglio a mano?",
+              "a": "Sì, oltre al tuo bagaglio a mano principale, ti è generalmente consentito portare un articolo personale come una borsa per laptop, una borsa a mano o un piccolo zaino che possa stare sotto il sedile di fronte a te."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "ana-jal-kikonimochi-gokan-matrix",
+          "title": "ANA & 日本航空 機内持ち込み手荷物 互換性マトリックス",
+          "summary": "このマトリックスは、ANA（全日本空輸）および日本航空（JAL）の国内線および国際線フライトにおける機内持ち込み手荷物の、検証済みの互換性と正確な測定仕様を提供します。",
+          "amazon_search_query": "機内持ち込みスーツケース 55x40x25cm ana jal 対応",
+          "buy_box_title": "ANA & JAL 対応の機内持ち込み手荷物を見つける",
+          "buy_box_subtitle": "正確な寸法と重量要件を満たすバッグをお探しください。",
+          "allowed_guidelines": [
+            "乗客1名につき機内持ち込み手荷物1個。",
+            "機内持ち込み手荷物とは別に、身の回り品（例：ハンドバッグ、ノートパソコン用バッグ）1個。",
+            "手荷物は頭上の収納棚または前の座席の下に収まる必要があります。"
+          ],
+          "strict_restrictions": [
+            "ハンドル、ポケット、車輪を含む最大寸法（55x40x25 cm / 21.7x15.7x9.8インチ）を厳守してください。",
+            "最大重量10 kg（22 lbs）は厳しく適用されます。",
+            "液体、エアロゾル、ジェルは国際的な保安規制（1リットルの透明な袋に100ml以下の容器）に従う必要があります。"
+          ],
+          "faqs": [
+            {
+              "q": "ANAとJALの機内持ち込み手荷物ルールは同じですか？",
+              "a": "はい、ANAと日本航空はともに、国内線および国際線フライトにおいて、一般的に同じ標準的な機内持ち込み手荷物の寸法と重量制限、すなわち55x40x25 cm（10 kg）に従っています。"
+            },
+            {
+              "q": "機内持ち込み手荷物が寸法をわずかに超えた場合、どうなりますか？",
+              "a": "航空会社は、サイズ超過の機内持ち込み手荷物を搭乗口で預けるよう求めることがあり、追加料金が発生する可能性があります。指定された制限内に収まるようにバッグを確保することが最善です。"
+            },
+            {
+              "q": "機内持ち込み手荷物とは別に、身の回り品を持ち込めますか？",
+              "a": "はい、主要な機内持ち込み手荷物とは別に、ノートパソコン用バッグ、ハンドバッグ、または前の座席の下に収まる小さなバックパックなどの身の回り品を1個持ち込むことが通常許可されています。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "ana-japan-airlines-compatibilidade-bagagem-mao",
+          "title": "Matriz de Compatibilidade de Bagagem de Mão ANA & Japan Airlines",
+          "summary": "Esta matriz fornece compatibilidade verificada e especificações de medição exatas para bagagem de mão em voos da ANA (All Nippon Airways) e Japan Airlines (JAL), cobrindo rotas domésticas e internacionais.",
+          "amazon_search_query": "bagagem de mao 55x40x25cm ana jal compativel",
+          "buy_box_title": "Encontre Bagagem de Mão Compatível para ANA & JAL",
+          "buy_box_subtitle": "Compre malas que atendam às dimensões e requisitos de peso exatos.",
+          "allowed_guidelines": [
+            "Uma peça de bagagem de mão por passageiro.",
+            "Um item pessoal (por exemplo, bolsa, mochila para laptop) além da bagagem de mão.",
+            "A bagagem deve caber no compartimento superior ou debaixo do assento à sua frente."
+          ],
+          "strict_restrictions": [
+            "Adesão rigorosa às dimensões máximas (55x40x25 cm / 21.7x15.7x9.8 pol) incluindo todas as protuberâncias.",
+            "O limite máximo de peso de 10 kg (22 lbs) será rigorosamente aplicado.",
+            "Líquidos, aerossóis e géis devem estar em conformidade com os regulamentos de segurança internacionais (recipientes de 100ml em um saco transparente de 1 litro)."
+          ],
+          "faqs": [
+            {
+              "q": "As regras de bagagem de mão são as mesmas para ANA e JAL?",
+              "a": "Sim, tanto a ANA quanto a Japan Airlines geralmente seguem as mesmas dimensões e limites de peso padrão para bagagem de mão em voos domésticos e internacionais, que são 55x40x25 cm (10 kg)."
+            },
+            {
+              "q": "O que acontece se minha bagagem de mão exceder ligeiramente as dimensões?",
+              "a": "As companhias aéreas podem exigir que a bagagem de mão com excesso de tamanho seja despachada no portão, o que pode incorrer em taxas adicionais. É melhor garantir que sua mala esteja dentro dos limites especificados."
+            },
+            {
+              "q": "Posso levar um item pessoal além da minha bagagem de mão?",
+              "a": "Sim, além da sua bagagem de mão principal, você geralmente pode levar um item pessoal, como uma mochila para laptop, uma bolsa ou uma pequena mochila que possa caber debaixo do assento à sua frente."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "ana-japan-airlines-handbagage-compatibiliteit",
+          "title": "ANA & Japan Airlines Handbagage Compatibiliteitsmatrix",
+          "summary": "Deze matrix biedt geverifieerde compatibiliteits- en exacte meetspecificaties voor handbagage op ANA (All Nippon Airways) en Japan Airlines (JAL) vluchten, zowel voor binnenlandse als internationale routes.",
+          "amazon_search_query": "handbagage 55x40x25cm ana jal compatibel",
+          "buy_box_title": "Vind Compatibele Handbagage voor ANA & JAL",
+          "buy_box_subtitle": "Koop tassen die voldoen aan de exacte afmetingen en gewichtsvereisten.",
+          "allowed_guidelines": [
+            "Eén stuk handbagage per passagier.",
+            "Eén persoonlijk item (bijv. handtas, laptoptas) naast de handbagage.",
+            "Bagage moet passen in het bagagevak boven de stoel of onder de stoel voor u."
+          ],
+          "strict_restrictions": [
+            "Strikte naleving van de maximale afmetingen (55x40x25 cm / 21.7x15.7x9.8 inch) inclusief alle uitsteeksels.",
+            "Het maximale gewicht van 10 kg (22 lbs) wordt strikt gehandhaafd.",
+            "Vloeistoffen, spuitbussen en gels moeten voldoen aan de internationale veiligheidsvoorschriften (100 ml containers in een doorzichtige zak van 1 liter)."
+          ],
+          "faqs": [
+            {
+              "q": "Zijn de handbagageregels hetzelfde voor ANA en JAL?",
+              "a": "Ja, zowel ANA als Japan Airlines hanteren over het algemeen dezelfde standaardafmetingen en gewichtslimieten voor handbagage op binnenlandse en internationale vluchten, namelijk 55x40x25 cm (10 kg)."
+            },
+            {
+              "q": "Wat gebeurt er als mijn handbagage de afmetingen iets overschrijdt?",
+              "a": "Luchtvaartmaatschappijen kunnen vereisen dat te grote handbagage bij de gate wordt ingecheckt, wat mogelijk extra kosten met zich meebrengt. Het is het beste om ervoor te zorgen dat uw tas binnen de opgegeven limieten past."
+            },
+            {
+              "q": "Mag ik naast mijn handbagage ook een persoonlijk item meenemen?",
+              "a": "Ja, naast uw hoofdbagage mag u doorgaans één persoonlijk item meenemen, zoals een laptoptas, handtas of kleine rugzak die onder de stoel voor u past."
             }
           ]
         }
