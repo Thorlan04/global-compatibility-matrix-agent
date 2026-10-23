@@ -289,3 +289,19 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=Wizz+Air+underseat+bag+40x30x20%2C+Wizz+Air+cabin+bag+55x40x23&tag=autocompat-21
 
 ---
+
+## Air Canada (AIRLINES)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/air-canada.html
+- Summary: Comprehensive guide to Air Canada's carry-on and personal article dimensions and policies, ensuring compliance for a smooth travel experience.
+
+### Exact Specifications (Dual Units):
+* **Standard Carry-on Bag**: Metric: `55 x 40 x 23 cm` | Imperial: `21.7 x 15.7 x 9.1 in` (No weight limit specified by Air Canada for carry-on bags.)
+* **Personal Article**: Metric: `43 x 33 x 16 cm` | Imperial: `16.9 x 13.0 x 6.3 in` (No weight limit specified by Air Canada for personal articles.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=carry+on+luggage+21.7x15.7x9.1+inches+air+canada+compliant&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=carry+on+luggage+21.7x15.7x9.1+inches+air+canada+compliant&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=carry+on+luggage+21.7x15.7x9.1+inches+air+canada+compliant&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=carry+on+luggage+21.7x15.7x9.1+inches+air+canada+compliant&tag=autocompat-21
+
+---

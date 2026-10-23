@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-10-22T21:09:11.298316+00:00",
-  "total_items": 16,
+  "generated_at": "2026-10-23T03:11:07.058696+00:00",
+  "total_items": 17,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -6031,6 +6031,326 @@
             {
               "q": "Wat gebeurt er als mijn tas te groot is?",
               "a": "Tassen die de gespecificeerde afmetingen of gewichtslimieten overschrijden, zijn onderworpen aan extra kosten en moeten mogelijk worden ingecheckt in het ruim van het vliegtuig."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "air-canada",
+      "slug": "air-canada",
+      "subject": "Air Canada",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Standard Carry-on Bag",
+          "metric": "55 x 40 x 23 cm",
+          "imperial": "21.7 x 15.7 x 9.1 in",
+          "status": "Verified",
+          "note": "No weight limit specified by Air Canada for carry-on bags.",
+          "item_translations": {
+            "en": "Standard Carry-on Bag",
+            "de": "Standard-Handgepäckstück",
+            "fr": "Bagage à main standard",
+            "es": "Equipaje de mano estándar",
+            "it": "Bagaglio a mano standard",
+            "ja": "標準機内持ち込み手荷物",
+            "pt": "Bagagem de mão padrão",
+            "nl": "Standaard handbagage"
+          },
+          "note_translations": {
+            "en": "No weight limit specified by Air Canada for carry-on bags.",
+            "de": "Keine Gewichtsbeschränkung von Air Canada für Handgepäckstücke angegeben.",
+            "fr": "Aucune limite de poids spécifiée par Air Canada pour les bagages à main.",
+            "es": "Air Canada no especifica límite de peso para el equipaje de mano.",
+            "it": "Nessun limite di peso specificato da Air Canada per i bagagli a mano.",
+            "ja": "エア・カナダは機内持ち込み手荷物の重量制限を設けていません。",
+            "pt": "Nenhum limite de peso especificado pela Air Canada para bagagens de mão.",
+            "nl": "Geen gewichtslimiet gespecificeerd door Air Canada voor handbagage."
+          }
+        },
+        {
+          "item": "Personal Article",
+          "metric": "43 x 33 x 16 cm",
+          "imperial": "16.9 x 13.0 x 6.3 in",
+          "status": "Verified",
+          "note": "No weight limit specified by Air Canada for personal articles.",
+          "item_translations": {
+            "en": "Personal Article",
+            "de": "Persönlicher Gegenstand",
+            "fr": "Article personnel",
+            "es": "Artículo personal",
+            "it": "Articolo personale",
+            "ja": "身の回り品",
+            "pt": "Artigo pessoal",
+            "nl": "Persoonlijk item"
+          },
+          "note_translations": {
+            "en": "No weight limit specified by Air Canada for personal articles.",
+            "de": "Keine Gewichtsbeschränkung von Air Canada für persönliche Gegenstände angegeben.",
+            "fr": "Aucune limite de poids spécifiée par Air Canada pour les articles personnels.",
+            "es": "Air Canada no especifica límite de peso para los artículos personales.",
+            "it": "Nessun limite di peso specificato da Air Canada per gli articoli personali.",
+            "ja": "エア・カナダは身の回り品の重量制限を設けていません。",
+            "pt": "Nenhum limite de peso especificado pela Air Canada para artigos pessoais.",
+            "nl": "Geen gewichtslimiet gespecificeerd door Air Canada voor persoonlijke items."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "air-canada",
+          "title": "Air Canada Carry-on & Personal Item Size Guide",
+          "summary": "Comprehensive guide to Air Canada's carry-on and personal article dimensions and policies, ensuring compliance for a smooth travel experience.",
+          "amazon_search_query": "carry on luggage 21.7x15.7x9.1 inches air canada compliant",
+          "buy_box_title": "Find Your Perfect Air Canada Compliant Carry-on",
+          "buy_box_subtitle": "Travel with confidence, knowing your bag fits Air Canada's strict guidelines.",
+          "allowed_guidelines": [
+            "One standard carry-on bag per passenger.",
+            "One personal article per passenger.",
+            "No weight restrictions for carry-on or personal items."
+          ],
+          "strict_restrictions": [
+            "Carry-on bags must not exceed 55 x 40 x 23 cm (21.7 x 15.7 x 9.1 in).",
+            "Personal articles must not exceed 43 x 33 x 16 cm (16.9 x 13.0 x 6.3 in).",
+            "Bags must fit in the overhead bin or under the seat in front of you."
+          ],
+          "faqs": [
+            {
+              "q": "Does Air Canada have a weight limit for carry-on bags?",
+              "a": "No, Air Canada does not impose a weight limit for carry-on bags or personal articles, as long as you can lift them into the overhead bin unassisted."
+            },
+            {
+              "q": "What is the maximum size for a carry-on bag on Air Canada?",
+              "a": "The maximum dimensions for a standard carry-on bag are 55 x 40 x 23 cm (21.7 x 15.7 x 9.1 in), including wheels and handles."
+            },
+            {
+              "q": "What counts as a personal article on Air Canada?",
+              "a": "A personal article can be a backpack, briefcase, laptop bag, or purse, provided it fits within 43 x 33 x 16 cm (16.9 x 13.0 x 6.3 in) and can be stowed under the seat in front of you."
+            }
+          ]
+        },
+        "de": {
+          "slug": "air-canada",
+          "title": "Air Canada Handgepäck & Persönlicher Gegenstand Größenführer",
+          "summary": "Umfassender Leitfaden zu den Abmessungen und Richtlinien für Handgepäck und persönliche Gegenstände von Air Canada, um eine reibungslose Reise zu gewährleisten.",
+          "amazon_search_query": "handgepäck 55x40x23 cm air canada konform",
+          "buy_box_title": "Finden Sie Ihr perfektes Air Canada konformes Handgepäck",
+          "buy_box_subtitle": "Reisen Sie mit Zuversicht, da Sie wissen, dass Ihre Tasche den strengen Richtlinien von Air Canada entspricht.",
+          "allowed_guidelines": [
+            "Ein Standard-Handgepäckstück pro Passagier.",
+            "Ein persönlicher Gegenstand pro Passagier.",
+            "Keine Gewichtsbeschränkungen für Handgepäck oder persönliche Gegenstände."
+          ],
+          "strict_restrictions": [
+            "Handgepäck darf 55 x 40 x 23 cm (21.7 x 15.7 x 9.1 Zoll) nicht überschreiten.",
+            "Persönliche Gegenstände dürfen 43 x 33 x 16 cm (16.9 x 13.0 x 6.3 Zoll) nicht überschreiten.",
+            "Taschen müssen in das Gepäckfach über dem Sitz oder unter den Vordersitz passen."
+          ],
+          "faqs": [
+            {
+              "q": "Gibt es bei Air Canada eine Gewichtsbeschränkung für Handgepäck?",
+              "a": "Nein, Air Canada legt keine Gewichtsbeschränkung für Handgepäck oder persönliche Gegenstände fest, solange Sie diese ohne Hilfe in das Gepäckfach über dem Sitz heben können."
+            },
+            {
+              "q": "Wie groß darf ein Handgepäckstück bei Air Canada maximal sein?",
+              "a": "Die maximalen Abmessungen für ein Standard-Handgepäckstück betragen 55 x 40 x 23 cm (21.7 x 15.7 x 9.1 Zoll), einschließlich Rollen und Griffen."
+            },
+            {
+              "q": "Was gilt bei Air Canada als persönlicher Gegenstand?",
+              "a": "Ein persönlicher Gegenstand kann ein Rucksack, eine Aktentasche, eine Laptoptasche oder eine Handtasche sein, vorausgesetzt, er passt in die Maße 43 x 33 x 16 cm (16.9 x 13.0 x 6.3 Zoll) und kann unter dem Vordersitz verstaut werden."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "air-canada",
+          "title": "Guide des tailles des bagages à main et articles personnels Air Canada",
+          "summary": "Guide complet des dimensions et politiques des bagages à main et articles personnels d'Air Canada, assurant la conformité pour une expérience de voyage fluide.",
+          "amazon_search_query": "bagage cabine 55x40x23 cm conforme air canada",
+          "buy_box_title": "Trouvez votre bagage à main parfait conforme à Air Canada",
+          "buy_box_subtitle": "Voyagez en toute confiance, sachant que votre sac respecte les directives strictes d'Air Canada.",
+          "allowed_guidelines": [
+            "Un bagage à main standard par passager.",
+            "Un article personnel par passager.",
+            "Aucune restriction de poids pour les bagages à main ou les articles personnels."
+          ],
+          "strict_restrictions": [
+            "Les bagages à main ne doivent pas dépasser 55 x 40 x 23 cm (21.7 x 15.7 x 9.1 po).",
+            "Les articles personnels ne doivent pas dépasser 43 x 33 x 16 cm (16.9 x 13.0 x 6.3 po).",
+            "Les sacs doivent pouvoir être rangés dans le compartiment supérieur ou sous le siège devant vous."
+          ],
+          "faqs": [
+            {
+              "q": "Air Canada a-t-elle une limite de poids pour les bagages à main ?",
+              "a": "Non, Air Canada n'impose pas de limite de poids pour les bagages à main ou les articles personnels, tant que vous pouvez les soulever dans le compartiment supérieur sans assistance."
+            },
+            {
+              "q": "Quelle est la taille maximale pour un bagage à main sur Air Canada ?",
+              "a": "Les dimensions maximales pour un bagage à main standard sont de 55 x 40 x 23 cm (21.7 x 15.7 x 9.1 po), y compris les roues et les poignées."
+            },
+            {
+              "q": "Qu'est-ce qui est considéré comme un article personnel sur Air Canada ?",
+              "a": "Un article personnel peut être un sac à dos, une mallette, une sacoche d'ordinateur portable ou un sac à main, à condition qu'il respecte les dimensions de 43 x 33 x 16 cm (16.9 x 13.0 x 6.3 po) et puisse être rangé sous le siège devant vous."
+            }
+          ]
+        },
+        "es": {
+          "slug": "air-canada",
+          "title": "Guía de tamaños de equipaje de mano y artículo personal de Air Canada",
+          "summary": "Guía completa de las dimensiones y políticas de equipaje de mano y artículos personales de Air Canada, asegurando el cumplimiento para una experiencia de viaje sin problemas.",
+          "amazon_search_query": "equipaje de mano 55x40x23 cm compatible air canada",
+          "buy_box_title": "Encuentre su equipaje de mano perfecto compatible con Air Canada",
+          "buy_box_subtitle": "Viaje con confianza, sabiendo que su maleta cumple con las estrictas directrices de Air Canada.",
+          "allowed_guidelines": [
+            "Un equipaje de mano estándar por pasajero.",
+            "Un artículo personal por pasajero.",
+            "Sin restricciones de peso para equipaje de mano o artículos personales."
+          ],
+          "strict_restrictions": [
+            "El equipaje de mano no debe exceder 55 x 40 x 23 cm (21.7 x 15.7 x 9.1 pulg).",
+            "Los artículos personales no deben exceder 43 x 33 x 16 cm (16.9 x 13.0 x 6.3 pulg).",
+            "Las maletas deben caber en el compartimento superior o debajo del asiento delantero."
+          ],
+          "faqs": [
+            {
+              "q": "¿Air Canada tiene un límite de peso para el equipaje de mano?",
+              "a": "No, Air Canada no impone un límite de peso para el equipaje de mano o los artículos personales, siempre y cuando pueda levantarlos en el compartimento superior sin ayuda."
+            },
+            {
+              "q": "¿Cuál es el tamaño máximo para un equipaje de mano en Air Canada?",
+              "a": "Las dimensiones máximas para un equipaje de mano estándar son 55 x 40 x 23 cm (21.7 x 15.7 x 9.1 pulg), incluyendo ruedas y asas."
+            },
+            {
+              "q": "¿Qué se considera un artículo personal en Air Canada?",
+              "a": "Un artículo personal puede ser una mochila, un maletín, una bolsa para portátil o un bolso, siempre que quepa dentro de 43 x 33 x 16 cm (16.9 x 13.0 x 6.3 pulg) y pueda guardarse debajo del asiento delantero."
+            }
+          ]
+        },
+        "it": {
+          "slug": "air-canada",
+          "title": "Guida alle dimensioni del bagaglio a mano e dell'articolo personale Air Canada",
+          "summary": "Guida completa alle dimensioni e alle politiche del bagaglio a mano e degli articoli personali di Air Canada, garantendo la conformità per un'esperienza di viaggio senza intoppi.",
+          "amazon_search_query": "bagaglio a mano 55x40x23 cm conforme air canada",
+          "buy_box_title": "Trova il tuo bagaglio a mano perfetto conforme ad Air Canada",
+          "buy_box_subtitle": "Viaggia con fiducia, sapendo che la tua borsa rispetta le rigide linee guida di Air Canada.",
+          "allowed_guidelines": [
+            "Un bagaglio a mano standard per passeggero.",
+            "Un articolo personale per passeggero.",
+            "Nessuna restrizione di peso per bagagli a mano o articoli personali."
+          ],
+          "strict_restrictions": [
+            "I bagagli a mano non devono superare 55 x 40 x 23 cm (21.7 x 15.7 x 9.1 pollici).",
+            "Gli articoli personali non devono superare 43 x 33 x 16 cm (16.9 x 13.0 x 6.3 pollici).",
+            "Le borse devono entrare nel vano portabagagli superiore o sotto il sedile di fronte a te."
+          ],
+          "faqs": [
+            {
+              "q": "Air Canada ha un limite di peso per i bagagli a mano?",
+              "a": "No, Air Canada non impone un limite di peso per i bagagli a mano o gli articoli personali, a condizione che tu possa sollevarli nel vano portabagagli superiore senza assistenza."
+            },
+            {
+              "q": "Qual è la dimensione massima per un bagaglio a mano su Air Canada?",
+              "a": "Le dimensioni massime per un bagaglio a mano standard sono 55 x 40 x 23 cm (21.7 x 15.7 x 9.1 pollici), incluse ruote e maniglie."
+            },
+            {
+              "q": "Cosa è considerato un articolo personale su Air Canada?",
+              "a": "Un articolo personale può essere uno zaino, una valigetta, una borsa per laptop o una borsetta, a condizione che rientri nelle dimensioni di 43 x 33 x 16 cm (16.9 x 13.0 x 6.3 pollici) e possa essere riposto sotto il sedile di fronte a te."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "air-canada",
+          "title": "エア・カナダ 機内持ち込み手荷物および身の回り品サイズガイド",
+          "summary": "エア・カナダの機内持ち込み手荷物および身の回り品の寸法とポリシーに関する包括的なガイド。スムーズな旅行体験のための準拠を保証します。",
+          "amazon_search_query": "機内持ち込みスーツケース 55x40x23 cm エア・カナダ対応",
+          "buy_box_title": "エア・カナダに完璧に適合する機内持ち込み手荷物を見つける",
+          "buy_box_subtitle": "あなたのバッグがエア・カナダの厳格なガイドラインに適合していることを知って、自信を持って旅行しましょう。",
+          "allowed_guidelines": [
+            "乗客1名につき標準機内持ち込み手荷物1個。",
+            "乗客1名につき身の回り品1個。",
+            "機内持ち込み手荷物または身の回り品に重量制限はありません。"
+          ],
+          "strict_restrictions": [
+            "機内持ち込み手荷物は55 x 40 x 23 cm (21.7 x 15.7 x 9.1 インチ) を超えてはなりません。",
+            "身の回り品は43 x 33 x 16 cm (16.9 x 13.0 x 6.3 インチ) を超えてはなりません。",
+            "バッグは頭上の収納棚または前の座席の下に収まる必要があります。"
+          ],
+          "faqs": [
+            {
+              "q": "エア・カナダは機内持ち込み手荷物に重量制限がありますか？",
+              "a": "いいえ、エア・カナダは機内持ち込み手荷物や身の回り品に重量制限を設けていません。ただし、ご自身で頭上の収納棚に持ち上げられる必要があります。"
+            },
+            {
+              "q": "エア・カナダの機内持ち込み手荷物の最大サイズはどれくらいですか？",
+              "a": "標準機内持ち込み手荷物の最大寸法は、車輪とハンドルを含めて55 x 40 x 23 cm (21.7 x 15.7 x 9.1 インチ) です。"
+            },
+            {
+              "q": "エア・カナダでは何が身の回り品と見なされますか？",
+              "a": "身の回り品は、バックパック、ブリーフケース、ラップトップバッグ、またはハンドバッグで、43 x 33 x 16 cm (16.9 x 13.0 x 6.3 インチ) の範囲内に収まり、前の座席の下に収納できるものとします。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "air-canada",
+          "title": "Guia de Tamanhos de Bagagem de Mão e Artigo Pessoal Air Canada",
+          "summary": "Guia completo das dimensões e políticas de bagagem de mão e artigos pessoais da Air Canada, garantindo a conformidade para uma experiência de viagem tranquila.",
+          "amazon_search_query": "mala de cabine 55x40x23 cm compatível air canada",
+          "buy_box_title": "Encontre a sua bagagem de mão perfeita compatível com a Air Canada",
+          "buy_box_subtitle": "Viaje com confiança, sabendo que a sua mala cumpre as diretrizes rigorosas da Air Canada.",
+          "allowed_guidelines": [
+            "Uma bagagem de mão padrão por passageiro.",
+            "Um artigo pessoal por passageiro.",
+            "Sem restrições de peso para bagagem de mão ou artigos pessoais."
+          ],
+          "strict_restrictions": [
+            "As bagagens de mão não devem exceder 55 x 40 x 23 cm (21.7 x 15.7 x 9.1 pol).",
+            "Os artigos pessoais não devem exceder 43 x 33 x 16 cm (16.9 x 13.0 x 6.3 pol).",
+            "As malas devem caber no compartimento superior ou debaixo do assento à sua frente."
+          ],
+          "faqs": [
+            {
+              "q": "A Air Canada tem limite de peso para bagagens de mão?",
+              "a": "Não, a Air Canada não impõe limite de peso para bagagens de mão ou artigos pessoais, desde que você consiga levantá-los para o compartimento superior sem assistência."
+            },
+            {
+              "q": "Qual é o tamanho máximo para uma bagagem de mão na Air Canada?",
+              "a": "As dimensões máximas para uma bagagem de mão padrão são 55 x 40 x 23 cm (21.7 x 15.7 x 9.1 pol), incluindo rodas e alças."
+            },
+            {
+              "q": "O que é considerado um artigo pessoal na Air Canada?",
+              "a": "Um artigo pessoal pode ser uma mochila, pasta, bolsa para laptop ou bolsa, desde que se encaixe em 43 x 33 x 16 cm (16.9 x 13.0 x 6.3 pol) e possa ser guardado debaixo do assento à sua frente."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "air-canada",
+          "title": "Air Canada Handbagage & Persoonlijk Item Maatgids",
+          "summary": "Uitgebreide gids voor de afmetingen en het beleid van Air Canada voor handbagage en persoonlijke items, om naleving voor een soepele reiservaring te garanderen.",
+          "amazon_search_query": "handbagage 55x40x23 cm air canada compatibel",
+          "buy_box_title": "Vind uw perfecte Air Canada-compatibele handbagage",
+          "buy_box_subtitle": "Reis met vertrouwen, wetende dat uw tas voldoet aan de strikte richtlijnen van Air Canada.",
+          "allowed_guidelines": [
+            "Eén standaard handbagage per passagier.",
+            "Eén persoonlijk item per passagier.",
+            "Geen gewichtsbeperkingen voor handbagage of persoonlijke items."
+          ],
+          "strict_restrictions": [
+            "Handbagage mag niet groter zijn dan 55 x 40 x 23 cm (21.7 x 15.7 x 9.1 inch).",
+            "Persoonlijke items mogen niet groter zijn dan 43 x 33 x 16 cm (16.9 x 13.0 x 6.3 inch).",
+            "Tassen moeten in het bagagevak boven u of onder de stoel voor u passen."
+          ],
+          "faqs": [
+            {
+              "q": "Heeft Air Canada een gewichtslimiet voor handbagage?",
+              "a": "Nee, Air Canada legt geen gewichtslimiet op voor handbagage of persoonlijke items, zolang u ze zonder hulp in het bagagevak boven u kunt tillen."
+            },
+            {
+              "q": "Wat is de maximale grootte voor handbagage bij Air Canada?",
+              "a": "De maximale afmetingen voor een standaard handbagage zijn 55 x 40 x 23 cm (21.7 x 15.7 x 9.1 inch), inclusief wielen en handvatten."
+            },
+            {
+              "q": "Wat telt als een persoonlijk item bij Air Canada?",
+              "a": "Een persoonlijk item kan een rugzak, aktetas, laptoptas of handtas zijn, mits deze binnen 43 x 33 x 16 cm (16.9 x 13.0 x 6.3 inch) past en onder de stoel voor u kan worden opgeborgen."
             }
           ]
         }
