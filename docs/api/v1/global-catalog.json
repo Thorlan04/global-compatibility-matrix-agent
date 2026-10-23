@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-10-23T10:56:55.297065+00:00",
-  "total_items": 17,
+  "generated_at": "2026-10-23T16:24:10.145720+00:00",
+  "total_items": 18,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -6351,6 +6351,380 @@
             {
               "q": "Wat telt als een persoonlijk item bij Air Canada?",
               "a": "Een persoonlijk item kan een rugzak, aktetas, laptoptas of handtas zijn, mits deze binnen 43 x 33 x 16 cm (16.9 x 13.0 x 6.3 inch) past en onder de stoel voor u kan worden opgeborgen."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "qantas",
+      "slug": "qantas-carry-on-baggage-allowance",
+      "subject": "Qantas",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Carry-on Bag (Dimensions)",
+          "metric": "56 x 36 x 23 cm",
+          "imperial": "22.05 x 14.17 x 9.06 in",
+          "status": "Verified",
+          "note": "Maximum dimensions for a single carry-on bag.",
+          "item_translations": {
+            "en": "Carry-on Bag (Dimensions)",
+            "de": "Handgepäck (Abmessungen)",
+            "fr": "Bagage à main (Dimensions)",
+            "es": "Equipaje de mano (Dimensiones)",
+            "it": "Bagaglio a mano (Dimensioni)",
+            "ja": "機内持ち込み手荷物 (寸法)",
+            "pt": "Bagagem de Mão (Dimensões)",
+            "nl": "Handbagage (Afmetingen)"
+          },
+          "note_translations": {
+            "en": "Maximum dimensions for a single carry-on bag.",
+            "de": "Maximale Abmessungen für ein einzelnes Handgepäckstück.",
+            "fr": "Dimensions maximales pour un seul bagage à main.",
+            "es": "Dimensiones máximas para un solo equipaje de mano.",
+            "it": "Dimensioni massime per un singolo bagaglio a mano.",
+            "ja": "機内持ち込み手荷物1個あたりの最大寸法。",
+            "pt": "Dimensões máximas para uma única bagagem de mão.",
+            "nl": "Maximale afmetingen voor één stuk handbagage."
+          }
+        },
+        {
+          "item": "Carry-on Bag (Weight)",
+          "metric": "Max 7 kg",
+          "imperial": "Max 15.43 lbs",
+          "status": "Verified",
+          "note": "Maximum weight for a single carry-on bag. Qantas Frequent Flyers (Silver, Gold, Platinum, Platinum One) and Qantas Club members may have higher allowances on some routes.",
+          "item_translations": {
+            "en": "Carry-on Bag (Weight)",
+            "de": "Handgepäck (Gewicht)",
+            "fr": "Bagage à main (Poids)",
+            "es": "Equipaje de mano (Peso)",
+            "it": "Bagaglio a mano (Peso)",
+            "ja": "機内持ち込み手荷物 (重量)",
+            "pt": "Bagagem de Mão (Peso)",
+            "nl": "Handbagage (Gewicht)"
+          },
+          "note_translations": {
+            "en": "Maximum weight for a single carry-on bag. Qantas Frequent Flyers (Silver, Gold, Platinum, Platinum One) and Qantas Club members may have higher allowances on some routes.",
+            "de": "Maximales Gewicht für ein einzelnes Handgepäckstück. Qantas Frequent Flyers (Silver, Gold, Platinum, Platinum One) und Qantas Club Mitglieder können auf einigen Strecken höhere Freigepäckmengen haben.",
+            "fr": "Poids maximal pour un seul bagage à main. Les membres Qantas Frequent Flyers (Silver, Gold, Platinum, Platinum One) et Qantas Club peuvent bénéficier d'allocations plus élevées sur certaines routes.",
+            "es": "Peso máximo para un solo equipaje de mano. Los miembros de Qantas Frequent Flyers (Silver, Gold, Platinum, Platinum One) y Qantas Club pueden tener asignaciones más altas en algunas rutas.",
+            "it": "Peso massimo per un singolo bagaglio a mano. I membri Qantas Frequent Flyers (Silver, Gold, Platinum, Platinum One) e Qantas Club potrebbero avere franchigie più elevate su alcune rotte.",
+            "ja": "機内持ち込み手荷物1個あたりの最大重量。カンタス・フリークエントフライヤー（シルバー、ゴールド、プラチナ、プラチナワン）およびカンタス・クラブ会員は、一部の路線でより高い許容量が適用される場合があります。",
+            "pt": "Peso máximo para uma única bagagem de mão. Membros Qantas Frequent Flyers (Silver, Gold, Platinum, Platinum One) e Qantas Club podem ter franquias maiores em algumas rotas.",
+            "nl": "Maximaal gewicht voor één stuk handbagage. Qantas Frequent Flyers (Silver, Gold, Platinum, Platinum One) en Qantas Club-leden kunnen op sommige routes hogere toegestane hoeveelheden hebben."
+          }
+        },
+        {
+          "item": "Carry-on Bag (Total Linear Dimensions)",
+          "metric": "Max 105 cm (L+W+H)",
+          "imperial": "Max 41.34 in (L+W+H)",
+          "status": "Verified",
+          "note": "Total linear dimensions (length + width + height) must not exceed this limit if the bag is not rigid or slightly irregular.",
+          "item_translations": {
+            "en": "Carry-on Bag (Total Linear Dimensions)",
+            "de": "Handgepäck (Gesamtabmessungen)",
+            "fr": "Bagage à main (Dimensions linéaires totales)",
+            "es": "Equipaje de mano (Dimensiones lineales totales)",
+            "it": "Bagaglio a mano (Dimensioni lineari totali)",
+            "ja": "機内持ち込み手荷物 (3辺の合計)",
+            "pt": "Bagagem de Mão (Dimensões Lineares Totais)",
+            "nl": "Handbagage (Totale Lineaire Afmetingen)"
+          },
+          "note_translations": {
+            "en": "Total linear dimensions (length + width + height) must not exceed this limit if the bag is not rigid or slightly irregular.",
+            "de": "Die Gesamtabmessungen (Länge + Breite + Höhe) dürfen diese Grenze nicht überschreiten, wenn die Tasche nicht starr oder leicht unregelmäßig ist.",
+            "fr": "Les dimensions linéaires totales (longueur + largeur + hauteur) ne doivent pas dépasser cette limite si le sac n'est pas rigide ou légèrement irrégulier.",
+            "es": "Las dimensiones lineales totales (largo + ancho + alto) no deben exceder este límite si la maleta no es rígida o ligeramente irregular.",
+            "it": "Le dimensioni lineari totali (lunghezza + larghezza + altezza) non devono superare questo limite se la borsa non è rigida o leggermente irregolare.",
+            "ja": "バッグが硬くない、またはわずかに不規則な場合、3辺の合計（長さ＋幅＋高さ）はこの制限を超えてはなりません。",
+            "pt": "As dimensões lineares totais (comprimento + largura + altura) não devem exceder este limite se a mala não for rígida ou ligeiramente irregular.",
+            "nl": "De totale lineaire afmetingen (lengte + breedte + hoogte) mogen deze limiet niet overschrijden als de tas niet stijf of enigszins onregelmatig is."
+          }
+        },
+        {
+          "item": "Personal Item (Under Seat)",
+          "metric": "Approx. 40 x 30 x 15 cm",
+          "imperial": "Approx. 15.75 x 11.81 x 5.91 in",
+          "status": "Guideline",
+          "note": "One small personal item (e.g., laptop bag, handbag, small backpack) that fits under the seat in front of you. No separate weight limit, included in overall carry-on allowance.",
+          "item_translations": {
+            "en": "Personal Item (Under Seat)",
+            "de": "Persönlicher Gegenstand (Unter dem Sitz)",
+            "fr": "Article personnel (Sous le siège)",
+            "es": "Artículo personal (Debajo del asiento)",
+            "it": "Articolo personale (Sotto il sedile)",
+            "ja": "身の回り品 (座席下)",
+            "pt": "Item Pessoal (Sob o Assento)",
+            "nl": "Persoonlijk item (Onder de stoel)"
+          },
+          "note_translations": {
+            "en": "One small personal item (e.g., laptop bag, handbag, small backpack) that fits under the seat in front of you. No separate weight limit, included in overall carry-on allowance.",
+            "de": "Ein kleiner persönlicher Gegenstand (z.B. Laptoptasche, Handtasche, kleiner Rucksack), der unter den Vordersitz passt. Keine separate Gewichtsbeschränkung, im gesamten Handgepäck enthalten.",
+            "fr": "Un petit article personnel (par exemple, sac pour ordinateur portable, sac à main, petit sac à dos) qui tient sous le siège devant vous. Pas de limite de poids séparée, inclus dans l'allocation totale de bagages à main.",
+            "es": "Un pequeño artículo personal (por ejemplo, bolso para portátil, bolso de mano, mochila pequeña) que quepa debajo del asiento delantero. Sin límite de peso separado, incluido en la franquicia total de equipaje de mano.",
+            "it": "Un piccolo articolo personale (ad es. borsa per laptop, borsetta, piccolo zaino) che si adatta sotto il sedile di fronte a te. Nessun limite di peso separato, incluso nella franchigia totale del bagaglio a mano.",
+            "ja": "前の座席の下に収まる小さな身の回り品1点（例：ノートパソコン用バッグ、ハンドバッグ、小型リュックサック）。個別の重量制限はなく、全体の機内持ち込み手荷物許容量に含まれます。",
+            "pt": "Um pequeno item pessoal (por exemplo, bolsa para laptop, bolsa de mão, pequena mochila) que caiba debaixo do assento à sua frente. Sem limite de peso separado, incluído na franquia total de bagagem de mão.",
+            "nl": "Eén klein persoonlijk item (bijv. laptoptas, handtas, kleine rugzak) dat onder de stoel voor u past. Geen aparte gewichtslimiet, inbegrepen in de totale handbagagevrijdom."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "qantas-carry-on-baggage-allowance",
+          "title": "Qantas Carry-on Baggage Allowance & Dimensions",
+          "summary": "Comprehensive guide to Qantas carry-on baggage rules, including dimensions, weight limits, and personal item guidelines for a smooth travel experience.",
+          "amazon_search_query": "carry on luggage 56x36x23cm 7kg",
+          "buy_box_title": "Recommended Carry-on Bags for Qantas",
+          "buy_box_subtitle": "Ensure your luggage fits Qantas' strict carry-on requirements.",
+          "allowed_guidelines": [
+            "One main carry-on bag within the specified dimensions and weight.",
+            "One small personal item that fits under the seat.",
+            "Medical equipment and mobility aids are generally allowed in addition to standard allowance."
+          ],
+          "strict_restrictions": [
+            "Exceeding dimensions or weight limits will result in checked baggage fees.",
+            "Sharp objects, flammable materials, and certain liquids are prohibited.",
+            "Laptops and large electronic devices must be removed from bags for security screening."
+          ],
+          "faqs": [
+            {
+              "q": "What are the exact carry-on dimensions for Qantas?",
+              "a": "Qantas allows one carry-on bag with maximum dimensions of 56 x 36 x 23 cm (22.05 x 14.17 x 9.06 inches) and a maximum weight of 7 kg (15.43 lbs). The total linear dimensions (L+W+H) must not exceed 105 cm (41.34 inches)."
+            },
+            {
+              "q": "Can I bring a personal item in addition to my carry-on bag?",
+              "a": "Yes, Qantas allows one small personal item, such as a laptop bag, handbag, or small backpack, in addition to your main carry-on bag. This item must fit under the seat in front of you and its weight is included in your overall carry-on allowance."
+            },
+            {
+              "q": "What happens if my carry-on bag is overweight or oversized?",
+              "a": "If your carry-on bag exceeds the specified dimensions or weight limits, it will need to be checked in as checked baggage. This may incur additional fees, especially if it exceeds your checked baggage allowance."
+            }
+          ]
+        },
+        "de": {
+          "slug": "qantas-handgepaeck-bestimmungen",
+          "title": "Qantas Handgepäckbestimmungen & Abmessungen",
+          "summary": "Umfassender Leitfaden zu den Qantas Handgepäckregeln, einschließlich Abmessungen, Gewichtsbeschränkungen und Richtlinien für persönliche Gegenstände für ein reibungsloses Reiseerlebnis.",
+          "amazon_search_query": "handgepäck 56x36x23cm 7kg",
+          "buy_box_title": "Empfohlene Handgepäckstücke für Qantas",
+          "buy_box_subtitle": "Stellen Sie sicher, dass Ihr Gepäck den strengen Handgepäckanforderungen von Qantas entspricht.",
+          "allowed_guidelines": [
+            "Ein Haupt-Handgepäckstück innerhalb der angegebenen Abmessungen und des Gewichts.",
+            "Ein kleiner persönlicher Gegenstand, der unter den Sitz passt.",
+            "Medizinische Geräte und Mobilitätshilfen sind in der Regel zusätzlich zur Standardfreigepäckmenge erlaubt."
+          ],
+          "strict_restrictions": [
+            "Das Überschreiten der Abmessungen oder Gewichtsgrenzen führt zu Gebühren für aufgegebenes Gepäck.",
+            "Scharfe Gegenstände, brennbare Materialien und bestimmte Flüssigkeiten sind verboten.",
+            "Laptops und große elektronische Geräte müssen zur Sicherheitskontrolle aus den Taschen genommen werden."
+          ],
+          "faqs": [
+            {
+              "q": "Wie sind die genauen Handgepäckabmessungen für Qantas?",
+              "a": "Qantas erlaubt ein Handgepäckstück mit maximalen Abmessungen von 56 x 36 x 23 cm (22.05 x 14.17 x 9.06 Zoll) und einem Maximalgewicht von 7 kg (15.43 lbs). Die Gesamtabmessungen (L+B+H) dürfen 105 cm (41.34 Zoll) nicht überschreiten."
+            },
+            {
+              "q": "Kann ich zusätzlich zu meinem Handgepäck einen persönlichen Gegenstand mitnehmen?",
+              "a": "Ja, Qantas erlaubt zusätzlich zu Ihrem Haupt-Handgepäckstück einen kleinen persönlichen Gegenstand, wie eine Laptoptasche, Handtasche oder einen kleinen Rucksack. Dieser Gegenstand muss unter den Vordersitz passen und sein Gewicht ist in Ihrer gesamten Handgepäckfreigepäckmenge enthalten."
+            },
+            {
+              "q": "Was passiert, wenn mein Handgepäck über- oder übergroß ist?",
+              "a": "Wenn Ihr Handgepäck die angegebenen Abmessungen oder Gewichtsgrenzen überschreitet, muss es als aufgegebenes Gepäck eingecheckt werden. Dies kann zusätzliche Gebühren verursachen, insbesondere wenn es Ihre Freigepäckmenge für aufgegebenes Gepäck überschreitet."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "qantas-franchise-bagage-cabine",
+          "title": "Franchise et Dimensions des Bagages à Main Qantas",
+          "summary": "Guide complet des règles de bagages à main Qantas, y compris les dimensions, les limites de poids et les directives pour les articles personnels pour une expérience de voyage fluide.",
+          "amazon_search_query": "bagage cabine 56x36x23cm 7kg",
+          "buy_box_title": "Sacs de Cabine Recommandés pour Qantas",
+          "buy_box_subtitle": "Assurez-vous que vos bagages respectent les exigences strictes de Qantas pour les bagages à main.",
+          "allowed_guidelines": [
+            "Un bagage à main principal respectant les dimensions et le poids spécifiés.",
+            "Un petit article personnel qui tient sous le siège.",
+            "L'équipement médical et les aides à la mobilité sont généralement autorisés en plus de la franchise standard."
+          ],
+          "strict_restrictions": [
+            "Le dépassement des dimensions ou des limites de poids entraînera des frais de bagages enregistrés.",
+            "Les objets tranchants, les matériaux inflammables et certains liquides sont interdits.",
+            "Les ordinateurs portables et les grands appareils électroniques doivent être retirés des sacs pour le contrôle de sécurité."
+          ],
+          "faqs": [
+            {
+              "q": "Quelles sont les dimensions exactes des bagages à main pour Qantas?",
+              "a": "Qantas autorise un bagage à main avec des dimensions maximales de 56 x 36 x 23 cm (22.05 x 14.17 x 9.06 pouces) et un poids maximal de 7 kg (15.43 lbs). Les dimensions linéaires totales (L+l+H) ne doivent pas dépasser 105 cm (41.34 pouces)."
+            },
+            {
+              "q": "Puis-je apporter un article personnel en plus de mon bagage à main?",
+              "a": "Oui, Qantas autorise un petit article personnel, tel qu'un sac pour ordinateur portable, un sac à main ou un petit sac à dos, en plus de votre bagage à main principal. Cet article doit tenir sous le siège devant vous et son poids est inclus dans votre franchise totale de bagages à main."
+            },
+            {
+              "q": "Que se passe-t-il si mon bagage à main est en surpoids ou surdimensionné?",
+              "a": "Si votre bagage à main dépasse les dimensions ou les limites de poids spécifiées, il devra être enregistré comme bagage en soute. Cela peut entraîner des frais supplémentaires, surtout s'il dépasse votre franchise de bagages enregistrés."
+            }
+          ]
+        },
+        "es": {
+          "slug": "qantas-equipaje-mano-permitido",
+          "title": "Franquicia y Dimensiones del Equipaje de Mano Qantas",
+          "summary": "Guía completa de las reglas de equipaje de mano de Qantas, incluyendo dimensiones, límites de peso y pautas para artículos personales para una experiencia de viaje sin problemas.",
+          "amazon_search_query": "equipaje de mano 56x36x23cm 7kg",
+          "buy_box_title": "Maletas de Cabina Recomendadas para Qantas",
+          "buy_box_subtitle": "Asegúrese de que su equipaje cumpla con los estrictos requisitos de equipaje de mano de Qantas.",
+          "allowed_guidelines": [
+            "Una maleta de mano principal dentro de las dimensiones y el peso especificados.",
+            "Un pequeño artículo personal que quepa debajo del asiento.",
+            "El equipo médico y las ayudas de movilidad generalmente se permiten además de la franquicia estándar."
+          ],
+          "strict_restrictions": [
+            "Exceder las dimensiones o los límites de peso resultará en cargos por equipaje facturado.",
+            "Objetos punzantes, materiales inflamables y ciertos líquidos están prohibidos.",
+            "Los ordenadores portátiles y los dispositivos electrónicos grandes deben retirarse de las bolsas para el control de seguridad."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuáles son las dimensiones exactas del equipaje de mano para Qantas?",
+              "a": "Qantas permite una maleta de mano con dimensiones máximas de 56 x 36 x 23 cm (22.05 x 14.17 x 9.06 pulgadas) y un peso máximo de 7 kg (15.43 lbs). Las dimensiones lineales totales (L+A+H) no deben exceder los 105 cm (41.34 pulgadas)."
+            },
+            {
+              "q": "¿Puedo llevar un artículo personal además de mi equipaje de mano?",
+              "a": "Sí, Qantas permite un pequeño artículo personal, como una bolsa para portátil, un bolso de mano o una mochila pequeña, además de su maleta de mano principal. Este artículo debe caber debajo del asiento delantero y su peso está incluido en su franquicia total de equipaje de mano."
+            },
+            {
+              "q": "¿Qué sucede si mi equipaje de mano tiene sobrepeso o es demasiado grande?",
+              "a": "Si su equipaje de mano excede las dimensiones o los límites de peso especificados, deberá ser facturado como equipaje de bodega. Esto puede incurrir en tarifas adicionales, especialmente si excede su franquicia de equipaje facturado."
+            }
+          ]
+        },
+        "it": {
+          "slug": "qantas-bagaglio-a-mano-consentito",
+          "title": "Franchigia e Dimensioni del Bagaglio a Mano Qantas",
+          "summary": "Guida completa alle regole del bagaglio a mano Qantas, incluse dimensioni, limiti di peso e linee guida per gli articoli personali per un'esperienza di viaggio senza intoppi.",
+          "amazon_search_query": "bagaglio a mano 56x36x23cm 7kg",
+          "buy_box_title": "Bagagli a Mano Consigliati per Qantas",
+          "buy_box_subtitle": "Assicurati che il tuo bagaglio rispetti i rigorosi requisiti di Qantas per il bagaglio a mano.",
+          "allowed_guidelines": [
+            "Un bagaglio a mano principale entro le dimensioni e il peso specificati.",
+            "Un piccolo articolo personale che si adatta sotto il sedile.",
+            "Attrezzature mediche e ausili per la mobilità sono generalmente consentiti in aggiunta alla franchigia standard."
+          ],
+          "strict_restrictions": [
+            "Il superamento delle dimensioni o dei limiti di peso comporterà costi per il bagaglio registrato.",
+            "Oggetti appuntiti, materiali infiammabili e alcuni liquidi sono proibiti.",
+            "Laptop e dispositivi elettronici di grandi dimensioni devono essere rimossi dalle borse per i controlli di sicurezza."
+          ],
+          "faqs": [
+            {
+              "q": "Quali sono le dimensioni esatte del bagaglio a mano per Qantas?",
+              "a": "Qantas consente un bagaglio a mano con dimensioni massime di 56 x 36 x 23 cm (22.05 x 14.17 x 9.06 pollici) e un peso massimo di 7 kg (15.43 lbs). Le dimensioni lineari totali (L+P+A) non devono superare i 105 cm (41.34 pollici)."
+            },
+            {
+              "q": "Posso portare un articolo personale oltre al mio bagaglio a mano?",
+              "a": "Sì, Qantas consente un piccolo articolo personale, come una borsa per laptop, una borsetta o un piccolo zaino, in aggiunta al tuo bagaglio a mano principale. Questo articolo deve stare sotto il sedile di fronte a te e il suo peso è incluso nella tua franchigia totale del bagaglio a mano."
+            },
+            {
+              "q": "Cosa succede se il mio bagaglio a mano è in sovrappeso o troppo grande?",
+              "a": "Se il tuo bagaglio a mano supera le dimensioni o i limiti di peso specificati, dovrà essere registrato come bagaglio da stiva. Ciò potrebbe comportare costi aggiuntivi, soprattutto se supera la tua franchigia per il bagaglio registrato."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "カンタス航空-機内持ち込み手荷物-規定",
+          "title": "カンタス航空 機内持ち込み手荷物許容量と寸法",
+          "summary": "カンタス航空の機内持ち込み手荷物規定に関する包括的なガイド。スムーズな旅行体験のための寸法、重量制限、身の回り品のガイドラインが含まれています。",
+          "amazon_search_query": "機内持ち込みスーツケース 56x36x23cm 7kg",
+          "buy_box_title": "カンタス航空推奨機内持ち込みバッグ",
+          "buy_box_subtitle": "カンタス航空の厳格な機内持ち込み要件に荷物が適合していることを確認してください。",
+          "allowed_guidelines": [
+            "指定された寸法と重量内の主要な機内持ち込み手荷物1個。",
+            "座席の下に収まる小さな身の回り品1個。",
+            "医療機器および移動補助具は、通常、標準の許容量に加えて許可されます。"
+          ],
+          "strict_restrictions": [
+            "寸法または重量制限を超過すると、受託手荷物料金が発生します。",
+            "鋭利な物、可燃物、特定の液体は禁止されています。",
+            "ラップトップや大型電子機器は、セキュリティ検査のためにバッグから取り出す必要があります。"
+          ],
+          "faqs": [
+            {
+              "q": "カンタス航空の正確な機内持ち込み手荷物の寸法は何ですか？",
+              "a": "カンタス航空では、最大寸法56 x 36 x 23 cm（22.05 x 14.17 x 9.06インチ）、最大重量7 kg（15.43ポンド）の機内持ち込み手荷物1個が許可されています。3辺の合計（長さ＋幅＋高さ）は105 cm（41.34インチ）を超えてはなりません。"
+            },
+            {
+              "q": "機内持ち込み手荷物とは別に身の回り品を持ち込めますか？",
+              "a": "はい、カンタス航空では、主要な機内持ち込み手荷物とは別に、ノートパソコン用バッグ、ハンドバッグ、小型リュックサックなどの小さな身の回り品1個が許可されています。この品目は前の座席の下に収まる必要があり、その重量は全体の機内持ち込み手荷物許容量に含まれます。"
+            },
+            {
+              "q": "機内持ち込み手荷物が重量超過またはサイズ超過の場合、どうなりますか？",
+              "a": "機内持ち込み手荷物が指定された寸法または重量制限を超過した場合、受託手荷物として預ける必要があります。これにより、特に受託手荷物許容量を超過している場合は、追加料金が発生する可能性があります。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "qantas-franquia-bagagem-mao",
+          "title": "Franquia e Dimensões da Bagagem de Mão Qantas",
+          "summary": "Guia completo das regras de bagagem de mão da Qantas, incluindo dimensões, limites de peso e diretrizes para itens pessoais para uma experiência de viagem tranquila.",
+          "amazon_search_query": "mala de cabine 56x36x23cm 7kg",
+          "buy_box_title": "Malas de Mão Recomendadas para Qantas",
+          "buy_box_subtitle": "Garanta que sua bagagem atenda aos rigorosos requisitos de bagagem de mão da Qantas.",
+          "allowed_guidelines": [
+            "Uma bagagem de mão principal dentro das dimensões e peso especificados.",
+            "Um pequeno item pessoal que caiba debaixo do assento.",
+            "Equipamentos médicos e auxiliares de mobilidade são geralmente permitidos além da franquia padrão."
+          ],
+          "strict_restrictions": [
+            "Exceder as dimensões ou limites de peso resultará em taxas de bagagem despachada.",
+            "Objetos pontiagudos, materiais inflamáveis e certos líquidos são proibidos.",
+            "Laptops e grandes dispositivos eletrônicos devem ser removidos das malas para a triagem de segurança."
+          ],
+          "faqs": [
+            {
+              "q": "Quais são as dimensões exatas da bagagem de mão para a Qantas?",
+              "a": "A Qantas permite uma bagagem de mão com dimensões máximas de 56 x 36 x 23 cm (22.05 x 14.17 x 9.06 polegadas) e um peso máximo de 7 kg (15.43 lbs). As dimensões lineares totais (C+L+A) não devem exceder 105 cm (41.34 polegadas)."
+            },
+            {
+              "q": "Posso levar um item pessoal além da minha bagagem de mão?",
+              "a": "Sim, a Qantas permite um pequeno item pessoal, como uma bolsa para laptop, bolsa de mão ou pequena mochila, além da sua bagagem de mão principal. Este item deve caber debaixo do assento à sua frente e seu peso está incluído na sua franquia total de bagagem de mão."
+            },
+            {
+              "q": "O que acontece se minha bagagem de mão estiver acima do peso ou for muito grande?",
+              "a": "Se sua bagagem de mão exceder as dimensões ou limites de peso especificados, ela precisará ser despachada como bagagem de porão. Isso pode incorrer em taxas adicionais, especialmente se exceder sua franquia de bagagem despachada."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "qantas-handbagage-toegestaan",
+          "title": "Qantas Handbagage Toegestane Hoeveelheid & Afmetingen",
+          "summary": "Uitgebreide gids voor de handbagageregels van Qantas, inclusief afmetingen, gewichtslimieten en richtlijnen voor persoonlijke items voor een soepele reiservaring.",
+          "amazon_search_query": "handbagage koffer 56x36x23cm 7kg",
+          "buy_box_title": "Aanbevolen Handbagage voor Qantas",
+          "buy_box_subtitle": "Zorg ervoor dat uw bagage voldoet aan de strikte handbagagevereisten van Qantas.",
+          "allowed_guidelines": [
+            "Eén hoofdbagagestuk binnen de gespecificeerde afmetingen en gewicht.",
+            "Eén klein persoonlijk item dat onder de stoel past.",
+            "Medische apparatuur en mobiliteitshulpmiddelen zijn over het algemeen toegestaan naast de standaardtoelage."
+          ],
+          "strict_restrictions": [
+            "Het overschrijden van afmetingen of gewichtslimieten leidt tot kosten voor ingecheckte bagage.",
+            "Scherpe voorwerpen, brandbare materialen en bepaalde vloeistoffen zijn verboden.",
+            "Laptops en grote elektronische apparaten moeten voor de veiligheidscontrole uit de tassen worden gehaald."
+          ],
+          "faqs": [
+            {
+              "q": "Wat zijn de exacte handbagageafmetingen voor Qantas?",
+              "a": "Qantas staat één stuk handbagage toe met maximale afmetingen van 56 x 36 x 23 cm (22.05 x 14.17 x 9.06 inch) en een maximaal gewicht van 7 kg (15.43 lbs). De totale lineaire afmetingen (L+B+H) mogen niet meer dan 105 cm (41.34 inch) bedragen."
+            },
+            {
+              "q": "Mag ik naast mijn handbagage een persoonlijk item meenemen?",
+              "a": "Ja, Qantas staat één klein persoonlijk item toe, zoals een laptoptas, handtas of kleine rugzak, naast uw hoofdbagagestuk. Dit item moet onder de stoel voor u passen en het gewicht ervan is inbegrepen in uw totale handbagagetoelage."
+            },
+            {
+              "q": "Wat gebeurt er als mijn handbagage te zwaar of te groot is?",
+              "a": "Als uw handbagage de gespecificeerde afmetingen of gewichtslimieten overschrijdt, moet deze als ruimbagage worden ingecheckt. Dit kan extra kosten met zich meebrengen, vooral als het uw toegestane ruimbagage overschrijdt."
             }
           ]
         }

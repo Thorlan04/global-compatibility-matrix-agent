@@ -35,3 +35,4 @@
 - [Vueling](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/vueling-baggage-allowance.html): Airlines | 40 x 20 x 30 cm / 15.75 x 7.87 x 11.81 in
 - [Wizz Air](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/wizz-air.html): Airlines | 40 x 30 x 20 cm / 15.75 x 11.81 x 7.87 in
 - [Air Canada](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/air-canada.html): Airlines | 55 x 40 x 23 cm / 21.7 x 15.7 x 9.1 in
+- [Qantas](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/qantas-carry-on-baggage-allowance.html): Airlines | 56 x 36 x 23 cm / 22.05 x 14.17 x 9.06 in
