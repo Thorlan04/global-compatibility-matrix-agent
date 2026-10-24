@@ -1,40 +1,42 @@
 {
-  "last_updated": "2026-10-23T20:56:59.068377+00:00",
+  "last_updated": "2026-10-24T03:06:02.471866+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "lg-oled-c3-c4-vesa-mount-power",
-    "united",
     "ryanair-cabin-baggage-dimensions",
-    "delta",
-    "united-airlines-baggage-lithium-battery-rules",
-    "lufthansa",
-    "air-france-baggage-allowance",
-    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "ana-japan-airlines-carry-on-luggage-compatibility",
+    "transavia",
+    "transavia-baggage-allowance",
+    "qantas",
+    "easyjet-baggage-powerbank-guide",
+    "qantas-carry-on-baggage-allowance",
     "wizz-air",
     "ana-jal",
-    "ana-japan-airlines-carry-on-luggage-compatibility",
-    "british-airways",
-    "easyjet-baggage-powerbank-guide",
+    "lufthansa-airlines-baggage-guide",
+    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "easyjet",
     "air-canada",
-    "qantas-carry-on-baggage-allowance",
-    "vueling",
+    "vueling-baggage-allowance",
     "qatar-airways-baggage-power-bank-guide",
-    "transavia-baggage-allowance",
-    "american-airlines-compatibility-matrix",
-    "transavia",
-    "qantas",
+    "british-airways",
     "emirates",
+    "vueling",
+    "united-airlines-baggage-lithium-battery-rules",
+    "united",
+    "emirates-baggage-allowance",
+    "latam",
+    "lg-oled-c3-c4-vesa-mount-power",
+    "air-france-baggage-allowance",
+    "southwest-airlines-baggage-policy",
+    "lufthansa",
     "delta-air-lines-compatibility-matrix",
     "american",
-    "lufthansa-airlines-baggage-guide",
-    "air-france",
-    "emirates-baggage-allowance",
-    "easyjet",
-    "vueling-baggage-allowance",
-    "southwest-airlines-baggage-policy",
     "southwest",
-    "qatar-airways"
+    "delta",
+    "american-airlines-compatibility-matrix",
+    "latam-airlines-baggage-allowance",
+    "qatar-airways",
+    "air-france"
   ],
   "topics_backlog": [
     {
@@ -7287,6 +7289,326 @@
             {
               "q": "Mag ik naast mijn handbagage ook een persoonlijk item meenemen?",
               "a": "Ja, naast uw hoofdbagage mag u doorgaans één persoonlijk item meenemen, zoals een laptoptas, handtas of kleine rugzak die onder de stoel voor u past."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "latam",
+      "slug": "latam-airlines-baggage-allowance",
+      "subject": "LATAM Airlines",
+      "category": "airlines",
+      "spec_rows": [
+        {
+          "item": "Personal Item (Under-seat Bag)",
+          "metric": "45 x 35 x 20 cm",
+          "imperial": "17.7 x 13.8 x 7.9 in",
+          "status": "Verified",
+          "note": "Must fit under the seat in front of you. No specific weight limit provided, but should be reasonable for its size.",
+          "item_translations": {
+            "en": "Personal Item (Under-seat Bag)",
+            "de": "Persönlicher Gegenstand (Unter-Sitz-Tasche)",
+            "fr": "Article personnel (Sac sous le siège)",
+            "es": "Artículo Personal (Bolso bajo el asiento)",
+            "it": "Articolo Personale (Borsa sotto il sedile)",
+            "ja": "身の回り品（座席下バッグ）",
+            "pt": "Item Pessoal (Bolsa debaixo do assento)",
+            "nl": "Persoonlijk item (Tas onder de stoel)"
+          },
+          "note_translations": {
+            "en": "Must fit under the seat in front of you. No specific weight limit provided, but should be reasonable for its size.",
+            "de": "Muss unter den Vordersitz passen. Keine spezifische Gewichtsbeschränkung angegeben, sollte aber für die Größe angemessen sein.",
+            "fr": "Doit tenir sous le siège devant vous. Aucune limite de poids spécifique n'est fournie, mais elle doit être raisonnable pour sa taille.",
+            "es": "Debe caber debajo del asiento delantero. No se especifica un límite de peso, pero debe ser razonable para su tamaño.",
+            "it": "Deve stare sotto il sedile di fronte a te. Nessun limite di peso specifico fornito, ma dovrebbe essere ragionevole per le sue dimensioni.",
+            "ja": "前の座席の下に収まる必要があります。特定の重量制限は提供されていませんが、そのサイズに見合ったものであるべきです。",
+            "pt": "Deve caber debaixo do assento à sua frente. Não há limite de peso específico fornecido, mas deve ser razoável para o seu tamanho.",
+            "nl": "Moet onder de stoel voor u passen. Geen specifiek gewichtslimiet opgegeven, maar moet redelijk zijn voor de grootte."
+          }
+        },
+        {
+          "item": "Carry-on Baggage (Cabin Bag)",
+          "metric": "55 x 35 x 25 cm (Max 10 kg)",
+          "imperial": "21.7 x 13.8 x 9.8 in (Max 22 lbs)",
+          "status": "Verified",
+          "note": "Must fit in the overhead compartment. Weight limit applies.",
+          "item_translations": {
+            "en": "Carry-on Baggage (Cabin Bag)",
+            "de": "Handgepäck (Kabinentasche)",
+            "fr": "Bagage à main (Sac de cabine)",
+            "es": "Equipaje de Mano (Maleta de cabina)",
+            "it": "Bagaglio a Mano (Borsa da cabina)",
+            "ja": "機内持ち込み手荷物（キャビンバッグ）",
+            "pt": "Bagagem de Mão (Mala de cabine)",
+            "nl": "Handbagage (Cabine tas)"
+          },
+          "note_translations": {
+            "en": "Must fit in the overhead compartment. Weight limit applies.",
+            "de": "Muss in das Gepäckfach über dem Sitz passen. Gewichtsbeschränkung gilt.",
+            "fr": "Doit tenir dans le compartiment supérieur. La limite de poids s'applique.",
+            "es": "Debe caber en el compartimento superior. Se aplica el límite de peso.",
+            "it": "Deve stare nel vano portabagagli superiore. Si applica il limite di peso.",
+            "ja": "頭上の収納棚に収まる必要があります。重量制限が適用されます。",
+            "pt": "Deve caber no compartimento superior. O limite de peso se aplica.",
+            "nl": "Moet in het bagagevak boven de stoel passen. Gewichtslimiet is van toepassing."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "latam-airlines-baggage-allowance",
+          "title": "LATAM Airlines Baggage Allowance & Dimensions",
+          "summary": "Comprehensive guide to LATAM Airlines' personal item and carry-on baggage policies, including exact dimensions and weight limits for a smooth travel experience.",
+          "amazon_search_query": "LATAM personal item bag, LATAM carry on luggage, underseat bag 45x35x20cm, carry on suitcase 55x35x25cm",
+          "buy_box_title": "Recommended Bags for LATAM Airlines",
+          "buy_box_subtitle": "Travel with confidence knowing your luggage meets LATAM's strict requirements.",
+          "allowed_guidelines": [
+            "One personal item that fits under the seat (e.g., backpack, handbag).",
+            "One carry-on bag that fits in the overhead compartment.",
+            "Ensure all items comply with the specified dimensions and weight limits."
+          ],
+          "strict_restrictions": [
+            "Exceeding dimensions or weight for carry-on may result in checked bag fees.",
+            "Personal items must fit completely under the seat.",
+            "Sharp objects, flammable materials, and certain liquids are prohibited in carry-on."
+          ],
+          "faqs": [
+            {
+              "q": "What is LATAM's personal item size?",
+              "a": "LATAM allows one personal item with maximum dimensions of 45 x 35 x 20 cm (17.7 x 13.8 x 7.9 inches)."
+            },
+            {
+              "q": "What is LATAM's carry-on baggage size and weight limit?",
+              "a": "LATAM's carry-on baggage must not exceed 55 x 35 x 25 cm (21.7 x 13.8 x 9.8 inches) and a maximum weight of 10 kg (22 lbs)."
+            },
+            {
+              "q": "Can I bring a laptop bag in addition to my carry-on?",
+              "a": "A laptop bag is generally considered a personal item and must fit within the personal item dimensions (45 x 35 x 20 cm) and under the seat."
+            }
+          ]
+        },
+        "de": {
+          "slug": "latam-airlines-gepaeckbestimmungen",
+          "title": "LATAM Airlines Gepäckbestimmungen & Abmessungen",
+          "summary": "Umfassender Leitfaden zu den Richtlinien von LATAM Airlines für persönliche Gegenstände und Handgepäck, einschließlich genauer Abmessungen und Gewichtsbeschränkungen für ein reibungsloses Reiseerlebnis.",
+          "amazon_search_query": "LATAM persönlicher Gegenstand Tasche, LATAM Handgepäck, Unter-Sitz-Tasche 45x35x20cm, Handgepäck Koffer 55x35x25cm",
+          "buy_box_title": "Empfohlene Taschen für LATAM Airlines",
+          "buy_box_subtitle": "Reisen Sie mit Vertrauen, da Ihr Gepäck den strengen Anforderungen von LATAM entspricht.",
+          "allowed_guidelines": [
+            "Ein persönlicher Gegenstand, der unter den Sitz passt (z.B. Rucksack, Handtasche).",
+            "Ein Handgepäckstück, das in das Gepäckfach über dem Sitz passt.",
+            "Stellen Sie sicher, dass alle Gegenstände den angegebenen Abmessungen und Gewichtsbeschränkungen entsprechen."
+          ],
+          "strict_restrictions": [
+            "Überschreitung der Abmessungen oder des Gewichts für Handgepäck kann zu Gebühren für aufgegebenes Gepäck führen.",
+            "Persönliche Gegenstände müssen vollständig unter den Sitz passen.",
+            "Scharfe Gegenstände, brennbare Materialien und bestimmte Flüssigkeiten sind im Handgepäck verboten."
+          ],
+          "faqs": [
+            {
+              "q": "Wie groß darf ein persönlicher Gegenstand bei LATAM sein?",
+              "a": "LATAM erlaubt einen persönlichen Gegenstand mit maximalen Abmessungen von 45 x 35 x 20 cm (17.7 x 13.8 x 7.9 Zoll)."
+            },
+            {
+              "q": "Wie groß und schwer darf das Handgepäck bei LATAM sein?",
+              "a": "Das Handgepäck von LATAM darf 55 x 35 x 25 cm (21.7 x 13.8 x 9.8 Zoll) und ein Maximalgewicht von 10 kg (22 lbs) nicht überschreiten."
+            },
+            {
+              "q": "Kann ich zusätzlich zu meinem Handgepäck eine Laptoptasche mitnehmen?",
+              "a": "Eine Laptoptasche gilt im Allgemeinen als persönlicher Gegenstand und muss innerhalb der Abmessungen für persönliche Gegenstände (45 x 35 x 20 cm) unter den Sitz passen."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "latam-airlines-franchise-bagages",
+          "title": "Franchise Bagages & Dimensions LATAM Airlines",
+          "summary": "Guide complet des politiques de LATAM Airlines concernant les articles personnels et les bagages à main, y compris les dimensions exactes et les limites de poids pour une expérience de voyage fluide.",
+          "amazon_search_query": "LATAM sac article personnel, LATAM bagage cabine, sac sous siège 45x35x20cm, valise cabine 55x35x25cm",
+          "buy_box_title": "Sacs Recommandés pour LATAM Airlines",
+          "buy_box_subtitle": "Voyagez en toute confiance en sachant que vos bagages respectent les exigences strictes de LATAM.",
+          "allowed_guidelines": [
+            "Un article personnel qui tient sous le siège (par exemple, sac à dos, sac à main).",
+            "Un bagage à main qui tient dans le compartiment supérieur.",
+            "Assurez-vous que tous les articles respectent les dimensions et les limites de poids spécifiées."
+          ],
+          "strict_restrictions": [
+            "Le dépassement des dimensions ou du poids pour les bagages à main peut entraîner des frais de bagages enregistrés.",
+            "Les articles personnels doivent tenir entièrement sous le siège.",
+            "Les objets tranchants, les matériaux inflammables et certains liquides sont interdits en cabine."
+          ],
+          "faqs": [
+            {
+              "q": "Quelle est la taille d'un article personnel chez LATAM ?",
+              "a": "LATAM autorise un article personnel avec des dimensions maximales de 45 x 35 x 20 cm (17.7 x 13.8 x 7.9 pouces)."
+            },
+            {
+              "q": "Quelle est la taille et le poids maximum pour un bagage à main chez LATAM ?",
+              "a": "Le bagage à main de LATAM ne doit pas dépasser 55 x 35 x 25 cm (21.7 x 13.8 x 9.8 pouces) et un poids maximal de 10 kg (22 lbs)."
+            },
+            {
+              "q": "Puis-je apporter une sacoche d'ordinateur portable en plus de mon bagage à main ?",
+              "a": "Une sacoche d'ordinateur portable est généralement considérée comme un article personnel et doit respecter les dimensions de l'article personnel (45 x 35 x 20 cm) et tenir sous le siège."
+            }
+          ]
+        },
+        "es": {
+          "slug": "latam-airlines-franquicia-equipaje",
+          "title": "Franquicia y Dimensiones de Equipaje LATAM Airlines",
+          "summary": "Guía completa sobre las políticas de LATAM Airlines para artículos personales y equipaje de mano, incluyendo dimensiones exactas y límites de peso para una experiencia de viaje sin problemas.",
+          "amazon_search_query": "LATAM bolso personal, LATAM equipaje de mano, mochila bajo asiento 45x35x20cm, maleta de cabina 55x35x25cm",
+          "buy_box_title": "Bolsos Recomendados para LATAM Airlines",
+          "buy_box_subtitle": "Viaja con confianza sabiendo que tu equipaje cumple con los estrictos requisitos de LATAM.",
+          "allowed_guidelines": [
+            "Un artículo personal que quepa debajo del asiento (por ejemplo, mochila, bolso de mano).",
+            "Una maleta de mano que quepa en el compartimento superior.",
+            "Asegúrate de que todos los artículos cumplan con las dimensiones y límites de peso especificados."
+          ],
+          "strict_restrictions": [
+            "Exceder las dimensiones o el peso del equipaje de mano puede resultar en cargos por equipaje facturado.",
+            "Los artículos personales deben caber completamente debajo del asiento.",
+            "Objetos punzantes, materiales inflamables y ciertos líquidos están prohibidos en el equipaje de mano."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuál es el tamaño permitido para un artículo personal en LATAM?",
+              "a": "LATAM permite un artículo personal con dimensiones máximas de 45 x 35 x 20 cm (17.7 x 13.8 x 7.9 pulgadas)."
+            },
+            {
+              "q": "¿Cuál es el tamaño y peso máximo para el equipaje de mano en LATAM?",
+              "a": "El equipaje de mano de LATAM no debe exceder 55 x 35 x 25 cm (21.7 x 13.8 x 9.8 pulgadas) y un peso máximo de 10 kg (22 lbs)."
+            },
+            {
+              "q": "¿Puedo llevar una bolsa para laptop además de mi equipaje de mano?",
+              "a": "Una bolsa para laptop generalmente se considera un artículo personal y debe caber dentro de las dimensiones del artículo personal (45 x 35 x 20 cm) y debajo del asiento."
+            }
+          ]
+        },
+        "it": {
+          "slug": "latam-airlines-franchigia-bagaglio",
+          "title": "Franchigia Bagaglio & Dimensioni LATAM Airlines",
+          "summary": "Guida completa alle politiche di LATAM Airlines per gli articoli personali e il bagaglio a mano, incluse le dimensioni esatte e i limiti di peso per un'esperienza di viaggio senza intoppi.",
+          "amazon_search_query": "LATAM borsa articolo personale, LATAM bagaglio a mano, borsa sottosedile 45x35x20cm, valigia a mano 55x35x25cm",
+          "buy_box_title": "Borse Consigliate per LATAM Airlines",
+          "buy_box_subtitle": "Viaggia con fiducia sapendo che il tuo bagaglio soddisfa i rigorosi requisiti di LATAM.",
+          "allowed_guidelines": [
+            "Un articolo personale che si adatta sotto il sedile (es. zaino, borsa).",
+            "Un bagaglio a mano che si adatta nel vano portabagagli superiore.",
+            "Assicurati che tutti gli articoli rispettino le dimensioni e i limiti di peso specificati."
+          ],
+          "strict_restrictions": [
+            "Il superamento delle dimensioni o del peso per il bagaglio a mano può comportare costi aggiuntivi per il bagaglio registrato.",
+            "Gli articoli personali devono stare completamente sotto il sedile.",
+            "Oggetti appuntiti, materiali infiammabili e alcuni liquidi sono proibiti nel bagaglio a mano."
+          ],
+          "faqs": [
+            {
+              "q": "Qual è la dimensione dell'articolo personale di LATAM?",
+              "a": "LATAM consente un articolo personale con dimensioni massime di 45 x 35 x 20 cm (17.7 x 13.8 x 7.9 pollici)."
+            },
+            {
+              "q": "Quali sono le dimensioni e il limite di peso del bagaglio a mano di LATAM?",
+              "a": "Il bagaglio a mano di LATAM non deve superare 55 x 35 x 25 cm (21.7 x 13.8 x 9.8 pollici) e un peso massimo di 10 kg (22 lbs)."
+            },
+            {
+              "q": "Posso portare una borsa per laptop oltre al mio bagaglio a mano?",
+              "a": "Una borsa per laptop è generalmente considerata un articolo personale e deve rientrare nelle dimensioni dell'articolo personale (45 x 35 x 20 cm) e sotto il sedile."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "latam-airlines-baggage-allowance",
+          "title": "LATAM航空 手荷物許容量と寸法",
+          "summary": "LATAM航空の身の回り品および機内持ち込み手荷物に関する包括的なガイド。スムーズな旅行体験のための正確な寸法と重量制限が含まれています。",
+          "amazon_search_query": "LATAM 身の回り品 バッグ, LATAM 機内持ち込み手荷物, 座席下バッグ 45x35x20cm, 機内持ち込みスーツケース 55x35x25cm",
+          "buy_box_title": "LATAM航空におすすめのバッグ",
+          "buy_box_subtitle": "LATAMの厳格な要件を満たしていることを確認して、自信を持って旅行しましょう。",
+          "allowed_guidelines": [
+            "座席の下に収まる身の回り品1点（例：バックパック、ハンドバッグ）。",
+            "頭上の収納棚に収まる機内持ち込み手荷物1点。",
+            "すべての品目が指定された寸法と重量制限に準拠していることを確認してください。"
+          ],
+          "strict_restrictions": [
+            "機内持ち込み手荷物の寸法または重量を超過すると、預け入れ手荷物料金が発生する場合があります。",
+            "身の回り品は完全に座席の下に収まる必要があります。",
+            "鋭利な物、可燃物、特定の液体は機内持ち込み手荷物として禁止されています。"
+          ],
+          "faqs": [
+            {
+              "q": "LATAM航空の身の回り品のサイズは？",
+              "a": "LATAM航空では、最大寸法45 x 35 x 20 cm（17.7 x 13.8 x 7.9インチ）の身の回り品1点が許可されています。"
+            },
+            {
+              "q": "LATAM航空の機内持ち込み手荷物のサイズと重量制限は？",
+              "a": "LATAM航空の機内持ち込み手荷物は、55 x 35 x 25 cm（21.7 x 13.8 x 9.8インチ）を超えず、最大重量10 kg（22ポンド）である必要があります。"
+            },
+            {
+              "q": "機内持ち込み手荷物とは別にラップトップバッグを持ち込めますか？",
+              "a": "ラップトップバッグは通常、身の回り品と見なされ、身の回り品の寸法（45 x 35 x 20 cm）内に収まり、座席の下に置く必要があります。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "latam-airlines-franquia-bagagem",
+          "title": "Franquia e Dimensões de Bagagem LATAM Airlines",
+          "summary": "Guia completo sobre as políticas da LATAM Airlines para itens pessoais e bagagem de mão, incluindo dimensões exatas e limites de peso para uma experiência de viagem tranquila.",
+          "amazon_search_query": "LATAM bolsa item pessoal, LATAM bagagem de mão, bolsa debaixo do assento 45x35x20cm, mala de cabine 55x35x25cm",
+          "buy_box_title": "Bolsas Recomendadas para LATAM Airlines",
+          "buy_box_subtitle": "Viaje com confiança sabendo que sua bagagem atende aos rigorosos requisitos da LATAM.",
+          "allowed_guidelines": [
+            "Um item pessoal que caiba debaixo do assento (ex: mochila, bolsa).",
+            "Uma bagagem de mão que caiba no compartimento superior.",
+            "Certifique-se de que todos os itens cumpram as dimensões e limites de peso especificados."
+          ],
+          "strict_restrictions": [
+            "Exceder as dimensões ou o peso da bagagem de mão pode resultar em taxas de bagagem despachada.",
+            "Itens pessoais devem caber completamente debaixo do assento.",
+            "Objetos pontiagudos, materiais inflamáveis e certos líquidos são proibidos na bagagem de mão."
+          ],
+          "faqs": [
+            {
+              "q": "Qual o tamanho do item pessoal da LATAM?",
+              "a": "A LATAM permite um item pessoal com dimensões máximas de 45 x 35 x 20 cm (17.7 x 13.8 x 7.9 polegadas)."
+            },
+            {
+              "q": "Qual o tamanho e limite de peso da bagagem de mão da LATAM?",
+              "a": "A bagagem de mão da LATAM não deve exceder 55 x 35 x 25 cm (21.7 x 13.8 x 9.8 polegadas) e um peso máximo de 10 kg (22 lbs)."
+            },
+            {
+              "q": "Posso levar uma bolsa para laptop além da minha bagagem de mão?",
+              "a": "Uma bolsa para laptop é geralmente considerada um item pessoal e deve caber dentro das dimensões do item pessoal (45 x 35 x 20 cm) e debaixo do assento."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "latam-airlines-bagagevrijstelling",
+          "title": "LATAM Airlines Bagagevrijstelling & Afmetingen",
+          "summary": "Uitgebreide gids voor het beleid van LATAM Airlines voor persoonlijke items en handbagage, inclusief exacte afmetingen en gewichtslimieten voor een soepele reiservaring.",
+          "amazon_search_query": "LATAM persoonlijk item tas, LATAM handbagage, onderstoeltas 45x35x20cm, handbagage koffer 55x35x25cm",
+          "buy_box_title": "Aanbevolen tassen voor LATAM Airlines",
+          "buy_box_subtitle": "Reis met vertrouwen, wetende dat uw bagage voldoet aan de strenge eisen van LATAM.",
+          "allowed_guidelines": [
+            "Eén persoonlijk item dat onder de stoel past (bijv. rugzak, handtas).",
+            "Eén handbagage die in het bagagevak boven de stoel past.",
+            "Zorg ervoor dat alle items voldoen aan de gespecificeerde afmetingen en gewichtslimieten."
+          ],
+          "strict_restrictions": [
+            "Het overschrijden van afmetingen of gewicht voor handbagage kan leiden tot kosten voor ingecheckte bagage.",
+            "Persoonlijke items moeten volledig onder de stoel passen.",
+            "Scherpe voorwerpen, brandbare materialen en bepaalde vloeistoffen zijn verboden in handbagage."
+          ],
+          "faqs": [
+            {
+              "q": "Wat is de afmeting van een persoonlijk item bij LATAM?",
+              "a": "LATAM staat één persoonlijk item toe met maximale afmetingen van 45 x 35 x 20 cm (17.7 x 13.8 x 7.9 inch)."
+            },
+            {
+              "q": "Wat zijn de afmetingen en het gewichtslimiet voor handbagage bij LATAM?",
+              "a": "De handbagage van LATAM mag niet groter zijn dan 55 x 35 x 25 cm (21.7 x 13.8 x 9.8 inch) en een maximaal gewicht van 10 kg (22 lbs)."
+            },
+            {
+              "q": "Kan ik een laptoptas meenemen naast mijn handbagage?",
+              "a": "Een laptoptas wordt over het algemeen beschouwd als een persoonlijk item en moet binnen de afmetingen van het persoonlijke item (45 x 35 x 20 cm) passen en onder de stoel worden geplaatst."
             }
           ]
         }
