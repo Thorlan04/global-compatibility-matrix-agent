@@ -1,41 +1,43 @@
 {
-  "last_updated": "2026-10-24T15:18:53.143475+00:00",
+  "last_updated": "2026-10-24T20:09:45.538305+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "ryanair-cabin-baggage-dimensions",
-    "ana-japan-airlines-carry-on-luggage-compatibility",
-    "transavia",
-    "transavia-baggage-allowance",
-    "qantas",
     "easyjet-baggage-powerbank-guide",
-    "qantas-carry-on-baggage-allowance",
-    "wizz-air",
-    "ana-jal",
-    "lufthansa-airlines-baggage-guide",
-    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "delta",
+    "american",
+    "british-airways",
+    "samsung-neo-qled-oled-tv-compatibility-matrix",
     "easyjet",
-    "air-canada",
+    "lg-oled-c3-c4-vesa-mount-power",
+    "american-airlines-compatibility-matrix",
+    "united",
+    "transavia",
+    "emirates",
+    "southwest-airlines-baggage-policy",
+    "united-airlines-baggage-lithium-battery-rules",
+    "ana-japan-airlines-carry-on-luggage-compatibility",
+    "ana-jal",
+    "qantas",
+    "delta-air-lines-compatibility-matrix",
+    "ryanair-cabin-baggage-dimensions",
     "vueling-baggage-allowance",
     "qatar-airways-baggage-power-bank-guide",
-    "british-airways",
-    "emirates",
-    "vueling",
-    "united-airlines-baggage-lithium-battery-rules",
-    "united",
+    "wizz-air",
+    "qantas-carry-on-baggage-allowance",
+    "southwest",
+    "lufthansa",
+    "latam-airlines-baggage-allowance",
+    "lufthansa-airlines-baggage-guide",
+    "samsung-qled",
+    "transavia-baggage-allowance",
     "emirates-baggage-allowance",
     "latam",
-    "lg-oled-c3-c4-vesa-mount-power",
     "air-france-baggage-allowance",
-    "southwest-airlines-baggage-policy",
-    "lufthansa",
-    "delta-air-lines-compatibility-matrix",
-    "american",
-    "southwest",
-    "delta",
-    "american-airlines-compatibility-matrix",
-    "latam-airlines-baggage-allowance",
+    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "vueling",
     "qatar-airways",
+    "air-canada",
     "air-france"
   ],
   "topics_backlog": [
@@ -7609,6 +7611,639 @@
             {
               "q": "Kan ik een laptoptas meenemen naast mijn handbagage?",
               "a": "Een laptoptas wordt over het algemeen beschouwd als een persoonlijk item en moet binnen de afmetingen van het persoonlijke item (45 x 35 x 20 cm) passen en onder de stoel worden geplaatst."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "samsung-neo-qled-oled-tv-compatibility",
+      "slug": "samsung-neo-qled-oled-tv-compatibility-matrix",
+      "subject": "Samsung Neo QLED & OLED TVs (55/65/75)",
+      "category": "hardware",
+      "spec_rows": [
+        {
+          "item": "VESA Mounting Pattern (55-inch)",
+          "metric": "200x200 mm, 400x300 mm",
+          "imperial": "7.9x7.9 in, 15.7x11.8 in",
+          "status": "Verified",
+          "note": "Common patterns for 55-inch Neo QLED (e.g., QN90C) and OLED (e.g., S90C) models. Always verify with your specific model's manual.",
+          "item_translations": {
+            "en": "VESA Mounting Pattern (55-inch)",
+            "de": "VESA-Montagemuster (55 Zoll)",
+            "fr": "Modèle de montage VESA (55 pouces)",
+            "es": "Patrón de montaje VESA (55 pulgadas)",
+            "it": "Schema di montaggio VESA (55 pollici)",
+            "ja": "VESA取り付けパターン (55インチ)",
+            "pt": "Padrão de Montagem VESA (55 polegadas)",
+            "nl": "VESA-montagepatroon (55 inch)"
+          },
+          "note_translations": {
+            "en": "Common patterns for 55-inch Neo QLED (e.g., QN90C) and OLED (e.g., S90C) models. Always verify with your specific model's manual.",
+            "de": "Gängige Muster für 55-Zoll Neo QLED (z.B. QN90C) und OLED (z.B. S90C) Modelle. Überprüfen Sie dies immer im Handbuch Ihres spezifischen Modells.",
+            "fr": "Modèles courants pour les téléviseurs Neo QLED (par exemple, QN90C) et OLED (par exemple, S90C) de 55 pouces. Vérifiez toujours avec le manuel de votre modèle spécifique.",
+            "es": "Patrones comunes para modelos Neo QLED (por ejemplo, QN90C) y OLED (por ejemplo, S90C) de 55 pulgadas. Siempre verifique con el manual de su modelo específico.",
+            "it": "Schemi comuni per i modelli Neo QLED (es. QN90C) e OLED (es. S90C) da 55 pollici. Verificare sempre con il manuale del proprio modello specifico.",
+            "ja": "55インチのNeo QLED（例：QN90C）およびOLED（例：S90C）モデルの一般的なパターンです。必ずお使いのモデルの取扱説明書でご確認ください。",
+            "pt": "Padrões comuns para modelos Neo QLED (ex: QN90C) e OLED (ex: S90C) de 55 polegadas. Sempre verifique com o manual do seu modelo específico.",
+            "nl": "Gangbare patronen voor 55-inch Neo QLED (bijv. QN90C) en OLED (bijv. S90C) modellen. Controleer altijd de handleiding van uw specifieke model."
+          }
+        },
+        {
+          "item": "VESA Mounting Pattern (65-inch)",
+          "metric": "400x300 mm, 400x400 mm",
+          "imperial": "15.7x11.8 in, 15.7x15.7 in",
+          "status": "Verified",
+          "note": "Common patterns for 65-inch Neo QLED (e.g., QN90C) and OLED (e.g., S90C) models. Always verify with your specific model's manual.",
+          "item_translations": {
+            "en": "VESA Mounting Pattern (65-inch)",
+            "de": "VESA-Montagemuster (65 Zoll)",
+            "fr": "Modèle de montage VESA (65 pouces)",
+            "es": "Patrón de montaje VESA (65 pulgadas)",
+            "it": "Schema di montaggio VESA (65 pollici)",
+            "ja": "VESA取り付けパターン (65インチ)",
+            "pt": "Padrão de Montagem VESA (65 polegadas)",
+            "nl": "VESA-montagepatroon (65 inch)"
+          },
+          "note_translations": {
+            "en": "Common patterns for 65-inch Neo QLED (e.g., QN90C) and OLED (e.g., S90C) models. Always verify with your specific model's manual.",
+            "de": "Gängige Muster für 65-Zoll Neo QLED (z.B. QN90C) und OLED (z.B. S90C) Modelle. Überprüfen Sie dies immer im Handbuch Ihres spezifischen Modells.",
+            "fr": "Modèles courants pour les téléviseurs Neo QLED (par exemple, QN90C) et OLED (par exemple, S90C) de 65 pouces. Vérifiez toujours avec le manuel de votre modèle spécifique.",
+            "es": "Patrones comunes para modelos Neo QLED (por ejemplo, QN90C) y OLED (por ejemplo, S90C) de 65 pulgadas. Siempre verifique con el manual de su modelo específico.",
+            "it": "Schemi comuni per i modelli Neo QLED (es. QN90C) e OLED (es. S90C) da 65 pollici. Verificare sempre con il manuale del proprio modello specifico.",
+            "ja": "65インチのNeo QLED（例：QN90C）およびOLED（例：S90C）モデルの一般的なパターンです。必ずお使いのモデルの取扱説明書でご確認ください。",
+            "pt": "Padrões comuns para modelos Neo QLED (ex: QN90C) e OLED (ex: S90C) de 65 polegadas. Sempre verifique com o manual do seu modelo específico.",
+            "nl": "Gangbare patronen voor 65-inch Neo QLED (bijv. QN90C) en OLED (bijv. S90C) modellen. Controleer altijd de handleiding van uw specifieke model."
+          }
+        },
+        {
+          "item": "VESA Mounting Pattern (75-inch)",
+          "metric": "400x400 mm",
+          "imperial": "15.7x15.7 in",
+          "status": "Verified",
+          "note": "Common pattern for 75-inch Neo QLED (e.g., QN90C, QN95C) and OLED (e.g., S90C) models. Always verify with your specific model's manual.",
+          "item_translations": {
+            "en": "VESA Mounting Pattern (75-inch)",
+            "de": "VESA-Montagemuster (75 Zoll)",
+            "fr": "Modèle de montage VESA (75 pouces)",
+            "es": "Patrón de montaje VESA (75 pulgadas)",
+            "it": "Schema di montaggio VESA (75 pollici)",
+            "ja": "VESA取り付けパターン (75インチ)",
+            "pt": "Padrão de Montagem VESA (75 polegadas)",
+            "nl": "VESA-montagepatroon (75 inch)"
+          },
+          "note_translations": {
+            "en": "Common pattern for 75-inch Neo QLED (e.g., QN90C, QN95C) and OLED (e.g., S90C) models. Always verify with your specific model's manual.",
+            "de": "Gängiges Muster für 75-Zoll Neo QLED (z.B. QN90C, QN95C) und OLED (z.B. S90C) Modelle. Überprüfen Sie dies immer im Handbuch Ihres spezifischen Modells.",
+            "fr": "Modèle courant pour les téléviseurs Neo QLED (par exemple, QN90C, QN95C) et OLED (par exemple, S90C) de 75 pouces. Vérifiez toujours avec le manuel de votre modèle spécifique.",
+            "es": "Patrón común para modelos Neo QLED (por ejemplo, QN90C, QN95C) y OLED (por ejemplo, S90C) de 75 pulgadas. Siempre verifique con el manual de su modelo específico.",
+            "it": "Schema comune per i modelli Neo QLED (es. QN90C, QN95C) e OLED (es. S90C) da 75 pollici. Verificare sempre con il manuale del proprio modello specifico.",
+            "ja": "75インチのNeo QLED（例：QN90C、QN95C）およびOLED（例：S90C）モデルの一般的なパターンです。必ずお使いのモデルの取扱説明書でご確認ください。",
+            "pt": "Padrão comum para modelos Neo QLED (ex: QN90C, QN95C) e OLED (ex: S90C) de 75 polegadas. Sempre verifique com o manual do seu modelo específico.",
+            "nl": "Gangbaar patroon voor 75-inch Neo QLED (bijv. QN90C, QN95C) en OLED (bijv. S90C) modellen. Controleer altijd de handleiding van uw specifieke model."
+          }
+        },
+        {
+          "item": "VESA Screw Type & Length",
+          "metric": "M8 (10-12 mm length)",
+          "imperial": "M8 (0.39-0.47 inches length)",
+          "status": "Compliant",
+          "note": "Always verify exact screw length with TV manual to prevent damage. Do not exceed 13mm insertion depth. Use spacers if necessary.",
+          "item_translations": {
+            "en": "VESA Screw Type & Length",
+            "de": "VESA-Schraubentyp & -Länge",
+            "fr": "Type et longueur de vis VESA",
+            "es": "Tipo y longitud de tornillo VESA",
+            "it": "Tipo e lunghezza della vite VESA",
+            "ja": "VESAネジの種類と長さ",
+            "pt": "Tipo e Comprimento do Parafuso VESA",
+            "nl": "VESA-schroeftype & -lengte"
+          },
+          "note_translations": {
+            "en": "Always verify exact screw length with TV manual to prevent damage. Do not exceed 13mm insertion depth. Use spacers if necessary.",
+            "de": "Überprüfen Sie immer die genaue Schraubenlänge im TV-Handbuch, um Schäden zu vermeiden. Überschreiten Sie nicht 13 mm Einschraubtiefe. Verwenden Sie bei Bedarf Abstandshalter.",
+            "fr": "Vérifiez toujours la longueur exacte de la vis dans le manuel du téléviseur pour éviter tout dommage. Ne dépassez pas une profondeur d'insertion de 13 mm. Utilisez des entretoises si nécessaire.",
+            "es": "Verifique siempre la longitud exacta del tornillo con el manual del televisor para evitar daños. No exceda una profundidad de inserción de 13 mm. Use espaciadores si es necesario.",
+            "it": "Verificare sempre la lunghezza esatta della vite con il manuale del televisore per prevenire danni. Non superare i 13 mm di profondità di inserimento. Utilizzare distanziali se necessario.",
+            "ja": "損傷を防ぐため、テレビの取扱説明書で正確なネジの長さを必ず確認してください。挿入深さは13mmを超えないでください。必要に応じてスペーサーを使用してください。",
+            "pt": "Sempre verifique o comprimento exato do parafuso no manual da TV para evitar danos. Não exceda 13 mm de profundidade de inserção. Use espaçadores se necessário.",
+            "nl": "Controleer altijd de exacte schroeflengte in de tv-handleiding om schade te voorkomen. Overschrijd een insteekdiepte van 13 mm niet. Gebruik indien nodig afstandhouders."
+          }
+        },
+        {
+          "item": "Typical Weight (55-inch, without stand)",
+          "metric": "16.1 - 17.7 kg",
+          "imperial": "35.5 - 39.0 lbs",
+          "status": "Verified",
+          "note": "Weight varies between Neo QLED (e.g., QN90C) and OLED (e.g., S90C) models. Ensure your mount supports this weight plus accessories.",
+          "item_translations": {
+            "en": "Typical Weight (55-inch, without stand)",
+            "de": "Typisches Gewicht (55 Zoll, ohne Standfuß)",
+            "fr": "Poids typique (55 pouces, sans support)",
+            "es": "Peso típico (55 pulgadas, sin soporte)",
+            "it": "Peso tipico (55 pollici, senza supporto)",
+            "ja": "標準重量 (55インチ、スタンドなし)",
+            "pt": "Peso Típico (55 polegadas, sem suporte)",
+            "nl": "Typisch gewicht (55 inch, zonder standaard)"
+          },
+          "note_translations": {
+            "en": "Weight varies between Neo QLED (e.g., QN90C) and OLED (e.g., S90C) models. Ensure your mount supports this weight plus accessories.",
+            "de": "Das Gewicht variiert zwischen Neo QLED (z.B. QN90C) und OLED (z.B. S90C) Modellen. Stellen Sie sicher, dass Ihre Halterung dieses Gewicht plus Zubehör trägt.",
+            "fr": "Le poids varie entre les modèles Neo QLED (par exemple, QN90C) et OLED (par exemple, S90C). Assurez-vous que votre support peut supporter ce poids plus les accessoires.",
+            "es": "El peso varía entre los modelos Neo QLED (por ejemplo, QN90C) y OLED (por ejemplo, S90C). Asegúrese de que su soporte admita este peso más los accesorios.",
+            "it": "Il peso varia tra i modelli Neo QLED (es. QN90C) e OLED (es. S90C). Assicurarsi che il supporto regga questo peso più gli accessori.",
+            "ja": "重量はNeo QLED（例：QN90C）とOLED（例：S90C）モデル間で異なります。マウントがこの重量とアクセサリーを支えられることを確認してください。",
+            "pt": "O peso varia entre os modelos Neo QLED (ex: QN90C) e OLED (ex: S90C). Certifique-se de que o seu suporte aguenta este peso mais os acessórios.",
+            "nl": "Het gewicht varieert tussen Neo QLED (bijv. QN90C) en OLED (bijv. S90C) modellen. Zorg ervoor dat uw beugel dit gewicht plus accessoires ondersteunt."
+          }
+        },
+        {
+          "item": "Typical Weight (65-inch, without stand)",
+          "metric": "20.9 - 24.4 kg",
+          "imperial": "46.1 - 53.8 lbs",
+          "status": "Verified",
+          "note": "Weight varies between Neo QLED (e.g., QN90C) and OLED (e.g., S90C) models. Ensure your mount supports this weight plus accessories.",
+          "item_translations": {
+            "en": "Typical Weight (65-inch, without stand)",
+            "de": "Typisches Gewicht (65 Zoll, ohne Standfuß)",
+            "fr": "Poids typique (65 pouces, sans support)",
+            "es": "Peso típico (65 pulgadas, sin soporte)",
+            "it": "Peso tipico (65 pollici, senza supporto)",
+            "ja": "標準重量 (65インチ、スタンドなし)",
+            "pt": "Peso Típico (65 polegadas, sem suporte)",
+            "nl": "Typisch gewicht (65 inch, zonder standaard)"
+          },
+          "note_translations": {
+            "en": "Weight varies between Neo QLED (e.g., QN90C) and OLED (e.g., S90C) models. Ensure your mount supports this weight plus accessories.",
+            "de": "Das Gewicht variiert zwischen Neo QLED (z.B. QN90C) und OLED (z.B. S90C) Modellen. Stellen Sie sicher, dass Ihre Halterung dieses Gewicht plus Zubehör trägt.",
+            "fr": "Le poids varie entre les modèles Neo QLED (par exemple, QN90C) et OLED (par exemple, S90C). Assurez-vous que votre support peut supporter ce poids plus les accessoires.",
+            "es": "El peso varía entre los modelos Neo QLED (por ejemplo, QN90C) y OLED (por ejemplo, S90C). Asegúrese de que su soporte admita este peso más los accesorios.",
+            "it": "Il peso varia tra i modelli Neo QLED (es. QN90C) e OLED (es. S90C). Assicurarsi che il supporto regga questo peso più gli accessori.",
+            "ja": "重量はNeo QLED（例：QN90C）とOLED（例：S90C）モデル間で異なります。マウントがこの重量とアクセサリーを支えられることを確認してください。",
+            "pt": "O peso varia entre os modelos Neo QLED (ex: QN90C) e OLED (ex: S90C). Certifique-se de que o seu suporte aguenta este peso mais os acessórios.",
+            "nl": "Het gewicht varieert tussen Neo QLED (bijv. QN90C) en OLED (bijv. S90C) modellen. Zorg ervoor dat uw beugel dit gewicht plus accessoires ondersteunt."
+          }
+        },
+        {
+          "item": "Typical Weight (75-inch, without stand)",
+          "metric": "28.3 - 35.0 kg",
+          "imperial": "62.4 - 77.2 lbs",
+          "status": "Verified",
+          "note": "Weight varies between Neo QLED (e.g., QN90C, QN95C) and OLED (e.g., S90C) models. Ensure your mount supports this weight plus accessories.",
+          "item_translations": {
+            "en": "Typical Weight (75-inch, without stand)",
+            "de": "Typisches Gewicht (75 Zoll, ohne Standfuß)",
+            "fr": "Poids typique (75 pouces, sans support)",
+            "es": "Peso típico (75 pulgadas, sin soporte)",
+            "it": "Peso tipico (75 pollici, senza supporto)",
+            "ja": "標準重量 (75インチ、スタンドなし)",
+            "pt": "Peso Típico (75 polegadas, sem suporte)",
+            "nl": "Typisch gewicht (75 inch, zonder standaard)"
+          },
+          "note_translations": {
+            "en": "Weight varies between Neo QLED (e.g., QN90C, QN95C) and OLED (e.g., S90C) models. Ensure your mount supports this weight plus accessories.",
+            "de": "Das Gewicht variiert zwischen Neo QLED (z.B. QN90C, QN95C) und OLED (z.B. S90C) Modellen. Stellen Sie sicher, dass Ihre Halterung dieses Gewicht plus Zubehör trägt.",
+            "fr": "Le poids varie entre les modèles Neo QLED (par exemple, QN90C, QN95C) et OLED (par exemple, S90C). Assurez-vous que votre support peut supporter ce poids plus les accessoires.",
+            "es": "El peso varía entre los modelos Neo QLED (por ejemplo, QN90C, QN95C) y OLED (por ejemplo, S90C). Asegúrese de que su soporte admita este peso más los accesorios.",
+            "it": "Il peso varia tra i modelli Neo QLED (es. QN90C, QN95C) e OLED (es. S90C). Assicurarsi che il supporto regga questo peso più gli accessori.",
+            "ja": "重量はNeo QLED（例：QN90C、QN95C）とOLED（例：S90C）モデル間で異なります。マウントがこの重量とアクセサリーを支えられることを確認してください。",
+            "pt": "O peso varia entre os modelos Neo QLED (ex: QN90C, QN95C) e OLED (ex: S90C). Certifique-se de que o seu suporte aguenta este peso mais os acessórios.",
+            "nl": "Het gewicht varieert tussen Neo QLED (bijv. QN90C, QN95C) en OLED (bijv. S90C) modellen. Zorg ervoor dat uw beugel dit gewicht plus accessoires ondersteunt."
+          }
+        },
+        {
+          "item": "Typical Dimensions (55-inch, without stand)",
+          "metric": "122.5-122.7 x 70.6-70.8 x 2.7-3.9 cm (WxHxD)",
+          "imperial": "48.2-48.3 x 27.8-27.9 x 1.1-1.5 in (WxHxD)",
+          "status": "Verified",
+          "note": "Dimensions vary slightly between Neo QLED and OLED models due to panel and chassis differences. Consider bezel thickness for tight spaces.",
+          "item_translations": {
+            "en": "Typical Dimensions (55-inch, without stand)",
+            "de": "Typische Abmessungen (55 Zoll, ohne Standfuß)",
+            "fr": "Dimensions typiques (55 pouces, sans support)",
+            "es": "Dimensiones típicas (55 pulgadas, sin soporte)",
+            "it": "Dimensioni tipiche (55 pollici, senza supporto)",
+            "ja": "標準寸法 (55インチ、スタンドなし)",
+            "pt": "Dimensões Típicas (55 polegadas, sem suporte)",
+            "nl": "Typische afmetingen (55 inch, zonder standaard)"
+          },
+          "note_translations": {
+            "en": "Dimensions vary slightly between Neo QLED and OLED models due to panel and chassis differences. Consider bezel thickness for tight spaces.",
+            "de": "Die Abmessungen variieren leicht zwischen Neo QLED- und OLED-Modellen aufgrund von Panel- und Gehäuseunterschieden. Berücksichtigen Sie die Rahmenstärke für enge Räume.",
+            "fr": "Les dimensions varient légèrement entre les modèles Neo QLED et OLED en raison des différences de panneau et de châssis. Tenez compte de l'épaisseur du cadre pour les espaces restreints.",
+            "es": "Las dimensiones varían ligeramente entre los modelos Neo QLED y OLED debido a las diferencias de panel y chasis. Considere el grosor del bisel para espacios reducidos.",
+            "it": "Le dimensioni variano leggermente tra i modelli Neo QLED e OLED a causa delle differenze di pannello e telaio. Considerare lo spessore della cornice per spazi ristretti.",
+            "ja": "パネルとシャーシの違いにより、Neo QLEDモデルとOLEDモデルでは寸法が若干異なります。狭い場所ではベゼルの厚さを考慮してください。",
+            "pt": "As dimensões variam ligeiramente entre os modelos Neo QLED e OLED devido a diferenças de painel e chassi. Considere a espessura da moldura para espaços apertados.",
+            "nl": "Afmetingen variëren enigszins tussen Neo QLED- en OLED-modellen vanwege verschillen in paneel en chassis. Houd rekening met de randdikte voor krappe ruimtes."
+          }
+        },
+        {
+          "item": "Typical Dimensions (65-inch, without stand)",
+          "metric": "144.4-144.7 x 82.9 x 2.7-3.9 cm (WxHxD)",
+          "imperial": "56.9-57.0 x 32.6 x 1.1-1.5 in (WxHxD)",
+          "status": "Verified",
+          "note": "Dimensions vary slightly between Neo QLED and OLED models due to panel and chassis differences. Consider bezel thickness for tight spaces.",
+          "item_translations": {
+            "en": "Typical Dimensions (65-inch, without stand)",
+            "de": "Typische Abmessungen (65 Zoll, ohne Standfuß)",
+            "fr": "Dimensions typiques (65 pouces, sans support)",
+            "es": "Dimensiones típicas (65 pulgadas, sin soporte)",
+            "it": "Dimensioni tipiche (65 pollici, senza supporto)",
+            "ja": "標準寸法 (65インチ、スタンドなし)",
+            "pt": "Dimensões Típicas (65 polegadas, sem suporte)",
+            "nl": "Typische afmetingen (65 inch, zonder standaard)"
+          },
+          "note_translations": {
+            "en": "Dimensions vary slightly between Neo QLED and OLED models due to panel and chassis differences. Consider bezel thickness for tight spaces.",
+            "de": "Die Abmessungen variieren leicht zwischen Neo QLED- und OLED-Modellen aufgrund von Panel- und Gehäuseunterschieden. Berücksichtigen Sie die Rahmenstärke für enge Räume.",
+            "fr": "Les dimensions varient légèrement entre les modèles Neo QLED et OLED en raison des différences de panneau et de châssis. Tenez compte de l'épaisseur du cadre pour les espaces restreints.",
+            "es": "Las dimensiones varían ligeramente entre los modelos Neo QLED y OLED debido a las diferencias de panel y chasis. Considere el grosor del bisel para espacios reducidos.",
+            "it": "Le dimensioni variano leggermente tra i modelli Neo QLED e OLED a causa delle differenze di pannello e telaio. Considerare lo spessore della cornice per spazi ristretti.",
+            "ja": "パネルとシャーシの違いにより、Neo QLEDモデルとOLEDモデルでは寸法が若干異なります。狭い場所ではベゼルの厚さを考慮してください。",
+            "pt": "As dimensões variam ligeiramente entre os modelos Neo QLED e OLED devido a diferenças de painel e chassi. Considere a espessura da moldura para espaços apertados.",
+            "nl": "Afmetingen variëren enigszins tussen Neo QLED- en OLED-modellen vanwege verschillen in paneel en chassis. Houd rekening met de randdikte voor krappe ruimtes."
+          }
+        },
+        {
+          "item": "Typical Dimensions (75-inch, without stand)",
+          "metric": "167.0 x 95.6 x 2.7-3.9 cm (WxHxD)",
+          "imperial": "65.7 x 37.6 x 1.1-1.5 in (WxHxD)",
+          "status": "Verified",
+          "note": "Dimensions vary slightly between Neo QLED and OLED models due to panel and chassis differences. Consider bezel thickness for tight spaces.",
+          "item_translations": {
+            "en": "Typical Dimensions (75-inch, without stand)",
+            "de": "Typische Abmessungen (75 Zoll, ohne Standfuß)",
+            "fr": "Dimensions typiques (75 pouces, sans support)",
+            "es": "Dimensiones típicas (75 pulgadas, sin soporte)",
+            "it": "Dimensioni tipiche (75 pollici, senza supporto)",
+            "ja": "標準寸法 (75インチ、スタンドなし)",
+            "pt": "Dimensões Típicas (75 polegadas, sem suporte)",
+            "nl": "Typische afmetingen (75 inch, zonder standaard)"
+          },
+          "note_translations": {
+            "en": "Dimensions vary slightly between Neo QLED and OLED models due to panel and chassis differences. Consider bezel thickness for tight spaces.",
+            "de": "Die Abmessungen variieren leicht zwischen Neo QLED- und OLED-Modellen aufgrund von Panel- und Gehäuseunterschieden. Berücksichtigen Sie die Rahmenstärke für enge Räume.",
+            "fr": "Les dimensions varient légèrement entre les modèles Neo QLED et OLED en raison des différences de panneau et de châssis. Tenez compte de l'épaisseur du cadre pour les espaces restreints.",
+            "es": "Las dimensiones varían ligeramente entre los modelos Neo QLED y OLED debido a las diferencias de panel y chasis. Considere el grosor del bisel para espacios reducidos.",
+            "it": "Le dimensioni variano leggermente tra i modelli Neo QLED e OLED a causa delle differenze di pannello e telaio. Considerare lo spessore della cornice per spazi ristretti.",
+            "ja": "パネルとシャーシの違いにより、Neo QLEDモデルとOLEDモデルでは寸法が若干異なります。狭い場所ではベゼルの厚さを考慮してください。",
+            "pt": "As dimensões variam ligeiramente entre os modelos Neo QLED e OLED devido a diferenças de painel e chassi. Considere a espessura da moldura para espaços apertados.",
+            "nl": "Afmetingen variëren enigszins tussen Neo QLED- en OLED-modellen vanwege verschillen in paneel en chassis. Houd rekening met de randdikte voor krappe ruimtes."
+          }
+        },
+        {
+          "item": "Typical Power Consumption (55-inch)",
+          "metric": "80-100 Watts (typical usage)",
+          "imperial": "80-100 Watts (typical usage)",
+          "status": "Verified",
+          "note": "Actual consumption depends on content, brightness settings, and model. Peak consumption can be higher. Energy Star ratings provide more detail.",
+          "item_translations": {
+            "en": "Typical Power Consumption (55-inch)",
+            "de": "Typischer Stromverbrauch (55 Zoll)",
+            "fr": "Consommation électrique typique (55 pouces)",
+            "es": "Consumo de energía típico (55 pulgadas)",
+            "it": "Consumo energetico tipico (55 pollici)",
+            "ja": "標準消費電力 (55インチ)",
+            "pt": "Consumo de Energia Típico (55 polegadas)",
+            "nl": "Typisch stroomverbruik (55 inch)"
+          },
+          "note_translations": {
+            "en": "Actual consumption depends on content, brightness settings, and model. Peak consumption can be higher. Energy Star ratings provide more detail.",
+            "de": "Der tatsächliche Verbrauch hängt von Inhalt, Helligkeitseinstellungen und Modell ab. Der Spitzenverbrauch kann höher sein. Energy Star-Bewertungen bieten weitere Details.",
+            "fr": "La consommation réelle dépend du contenu, des réglages de luminosité et du modèle. La consommation de pointe peut être plus élevée. Les classifications Energy Star fournissent plus de détails.",
+            "es": "El consumo real depende del contenido, la configuración de brillo y el modelo. El consumo pico puede ser mayor. Las calificaciones Energy Star proporcionan más detalles.",
+            "it": "Il consumo effettivo dipende dal contenuto, dalle impostazioni di luminosità e dal modello. Il consumo di picco può essere superiore. Le classificazioni Energy Star forniscono maggiori dettagli.",
+            "ja": "実際の消費電力は、コンテンツ、輝度設定、モデルによって異なります。ピーク消費電力は高くなる可能性があります。Energy Starの評価で詳細を確認できます。",
+            "pt": "O consumo real depende do conteúdo, das configurações de brilho e do modelo. O consumo de pico pode ser maior. As classificações Energy Star fornecem mais detalhes.",
+            "nl": "Het werkelijke verbruik is afhankelijk van inhoud, helderheidsinstellingen en model. Piekverbruik kan hoger zijn. Energy Star-ratings geven meer details."
+          }
+        },
+        {
+          "item": "Typical Power Consumption (65-inch)",
+          "metric": "100-130 Watts (typical usage)",
+          "imperial": "100-130 Watts (typical usage)",
+          "status": "Verified",
+          "note": "Actual consumption depends on content, brightness settings, and model. Peak consumption can be higher. Energy Star ratings provide more detail.",
+          "item_translations": {
+            "en": "Typical Power Consumption (65-inch)",
+            "de": "Typischer Stromverbrauch (65 Zoll)",
+            "fr": "Consommation électrique typique (65 pouces)",
+            "es": "Consumo de energía típico (65 pulgadas)",
+            "it": "Consumo energetico tipico (65 pollici)",
+            "ja": "標準消費電力 (65インチ)",
+            "pt": "Consumo de Energia Típico (65 polegadas)",
+            "nl": "Typisch stroomverbruik (65 inch)"
+          },
+          "note_translations": {
+            "en": "Actual consumption depends on content, brightness settings, and model. Peak consumption can be higher. Energy Star ratings provide more detail.",
+            "de": "Der tatsächliche Verbrauch hängt von Inhalt, Helligkeitseinstellungen und Modell ab. Der Spitzenverbrauch kann höher sein. Energy Star-Bewertungen bieten weitere Details.",
+            "fr": "La consommation réelle dépend du contenu, des réglages de luminosité et du modèle. La consommation de pointe peut être plus élevée. Les classifications Energy Star fournissent plus de détails.",
+            "es": "El consumo real depende del contenido, la configuración de brillo y el modelo. El consumo pico puede ser mayor. Las calificaciones Energy Star proporcionan más detalles.",
+            "it": "Il consumo effettivo dipende dal contenuto, dalle impostazioni di luminosità e dal modello. Il consumo di picco può essere superiore. Le classificazioni Energy Star forniscono maggiori dettagli.",
+            "ja": "実際の消費電力は、コンテンツ、輝度設定、モデルによって異なります。ピーク消費電力は高くなる可能性があります。Energy Starの評価で詳細を確認できます。",
+            "pt": "O consumo real depende do conteúdo, das configurações de brilho e do modelo. O consumo de pico pode ser maior. As classificações Energy Star fornecem mais detalhes.",
+            "nl": "Het werkelijke verbruik is afhankelijk van inhoud, helderheidsinstellingen en model. Piekverbruik kan hoger zijn. Energy Star-ratings geven meer details."
+          }
+        },
+        {
+          "item": "Typical Power Consumption (75-inch)",
+          "metric": "120-160 Watts (typical usage)",
+          "imperial": "120-160 Watts (typical usage)",
+          "status": "Verified",
+          "note": "Actual consumption depends on content, brightness settings, and model. Peak consumption can be higher. Energy Star ratings provide more detail.",
+          "item_translations": {
+            "en": "Typical Power Consumption (75-inch)",
+            "de": "Typischer Stromverbrauch (75 Zoll)",
+            "fr": "Consommation électrique typique (75 pouces)",
+            "es": "Consumo de energía típico (75 pulgadas)",
+            "it": "Consumo energetico tipico (75 pollici)",
+            "ja": "標準消費電力 (75インチ)",
+            "pt": "Consumo de Energia Típico (75 polegadas)",
+            "nl": "Typisch stroomverbruik (75 inch)"
+          },
+          "note_translations": {
+            "en": "Actual consumption depends on content, brightness settings, and model. Peak consumption can be higher. Energy Star ratings provide more detail.",
+            "de": "Der tatsächliche Verbrauch hängt von Inhalt, Helligkeitseinstellungen und Modell ab. Der Spitzenverbrauch kann höher sein. Energy Star-Bewertungen bieten weitere Details.",
+            "fr": "La consommation réelle dépend du contenu, des réglages de luminosité et du modèle. La consommation de pointe peut être plus élevée. Les classifications Energy Star fournissent plus de détails.",
+            "es": "El consumo real depende del contenido, la configuración de brillo y el modelo. El consumo pico puede ser mayor. Las calificaciones Energy Star proporcionan más detalles.",
+            "it": "Il consumo effettivo dipende dal contenuto, dalle impostazioni di luminosità e dal modello. Il consumo di picco può essere superiore. Le classificazioni Energy Star forniscono maggiori dettagli.",
+            "ja": "実際の消費電力は、コンテンツ、輝度設定、モデルによって異なります。ピーク消費電力は高くなる可能性があります。Energy Starの評価で詳細を確認できます。",
+            "pt": "O consumo real depende do conteúdo, das configurações de brilho e do modelo. O consumo de pico pode ser maior. As classificações Energy Star fornecem mais detalhes.",
+            "nl": "Het werkelijke verbruik is afhankelijk van inhoud, helderheidsinstellingen en model. Piekverbruik kan hoger zijn. Energy Star-ratings geven meer details."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "samsung-neo-qled-oled-tv-compatibility-matrix",
+          "title": "Samsung Neo QLED & OLED TV VESA Compatibility & Measurements (55/65/75 inch)",
+          "summary": "Comprehensive compatibility matrix for Samsung Neo QLED and OLED TVs (55, 65, 75 inch models), including VESA patterns, screw specifications, weight, and dimensions for safe mounting and installation.",
+          "amazon_search_query": "Samsung Neo QLED OLED TV VESA mount 55 65 75 inch",
+          "buy_box_title": "Find the Perfect VESA Mount for Your Samsung TV",
+          "buy_box_subtitle": "Ensure secure installation with compatible wall mounts and accessories.",
+          "allowed_guidelines": [
+            "Always refer to your specific TV model's user manual for the most accurate VESA specifications and screw length recommendations.",
+            "Ensure your chosen VESA mount has a weight capacity exceeding the TV's weight (including any attached accessories).",
+            "Use M8 screws with a length of 10-12mm, ensuring they do not bottom out or are too short. Spacers may be required.",
+            "Distribute weight evenly when mounting to prevent stress on the TV's mounting points."
+          ],
+          "strict_restrictions": [
+            "Do NOT use screws longer than 13mm into the TV's VESA holes, as this can cause internal damage.",
+            "Do NOT use VESA mounts that do not match the TV's specified pattern (e.g., 200x200, 400x300, 400x400).",
+            "Do NOT exceed the maximum weight capacity of your chosen wall mount.",
+            "Avoid overtightening screws, which can strip threads or crack the TV's casing."
+          ],
+          "faqs": [
+            {
+              "q": "What VESA pattern do Samsung Neo QLED and OLED TVs use?",
+              "a": "Samsung Neo QLED and OLED TVs typically use VESA patterns such as 200x200mm (for some 55-inch models), 400x300mm (for 55-inch and 65-inch models), and 400x400mm (for 65-inch and 75-inch models). Always check your specific model's manual for exact details."
+            },
+            {
+              "q": "What size screws do I need for my Samsung TV VESA mount?",
+              "a": "Most Samsung Neo QLED and OLED TVs require M8 screws. The recommended length is typically 10-12mm, but it's crucial to verify this in your TV's user manual to avoid damaging internal components. Do not insert screws deeper than 13mm."
+            },
+            {
+              "q": "How much does a 65-inch Samsung Neo QLED TV weigh?",
+              "a": "A 65-inch Samsung Neo QLED TV (e.g., QN90C) typically weighs around 24.4 kg (53.8 lbs) without its stand. OLED models (e.g., S90C) of the same size might be slightly lighter, around 20.9 kg (46.1 lbs). Always check the exact weight for your model and ensure your wall mount can support it."
+            }
+          ]
+        },
+        "de": {
+          "slug": "samsung-neo-qled-oled-tv-kompatibilitaetsmatrix",
+          "title": "Samsung Neo QLED & OLED TV VESA Kompatibilität & Maße (55/65/75 Zoll)",
+          "summary": "Umfassende Kompatibilitätsmatrix für Samsung Neo QLED und OLED Fernseher (55, 65, 75 Zoll Modelle), einschließlich VESA-Muster, Schraubenspezifikationen, Gewicht und Abmessungen für eine sichere Montage und Installation.",
+          "amazon_search_query": "Samsung Neo QLED OLED TV VESA Halterung 55 65 75 Zoll",
+          "buy_box_title": "Finden Sie die perfekte VESA-Halterung für Ihren Samsung Fernseher",
+          "buy_box_subtitle": "Sorgen Sie für eine sichere Installation mit kompatiblen Wandhalterungen und Zubehör.",
+          "allowed_guidelines": [
+            "Beachten Sie immer die Bedienungsanleitung Ihres spezifischen TV-Modells für die genauesten VESA-Spezifikationen und Schraubenlängenempfehlungen.",
+            "Stellen Sie sicher, dass Ihre gewählte VESA-Halterung eine Tragfähigkeit hat, die das Gewicht des Fernsehers (einschließlich aller angebrachten Zubehörteile) übersteigt.",
+            "Verwenden Sie M8-Schrauben mit einer Länge von 10-12 mm, stellen Sie sicher, dass sie nicht durchstoßen oder zu kurz sind. Abstandshalter können erforderlich sein.",
+            "Verteilen Sie das Gewicht beim Anbringen gleichmäßig, um eine Belastung der Befestigungspunkte des Fernsehers zu vermeiden."
+          ],
+          "strict_restrictions": [
+            "Verwenden Sie KEINE Schrauben, die länger als 13 mm in die VESA-Löcher des Fernsehers reichen, da dies interne Schäden verursachen kann.",
+            "Verwenden Sie KEINE VESA-Halterungen, die nicht dem angegebenen Muster des Fernsehers entsprechen (z.B. 200x200, 400x300, 400x400).",
+            "Überschreiten Sie NICHT die maximale Tragfähigkeit Ihrer gewählten Wandhalterung.",
+            "Vermeiden Sie ein zu festes Anziehen der Schrauben, da dies Gewinde beschädigen oder das Gehäuse des Fernsehers reißen kann."
+          ],
+          "faqs": [
+            {
+              "q": "Welches VESA-Muster verwenden Samsung Neo QLED und OLED Fernseher?",
+              "a": "Samsung Neo QLED und OLED Fernseher verwenden typischerweise VESA-Muster wie 200x200mm (für einige 55-Zoll-Modelle), 400x300mm (für 55-Zoll- und 65-Zoll-Modelle) und 400x400mm (für 65-Zoll- und 75-Zoll-Modelle). Überprüfen Sie immer das Handbuch Ihres spezifischen Modells für genaue Details."
+            },
+            {
+              "q": "Welche Schraubengröße benötige ich für meine Samsung TV VESA-Halterung?",
+              "a": "Die meisten Samsung Neo QLED und OLED Fernseher benötigen M8-Schrauben. Die empfohlene Länge beträgt typischerweise 10-12 mm, aber es ist entscheidend, dies im Benutzerhandbuch Ihres Fernsehers zu überprüfen, um interne Komponenten nicht zu beschädigen. Führen Sie Schrauben nicht tiefer als 13 mm ein."
+            },
+            {
+              "q": "Wie viel wiegt ein 65-Zoll Samsung Neo QLED Fernseher?",
+              "a": "Ein 65-Zoll Samsung Neo QLED Fernseher (z.B. QN90C) wiegt typischerweise etwa 24,4 kg (53,8 lbs) ohne Standfuß. OLED-Modelle (z.B. S90C) derselben Größe könnten etwas leichter sein, etwa 20,9 kg (46,1 lbs). Überprüfen Sie immer das genaue Gewicht Ihres Modells und stellen Sie sicher, dass Ihre Wandhalterung es tragen kann."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "samsung-neo-qled-oled-tv-compatibilite-matrice",
+          "title": "Compatibilité VESA et Mesures des TV Samsung Neo QLED & OLED (55/65/75 pouces)",
+          "summary": "Matrice de compatibilité complète pour les téléviseurs Samsung Neo QLED et OLED (modèles 55, 65, 75 pouces), incluant les modèles VESA, les spécifications des vis, le poids et les dimensions pour un montage et une installation en toute sécurité.",
+          "amazon_search_query": "Support mural VESA Samsung Neo QLED OLED TV 55 65 75 pouces",
+          "buy_box_title": "Trouvez le support VESA parfait pour votre téléviseur Samsung",
+          "buy_box_subtitle": "Assurez une installation sécurisée avec des supports muraux et accessoires compatibles.",
+          "allowed_guidelines": [
+            "Consultez toujours le manuel d'utilisation de votre modèle de téléviseur spécifique pour les spécifications VESA les plus précises et les recommandations de longueur de vis.",
+            "Assurez-vous que le support VESA choisi a une capacité de poids supérieure au poids du téléviseur (y compris les accessoires attachés).",
+            "Utilisez des vis M8 d'une longueur de 10 à 12 mm, en vous assurant qu'elles ne dépassent pas ou ne sont pas trop courtes. Des entretoises peuvent être nécessaires.",
+            "Répartissez le poids uniformément lors du montage pour éviter de solliciter les points de fixation du téléviseur."
+          ],
+          "strict_restrictions": [
+            "N'utilisez PAS de vis de plus de 13 mm dans les trous VESA du téléviseur, car cela pourrait causer des dommages internes.",
+            "N'utilisez PAS de supports VESA qui ne correspondent pas au modèle spécifié du téléviseur (par exemple, 200x200, 400x300, 400x400).",
+            "Ne dépassez PAS la capacité de poids maximale de votre support mural choisi.",
+            "Évitez de trop serrer les vis, ce qui peut endommager les filetages ou fissurer le boîtier du téléviseur."
+          ],
+          "faqs": [
+            {
+              "q": "Quel modèle VESA les téléviseurs Samsung Neo QLED et OLED utilisent-ils ?",
+              "a": "Les téléviseurs Samsung Neo QLED et OLED utilisent généralement des modèles VESA tels que 200x200mm (pour certains modèles de 55 pouces), 400x300mm (pour les modèles de 55 et 65 pouces) et 400x400mm (pour les modèles de 65 et 75 pouces). Vérifiez toujours le manuel de votre modèle spécifique pour des détails exacts."
+            },
+            {
+              "q": "De quelle taille de vis ai-je besoin pour mon support mural VESA Samsung TV ?",
+              "a": "La plupart des téléviseurs Samsung Neo QLED et OLED nécessitent des vis M8. La longueur recommandée est généralement de 10 à 12 mm, mais il est crucial de vérifier cela dans le manuel d'utilisation de votre téléviseur pour éviter d'endommager les composants internes. N'insérez pas les vis à plus de 13 mm de profondeur."
+            },
+            {
+              "q": "Quel est le poids d'un téléviseur Samsung Neo QLED de 65 pouces ?",
+              "a": "Un téléviseur Samsung Neo QLED de 65 pouces (par exemple, QN90C) pèse généralement environ 24,4 kg (53,8 lbs) sans son support. Les modèles OLED (par exemple, S90C) de la même taille peuvent être légèrement plus légers, environ 20,9 kg (46,1 lbs). Vérifiez toujours le poids exact de votre modèle et assurez-vous que votre support mural peut le supporter."
+            }
+          ]
+        },
+        "es": {
+          "slug": "samsung-neo-qled-oled-tv-compatibilidad-matriz",
+          "title": "Compatibilidad VESA y Medidas de TV Samsung Neo QLED y OLED (55/65/75 pulgadas)",
+          "summary": "Matriz de compatibilidad completa para televisores Samsung Neo QLED y OLED (modelos de 55, 65, 75 pulgadas), incluyendo patrones VESA, especificaciones de tornillos, peso y dimensiones para un montaje e instalación seguros.",
+          "amazon_search_query": "Soporte VESA TV Samsung Neo QLED OLED 55 65 75 pulgadas",
+          "buy_box_title": "Encuentre el soporte VESA perfecto para su televisor Samsung",
+          "buy_box_subtitle": "Asegure una instalación segura con soportes de pared y accesorios compatibles.",
+          "allowed_guidelines": [
+            "Consulte siempre el manual de usuario de su modelo de TV específico para obtener las especificaciones VESA y las recomendaciones de longitud de tornillo más precisas.",
+            "Asegúrese de que el soporte VESA elegido tenga una capacidad de peso que exceda el peso del televisor (incluidos los accesorios conectados).",
+            "Utilice tornillos M8 con una longitud de 10-12 mm, asegurándose de que no toquen fondo ni sean demasiado cortos. Es posible que se requieran espaciadores.",
+            "Distribuya el peso de manera uniforme al montar para evitar tensiones en los puntos de montaje del televisor."
+          ],
+          "strict_restrictions": [
+            "NO utilice tornillos de más de 13 mm en los orificios VESA del televisor, ya que esto puede causar daños internos.",
+            "NO utilice soportes VESA que no coincidan con el patrón especificado del televisor (por ejemplo, 200x200, 400x300, 400x400).",
+            "NO exceda la capacidad de peso máxima del soporte de pared elegido.",
+            "Evite apretar demasiado los tornillos, lo que puede dañar las roscas o agrietar la carcasa del televisor."
+          ],
+          "faqs": [
+            {
+              "q": "¿Qué patrón VESA utilizan los televisores Samsung Neo QLED y OLED?",
+              "a": "Los televisores Samsung Neo QLED y OLED suelen utilizar patrones VESA como 200x200mm (para algunos modelos de 55 pulgadas), 400x300mm (para modelos de 55 y 65 pulgadas) y 400x400mm (para modelos de 65 y 75 pulgadas). Siempre consulte el manual de su modelo específico para obtener detalles exactos."
+            },
+            {
+              "q": "¿Qué tamaño de tornillos necesito para el soporte VESA de mi televisor Samsung?",
+              "a": "La mayoría de los televisores Samsung Neo QLED y OLED requieren tornillos M8. La longitud recomendada es típicamente de 10-12 mm, pero es crucial verificar esto en el manual de usuario de su televisor para evitar dañar los componentes internos. No inserte tornillos a más de 13 mm de profundidad."
+            },
+            {
+              "q": "¿Cuánto pesa un televisor Samsung Neo QLED de 65 pulgadas?",
+              "a": "Un televisor Samsung Neo QLED de 65 pulgadas (por ejemplo, QN90C) suele pesar alrededor de 24,4 kg (53,8 lbs) sin su soporte. Los modelos OLED (por ejemplo, S90C) del mismo tamaño pueden ser ligeramente más ligeros, alrededor de 20,9 kg (46,1 lbs). Siempre verifique el peso exacto de su modelo y asegúrese de que su soporte de pared pueda soportarlo."
+            }
+          ]
+        },
+        "it": {
+          "slug": "samsung-neo-qled-oled-tv-compatibilita-matrice",
+          "title": "Compatibilità VESA e Misure TV Samsung Neo QLED & OLED (55/65/75 pollici)",
+          "summary": "Matrice di compatibilità completa per TV Samsung Neo QLED e OLED (modelli da 55, 65, 75 pollici), inclusi schemi VESA, specifiche delle viti, peso e dimensioni per un montaggio e un'installazione sicuri.",
+          "amazon_search_query": "Supporto VESA TV Samsung Neo QLED OLED 55 65 75 pollici",
+          "buy_box_title": "Trova il supporto VESA perfetto per la tua TV Samsung",
+          "buy_box_subtitle": "Assicurati un'installazione sicura con supporti a parete e accessori compatibili.",
+          "allowed_guidelines": [
+            "Fare sempre riferimento al manuale utente del proprio modello di TV specifico per le specifiche VESA più accurate e le raccomandazioni sulla lunghezza delle viti.",
+            "Assicurarsi che il supporto VESA scelto abbia una capacità di peso superiore al peso del TV (inclusi eventuali accessori collegati).",
+            "Utilizzare viti M8 con una lunghezza di 10-12 mm, assicurandosi che non vadano a fondo o siano troppo corte. Potrebbero essere necessari distanziali.",
+            "Distribuire il peso in modo uniforme durante il montaggio per prevenire sollecitazioni sui punti di fissaggio del TV."
+          ],
+          "strict_restrictions": [
+            "NON utilizzare viti più lunghe di 13 mm nei fori VESA del TV, poiché ciò può causare danni interni.",
+            "NON utilizzare supporti VESA che non corrispondono allo schema specificato del TV (es. 200x200, 400x300, 400x400).",
+            "NON superare la capacità di peso massima del supporto a parete scelto.",
+            "Evitare di serrare eccessivamente le viti, il che può spanare le filettature o rompere il telaio del TV."
+          ],
+          "faqs": [
+            {
+              "q": "Quale schema VESA utilizzano i TV Samsung Neo QLED e OLED?",
+              "a": "I TV Samsung Neo QLED e OLED utilizzano tipicamente schemi VESA come 200x200mm (per alcuni modelli da 55 pollici), 400x300mm (per modelli da 55 e 65 pollici) e 400x400mm (per modelli da 65 e 75 pollici). Verificare sempre il manuale del proprio modello specifico per dettagli esatti."
+            },
+            {
+              "q": "Di che dimensione di viti ho bisogno per il mio supporto VESA per TV Samsung?",
+              "a": "La maggior parte dei TV Samsung Neo QLED e OLED richiede viti M8. La lunghezza consigliata è tipicamente di 10-12 mm, ma è fondamentale verificarlo nel manuale utente del TV per evitare di danneggiare i componenti interni. Non inserire viti più in profondità di 13 mm."
+            },
+            {
+              "q": "Quanto pesa un TV Samsung Neo QLED da 65 pollici?",
+              "a": "Un TV Samsung Neo QLED da 65 pollici (es. QN90C) pesa tipicamente circa 24,4 kg (53,8 libbre) senza supporto. I modelli OLED (es. S90C) della stessa dimensione potrebbero essere leggermente più leggeri, circa 20,9 kg (46,1 libbre). Verificare sempre il peso esatto del proprio modello e assicurarsi che il supporto a parete possa sostenerlo."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "samsung-neo-qled-oled-tv-compatibilita-matrice",
+          "title": "Samsung Neo QLED & OLED TV VESA互換性および測定値 (55/65/75インチ)",
+          "summary": "Samsung Neo QLEDおよびOLED TV (55、65、75インチモデル) の包括的な互換性マトリックス。VESAパターン、ネジの仕様、重量、寸法を含み、安全な取り付けと設置を保証します。",
+          "amazon_search_query": "Samsung Neo QLED OLED TV VESAマウント 55 65 75インチ",
+          "buy_box_title": "Samsung TVに最適なVESAマウントを見つける",
+          "buy_box_subtitle": "互換性のある壁掛け金具とアクセサリーで安全な設置を確保。",
+          "allowed_guidelines": [
+            "最も正確なVESA仕様とネジの長さの推奨事項については、必ずお使いのTVモデルのユーザーマニュアルを参照してください。",
+            "選択したVESAマウントの耐荷重がTVの重量（取り付けられたアクセサリーを含む）を超えていることを確認してください。",
+            "長さ10〜12mmのM8ネジを使用し、底付きしないか、短すぎないことを確認してください。スペーサーが必要な場合があります。",
+            "TVの取り付けポイントへの負担を避けるため、取り付け時には重量を均等に分散してください。"
+          ],
+          "strict_restrictions": [
+            "TVのVESA穴に13mmを超える長さのネジを使用しないでください。内部損傷の原因となる可能性があります。",
+            "TVの指定されたパターン（例：200x200、400x300、400x400）と一致しないVESAマウントを使用しないでください。",
+            "選択した壁掛け金具の最大耐荷重を超えないでください。",
+            "ネジを締めすぎると、ネジ山がなめたり、TVの筐体が割れたりする可能性があるため避けてください。"
+          ],
+          "faqs": [
+            {
+              "q": "Samsung Neo QLEDおよびOLED TVはどのVESAパターンを使用していますか？",
+              "a": "Samsung Neo QLEDおよびOLED TVは、通常、200x200mm（一部の55インチモデル）、400x300mm（55インチおよび65インチモデル）、400x400mm（65インチおよび75インチモデル）などのVESAパターンを使用しています。正確な詳細については、必ずお使いのモデルの取扱説明書をご確認ください。"
+            },
+            {
+              "q": "Samsung TVのVESAマウントにはどのサイズのネジが必要ですか？",
+              "a": "ほとんどのSamsung Neo QLEDおよびOLED TVにはM8ネジが必要です。推奨される長さは通常10〜12mmですが、内部コンポーネントの損傷を避けるため、TVのユーザーマニュアルでこれを確認することが重要です。ネジを13mmより深く挿入しないでください。"
+            },
+            {
+              "q": "65インチのSamsung Neo QLED TVの重さはどれくらいですか？",
+              "a": "65インチのSamsung Neo QLED TV（例：QN90C）は、スタンドなしで通常約24.4 kg（53.8ポンド）です。同じサイズのOLEDモデル（例：S90C）は、約20.9 kg（46.1ポンド）とわずかに軽い場合があります。必ずお使いのモデルの正確な重量を確認し、壁掛け金具がそれを支えられることを確認してください。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "samsung-neo-qled-oled-tv-compatibilidade-matriz",
+          "title": "Compatibilidade VESA e Medidas de TVs Samsung Neo QLED & OLED (55/65/75 polegadas)",
+          "summary": "Matriz de compatibilidade abrangente para TVs Samsung Neo QLED e OLED (modelos de 55, 65, 75 polegadas), incluindo padrões VESA, especificações de parafusos, peso e dimensões para montagem e instalação seguras.",
+          "amazon_search_query": "Suporte VESA TV Samsung Neo QLED OLED 55 65 75 polegadas",
+          "buy_box_title": "Encontre o Suporte VESA Perfeito para a Sua TV Samsung",
+          "buy_box_subtitle": "Garanta uma instalação segura com suportes de parede e acessórios compatíveis.",
+          "allowed_guidelines": [
+            "Sempre consulte o manual do usuário do seu modelo de TV específico para as especificações VESA mais precisas e recomendações de comprimento de parafuso.",
+            "Certifique-se de que o suporte VESA escolhido tenha uma capacidade de peso que exceda o peso da TV (incluindo quaisquer acessórios anexados).",
+            "Use parafusos M8 com um comprimento de 10-12 mm, garantindo que não atinjam o fundo ou sejam muito curtos. Espaçadores podem ser necessários.",
+            "Distribua o peso uniformemente ao montar para evitar estresse nos pontos de montagem da TV."
+          ],
+          "strict_restrictions": [
+            "NÃO use parafusos com mais de 13 mm nos orifícios VESA da TV, pois isso pode causar danos internos.",
+            "NÃO use suportes VESA que não correspondam ao padrão especificado da TV (por exemplo, 200x200, 400x300, 400x400).",
+            "NÃO exceda a capacidade máxima de peso do suporte de parede escolhido.",
+            "Evite apertar demais os parafusos, o que pode danificar as roscas ou rachar a carcaça da TV."
+          ],
+          "faqs": [
+            {
+              "q": "Que padrão VESA as TVs Samsung Neo QLED e OLED usam?",
+              "a": "As TVs Samsung Neo QLED e OLED geralmente usam padrões VESA como 200x200mm (para alguns modelos de 55 polegadas), 400x300mm (para modelos de 55 e 65 polegadas) e 400x400mm (para modelos de 65 e 75 polegadas). Sempre verifique o manual do seu modelo específico para detalhes exatos."
+            },
+            {
+              "q": "Que tamanho de parafusos preciso para o meu suporte VESA de TV Samsung?",
+              "a": "A maioria das TVs Samsung Neo QLED e OLED requer parafusos M8. O comprimento recomendado é tipicamente de 10-12 mm, mas é crucial verificar isso no manual do usuário da sua TV para evitar danificar componentes internos. Não insira parafusos com mais de 13 mm de profundidade."
+            },
+            {
+              "q": "Quanto pesa uma TV Samsung Neo QLED de 65 polegadas?",
+              "a": "Uma TV Samsung Neo QLED de 65 polegadas (por exemplo, QN90C) pesa tipicamente cerca de 24,4 kg (53,8 lbs) sem o seu suporte. Modelos OLED (por exemplo, S90C) do mesmo tamanho podem ser ligeiramente mais leves, cerca de 20,9 kg (46,1 lbs). Sempre verifique o peso exato do seu modelo e certifique-se de que o seu suporte de parede pode suportá-lo."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "samsung-neo-qled-oled-tv-compatibiliteit-matrix",
+          "title": "Samsung Neo QLED & OLED TV VESA Compatibiliteit & Afmetingen (55/65/75 inch)",
+          "summary": "Uitgebreide compatibiliteitsmatrix voor Samsung Neo QLED en OLED televisies (55, 65, 75 inch modellen), inclusief VESA-patronen, schroefspecificaties, gewicht en afmetingen voor veilige montage en installatie.",
+          "amazon_search_query": "Samsung Neo QLED OLED TV VESA beugel 55 65 75 inch",
+          "buy_box_title": "Vind de perfecte VESA-beugel voor uw Samsung TV",
+          "buy_box_subtitle": "Zorg voor een veilige installatie met compatibele muurbeugels en accessoires.",
+          "allowed_guidelines": [
+            "Raadpleeg altijd de gebruikershandleiding van uw specifieke tv-model voor de meest nauwkeurige VESA-specificaties en aanbevelingen voor schroeflengte.",
+            "Zorg ervoor dat de door u gekozen VESA-beugel een draagvermogen heeft dat het gewicht van de tv (inclusief eventuele bevestigde accessoires) overschrijdt.",
+            "Gebruik M8-schroeven met een lengte van 10-12 mm, zorg ervoor dat ze niet te diep gaan of te kort zijn. Afstandhouders kunnen nodig zijn.",
+            "Verdeel het gewicht gelijkmatig bij het monteren om spanning op de bevestigingspunten van de tv te voorkomen."
+          ],
+          "strict_restrictions": [
+            "Gebruik GEEN schroeven die langer zijn dan 13 mm in de VESA-gaten van de tv, aangezien dit interne schade kan veroorzaken.",
+            "Gebruik GEEN VESA-beugels die niet overeenkomen met het gespecificeerde patroon van de tv (bijv. 200x200, 400x300, 400x400).",
+            "Overschrijd de maximale draagcapaciteit van de door u gekozen muurbeugel NIET.",
+            "Vermijd het te strak aandraaien van schroeven, wat schroefdraden kan beschadigen of de behuizing van de tv kan doen barsten."
+          ],
+          "faqs": [
+            {
+              "q": "Welk VESA-patroon gebruiken Samsung Neo QLED en OLED televisies?",
+              "a": "Samsung Neo QLED en OLED televisies gebruiken doorgaans VESA-patronen zoals 200x200mm (voor sommige 55-inch modellen), 400x300mm (voor 55-inch en 65-inch modellen) en 400x400mm (voor 65-inch en 75-inch modellen). Controleer altijd de handleiding van uw specifieke model voor exacte details."
+            },
+            {
+              "q": "Welke maat schroeven heb ik nodig voor mijn Samsung TV VESA-beugel?",
+              "a": "De meeste Samsung Neo QLED en OLED televisies vereisen M8-schroeven. De aanbevolen lengte is doorgaans 10-12 mm, maar het is cruciaal om dit in de gebruikershandleiding van uw tv te controleren om interne componenten niet te beschadigen. Steek schroeven niet dieper dan 13 mm in."
+            },
+            {
+              "q": "Hoeveel weegt een 65-inch Samsung Neo QLED TV?",
+              "a": "Een 65-inch Samsung Neo QLED TV (bijv. QN90C) weegt doorgaans ongeveer 24,4 kg (53,8 lbs) zonder standaard. OLED-modellen (bijv. S90C) van dezelfde grootte kunnen iets lichter zijn, ongeveer 20,9 kg (46,1 lbs). Controleer altijd het exacte gewicht voor uw model en zorg ervoor dat uw muurbeugel dit kan dragen."
             }
           ]
         }

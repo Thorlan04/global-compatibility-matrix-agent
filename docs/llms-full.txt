@@ -354,3 +354,30 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=LATAM+personal+item+bag%2C+LATAM+carry+on+luggage%2C+underseat+bag+45x35x20cm%2C+carry+on+suitcase+55x35x25cm&tag=autocompat-21
 
 ---
+
+## Samsung Neo QLED & OLED TVs (55/65/75) (HARDWARE)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/samsung-neo-qled-oled-tv-compatibility-matrix.html
+- Summary: Comprehensive compatibility matrix for Samsung Neo QLED and OLED TVs (55, 65, 75 inch models), including VESA patterns, screw specifications, weight, and dimensions for safe mounting and installation.
+
+### Exact Specifications (Dual Units):
+* **VESA Mounting Pattern (55-inch)**: Metric: `200x200 mm, 400x300 mm` | Imperial: `7.9x7.9 in, 15.7x11.8 in` (Common patterns for 55-inch Neo QLED (e.g., QN90C) and OLED (e.g., S90C) models. Always verify with your specific model's manual.)
+* **VESA Mounting Pattern (65-inch)**: Metric: `400x300 mm, 400x400 mm` | Imperial: `15.7x11.8 in, 15.7x15.7 in` (Common patterns for 65-inch Neo QLED (e.g., QN90C) and OLED (e.g., S90C) models. Always verify with your specific model's manual.)
+* **VESA Mounting Pattern (75-inch)**: Metric: `400x400 mm` | Imperial: `15.7x15.7 in` (Common pattern for 75-inch Neo QLED (e.g., QN90C, QN95C) and OLED (e.g., S90C) models. Always verify with your specific model's manual.)
+* **VESA Screw Type & Length**: Metric: `M8 (10-12 mm length)` | Imperial: `M8 (0.39-0.47 inches length)` (Always verify exact screw length with TV manual to prevent damage. Do not exceed 13mm insertion depth. Use spacers if necessary.)
+* **Typical Weight (55-inch, without stand)**: Metric: `16.1 - 17.7 kg` | Imperial: `35.5 - 39.0 lbs` (Weight varies between Neo QLED (e.g., QN90C) and OLED (e.g., S90C) models. Ensure your mount supports this weight plus accessories.)
+* **Typical Weight (65-inch, without stand)**: Metric: `20.9 - 24.4 kg` | Imperial: `46.1 - 53.8 lbs` (Weight varies between Neo QLED (e.g., QN90C) and OLED (e.g., S90C) models. Ensure your mount supports this weight plus accessories.)
+* **Typical Weight (75-inch, without stand)**: Metric: `28.3 - 35.0 kg` | Imperial: `62.4 - 77.2 lbs` (Weight varies between Neo QLED (e.g., QN90C, QN95C) and OLED (e.g., S90C) models. Ensure your mount supports this weight plus accessories.)
+* **Typical Dimensions (55-inch, without stand)**: Metric: `122.5-122.7 x 70.6-70.8 x 2.7-3.9 cm (WxHxD)` | Imperial: `48.2-48.3 x 27.8-27.9 x 1.1-1.5 in (WxHxD)` (Dimensions vary slightly between Neo QLED and OLED models due to panel and chassis differences. Consider bezel thickness for tight spaces.)
+* **Typical Dimensions (65-inch, without stand)**: Metric: `144.4-144.7 x 82.9 x 2.7-3.9 cm (WxHxD)` | Imperial: `56.9-57.0 x 32.6 x 1.1-1.5 in (WxHxD)` (Dimensions vary slightly between Neo QLED and OLED models due to panel and chassis differences. Consider bezel thickness for tight spaces.)
+* **Typical Dimensions (75-inch, without stand)**: Metric: `167.0 x 95.6 x 2.7-3.9 cm (WxHxD)` | Imperial: `65.7 x 37.6 x 1.1-1.5 in (WxHxD)` (Dimensions vary slightly between Neo QLED and OLED models due to panel and chassis differences. Consider bezel thickness for tight spaces.)
+* **Typical Power Consumption (55-inch)**: Metric: `80-100 Watts (typical usage)` | Imperial: `80-100 Watts (typical usage)` (Actual consumption depends on content, brightness settings, and model. Peak consumption can be higher. Energy Star ratings provide more detail.)
+* **Typical Power Consumption (65-inch)**: Metric: `100-130 Watts (typical usage)` | Imperial: `100-130 Watts (typical usage)` (Actual consumption depends on content, brightness settings, and model. Peak consumption can be higher. Energy Star ratings provide more detail.)
+* **Typical Power Consumption (75-inch)**: Metric: `120-160 Watts (typical usage)` | Imperial: `120-160 Watts (typical usage)` (Actual consumption depends on content, brightness settings, and model. Peak consumption can be higher. Energy Star ratings provide more detail.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=Samsung+Neo+QLED+OLED+TV+VESA+mount+55+65+75+inch&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=Samsung+Neo+QLED+OLED+TV+VESA+mount+55+65+75+inch&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=Samsung+Neo+QLED+OLED+TV+VESA+mount+55+65+75+inch&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=Samsung+Neo+QLED+OLED+TV+VESA+mount+55+65+75+inch&tag=autocompat-21
+
+---
