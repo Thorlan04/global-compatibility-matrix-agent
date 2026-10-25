@@ -1,44 +1,46 @@
 {
-  "last_updated": "2026-10-25T02:59:27.268273+00:00",
+  "last_updated": "2026-10-25T10:38:07.467924+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "easyjet-baggage-powerbank-guide",
-    "delta",
-    "american",
-    "british-airways",
-    "samsung-neo-qled-oled-tv-compatibility-matrix",
-    "easyjet",
-    "lg-oled-c3-c4-vesa-mount-power",
-    "american-airlines-compatibility-matrix",
-    "united",
-    "transavia",
     "emirates",
-    "southwest-airlines-baggage-policy",
-    "united-airlines-baggage-lithium-battery-rules",
-    "ana-japan-airlines-carry-on-luggage-compatibility",
-    "ana-jal",
-    "qantas",
-    "delta-air-lines-compatibility-matrix",
-    "ryanair-cabin-baggage-dimensions",
-    "vueling-baggage-allowance",
-    "qatar-airways-baggage-power-bank-guide",
-    "wizz-air",
-    "qantas-carry-on-baggage-allowance",
-    "southwest",
-    "lufthansa",
-    "latam-airlines-baggage-allowance",
-    "lufthansa-airlines-baggage-guide",
-    "samsung-qled",
     "transavia-baggage-allowance",
+    "easyjet-baggage-powerbank-guide",
+    "british-airways",
+    "samsung-qled",
+    "lg-oled-c3-c4-vesa-mount-power",
+    "easyjet",
+    "samsung-neo-qled-oled-tv-compatibility-matrix",
     "emirates-baggage-allowance",
-    "latam",
+    "united-airlines-baggage-lithium-battery-rules",
+    "delta",
+    "wizz-air",
+    "ana-jal",
+    "southwest",
+    "air-france",
+    "southwest-airlines-baggage-policy",
     "air-france-baggage-allowance",
-    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "lufthansa",
     "vueling",
-    "qatar-airways",
+    "qantas",
+    "latam",
+    "united",
+    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "lufthansa-airlines-baggage-guide",
+    "ana-japan-airlines-carry-on-luggage-compatibility",
+    "american-airlines-compatibility-matrix",
+    "transavia",
+    "latam-airlines-baggage-allowance",
+    "ryanair-cabin-baggage-dimensions",
+    "qantas-carry-on-baggage-allowance",
     "air-canada",
-    "air-france"
+    "vueling-baggage-allowance",
+    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
+    "qatar-airways-baggage-power-bank-guide",
+    "qatar-airways",
+    "delta-air-lines-compatibility-matrix",
+    "american",
+    "sony-bravia"
   ],
   "topics_backlog": [
     {
@@ -8244,6 +8246,612 @@
             {
               "q": "Hoeveel weegt een 65-inch Samsung Neo QLED TV?",
               "a": "Een 65-inch Samsung Neo QLED TV (bijv. QN90C) weegt doorgaans ongeveer 24,4 kg (53,8 lbs) zonder standaard. OLED-modellen (bijv. S90C) van dezelfde grootte kunnen iets lichter zijn, ongeveer 20,9 kg (46,1 lbs). Controleer altijd het exacte gewicht voor uw model en zorg ervoor dat uw muurbeugel dit kan dragen."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "sony-bravia",
+      "slug": "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
+      "subject": "Sony Bravia XR (A80L/A95L/X90L)",
+      "category": "hardware",
+      "spec_rows": [
+        {
+          "item": "VESA Mounting Pattern",
+          "metric": "300 x 300 mm",
+          "imperial": "11.8 x 11.8 inches",
+          "status": "Verified",
+          "note": "Compliant with VESA FDMI MIS-D, 300, C standard.",
+          "item_translations": {
+            "en": "VESA Mounting Pattern",
+            "de": "VESA-Montagemuster",
+            "fr": "Modèle de montage VESA",
+            "es": "Patrón de montaje VESA",
+            "it": "Schema di montaggio VESA",
+            "ja": "VESA取り付けパターン",
+            "pt": "Padrão de Montagem VESA",
+            "nl": "VESA-montagepatroon"
+          },
+          "note_translations": {
+            "en": "Compliant with VESA FDMI MIS-D, 300, C standard.",
+            "de": "Konform mit VESA FDMI MIS-D, 300, C Standard.",
+            "fr": "Conforme à la norme VESA FDMI MIS-D, 300, C.",
+            "es": "Conforme al estándar VESA FDMI MIS-D, 300, C.",
+            "it": "Conforme allo standard VESA FDMI MIS-D, 300, C.",
+            "ja": "VESA FDMI MIS-D, 300, C規格に準拠。",
+            "pt": "Em conformidade com o padrão VESA FDMI MIS-D, 300, C.",
+            "nl": "Voldoet aan de VESA FDMI MIS-D, 300, C standaard."
+          }
+        },
+        {
+          "item": "VESA Screw Type",
+          "metric": "M6 (10-12 mm length recommended)",
+          "imperial": "M6 (0.39-0.47 inches length recommended)",
+          "status": "Verified",
+          "note": "M6 screw type, typically 10-12mm length required for secure mounting.",
+          "item_translations": {
+            "en": "VESA Screw Type",
+            "de": "VESA-Schraubentyp",
+            "fr": "Type de vis VESA",
+            "es": "Tipo de tornillo VESA",
+            "it": "Tipo di vite VESA",
+            "ja": "VESAネジタイプ",
+            "pt": "Tipo de Parafuso VESA",
+            "nl": "VESA-schroeftype"
+          },
+          "note_translations": {
+            "en": "M6 screw type, typically 10-12mm length required for secure mounting.",
+            "de": "M6 Schraubentyp, typischerweise 10-12mm Länge für die Montage erforderlich.",
+            "fr": "Type de vis M6, longueur typique de 10-12mm requise pour le montage.",
+            "es": "Tipo de tornillo M6, típicamente se requiere una longitud de 10-12mm para el montaje.",
+            "it": "Tipo di vite M6, tipicamente è richiesta una lunghezza di 10-12mm per il montaggio.",
+            "ja": "M6ネジタイプ、取り付けには通常10-12mmの長さが必要です。",
+            "pt": "Tipo de parafuso M6, geralmente é necessário um comprimento de 10-12mm para montagem.",
+            "nl": "M6 schroeftype, typisch 10-12mm lengte vereist voor montage."
+          }
+        },
+        {
+          "item": "Soundbar Clearance (Minimum)",
+          "metric": "5.0 - 7.0 cm",
+          "imperial": "2.0 - 2.8 inches",
+          "status": "Verified",
+          "note": "Achieved with multi-position stand (A80L/A95L) or by using a compatible soundbar bracket (X90L).",
+          "item_translations": {
+            "en": "Soundbar Clearance (Minimum)",
+            "de": "Mindest-Soundbar-Freiraum",
+            "fr": "Dégagement minimal pour barre de son",
+            "es": "Espacio libre mínimo para barra de sonido",
+            "it": "Spazio minimo per soundbar",
+            "ja": "サウンドバーの最小クリアランス",
+            "pt": "Folga Mínima para Soundbar",
+            "nl": "Minimale soundbar-vrije ruimte"
+          },
+          "note_translations": {
+            "en": "Achieved with multi-position stand (A80L/A95L) or by using a compatible soundbar bracket (X90L).",
+            "de": "Erreicht mit mehrpositionalem Standfuß (A80L/A95L) oder durch Verwendung einer kompatiblen Soundbar-Halterung (X90L).",
+            "fr": "Atteint avec un support multi-positions (A80L/A95L) ou en utilisant un support de barre de son compatible (X90L).",
+            "es": "Logrado con soporte multiposición (A80L/A95L) o utilizando un soporte de barra de sonido compatible (X90L).",
+            "it": "Ottenuto con supporto multiposizione (A80L/A95L) o utilizzando una staffa soundbar compatibile (X90L).",
+            "ja": "多位置スタンド (A80L/A95L) または互換性のあるサウンドバーブラケット (X90L) を使用して実現。",
+            "pt": "Alcançado com suporte multiposição (A80L/A95L) ou usando um suporte de soundbar compatível (X90L).",
+            "nl": "Bereikt met een multi-positie standaard (A80L/A95L) of door gebruik te maken van een compatibele soundbarbeugel (X90L)."
+          }
+        },
+        {
+          "item": "Typical Power Consumption (Operating)",
+          "metric": "100 - 150 Watts (0.1 - 0.15 kWh)",
+          "imperial": "100 - 150 Watts (0.1 - 0.15 kWh)",
+          "status": "Verified",
+          "note": "Typical for 65-inch models; actual values vary by screen size and specific model.",
+          "item_translations": {
+            "en": "Typical Power Consumption (Operating)",
+            "de": "Typischer Stromverbrauch (Betrieb)",
+            "fr": "Consommation électrique typique (en fonctionnement)",
+            "es": "Consumo de energía típico (en funcionamiento)",
+            "it": "Consumo energetico tipico (in funzione)",
+            "ja": "標準消費電力 (動作時)",
+            "pt": "Consumo de Energia Típico (Operação)",
+            "nl": "Typisch stroomverbruik (in bedrijf)"
+          },
+          "note_translations": {
+            "en": "Typical for 65-inch models; actual values vary by screen size and specific model.",
+            "de": "Typisch für 65-Zoll-Modelle; tatsächliche Werte variieren je nach Bildschirmgröße und spezifischem Modell.",
+            "fr": "Typique pour les modèles de 65 pouces ; les valeurs réelles varient selon la taille de l'écran et le modèle spécifique.",
+            "es": "Típico para modelos de 65 pulgadas; los valores reales varían según el tamaño de la pantalla y el modelo específico.",
+            "it": "Tipico per i modelli da 65 pollici; i valori effettivi variano in base alle dimensioni dello schermo e al modello specifico.",
+            "ja": "65インチモデルの典型値。実際の値は画面サイズと特定のモデルによって異なります。",
+            "pt": "Típico para modelos de 65 polegadas; os valores reais variam de acordo com o tamanho da tela e o modelo específico.",
+            "nl": "Typisch voor 65-inch modellen; werkelijke waarden variëren per schermgrootte en specifiek model."
+          }
+        },
+        {
+          "item": "Standby Power Consumption",
+          "metric": "< 0.5 Watts",
+          "imperial": "< 0.5 Watts",
+          "status": "Verified",
+          "note": "Energy-efficient standby mode.",
+          "item_translations": {
+            "en": "Standby Power Consumption",
+            "de": "Standby-Stromverbrauch",
+            "fr": "Consommation électrique en veille",
+            "es": "Consumo de energía en espera",
+            "it": "Consumo energetico in standby",
+            "ja": "スタンバイ消費電力",
+            "pt": "Consumo de Energia em Standby",
+            "nl": "Stand-by stroomverbruik"
+          },
+          "note_translations": {
+            "en": "Energy-efficient standby mode.",
+            "de": "Energieeffizienter Standby-Modus.",
+            "fr": "Mode veille économe en énergie.",
+            "es": "Modo de espera de bajo consumo energético.",
+            "it": "Modalità standby a basso consumo energetico.",
+            "ja": "省エネスタンバイモード。",
+            "pt": "Modo de espera energeticamente eficiente.",
+            "nl": "Energiezuinige stand-bymodus."
+          }
+        },
+        {
+          "item": "Maximum Power Consumption",
+          "metric": "250 - 350 Watts",
+          "imperial": "250 - 350 Watts",
+          "status": "Verified",
+          "note": "Peak consumption during high brightness or demanding content. Typical for 65-inch models.",
+          "item_translations": {
+            "en": "Maximum Power Consumption",
+            "de": "Maximaler Stromverbrauch",
+            "fr": "Consommation électrique maximale",
+            "es": "Consumo máximo de energía",
+            "it": "Consumo energetico massimo",
+            "ja": "最大消費電力",
+            "pt": "Consumo Máximo de Energia",
+            "nl": "Maximaal stroomverbruik"
+          },
+          "note_translations": {
+            "en": "Peak consumption during high brightness or demanding content. Typical for 65-inch models.",
+            "de": "Spitzenverbrauch bei hoher Helligkeit oder anspruchsvollen Inhalten. Typisch für 65-Zoll-Modelle.",
+            "fr": "Consommation maximale en cas de forte luminosité ou de contenu exigeant. Typique pour les modèles de 65 pouces.",
+            "es": "Consumo máximo durante alto brillo o contenido exigente. Típico para modelos de 65 pulgadas.",
+            "it": "Consumo di picco durante alta luminosità o contenuti esigenti. Tipico per i modelli da 65 pollici.",
+            "ja": "高輝度または要求の厳しいコンテンツ中の最大消費量。65インチモデルの典型値。",
+            "pt": "Consumo máximo durante alto brilho ou conteúdo exigente. Típico para modelos de 65 polegadas.",
+            "nl": "Piekverbruik bij hoge helderheid of veeleisende inhoud. Typisch voor 65-inch modellen."
+          }
+        },
+        {
+          "item": "Weight (without stand)",
+          "metric": "22.0 - 25.0 kg",
+          "imperial": "48.5 - 55.1 lbs",
+          "status": "Verified",
+          "note": "Typical for 65-inch models; actual values vary by screen size and specific model.",
+          "item_translations": {
+            "en": "Weight (without stand)",
+            "de": "Gewicht (ohne Standfuß)",
+            "fr": "Poids (sans support)",
+            "es": "Peso (sin soporte)",
+            "it": "Peso (senza supporto)",
+            "ja": "重量 (スタンドなし)",
+            "pt": "Peso (sem suporte)",
+            "nl": "Gewicht (zonder standaard)"
+          },
+          "note_translations": {
+            "en": "Typical for 65-inch models; actual values vary by screen size and specific model.",
+            "de": "Typisch für 65-Zoll-Modelle; tatsächliche Werte variieren je nach Bildschirmgröße und spezifischem Modell.",
+            "fr": "Typique pour les modèles de 65 pouces ; les valeurs réelles varient selon la taille de l'écran et le modèle spécifique.",
+            "es": "Típico para modelos de 65 pulgadas; los valores reales varían según el tamaño de la pantalla y el modelo específico.",
+            "it": "Tipico per i modelli da 65 pollici; i valori effettivi variano in base alle dimensioni dello schermo e al modello specifico.",
+            "ja": "65インチモデルの典型値。実際の値は画面サイズと特定のモデルによって異なります。",
+            "pt": "Típico para modelos de 65 polegadas; os valores reais variam de acordo com o tamanho da tela e o modelo específico.",
+            "nl": "Typisch voor 65-inch modellen; werkelijke waarden variëren per schermgrootte en specifiek model."
+          }
+        },
+        {
+          "item": "Weight (with stand)",
+          "metric": "23.0 - 27.0 kg",
+          "imperial": "50.7 - 59.5 lbs",
+          "status": "Verified",
+          "note": "Typical for 65-inch models; actual values vary by screen size and specific model.",
+          "item_translations": {
+            "en": "Weight (with stand)",
+            "de": "Gewicht (mit Standfuß)",
+            "fr": "Poids (avec support)",
+            "es": "Peso (con soporte)",
+            "it": "Peso (con supporto)",
+            "ja": "重量 (スタンドあり)",
+            "pt": "Peso (com suporte)",
+            "nl": "Gewicht (met standaard)"
+          },
+          "note_translations": {
+            "en": "Typical for 65-inch models; actual values vary by screen size and specific model.",
+            "de": "Typisch für 65-Zoll-Modelle; tatsächliche Werte variieren je nach Bildschirmgröße und spezifischem Modell.",
+            "fr": "Typique pour les modèles de 65 pouces ; les valeurs réelles varient selon la taille de l'écran et le modèle spécifique.",
+            "es": "Típico para modelos de 65 pulgadas; los valores reales varían según el tamaño de la pantalla y el modelo específico.",
+            "it": "Tipico per i modelli da 65 pollici; i valori effettivi variano in base alle dimensioni dello schermo e al modello specifico.",
+            "ja": "65インチモデルの典型値。実際の値は画面サイズと特定のモデルによって異なります。",
+            "pt": "Típico para modelos de 65 polegadas; os valores reais variam de acordo com o tamanho da tela e o modelo específico.",
+            "nl": "Typisch voor 65-inch modellen; werkelijke waarden variëren per schermgrootte en specifiek model."
+          }
+        },
+        {
+          "item": "Dimensions (without stand, WxHxD)",
+          "metric": "144.8 x 83.6 x 5.3 cm",
+          "imperial": "57.0 x 32.9 x 2.1 inches",
+          "status": "Verified",
+          "note": "Typical for 65-inch models; actual values vary by screen size and specific model.",
+          "item_translations": {
+            "en": "Dimensions (without stand, WxHxD)",
+            "de": "Abmessungen (ohne Standfuß, BxHxT)",
+            "fr": "Dimensions (sans support, LxHxP)",
+            "es": "Dimensiones (sin soporte, AnxAlxPr)",
+            "it": "Dimensioni (senza supporto, LxAxP)",
+            "ja": "寸法 (スタンドなし、幅x高さx奥行き)",
+            "pt": "Dimensões (sem suporte, LxAxP)",
+            "nl": "Afmetingen (zonder standaard, BxHxD)"
+          },
+          "note_translations": {
+            "en": "Typical for 65-inch models; actual values vary by screen size and specific model.",
+            "de": "Typisch für 65-Zoll-Modelle; tatsächliche Werte variieren je nach Bildschirmgröße und spezifischem Modell.",
+            "fr": "Typique pour les modèles de 65 pouces ; les valeurs réelles varient selon la taille de l'écran et le modèle spécifique.",
+            "es": "Típico para modelos de 65 pulgadas; los valores reales varían según el tamaño de la pantalla y el modelo específico.",
+            "it": "Tipico per i modelli da 65 pollici; i valori effettivi variano in base alle dimensioni dello schermo e al modello specifico.",
+            "ja": "65インチモデルの典型値。実際の値は画面サイズと特定のモデルによって異なります。",
+            "pt": "Típico para modelos de 65 polegadas; os valores reais variam de acordo com o tamanho da tela e o modelo específico.",
+            "nl": "Typisch voor 65-inch modellen; werkelijke waarden variëren per schermgrootte en specifiek model."
+          }
+        },
+        {
+          "item": "Dimensions (with stand, WxHxD)",
+          "metric": "144.8 x 86.2 x 33.8 cm",
+          "imperial": "57.0 x 33.9 x 13.3 inches",
+          "status": "Verified",
+          "note": "Typical for 65-inch models; height varies with stand position. Actual values vary by screen size and specific model.",
+          "item_translations": {
+            "en": "Dimensions (with stand, WxHxD)",
+            "de": "Abmessungen (mit Standfuß, BxHxT)",
+            "fr": "Dimensions (avec support, LxHxP)",
+            "es": "Dimensiones (con soporte, AnxAlxPr)",
+            "it": "Dimensioni (con supporto, LxAxP)",
+            "ja": "寸法 (スタンドあり、幅x高さx奥行き)",
+            "pt": "Dimensões (com suporte, LxAxP)",
+            "nl": "Afmetingen (met standaard, BxHxD)"
+          },
+          "note_translations": {
+            "en": "Typical for 65-inch models; height varies with stand position. Actual values vary by screen size and specific model.",
+            "de": "Typisch für 65-Zoll-Modelle; Höhe variiert je nach Standposition. Tatsächliche Werte variieren je nach Bildschirmgröße und spezifischem Modell.",
+            "fr": "Typique pour les modèles de 65 pouces ; la hauteur varie avec la position du support. Les valeurs réelles varient selon la taille de l'écran et le modèle spécifique.",
+            "es": "Típico para modelos de 65 pulgadas; la altura varía con la posición del soporte. Los valores reales varían según el tamaño de la pantalla y el modelo específico.",
+            "it": "Tipico per i modelli da 65 pollici; l'altezza varia con la posizione del supporto. I valori effettivi variano in base alle dimensioni dello schermo e al modello specifico.",
+            "ja": "65インチモデルの典型値。高さはスタンドの位置によって異なります。実際の値は画面サイズと特定のモデルによって異なります。",
+            "pt": "Típico para modelos de 65 polegadas; a altura varia com a posição do suporte. Os valores reais variam de acordo com o tamanho da tela e o modelo específico.",
+            "nl": "Typisch voor 65-inch modellen; hoogte varieert met de standpositie. Werkelijke waarden variëren per schermgrootte en specifiek model."
+          }
+        },
+        {
+          "item": "Operating Temperature Range",
+          "metric": "0°C to 40°C",
+          "imperial": "32°F to 104°F",
+          "status": "Compliant",
+          "note": "Standard operating environment for consumer electronics.",
+          "item_translations": {
+            "en": "Operating Temperature Range",
+            "de": "Betriebstemperaturbereich",
+            "fr": "Plage de température de fonctionnement",
+            "es": "Rango de temperatura de funcionamiento",
+            "it": "Intervallo di temperatura operativa",
+            "ja": "動作温度範囲",
+            "pt": "Faixa de Temperatura de Operação",
+            "nl": "Bedrijfstemperatuurbereik"
+          },
+          "note_translations": {
+            "en": "Standard operating environment for consumer electronics.",
+            "de": "Standard-Betriebsumgebung für Unterhaltungselektronik.",
+            "fr": "Environnement de fonctionnement standard pour l'électronique grand public.",
+            "es": "Entorno operativo estándar para electrónica de consumo.",
+            "it": "Ambiente operativo standard per l'elettronica di consumo.",
+            "ja": "家電製品の標準動作環境。",
+            "pt": "Ambiente operacional padrão para eletrônicos de consumo.",
+            "nl": "Standaard bedrijfsomgeving voor consumentenelektronica."
+          }
+        },
+        {
+          "item": "Operating Humidity Range",
+          "metric": "10% to 90% RH (non-condensing)",
+          "imperial": "10% to 90% RH (non-condensing)",
+          "status": "Compliant",
+          "note": "Standard operating environment for consumer electronics.",
+          "item_translations": {
+            "en": "Operating Humidity Range",
+            "de": "Betriebsfeuchtigkeitsbereich",
+            "fr": "Plage d'humidité de fonctionnement",
+            "es": "Rango de humedad de funcionamiento",
+            "it": "Intervallo di umidità operativa",
+            "ja": "動作湿度範囲",
+            "pt": "Faixa de Umidade de Operação",
+            "nl": "Bedrijfsvochtigheidsbereik"
+          },
+          "note_translations": {
+            "en": "Standard operating environment for consumer electronics.",
+            "de": "Standard-Betriebsumgebung für Unterhaltungselektronik.",
+            "fr": "Environnement de fonctionnement standard pour l'électronique grand public.",
+            "es": "Entorno operativo estándar para electrónica de consumo.",
+            "it": "Ambiente operativo standard per l'elettronica di consumo.",
+            "ja": "家電製品の標準動作環境。",
+            "pt": "Ambiente operacional padrão para eletrônicos de consumo.",
+            "nl": "Standaard bedrijfsomgeving voor consumentenelektronica."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
+          "title": "Sony Bravia XR (A80L/A95L/X90L) Compatibility & Measurement Matrix",
+          "summary": "Comprehensive compatibility and exact measurement matrix for Sony Bravia XR A80L, A95L, and X90L series televisions, covering VESA, power, dimensions, and soundbar clearance.",
+          "amazon_search_query": "Sony Bravia XR A80L A95L X90L VESA mount soundbar",
+          "buy_box_title": "Enhance Your Sony Bravia XR Experience",
+          "buy_box_subtitle": "Recommended accessories for optimal setup and performance.",
+          "allowed_guidelines": [
+            "Use VESA FDMI MIS-D 300x300mm mounts.",
+            "Ensure M6 screws are 10-12mm in length for secure mounting.",
+            "Verify soundbar clearance with adjustable stands or dedicated brackets.",
+            "Adhere to specified operating temperature and humidity ranges."
+          ],
+          "strict_restrictions": [
+            "Do not exceed maximum weight capacity of VESA mount.",
+            "Avoid blocking ventilation ports on the TV.",
+            "Do not use non-M6 screws for VESA mounting.",
+            "Operating outside specified temperature/humidity may void warranty."
+          ],
+          "faqs": [
+            {
+              "q": "What VESA mount size do Sony Bravia XR A80L/A95L/X90L TVs use?",
+              "a": "All listed Sony Bravia XR models use a VESA mounting pattern of 300x300mm (11.8 x 11.8 inches)."
+            },
+            {
+              "q": "What type of screws are needed for VESA mounting?",
+              "a": "You will need M6 screws, typically 10-12mm in length, for secure attachment to a VESA mount."
+            },
+            {
+              "q": "Can I fit a soundbar under these TVs?",
+              "a": "Yes, the A80L and A95L models feature multi-position stands that allow for increased soundbar clearance. For the X90L, a compatible soundbar bracket or a low-profile soundbar is recommended to ensure proper fit."
+            }
+          ]
+        },
+        "de": {
+          "slug": "sony-bravia-xr-a80l-a95l-x90l-kompatibilitaetsmatrix",
+          "title": "Sony Bravia XR (A80L/A95L/X90L) Kompatibilitäts- und Messmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messmatrix für Sony Bravia XR A80L, A95L und X90L Serienfernseher, einschließlich VESA, Stromverbrauch, Abmessungen und Soundbar-Freiraum.",
+          "amazon_search_query": "Sony Bravia XR A80L A95L X90L VESA Halterung Soundbar",
+          "buy_box_title": "Verbessern Sie Ihr Sony Bravia XR Erlebnis",
+          "buy_box_subtitle": "Empfohlenes Zubehör für optimale Einrichtung und Leistung.",
+          "allowed_guidelines": [
+            "Verwenden Sie VESA FDMI MIS-D 300x300mm Halterungen.",
+            "Stellen Sie sicher, dass M6-Schrauben 10-12mm lang sind für eine sichere Montage.",
+            "Überprüfen Sie den Soundbar-Freiraum mit verstellbaren Standfüßen oder speziellen Halterungen.",
+            "Halten Sie die angegebenen Betriebs-Temperatur- und Feuchtigkeitsbereiche ein."
+          ],
+          "strict_restrictions": [
+            "Überschreiten Sie nicht die maximale Tragfähigkeit der VESA-Halterung.",
+            "Vermeiden Sie das Blockieren von Lüftungsöffnungen am Fernseher.",
+            "Verwenden Sie keine Nicht-M6-Schrauben für die VESA-Montage.",
+            "Betrieb außerhalb der angegebenen Temperatur/Feuchtigkeit kann zum Erlöschen der Garantie führen."
+          ],
+          "faqs": [
+            {
+              "q": "Welche VESA-Halterungsgröße verwenden Sony Bravia XR A80L/A95L/X90L Fernseher?",
+              "a": "Alle aufgeführten Sony Bravia XR Modelle verwenden ein VESA-Montagemuster von 300x300mm (11.8 x 11.8 Zoll)."
+            },
+            {
+              "q": "Welche Art von Schrauben werden für die VESA-Montage benötigt?",
+              "a": "Sie benötigen M6-Schrauben, typischerweise 10-12mm lang, für eine sichere Befestigung an einer VESA-Halterung."
+            },
+            {
+              "q": "Kann ich eine Soundbar unter diesen Fernsehern anbringen?",
+              "a": "Ja, die Modelle A80L und A95L verfügen über mehrpositionale Standfüße, die einen größeren Soundbar-Freiraum ermöglichen. Für den X90L wird eine kompatible Soundbar-Halterung oder eine flache Soundbar empfohlen, um einen korrekten Sitz zu gewährleisten."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "sony-bravia-xr-a80l-a95l-x90l-matrice-compatibilite",
+          "title": "Matrice de Compatibilité et de Mesures Sony Bravia XR (A80L/A95L/X90L)",
+          "summary": "Matrice complète de compatibilité et de mesures exactes pour les téléviseurs Sony Bravia XR des séries A80L, A95L et X90L, couvrant VESA, alimentation, dimensions et dégagement pour barre de son.",
+          "amazon_search_query": "Sony Bravia XR A80L A95L X90L support VESA barre de son",
+          "buy_box_title": "Améliorez Votre Expérience Sony Bravia XR",
+          "buy_box_subtitle": "Accessoires recommandés pour une configuration et des performances optimales.",
+          "allowed_guidelines": [
+            "Utilisez des supports VESA FDMI MIS-D 300x300mm.",
+            "Assurez-vous que les vis M6 ont une longueur de 10-12mm pour un montage sécurisé.",
+            "Vérifiez le dégagement de la barre de son avec des supports réglables ou des supports dédiés.",
+            "Respectez les plages de température et d'humidité de fonctionnement spécifiées."
+          ],
+          "strict_restrictions": [
+            "Ne dépassez pas la capacité de poids maximale du support VESA.",
+            "Évitez de bloquer les orifices de ventilation du téléviseur.",
+            "N'utilisez pas de vis non-M6 pour le montage VESA.",
+            "Un fonctionnement en dehors des températures/humidités spécifiées peut annuler la garantie."
+          ],
+          "faqs": [
+            {
+              "q": "Quelle taille de support VESA les téléviseurs Sony Bravia XR A80L/A95L/X90L utilisent-ils ?",
+              "a": "Tous les modèles Sony Bravia XR listés utilisent un modèle de montage VESA de 300x300mm (11.8 x 11.8 pouces)."
+            },
+            {
+              "q": "Quel type de vis est nécessaire pour le montage VESA ?",
+              "a": "Vous aurez besoin de vis M6, généralement de 10-12mm de longueur, pour une fixation sécurisée à un support VESA."
+            },
+            {
+              "q": "Puis-je installer une barre de son sous ces téléviseurs ?",
+              "a": "Oui, les modèles A80L et A95L sont équipés de supports multi-positions qui permettent un dégagement accru pour la barre de son. Pour le X90L, un support de barre de son compatible ou une barre de son à profil bas est recommandé pour assurer un ajustement correct."
+            }
+          ]
+        },
+        "es": {
+          "slug": "sony-bravia-xr-a80l-a95l-x90l-matriz-compatibilidad",
+          "title": "Matriz de Compatibilidad y Medidas Sony Bravia XR (A80L/A95L/X90L)",
+          "summary": "Matriz completa de compatibilidad y medidas exactas para los televisores Sony Bravia XR de las series A80L, A95L y X90L, cubriendo VESA, consumo de energía, dimensiones y espacio para barra de sonido.",
+          "amazon_search_query": "Sony Bravia XR A80L A95L X90L soporte VESA barra de sonido",
+          "buy_box_title": "Mejore Su Experiencia Sony Bravia XR",
+          "buy_box_subtitle": "Accesorios recomendados para una configuración y rendimiento óptimos.",
+          "allowed_guidelines": [
+            "Utilice soportes VESA FDMI MIS-D 300x300mm.",
+            "Asegúrese de que los tornillos M6 tengan una longitud de 10-12mm para un montaje seguro.",
+            "Verifique el espacio libre para la barra de sonido con soportes ajustables o soportes dedicados.",
+            "Respete los rangos de temperatura y humedad de funcionamiento especificados."
+          ],
+          "strict_restrictions": [
+            "No exceda la capacidad máxima de peso del soporte VESA.",
+            "Evite bloquear los puertos de ventilación del televisor.",
+            "No utilice tornillos que no sean M6 para el montaje VESA.",
+            "Operar fuera de las temperaturas/humedades especificadas puede anular la garantía."
+          ],
+          "faqs": [
+            {
+              "q": "¿Qué tamaño de montaje VESA utilizan los televisores Sony Bravia XR A80L/A95L/X90L?",
+              "a": "Todos los modelos Sony Bravia XR listados utilizan un patrón de montaje VESA de 300x300mm (11.8 x 11.8 pulgadas)."
+            },
+            {
+              "q": "¿Qué tipo de tornillos se necesitan para el montaje VESA?",
+              "a": "Necesitará tornillos M6, típicamente de 10-12mm de longitud, para una fijación segura a un soporte VESA."
+            },
+            {
+              "q": "¿Puedo colocar una barra de sonido debajo de estos televisores?",
+              "a": "Sí, los modelos A80L y A95L cuentan con soportes multiposición que permiten un mayor espacio libre para la barra de sonido. Para el X90L, se recomienda un soporte de barra de sonido compatible o una barra de sonido de perfil bajo para asegurar un ajuste adecuado."
+            }
+          ]
+        },
+        "it": {
+          "slug": "sony-bravia-xr-a80l-a95l-x90l-matrice-compatibilita",
+          "title": "Matrice di Compatibilità e Misurazioni Sony Bravia XR (A80L/A95L/X90L)",
+          "summary": "Matrice completa di compatibilità e misurazioni esatte per i televisori Sony Bravia XR delle serie A80L, A95L e X90L, che copre VESA, alimentazione, dimensioni e spazio per soundbar.",
+          "amazon_search_query": "Sony Bravia XR A80L A95L X90L supporto VESA soundbar",
+          "buy_box_title": "Migliora la Tua Esperienza Sony Bravia XR",
+          "buy_box_subtitle": "Accessori consigliati per una configurazione e prestazioni ottimali.",
+          "allowed_guidelines": [
+            "Utilizzare supporti VESA FDMI MIS-D 300x300mm.",
+            "Assicurarsi che le viti M6 siano lunghe 10-12mm per un montaggio sicuro.",
+            "Verificare lo spazio per la soundbar con supporti regolabili o staffe dedicate.",
+            "Rispettare gli intervalli di temperatura e umidità operative specificati."
+          ],
+          "strict_restrictions": [
+            "Non superare la capacità di peso massima del supporto VESA.",
+            "Evitare di bloccare le porte di ventilazione sul televisore.",
+            "Non utilizzare viti non M6 per il montaggio VESA.",
+            "Il funzionamento al di fuori delle temperature/umidità specificate può invalidare la garanzia."
+          ],
+          "faqs": [
+            {
+              "q": "Quale dimensione di montaggio VESA utilizzano i TV Sony Bravia XR A80L/A95L/X90L?",
+              "a": "Tutti i modelli Sony Bravia XR elencati utilizzano un modello di montaggio VESA di 300x300mm (11.8 x 11.8 pollici)."
+            },
+            {
+              "q": "Che tipo di viti sono necessarie per il montaggio VESA?",
+              "a": "Saranno necessarie viti M6, tipicamente lunghe 10-12mm, per un fissaggio sicuro a un supporto VESA."
+            },
+            {
+              "q": "Posso montare una soundbar sotto questi TV?",
+              "a": "Sì, i modelli A80L e A95L sono dotati di supporti multiposizione che consentono un maggiore spazio per la soundbar. Per l'X90L, si consiglia una staffa soundbar compatibile o una soundbar a basso profilo per garantire un corretto adattamento."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "sony-bravia-xr-a80l-a95l-x90l-互換性マトリックス",
+          "title": "Sony Bravia XR (A80L/A95L/X90L) 互換性および測定マトリックス",
+          "summary": "Sony Bravia XR A80L、A95L、X90LシリーズテレビのVESA、消費電力、寸法、サウンドバーのクリアランスを網羅した包括的な互換性および正確な測定マトリックス。",
+          "amazon_search_query": "Sony Bravia XR A80L A95L X90L VESA マウント サウンドバー",
+          "buy_box_title": "Sony Bravia XR体験を向上させる",
+          "buy_box_subtitle": "最適なセットアップとパフォーマンスのためのおすすめアクセサリー。",
+          "allowed_guidelines": [
+            "VESA FDMI MIS-D 300x300mmマウントを使用してください。",
+            "安全な取り付けのためにM6ネジの長さが10-12mmであることを確認してください。",
+            "調整可能なスタンドまたは専用ブラケットでサウンドバーのクリアランスを確認してください。",
+            "指定された動作温度および湿度範囲を遵守してください。"
+          ],
+          "strict_restrictions": [
+            "VESAマウントの最大耐荷重を超えないでください。",
+            "テレビの通気口を塞がないでください。",
+            "VESAマウントにはM6以外のネジを使用しないでください。",
+            "指定された温度/湿度範囲外での操作は保証を無効にする場合があります。"
+          ],
+          "faqs": [
+            {
+              "q": "Sony Bravia XR A80L/A95L/X90LテレビはどのVESAマウントサイズを使用していますか？",
+              "a": "リストされているすべてのSony Bravia XRモデルは、300x300mm（11.8 x 11.8インチ）のVESA取り付けパターンを使用しています。"
+            },
+            {
+              "q": "VESAマウントにはどのタイプのネジが必要ですか？",
+              "a": "VESAマウントにしっかりと取り付けるには、通常10-12mmの長さのM6ネジが必要です。"
+            },
+            {
+              "q": "これらのテレビの下にサウンドバーを取り付けることはできますか？",
+              "a": "はい、A80LおよびA95Lモデルは、サウンドバーのクリアランスを増やすことができるマルチポジションスタンドを備えています。X90Lの場合、適切なフィットを確保するために、互換性のあるサウンドバーブラケットまたは薄型サウンドバーをお勧めします。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "sony-bravia-xr-a80l-a95l-x90l-matriz-compatibilidade",
+          "title": "Matriz de Compatibilidade e Medidas Sony Bravia XR (A80L/A95L/X90L)",
+          "summary": "Matriz abrangente de compatibilidade e medidas exatas para televisores Sony Bravia XR das séries A80L, A95L e X90L, cobrindo VESA, consumo de energia, dimensões e folga para soundbar.",
+          "amazon_search_query": "Sony Bravia XR A80L A95L X90L suporte VESA soundbar",
+          "buy_box_title": "Melhore Sua Experiência Sony Bravia XR",
+          "buy_box_subtitle": "Acessórios recomendados para configuração e desempenho ideais.",
+          "allowed_guidelines": [
+            "Use suportes VESA FDMI MIS-D 300x300mm.",
+            "Certifique-se de que os parafusos M6 tenham 10-12mm de comprimento para montagem segura.",
+            "Verifique a folga da soundbar com suportes ajustáveis ou suportes dedicados.",
+            "Cumpra as faixas de temperatura e umidade de operação especificadas."
+          ],
+          "strict_restrictions": [
+            "Não exceda a capacidade máxima de peso do suporte VESA.",
+            "Evite bloquear as portas de ventilação da TV.",
+            "Não use parafusos que não sejam M6 para montagem VESA.",
+            "A operação fora das temperaturas/umidades especificadas pode anular a garantia."
+          ],
+          "faqs": [
+            {
+              "q": "Qual o tamanho do suporte VESA que as TVs Sony Bravia XR A80L/A95L/X90L usam?",
+              "a": "Todos os modelos Sony Bravia XR listados usam um padrão de montagem VESA de 300x300mm (11.8 x 11.8 polegadas)."
+            },
+            {
+              "q": "Que tipo de parafusos são necessários para a montagem VESA?",
+              "a": "Você precisará de parafusos M6, tipicamente com 10-12mm de comprimento, para fixação segura a um suporte VESA."
+            },
+            {
+              "q": "Posso encaixar uma soundbar sob essas TVs?",
+              "a": "Sim, os modelos A80L e A95L possuem suportes multiposição que permitem maior folga para a soundbar. Para o X90L, um suporte de soundbar compatível ou uma soundbar de perfil baixo é recomendado para garantir o ajuste adequado."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "sony-bravia-xr-a80l-a95l-x90l-compatibiliteitsmatrix",
+          "title": "Sony Bravia XR (A80L/A95L/X90L) Compatibiliteits- en Meetmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetmatrix voor Sony Bravia XR A80L, A95L en X90L serie televisies, inclusief VESA, stroomverbruik, afmetingen en soundbar-vrije ruimte.",
+          "amazon_search_query": "Sony Bravia XR A80L A95L X90L VESA beugel soundbar",
+          "buy_box_title": "Verbeter Uw Sony Bravia XR Ervaring",
+          "buy_box_subtitle": "Aanbevolen accessoires voor optimale installatie en prestaties.",
+          "allowed_guidelines": [
+            "Gebruik VESA FDMI MIS-D 300x300mm beugels.",
+            "Zorg ervoor dat M6 schroeven 10-12mm lang zijn voor een veilige montage.",
+            "Controleer de soundbar-vrije ruimte met verstelbare standaarden of speciale beugels.",
+            "Houd u aan de gespecificeerde bedrijfstemperatuur- en vochtigheidsbereiken."
+          ],
+          "strict_restrictions": [
+            "Overschrijd de maximale draagcapaciteit van de VESA-beugel niet.",
+            "Voorkom het blokkeren van ventilatieopeningen op de tv.",
+            "Gebruik geen niet-M6 schroeven voor VESA-montage.",
+            "Gebruik buiten de gespecificeerde temperatuur/vochtigheid kan de garantie ongeldig maken."
+          ],
+          "faqs": [
+            {
+              "q": "Welke VESA-montagemaat gebruiken Sony Bravia XR A80L/A95L/X90L tv's?",
+              "a": "Alle vermelde Sony Bravia XR modellen gebruiken een VESA-montagepatroon van 300x300mm (11.8 x 11.8 inch)."
+            },
+            {
+              "q": "Welk type schroeven zijn nodig voor VESA-montage?",
+              "a": "U heeft M6 schroeven nodig, typisch 10-12mm lang, voor een veilige bevestiging aan een VESA-beugel."
+            },
+            {
+              "q": "Kan ik een soundbar onder deze tv's plaatsen?",
+              "a": "Ja, de A80L en A95L modellen beschikken over multi-positie standaarden die zorgen voor extra soundbar-vrije ruimte. Voor de X90L wordt een compatibele soundbarbeugel of een onopvallende soundbar aanbevolen om een goede pasvorm te garanderen."
             }
           ]
         }

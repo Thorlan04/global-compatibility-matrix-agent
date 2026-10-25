@@ -39,3 +39,4 @@
 - [ANA & Japan Airlines](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/ana-japan-airlines-carry-on-luggage-compatibility.html): Airlines | 55 x 40 x 25 cm (Max 10 kg), Total linear dimensions: 115 cm / 21.7 x 15.7 x 9.8 in (Max 22 lbs), Total linear dimensions: 45.3 in
 - [LATAM Airlines](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/latam-airlines-baggage-allowance.html): Airlines | 45 x 35 x 20 cm / 17.7 x 13.8 x 7.9 in
 - [Samsung Neo QLED & OLED TVs (55/65/75)](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/samsung-neo-qled-oled-tv-compatibility-matrix.html): Hardware | 200x200 mm, 400x300 mm / 7.9x7.9 in, 15.7x11.8 in
+- [Sony Bravia XR (A80L/A95L/X90L)](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix.html): Hardware | 300 x 300 mm / 11.8 x 11.8 inches
