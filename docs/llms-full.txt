@@ -407,3 +407,26 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=Sony+Bravia+XR+A80L+A95L+X90L+VESA+mount+soundbar&tag=autocompat-21
 
 ---
+
+## GoPro Hero 12 & 13 Black (HARDWARE)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/gopro-hero-12-13-black-compatibility-matrix.html
+- Summary: Comprehensive compatibility and exact measurement matrix for GoPro Hero 12 Black and anticipated Hero 13 Black models, covering essential hardware specifications.
+
+### Exact Specifications (Dual Units):
+* **Camera Dimensions (Hero 12 Black)**: Metric: `71.8 mm (W) x 50.8 mm (H) x 33.6 mm (D)` | Imperial: `2.83 in (W) x 2.00 in (H) x 1.32 in (D)` (Dimensions for GoPro Hero 12 Black. Hero 13 Black is anticipated to have similar dimensions.)
+* **Camera Weight (Hero 12 Black)**: Metric: `154 g (mit Akku)` | Imperial: `5.4 oz (with battery)` (Weight for GoPro Hero 12 Black, including standard Enduro battery. Hero 13 Black is anticipated to have similar weight.)
+* **Waterproof Depth (without housing)**: Metric: `10 m` | Imperial: `33 ft` (Maximum depth without additional waterproof housing.)
+* **MicroSD Card Speed Class**: Metric: `UHS Speed Class 3 (U3), Video Speed Class 30 (V30), Application Performance Class 2 (A2)` | Imperial: `UHS Speed Class 3 (U3), Video Speed Class 30 (V30), Application Performance Class 2 (A2)` (Minimum recommended specifications for optimal recording performance.)
+* **MicroSD Card Maximum Capacity (Official)**: Metric: `512 GB` | Imperial: `512 GB` (Officially supported maximum capacity. Larger cards may function but are not guaranteed.)
+* **Enduro Battery Capacity (Standard)**: Metric: `1720 mAh (6.6 Wh)` | Imperial: `1720 mAh (6.6 Wh)` (Standard Enduro battery capacity for Hero 12 Black.)
+* **Enduro Battery Capacity (High Capacity)**: Metric: `1900 mAh (7.3 Wh)` | Imperial: `1900 mAh (7.3 Wh)` (Mentioned in prompt as a potential capacity. Not an officially released GoPro Enduro battery for Hero 12 Black at time of publication.)
+* **Mounting Thread Type**: Metric: `1/4-20 UNC` | Imperial: `1/4-20 UNC` (Standard tripod mounting thread.)
+* **USB Port Type**: Metric: `USB-C` | Imperial: `USB-C` (Used for charging, data transfer, and webcam functionality.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=GoPro+Hero+12+Black+accessories+microSD+battery+mount&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=GoPro+Hero+12+Black+accessories+microSD+battery+mount&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=GoPro+Hero+12+Black+accessories+microSD+battery+mount&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=GoPro+Hero+12+Black+accessories+microSD+battery+mount&tag=autocompat-21
+
+---

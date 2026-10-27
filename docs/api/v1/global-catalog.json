@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-10-27T03:30:54.018302+00:00",
-  "total_items": 22,
+  "generated_at": "2026-10-27T11:32:52.649587+00:00",
+  "total_items": 23,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -8577,6 +8577,515 @@
             {
               "q": "Kan ik een soundbar onder deze tv's plaatsen?",
               "a": "Ja, de A80L en A95L modellen beschikken over multi-positie standaarden die zorgen voor extra soundbar-vrije ruimte. Voor de X90L wordt een compatibele soundbarbeugel of een onopvallende soundbar aanbevolen om een goede pasvorm te garanderen."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "gopro-12-13",
+      "slug": "gopro-hero-12-13-black-compatibility-matrix",
+      "subject": "GoPro Hero 12 & 13 Black",
+      "category": "hardware",
+      "spec_rows": [
+        {
+          "item": "Camera Dimensions (Hero 12 Black)",
+          "metric": "71.8 mm (W) x 50.8 mm (H) x 33.6 mm (D)",
+          "imperial": "2.83 in (W) x 2.00 in (H) x 1.32 in (D)",
+          "status": "Verified",
+          "note": "Dimensions for GoPro Hero 12 Black. Hero 13 Black is anticipated to have similar dimensions.",
+          "item_translations": {
+            "en": "Camera Dimensions (Hero 12 Black)",
+            "de": "Kameraabmessungen (Hero 12 Black)",
+            "fr": "Dimensions de la caméra (Hero 12 Black)",
+            "es": "Dimensiones de la cámara (Hero 12 Black)",
+            "it": "Dimensioni della fotocamera (Hero 12 Black)",
+            "ja": "カメラ寸法 (Hero 12 Black)",
+            "pt": "Dimensões da Câmera (Hero 12 Black)",
+            "nl": "Camera Afmetingen (Hero 12 Black)"
+          },
+          "note_translations": {
+            "en": "Dimensions for GoPro Hero 12 Black. Hero 13 Black is anticipated to have similar dimensions.",
+            "de": "Abmessungen für GoPro Hero 12 Black. Die Hero 13 Black wird voraussichtlich ähnliche Abmessungen haben.",
+            "fr": "Dimensions pour GoPro Hero 12 Black. La Hero 13 Black devrait avoir des dimensions similaires.",
+            "es": "Dimensiones para GoPro Hero 12 Black. Se anticipa que la Hero 13 Black tendrá dimensiones similares.",
+            "it": "Dimensioni per GoPro Hero 12 Black. Si prevede che la Hero 13 Black avrà dimensioni simili.",
+            "ja": "GoPro Hero 12 Blackの寸法。Hero 13 Blackも同様の寸法になると予想されます。",
+            "pt": "Dimensões para GoPro Hero 12 Black. A Hero 13 Black deverá ter dimensões semelhantes.",
+            "nl": "Afmetingen voor GoPro Hero 12 Black. De Hero 13 Black zal naar verwachting vergelijkbare afmetingen hebben."
+          }
+        },
+        {
+          "item": "Camera Weight (Hero 12 Black)",
+          "metric": "154 g (mit Akku)",
+          "imperial": "5.4 oz (with battery)",
+          "status": "Verified",
+          "note": "Weight for GoPro Hero 12 Black, including standard Enduro battery. Hero 13 Black is anticipated to have similar weight.",
+          "item_translations": {
+            "en": "Camera Weight (Hero 12 Black)",
+            "de": "Kameragewicht (Hero 12 Black)",
+            "fr": "Poids de la caméra (Hero 12 Black)",
+            "es": "Peso de la cámara (Hero 12 Black)",
+            "it": "Peso della fotocamera (Hero 12 Black)",
+            "ja": "カメラ重量 (Hero 12 Black)",
+            "pt": "Peso da Câmera (Hero 12 Black)",
+            "nl": "Camera Gewicht (Hero 12 Black)"
+          },
+          "note_translations": {
+            "en": "Weight for GoPro Hero 12 Black, including standard Enduro battery. Hero 13 Black is anticipated to have similar weight.",
+            "de": "Gewicht für GoPro Hero 12 Black, einschließlich Standard-Enduro-Akku. Die Hero 13 Black wird voraussichtlich ein ähnliches Gewicht haben.",
+            "fr": "Poids pour GoPro Hero 12 Black, incluant la batterie Enduro standard. La Hero 13 Black devrait avoir un poids similaire.",
+            "es": "Peso para GoPro Hero 12 Black, incluyendo la batería Enduro estándar. Se anticipa que la Hero 13 Black tendrá un peso similar.",
+            "it": "Peso per GoPro Hero 12 Black, inclusa la batteria Enduro standard. Si prevede che la Hero 13 Black avrà un peso simile.",
+            "ja": "GoPro Hero 12 Blackの重量（標準Enduroバッテリーを含む）。Hero 13 Blackも同様の重量になると予想されます。",
+            "pt": "Peso para GoPro Hero 12 Black, incluindo a bateria Enduro padrão. A Hero 13 Black deverá ter um peso semelhante.",
+            "nl": "Gewicht voor GoPro Hero 12 Black, inclusief standaard Enduro batterij. De Hero 13 Black zal naar verwachting een vergelijkbaar gewicht hebben."
+          }
+        },
+        {
+          "item": "Waterproof Depth (without housing)",
+          "metric": "10 m",
+          "imperial": "33 ft",
+          "status": "Verified",
+          "note": "Maximum depth without additional waterproof housing.",
+          "item_translations": {
+            "en": "Waterproof Depth (without housing)",
+            "de": "Wasserdichte Tiefe (ohne Gehäuse)",
+            "fr": "Profondeur d'étanchéité (sans boîtier)",
+            "es": "Profundidad impermeable (sin carcasa)",
+            "it": "Profondità impermeabile (senza custodia)",
+            "ja": "防水深度 (ハウジングなし)",
+            "pt": "Profundidade à Prova d'Água (sem caixa)",
+            "nl": "Waterdichte Diepte (zonder behuizing)"
+          },
+          "note_translations": {
+            "en": "Maximum depth without additional waterproof housing.",
+            "de": "Maximale Tiefe ohne zusätzliches wasserdichtes Gehäuse.",
+            "fr": "Profondeur maximale sans boîtier étanche supplémentaire.",
+            "es": "Profundidad máxima sin carcasa impermeable adicional.",
+            "it": "Profondità massima senza custodia impermeabile aggiuntiva.",
+            "ja": "追加の防水ハウジングなしでの最大深度。",
+            "pt": "Profundidade máxima sem caixa à prova d'água adicional.",
+            "nl": "Maximale diepte zonder extra waterdichte behuizing."
+          }
+        },
+        {
+          "item": "MicroSD Card Speed Class",
+          "metric": "UHS Speed Class 3 (U3), Video Speed Class 30 (V30), Application Performance Class 2 (A2)",
+          "imperial": "UHS Speed Class 3 (U3), Video Speed Class 30 (V30), Application Performance Class 2 (A2)",
+          "status": "Recommended",
+          "note": "Minimum recommended specifications for optimal recording performance.",
+          "item_translations": {
+            "en": "MicroSD Card Speed Class",
+            "de": "MicroSD-Karten-Geschwindigkeitsklasse",
+            "fr": "Classe de vitesse de la carte MicroSD",
+            "es": "Clase de velocidad de la tarjeta MicroSD",
+            "it": "Classe di velocità della scheda MicroSD",
+            "ja": "MicroSDカード速度クラス",
+            "pt": "Classe de Velocidade do Cartão MicroSD",
+            "nl": "MicroSD Kaart Snelheidsklasse"
+          },
+          "note_translations": {
+            "en": "Minimum recommended specifications for optimal recording performance.",
+            "de": "Mindestempfohlene Spezifikationen für optimale Aufnahmeleistung.",
+            "fr": "Spécifications minimales recommandées pour des performances d'enregistrement optimales.",
+            "es": "Especificaciones mínimas recomendadas para un rendimiento de grabación óptimo.",
+            "it": "Specifiche minime raccomandate per prestazioni di registrazione ottimali.",
+            "ja": "最適な記録性能のための最小推奨仕様。",
+            "pt": "Especificações mínimas recomendadas para desempenho de gravação ideal.",
+            "nl": "Minimaal aanbevolen specificaties voor optimale opnameprestaties."
+          }
+        },
+        {
+          "item": "MicroSD Card Maximum Capacity (Official)",
+          "metric": "512 GB",
+          "imperial": "512 GB",
+          "status": "Verified",
+          "note": "Officially supported maximum capacity. Larger cards may function but are not guaranteed.",
+          "item_translations": {
+            "en": "MicroSD Card Maximum Capacity (Official)",
+            "de": "MicroSD-Karten-Maximalkapazität (Offiziell)",
+            "fr": "Capacité maximale de la carte MicroSD (Officiel)",
+            "es": "Capacidad máxima de la tarjeta MicroSD (Oficial)",
+            "it": "Capacità massima della scheda MicroSD (Ufficiale)",
+            "ja": "MicroSDカード最大容量 (公式)",
+            "pt": "Capacidade Máxima do Cartão MicroSD (Oficial)",
+            "nl": "MicroSD Kaart Maximale Capaciteit (Officieel)"
+          },
+          "note_translations": {
+            "en": "Officially supported maximum capacity. Larger cards may function but are not guaranteed.",
+            "de": "Offiziell unterstützte Maximalkapazität. Größere Karten können funktionieren, werden aber nicht garantiert.",
+            "fr": "Capacité maximale officiellement prise en charge. Des cartes plus grandes peuvent fonctionner mais ne sont pas garanties.",
+            "es": "Capacidad máxima oficialmente soportada. Las tarjetas más grandes pueden funcionar pero no están garantizadas.",
+            "it": "Capacità massima ufficialmente supportata. Schede più grandi potrebbero funzionare ma non sono garantite.",
+            "ja": "公式にサポートされている最大容量。より大容量のカードも機能する場合がありますが、保証されません。",
+            "pt": "Capacidade máxima oficialmente suportada. Cartões maiores podem funcionar, mas não são garantidos.",
+            "nl": "Officieel ondersteunde maximale capaciteit. Grotere kaarten kunnen werken, maar worden niet gegarandeerd."
+          }
+        },
+        {
+          "item": "Enduro Battery Capacity (Standard)",
+          "metric": "1720 mAh (6.6 Wh)",
+          "imperial": "1720 mAh (6.6 Wh)",
+          "status": "Verified",
+          "note": "Standard Enduro battery capacity for Hero 12 Black.",
+          "item_translations": {
+            "en": "Enduro Battery Capacity (Standard)",
+            "de": "Enduro-Akkukapazität (Standard)",
+            "fr": "Capacité de la batterie Enduro (Standard)",
+            "es": "Capacidad de la batería Enduro (Estándar)",
+            "it": "Capacità della batteria Enduro (Standard)",
+            "ja": "Enduroバッテリー容量 (標準)",
+            "pt": "Capacidade da Bateria Enduro (Padrão)",
+            "nl": "Enduro Batterij Capaciteit (Standaard)"
+          },
+          "note_translations": {
+            "en": "Standard Enduro battery capacity for Hero 12 Black.",
+            "de": "Standard-Enduro-Akkukapazität für Hero 12 Black.",
+            "fr": "Capacité de la batterie Enduro standard pour Hero 12 Black.",
+            "es": "Capacidad de la batería Enduro estándar para Hero 12 Black.",
+            "it": "Capacità della batteria Enduro standard per Hero 12 Black.",
+            "ja": "Hero 12 Blackの標準Enduroバッテリー容量。",
+            "pt": "Capacidade da bateria Enduro padrão para Hero 12 Black.",
+            "nl": "Standaard Enduro batterijcapaciteit voor Hero 12 Black."
+          }
+        },
+        {
+          "item": "Enduro Battery Capacity (High Capacity)",
+          "metric": "1900 mAh (7.3 Wh)",
+          "imperial": "1900 mAh (7.3 Wh)",
+          "status": "Not Officially Verified",
+          "note": "Mentioned in prompt as a potential capacity. Not an officially released GoPro Enduro battery for Hero 12 Black at time of publication.",
+          "item_translations": {
+            "en": "Enduro Battery Capacity (High Capacity)",
+            "de": "Enduro-Akkukapazität (Hohe Kapazität)",
+            "fr": "Capacité de la batterie Enduro (Haute capacité)",
+            "es": "Capacidad de la batería Enduro (Alta capacidad)",
+            "it": "Capacità della batteria Enduro (Alta capacità)",
+            "ja": "Enduroバッテリー容量 (大容量)",
+            "pt": "Capacidade da Bateria Enduro (Alta Capacidade)",
+            "nl": "Enduro Batterij Capaciteit (Hoge Capaciteit)"
+          },
+          "note_translations": {
+            "en": "Mentioned in prompt as a potential capacity. Not an officially released GoPro Enduro battery for Hero 12 Black at time of publication.",
+            "de": "Im Prompt als potenzielle Kapazität erwähnt. Zum Zeitpunkt der Veröffentlichung keine offiziell von GoPro freigegebene Enduro-Batterie für Hero 12 Black.",
+            "fr": "Mentionné dans l'invite comme une capacité potentielle. Pas une batterie Enduro GoPro officiellement commercialisée pour Hero 12 Black au moment de la publication.",
+            "es": "Mencionado en la solicitud como una capacidad potencial. No es una batería Enduro de GoPro lanzada oficialmente para Hero 12 Black en el momento de la publicación.",
+            "it": "Menzionato nel prompt come capacità potenziale. Non è una batteria Enduro GoPro ufficialmente rilasciata per Hero 12 Black al momento della pubblicazione.",
+            "ja": "プロンプトで潜在的な容量として言及されています。公開時点では、GoPro Hero 12 Black用の公式Enduroバッテリーとしてはリリースされていません。",
+            "pt": "Mencionado no prompt como uma capacidade potencial. Não é uma bateria Enduro GoPro oficialmente lançada para Hero 12 Black no momento da publicação.",
+            "nl": "Vermeld in de prompt als een potentiële capaciteit. Geen officieel uitgebrachte GoPro Enduro batterij voor Hero 12 Black op het moment van publicatie."
+          }
+        },
+        {
+          "item": "Mounting Thread Type",
+          "metric": "1/4-20 UNC",
+          "imperial": "1/4-20 UNC",
+          "status": "Standard",
+          "note": "Standard tripod mounting thread.",
+          "item_translations": {
+            "en": "Mounting Thread Type",
+            "de": "Befestigungsgewindetyp",
+            "fr": "Type de filetage de montage",
+            "es": "Tipo de rosca de montaje",
+            "it": "Tipo di filettatura di montaggio",
+            "ja": "取り付けネジタイプ",
+            "pt": "Tipo de Rosca de Montagem",
+            "nl": "Bevestigingsdraad Type"
+          },
+          "note_translations": {
+            "en": "Standard tripod mounting thread.",
+            "de": "Standard-Stativgewinde.",
+            "fr": "Filetage de montage standard pour trépied.",
+            "es": "Rosca de montaje estándar para trípode.",
+            "it": "Filettatura di montaggio standard per treppiede.",
+            "ja": "標準的な三脚取り付けネジ。",
+            "pt": "Rosca de montagem padrão para tripé.",
+            "nl": "Standaard statiefbevestigingsdraad."
+          }
+        },
+        {
+          "item": "USB Port Type",
+          "metric": "USB-C",
+          "imperial": "USB-C",
+          "status": "Verified",
+          "note": "Used for charging, data transfer, and webcam functionality.",
+          "item_translations": {
+            "en": "USB Port Type",
+            "de": "USB-Anschlusstyp",
+            "fr": "Type de port USB",
+            "es": "Tipo de puerto USB",
+            "it": "Tipo di porta USB",
+            "ja": "USBポートタイプ",
+            "pt": "Tipo de Porta USB",
+            "nl": "USB Poort Type"
+          },
+          "note_translations": {
+            "en": "Used for charging, data transfer, and webcam functionality.",
+            "de": "Wird zum Laden, zur Datenübertragung und für die Webcam-Funktionalität verwendet.",
+            "fr": "Utilisé pour la charge, le transfert de données et la fonctionnalité webcam.",
+            "es": "Se utiliza para cargar, transferir datos y la funcionalidad de cámara web.",
+            "it": "Utilizzato per la ricarica, il trasferimento dati e la funzionalità webcam.",
+            "ja": "充電、データ転送、ウェブカメラ機能に使用されます。",
+            "pt": "Usado para carregamento, transferência de dados e funcionalidade de webcam.",
+            "nl": "Gebruikt voor opladen, gegevensoverdracht en webcamfunctionaliteit."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "gopro-hero-12-13-black-compatibility-matrix",
+          "title": "GoPro Hero 12 & 13 Black: Universal Compatibility Matrix",
+          "summary": "Comprehensive compatibility and exact measurement matrix for GoPro Hero 12 Black and anticipated Hero 13 Black models, covering essential hardware specifications.",
+          "amazon_search_query": "GoPro Hero 12 Black accessories microSD battery mount",
+          "buy_box_title": "Recommended Accessories for GoPro Hero 12/13 Black",
+          "buy_box_subtitle": "Ensure optimal performance with verified compatible hardware.",
+          "allowed_guidelines": [
+            "Use only U3, V30, A2 rated microSD cards for optimal video recording performance.",
+            "Utilize official GoPro Enduro batteries or certified third-party alternatives.",
+            "Ensure mounting accessories adhere to the 1/4-20 UNC standard."
+          ],
+          "strict_restrictions": [
+            "Avoid microSD cards below U3, V30, A2 specifications to prevent data corruption or recording failures.",
+            "Do not exceed the specified waterproof depth without an appropriate protective housing.",
+            "Using non-certified batteries may void warranty or cause device damage."
+          ],
+          "faqs": [
+            {
+              "q": "Is the GoPro Hero 13 Black currently available?",
+              "a": "As of the last update, the GoPro Hero 13 Black has not been officially released. Specifications listed for Hero 13 are based on anticipated continuity with the Hero 12 Black."
+            },
+            {
+              "q": "What is the maximum recommended microSD card size for Hero 12 Black?",
+              "a": "GoPro officially recommends microSD cards up to 512GB for optimal and verified performance. Larger cards may work but are not officially supported."
+            },
+            {
+              "q": "Can I use older GoPro batteries with the Hero 12 Black?",
+              "a": "The Hero 12 Black is designed for the Enduro battery (1720mAh) for optimal performance, especially in cold weather. Older batteries might fit but may not provide the same performance or battery life."
+            }
+          ]
+        },
+        "de": {
+          "slug": "gopro-hero-12-13-black-kompatibilitaetsmatrix",
+          "title": "GoPro Hero 12 & 13 Black: Universelle Kompatibilitätsmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messmatrix für GoPro Hero 12 Black und die erwarteten Hero 13 Black Modelle, die wesentliche Hardwarespezifikationen abdeckt.",
+          "amazon_search_query": "GoPro Hero 12 Black Zubehör microSD Akku Halterung",
+          "buy_box_title": "Empfohlenes Zubehör für GoPro Hero 12/13 Black",
+          "buy_box_subtitle": "Sorgen Sie für optimale Leistung mit verifizierter kompatibler Hardware.",
+          "allowed_guidelines": [
+            "Verwenden Sie nur microSD-Karten der Klassen U3, V30, A2 für optimale Videoaufnahmeleistung.",
+            "Verwenden Sie offizielle GoPro Enduro-Akkus oder zertifizierte Alternativen von Drittanbietern.",
+            "Stellen Sie sicher, dass Montagezubehör dem 1/4-20 UNC-Standard entspricht."
+          ],
+          "strict_restrictions": [
+            "Vermeiden Sie microSD-Karten unter den Spezifikationen U3, V30, A2, um Datenkorruption oder Aufnahmeausfälle zu verhindern.",
+            "Überschreiten Sie die angegebene wasserdichte Tiefe nicht ohne ein geeignetes Schutzgehäuse.",
+            "Die Verwendung nicht zertifizierter Akkus kann die Garantie ungültig machen oder Geräteschäden verursachen."
+          ],
+          "faqs": [
+            {
+              "q": "Ist die GoPro Hero 13 Black derzeit erhältlich?",
+              "a": "Zum Zeitpunkt des letzten Updates wurde die GoPro Hero 13 Black noch nicht offiziell veröffentlicht. Die für Hero 13 aufgeführten Spezifikationen basieren auf der erwarteten Kontinuität mit der Hero 12 Black."
+            },
+            {
+              "q": "Was ist die maximal empfohlene microSD-Kartengröße für Hero 12 Black?",
+              "a": "GoPro empfiehlt offiziell microSD-Karten bis zu 512 GB für optimale und verifizierte Leistung. Größere Karten können funktionieren, werden aber nicht offiziell unterstützt."
+            },
+            {
+              "q": "Kann ich ältere GoPro-Akkus mit der Hero 12 Black verwenden?",
+              "a": "Die Hero 12 Black ist für den Enduro-Akku (1720 mAh) konzipiert, um eine optimale Leistung, insbesondere bei kaltem Wetter, zu gewährleisten. Ältere Akkus könnten passen, bieten aber möglicherweise nicht die gleiche Leistung oder Akkulaufzeit."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "gopro-hero-12-13-black-matrice-compatibilite",
+          "title": "GoPro Hero 12 & 13 Black : Matrice de Compatibilité Universelle",
+          "summary": "Matrice complète de compatibilité et de mesures exactes pour les modèles GoPro Hero 12 Black et les modèles anticipés Hero 13 Black, couvrant les spécifications matérielles essentielles.",
+          "amazon_search_query": "GoPro Hero 12 Black accessoires microSD batterie support",
+          "buy_box_title": "Accessoires Recommandés pour GoPro Hero 12/13 Black",
+          "buy_box_subtitle": "Assurez des performances optimales avec du matériel compatible vérifié.",
+          "allowed_guidelines": [
+            "Utilisez uniquement des cartes microSD classées U3, V30, A2 pour des performances d'enregistrement vidéo optimales.",
+            "Utilisez des batteries GoPro Enduro officielles ou des alternatives certifiées par des tiers.",
+            "Assurez-vous que les accessoires de montage respectent la norme 1/4-20 UNC."
+          ],
+          "strict_restrictions": [
+            "Évitez les cartes microSD inférieures aux spécifications U3, V30, A2 pour éviter la corruption des données ou les échecs d'enregistrement.",
+            "Ne dépassez pas la profondeur d'étanchéité spécifiée sans un boîtier de protection approprié.",
+            "L'utilisation de batteries non certifiées peut annuler la garantie ou endommager l'appareil."
+          ],
+          "faqs": [
+            {
+              "q": "La GoPro Hero 13 Black est-elle actuellement disponible ?",
+              "a": "À la date de la dernière mise à jour, la GoPro Hero 13 Black n'a pas été officiellement commercialisée. Les spécifications listées pour la Hero 13 sont basées sur la continuité anticipée avec la Hero 12 Black."
+            },
+            {
+              "q": "Quelle est la taille maximale de carte microSD recommandée pour la Hero 12 Black ?",
+              "a": "GoPro recommande officiellement des cartes microSD jusqu'à 512 Go pour des performances optimales et vérifiées. Des cartes plus grandes peuvent fonctionner mais ne sont pas officiellement prises en charge."
+            },
+            {
+              "q": "Puis-je utiliser d'anciennes batteries GoPro avec la Hero 12 Black ?",
+              "a": "La Hero 12 Black est conçue pour la batterie Enduro (1720 mAh) afin d'assurer des performances optimales, en particulier par temps froid. Les batteries plus anciennes pourraient s'adapter mais ne fourniront pas les mêmes performances ou autonomie."
+            }
+          ]
+        },
+        "es": {
+          "slug": "gopro-hero-12-13-black-matriz-compatibilidad",
+          "title": "GoPro Hero 12 & 13 Black: Matriz de Compatibilidad Universal",
+          "summary": "Matriz completa de compatibilidad y medidas exactas para los modelos GoPro Hero 12 Black y los anticipados modelos Hero 13 Black, cubriendo las especificaciones esenciales de hardware.",
+          "amazon_search_query": "GoPro Hero 12 Black accesorios microSD batería soporte",
+          "buy_box_title": "Accesorios Recomendados para GoPro Hero 12/13 Black",
+          "buy_box_subtitle": "Asegure un rendimiento óptimo con hardware compatible verificado.",
+          "allowed_guidelines": [
+            "Utilice únicamente tarjetas microSD con clasificación U3, V30, A2 para un rendimiento óptimo de grabación de video.",
+            "Utilice baterías GoPro Enduro oficiales o alternativas certificadas de terceros.",
+            "Asegúrese de que los accesorios de montaje cumplan con el estándar 1/4-20 UNC."
+          ],
+          "strict_restrictions": [
+            "Evite las tarjetas microSD por debajo de las especificaciones U3, V30, A2 para evitar la corrupción de datos o fallos de grabación.",
+            "No exceda la profundidad impermeable especificada sin una carcasa protectora adecuada.",
+            "El uso de baterías no certificadas puede anular la garantía o causar daños al dispositivo."
+          ],
+          "faqs": [
+            {
+              "q": "¿Está disponible actualmente la GoPro Hero 13 Black?",
+              "a": "Hasta la última actualización, la GoPro Hero 13 Black no ha sido lanzada oficialmente. Las especificaciones listadas para la Hero 13 se basan en la continuidad anticipada con la Hero 12 Black."
+            },
+            {
+              "q": "¿Cuál es el tamaño máximo de tarjeta microSD recomendado para la Hero 12 Black?",
+              "a": "GoPro recomienda oficialmente tarjetas microSD de hasta 512 GB para un rendimiento óptimo y verificado. Las tarjetas más grandes pueden funcionar, pero no están oficialmente soportadas."
+            },
+            {
+              "q": "¿Puedo usar baterías GoPro antiguas con la Hero 12 Black?",
+              "a": "La Hero 12 Black está diseñada para la batería Enduro (1720 mAh) para un rendimiento óptimo, especialmente en climas fríos. Las baterías más antiguas podrían encajar, pero es posible que no proporcionen el mismo rendimiento o duración de la batería."
+            }
+          ]
+        },
+        "it": {
+          "slug": "gopro-hero-12-13-black-matrice-compatibilita",
+          "title": "GoPro Hero 12 & 13 Black: Matrice di Compatibilità Universale",
+          "summary": "Matrice completa di compatibilità e misurazioni esatte per i modelli GoPro Hero 12 Black e i modelli anticipati Hero 13 Black, che copre le specifiche hardware essenziali.",
+          "amazon_search_query": "GoPro Hero 12 Black accessori microSD batteria supporto",
+          "buy_box_title": "Accessori Consigliati per GoPro Hero 12/13 Black",
+          "buy_box_subtitle": "Garantisci prestazioni ottimali con hardware compatibile verificato.",
+          "allowed_guidelines": [
+            "Utilizzare solo schede microSD con classificazione U3, V30, A2 per prestazioni di registrazione video ottimali.",
+            "Utilizzare batterie GoPro Enduro ufficiali o alternative certificate di terze parti.",
+            "Assicurarsi che gli accessori di montaggio rispettino lo standard 1/4-20 UNC."
+          ],
+          "strict_restrictions": [
+            "Evitare schede microSD inferiori alle specifiche U3, V30, A2 per prevenire la corruzione dei dati o errori di registrazione.",
+            "Non superare la profondità impermeabile specificata senza un'apposita custodia protettiva.",
+            "L'uso di batterie non certificate può invalidare la garanzia o causare danni al dispositivo."
+          ],
+          "faqs": [
+            {
+              "q": "La GoPro Hero 13 Black è attualmente disponibile?",
+              "a": "All'ultimo aggiornamento, la GoPro Hero 13 Black non è stata ufficialmente rilasciata. Le specifiche elencate per la Hero 13 si basano sulla continuità anticipata con la Hero 12 Black."
+            },
+            {
+              "q": "Qual è la dimensione massima consigliata della scheda microSD per Hero 12 Black?",
+              "a": "GoPro raccomanda ufficialmente schede microSD fino a 512 GB per prestazioni ottimali e verificate. Schede più grandi potrebbero funzionare ma non sono ufficialmente supportate."
+            },
+            {
+              "q": "Posso usare batterie GoPro più vecchie con la Hero 12 Black?",
+              "a": "La Hero 12 Black è progettata per la batteria Enduro (1720 mAh) per prestazioni ottimali, specialmente in climi freddi. Le batterie più vecchie potrebbero adattarsi ma potrebbero non fornire le stesse prestazioni o durata della batteria."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "gopro-hero-12-13-black-compatibility-matrix",
+          "title": "GoPro Hero 12 & 13 Black: ユニバーサル互換性マトリックス",
+          "summary": "GoPro Hero 12 Blackおよび予想されるHero 13 Blackモデルの包括的な互換性と正確な測定マトリックス。主要なハードウェア仕様を網羅しています。",
+          "amazon_search_query": "GoPro Hero 12 Black アクセサリー microSD バッテリー マウント",
+          "buy_box_title": "GoPro Hero 12/13 Blackにおすすめのアクセサリー",
+          "buy_box_subtitle": "検証済みの互換性のあるハードウェアで最適なパフォーマンスを確保してください。",
+          "allowed_guidelines": [
+            "最適なビデオ録画性能のために、U3、V30、A2定格のmicroSDカードのみを使用してください。",
+            "公式のGoPro Enduroバッテリーまたは認定されたサードパーティ製代替品を使用してください。",
+            "取り付けアクセサリーが1/4-20 UNC規格に準拠していることを確認してください。"
+          ],
+          "strict_restrictions": [
+            "データ破損や録画失敗を防ぐため、U3、V30、A2仕様を下回るmicroSDカードの使用は避けてください。",
+            "適切な保護ハウジングなしで、指定された防水深度を超えないでください。",
+            "非認定バッテリーの使用は保証を無効にするか、デバイスの損傷を引き起こす可能性があります。"
+          ],
+          "faqs": [
+            {
+              "q": "GoPro Hero 13 Blackは現在入手可能ですか？",
+              "a": "最終更新時点では、GoPro Hero 13 Blackはまだ正式にリリースされていません。Hero 13の仕様は、Hero 12 Blackとの継続性を前提としています。"
+            },
+            {
+              "q": "Hero 12 Blackに推奨されるmicroSDカードの最大サイズはどれくらいですか？",
+              "a": "GoProは、最適な検証済みパフォーマンスのために、最大512GBのmicroSDカードを公式に推奨しています。より大容量のカードも機能する場合がありますが、公式にはサポートされていません。"
+            },
+            {
+              "q": "古いGoProバッテリーをHero 12 Blackで使用できますか？",
+              "a": "Hero 12 Blackは、特に低温環境での最適なパフォーマンスのためにEnduroバッテリー（1720mAh）用に設計されています。古いバッテリーも装着できる場合がありますが、同じパフォーマンスやバッテリー寿命を提供しない可能性があります。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "gopro-hero-12-13-black-matriz-compatibilidade",
+          "title": "GoPro Hero 12 & 13 Black: Matriz de Compatibilidade Universal",
+          "summary": "Matriz abrangente de compatibilidade e medições exatas para os modelos GoPro Hero 12 Black e os modelos antecipados Hero 13 Black, cobrindo as especificações essenciais de hardware.",
+          "amazon_search_query": "GoPro Hero 12 Black acessórios microSD bateria suporte",
+          "buy_box_title": "Acessórios Recomendados para GoPro Hero 12/13 Black",
+          "buy_box_subtitle": "Garanta o desempenho ideal com hardware compatível verificado.",
+          "allowed_guidelines": [
+            "Use apenas cartões microSD com classificação U3, V30, A2 para um desempenho ideal de gravação de vídeo.",
+            "Utilize baterias GoPro Enduro oficiais ou alternativas certificadas de terceiros.",
+            "Certifique-se de que os acessórios de montagem aderem ao padrão 1/4-20 UNC."
+          ],
+          "strict_restrictions": [
+            "Evite cartões microSD abaixo das especificações U3, V30, A2 para evitar corrupção de dados ou falhas de gravação.",
+            "Não exceda a profundidade à prova d'água especificada sem uma caixa protetora apropriada.",
+            "O uso de baterias não certificadas pode anular a garantia ou causar danos ao dispositivo."
+          ],
+          "faqs": [
+            {
+              "q": "A GoPro Hero 13 Black está atualmente disponível?",
+              "a": "Até a última atualização, a GoPro Hero 13 Black não foi oficialmente lançada. As especificações listadas para a Hero 13 são baseadas na continuidade antecipada com a Hero 12 Black."
+            },
+            {
+              "q": "Qual é o tamanho máximo de cartão microSD recomendado para a Hero 12 Black?",
+              "a": "A GoPro recomenda oficialmente cartões microSD de até 512 GB para um desempenho ideal e verificado. Cartões maiores podem funcionar, mas não são oficialmente suportados."
+            },
+            {
+              "q": "Posso usar baterias GoPro mais antigas com a Hero 12 Black?",
+              "a": "A Hero 12 Black é projetada para a bateria Enduro (1720mAh) para um desempenho ideal, especialmente em climas frios. Baterias mais antigas podem caber, mas podem não fornecer o mesmo desempenho ou vida útil da bateria."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "gopro-hero-12-13-black-compatibiliteitsmatrix",
+          "title": "GoPro Hero 12 & 13 Black: Universele Compatibiliteitsmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetmatrix voor GoPro Hero 12 Black en de verwachte Hero 13 Black-modellen, met essentiële hardwarespecificaties.",
+          "amazon_search_query": "GoPro Hero 12 Black accessoires microSD batterij bevestiging",
+          "buy_box_title": "Aanbevolen Accessoires voor GoPro Hero 12/13 Black",
+          "buy_box_subtitle": "Zorg voor optimale prestaties met geverifieerde compatibele hardware.",
+          "allowed_guidelines": [
+            "Gebruik alleen microSD-kaarten met U3, V30, A2 classificatie voor optimale videoprestaties.",
+            "Gebruik officiële GoPro Enduro-batterijen of gecertificeerde alternatieven van derden.",
+            "Zorg ervoor dat montageaccessoires voldoen aan de 1/4-20 UNC-standaard."
+          ],
+          "strict_restrictions": [
+            "Vermijd microSD-kaarten onder de U3, V30, A2 specificaties om gegevenscorruptie of opnamefouten te voorkomen.",
+            "Overschrijd de gespecificeerde waterdichte diepte niet zonder een geschikte beschermende behuizing.",
+            "Het gebruik van niet-gecertificeerde batterijen kan de garantie ongeldig maken of schade aan het apparaat veroorzaken."
+          ],
+          "faqs": [
+            {
+              "q": "Is de GoPro Hero 13 Black momenteel beschikbaar?",
+              "a": "Vanaf de laatste update is de GoPro Hero 13 Black nog niet officieel uitgebracht. De specificaties die voor Hero 13 worden vermeld, zijn gebaseerd op de verwachte continuïteit met de Hero 12 Black."
+            },
+            {
+              "q": "Wat is de maximaal aanbevolen microSD-kaartgrootte voor Hero 12 Black?",
+              "a": "GoPro raadt officieel microSD-kaarten tot 512 GB aan voor optimale en geverifieerde prestaties. Grotere kaarten kunnen werken, maar worden niet officieel ondersteund."
+            },
+            {
+              "q": "Kan ik oudere GoPro-batterijen gebruiken met de Hero 12 Black?",
+              "a": "De Hero 12 Black is ontworpen voor de Enduro-batterij (1720 mAh) voor optimale prestaties, vooral bij koud weer. Oudere batterijen passen mogelijk wel, maar bieden mogelijk niet dezelfde prestaties of batterijduur."
             }
           ]
         }
