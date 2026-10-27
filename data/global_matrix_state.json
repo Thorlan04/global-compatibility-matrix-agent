@@ -1,48 +1,50 @@
 {
-  "last_updated": "2026-10-27T11:32:53.888344+00:00",
+  "last_updated": "2026-10-27T17:24:45.186068+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "united-airlines-baggage-lithium-battery-rules",
-    "samsung-neo-qled-oled-tv-compatibility-matrix",
-    "qantas",
-    "southwest",
-    "easyjet-baggage-powerbank-guide",
-    "delta-air-lines-compatibility-matrix",
-    "american",
-    "emirates",
-    "qatar-airways-baggage-power-bank-guide",
-    "delta",
-    "tesla-model-y-wipers-roof-trunk-dimensions",
-    "ryanair-cabin-baggage-dimensions",
     "british-airways",
-    "ana-jal",
-    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
-    "air-canada",
-    "easyjet",
     "sony-bravia",
-    "emirates-baggage-allowance",
-    "lg-oled-c3-c4-vesa-mount-power",
-    "transavia",
-    "lufthansa",
-    "air-france",
-    "air-france-baggage-allowance",
-    "qatar-airways",
-    "gopro-12-13",
-    "lufthansa-airlines-baggage-guide",
-    "vueling-baggage-allowance",
-    "american-airlines-compatibility-matrix",
-    "latam-airlines-baggage-allowance",
-    "vueling",
-    "latam",
-    "transavia-baggage-allowance",
+    "southwest-airlines-baggage-policy",
+    "delta-air-lines-compatibility-matrix",
     "gopro-hero-12-13-black-compatibility-matrix",
     "samsung-qled",
-    "ana-japan-airlines-carry-on-luggage-compatibility",
-    "qantas-carry-on-baggage-allowance",
-    "wizz-air",
+    "vueling-baggage-allowance",
+    "easyjet",
     "united",
-    "southwest-airlines-baggage-policy"
+    "wizz-air",
+    "vueling",
+    "air-france",
+    "samsung-neo-qled-oled-tv-compatibility-matrix",
+    "emirates-baggage-allowance",
+    "american-airlines-compatibility-matrix",
+    "united-airlines-baggage-lithium-battery-rules",
+    "air-canada",
+    "qatar-airways-baggage-power-bank-guide",
+    "lufthansa",
+    "air-france-baggage-allowance",
+    "latam",
+    "dji-mini-air",
+    "ana-jal",
+    "delta",
+    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "qatar-airways",
+    "lufthansa-airlines-baggage-guide",
+    "qantas",
+    "easyjet-baggage-powerbank-guide",
+    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
+    "qantas-carry-on-baggage-allowance",
+    "american",
+    "ana-japan-airlines-carry-on-luggage-compatibility",
+    "dji-mini-4-pro-air-3-compatibility-matrix",
+    "southwest",
+    "emirates",
+    "gopro-12-13",
+    "transavia-baggage-allowance",
+    "ryanair-cabin-baggage-dimensions",
+    "latam-airlines-baggage-allowance",
+    "transavia",
+    "lg-oled-c3-c4-vesa-mount-power"
   ],
   "topics_backlog": [
     {
@@ -9363,6 +9365,758 @@
             {
               "q": "Kan ik oudere GoPro-batterijen gebruiken met de Hero 12 Black?",
               "a": "De Hero 12 Black is ontworpen voor de Enduro-batterij (1720 mAh) voor optimale prestaties, vooral bij koud weer. Oudere batterijen passen mogelijk wel, maar bieden mogelijk niet dezelfde prestaties of batterijduur."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "dji-mini-air",
+      "slug": "dji-mini-4-pro-air-3-compatibility-matrix",
+      "subject": "DJI Mini 4 Pro & Air 3",
+      "category": "hardware",
+      "spec_rows": [
+        {
+          "item": "DJI Mini 4 Pro - Aircraft Weight",
+          "metric": "<249 g",
+          "imperial": "<0.55 lbs",
+          "status": "Compliant",
+          "note": "Sub-250g classification for regulatory compliance in many regions.",
+          "item_translations": {
+            "en": "DJI Mini 4 Pro - Aircraft Weight",
+            "de": "DJI Mini 4 Pro - Fluggerätgewicht",
+            "fr": "DJI Mini 4 Pro - Poids de l'aéronef",
+            "es": "DJI Mini 4 Pro - Peso de la aeronave",
+            "it": "DJI Mini 4 Pro - Peso del velivolo",
+            "ja": "DJI Mini 4 Pro - 機体重量",
+            "pt": "DJI Mini 4 Pro - Peso da Aeronave",
+            "nl": "DJI Mini 4 Pro - Gewicht van het vliegtuig"
+          },
+          "note_translations": {
+            "en": "Sub-250g classification for regulatory compliance in many regions.",
+            "de": "Unter-250g-Klassifizierung für die Einhaltung gesetzlicher Vorschriften in vielen Regionen.",
+            "fr": "Classification inférieure à 250g pour la conformité réglementaire dans de nombreuses régions.",
+            "es": "Clasificación de menos de 250g para el cumplimiento normativo en muchas regiones.",
+            "it": "Classificazione sotto i 250g per la conformità normativa in molte regioni.",
+            "ja": "多くの地域での規制遵守のための250g未満の分類。",
+            "pt": "Classificação sub-250g para conformidade regulatória em muitas regiões.",
+            "nl": "Sub-250g classificatie voor naleving van regelgeving in veel regio's."
+          }
+        },
+        {
+          "item": "DJI Air 3 - Aircraft Weight",
+          "metric": "720 g",
+          "imperial": "1.59 lbs",
+          "status": "Compliant",
+          "note": "Requires registration in most regions due to weight exceeding 250g.",
+          "item_translations": {
+            "en": "DJI Air 3 - Aircraft Weight",
+            "de": "DJI Air 3 - Fluggerätgewicht",
+            "fr": "DJI Air 3 - Poids de l'aéronef",
+            "es": "DJI Air 3 - Peso de la aeronave",
+            "it": "DJI Air 3 - Peso del velivolo",
+            "ja": "DJI Air 3 - 機体重量",
+            "pt": "DJI Air 3 - Peso da Aeronave",
+            "nl": "DJI Air 3 - Gewicht van het vliegtuig"
+          },
+          "note_translations": {
+            "en": "Requires registration in most regions due to weight exceeding 250g.",
+            "de": "Erfordert in den meisten Regionen eine Registrierung, da das Gewicht 250g überschreitet.",
+            "fr": "Nécessite une immatriculation dans la plupart des régions en raison d'un poids supérieur à 250g.",
+            "es": "Requiere registro en la mayoría de las regiones debido a que el peso excede los 250g.",
+            "it": "Richiede registrazione nella maggior parte delle regioni a causa del peso superiore a 250g.",
+            "ja": "重量が250gを超えるため、ほとんどの地域で登録が必要です。",
+            "pt": "Requer registro na maioria das regiões devido ao peso exceder 250g.",
+            "nl": "Vereist registratie in de meeste regio's omdat het gewicht 250g overschrijdt."
+          }
+        },
+        {
+          "item": "DJI Mini 4 Pro - Battery Energy",
+          "metric": "18.96 Wh",
+          "imperial": "18.96 Wh",
+          "status": "Verified",
+          "note": "Standard Intelligent Flight Battery capacity.",
+          "item_translations": {
+            "en": "DJI Mini 4 Pro - Battery Energy",
+            "de": "DJI Mini 4 Pro - Batterieenergie",
+            "fr": "DJI Mini 4 Pro - Énergie de la batterie",
+            "es": "DJI Mini 4 Pro - Energía de la batería",
+            "it": "DJI Mini 4 Pro - Energia della batteria",
+            "ja": "DJI Mini 4 Pro - バッテリーエネルギー",
+            "pt": "DJI Mini 4 Pro - Energia da Bateria",
+            "nl": "DJI Mini 4 Pro - Batterij-energie"
+          },
+          "note_translations": {
+            "en": "Standard Intelligent Flight Battery capacity.",
+            "de": "Kapazität der Standard Intelligent Flight Battery.",
+            "fr": "Capacité de la batterie de vol intelligente standard.",
+            "es": "Capacidad de la batería de vuelo inteligente estándar.",
+            "it": "Capacità della batteria di volo intelligente standard.",
+            "ja": "標準インテリジェントフライトバッテリー容量。",
+            "pt": "Capacidade da Bateria de Voo Inteligente Padrão.",
+            "nl": "Standaard Intelligent Flight Battery capaciteit."
+          }
+        },
+        {
+          "item": "DJI Air 3 - Battery Energy",
+          "metric": "42.4 Wh",
+          "imperial": "42.4 Wh",
+          "status": "Verified",
+          "note": "Intelligent Flight Battery capacity.",
+          "item_translations": {
+            "en": "DJI Air 3 - Battery Energy",
+            "de": "DJI Air 3 - Batterieenergie",
+            "fr": "DJI Air 3 - Énergie de la batterie",
+            "es": "DJI Air 3 - Energía de la batería",
+            "it": "DJI Air 3 - Energia della batteria",
+            "ja": "DJI Air 3 - バッテリーエネルギー",
+            "pt": "DJI Air 3 - Energia da Bateria",
+            "nl": "DJI Air 3 - Batterij-energie"
+          },
+          "note_translations": {
+            "en": "Intelligent Flight Battery capacity.",
+            "de": "Kapazität der Intelligent Flight Battery.",
+            "fr": "Capacité de la batterie de vol intelligente.",
+            "es": "Capacidad de la batería de vuelo inteligente.",
+            "it": "Capacità della batteria di volo intelligente.",
+            "ja": "インテリジェントフライトバッテリー容量。",
+            "pt": "Capacidade da Bateria de Voo Inteligente.",
+            "nl": "Intelligent Flight Battery capaciteit."
+          }
+        },
+        {
+          "item": "DJI Mini 4 Pro - Dimensions (Folded, without propellers)",
+          "metric": "145 × 90 × 62 mm (L×W×H)",
+          "imperial": "5.71 × 3.54 × 2.44 in (L×W×H)",
+          "status": "Verified",
+          "note": "Compact size for portability.",
+          "item_translations": {
+            "en": "DJI Mini 4 Pro - Dimensions (Folded, without propellers)",
+            "de": "DJI Mini 4 Pro - Abmessungen (gefaltet, ohne Propeller)",
+            "fr": "DJI Mini 4 Pro - Dimensions (plié, sans hélices)",
+            "es": "DJI Mini 4 Pro - Dimensiones (plegado, sin hélices)",
+            "it": "DJI Mini 4 Pro - Dimensioni (piegato, senza eliche)",
+            "ja": "DJI Mini 4 Pro - 寸法 (折りたたみ時、プロペラなし)",
+            "pt": "DJI Mini 4 Pro - Dimensões (Dobrado, sem hélices)",
+            "nl": "DJI Mini 4 Pro - Afmetingen (opgevouwen, zonder propellers)"
+          },
+          "note_translations": {
+            "en": "Compact size for portability.",
+            "de": "Kompakte Größe für Portabilität.",
+            "fr": "Taille compacte pour la portabilité.",
+            "es": "Tamaño compacto para portabilidad.",
+            "it": "Dimensioni compatte per la portabilità.",
+            "ja": "携帯性に優れたコンパクトサイズ。",
+            "pt": "Tamanho compacto para portabilidade.",
+            "nl": "Compact formaat voor draagbaarheid."
+          }
+        },
+        {
+          "item": "DJI Mini 4 Pro - Dimensions (Unfolded, with propellers)",
+          "metric": "298 × 373 × 101 mm (L×W×H)",
+          "imperial": "11.73 × 14.69 × 3.98 in (L×W×H)",
+          "status": "Verified",
+          "note": "Dimensions during flight.",
+          "item_translations": {
+            "en": "DJI Mini 4 Pro - Dimensions (Unfolded, with propellers)",
+            "de": "DJI Mini 4 Pro - Abmessungen (ausgefaltet, mit Propellern)",
+            "fr": "DJI Mini 4 Pro - Dimensions (déplié, avec hélices)",
+            "es": "DJI Mini 4 Pro - Dimensiones (desplegado, con hélices)",
+            "it": "DJI Mini 4 Pro - Dimensioni (aperto, con eliche)",
+            "ja": "DJI Mini 4 Pro - 寸法 (展開時、プロペラあり)",
+            "pt": "DJI Mini 4 Pro - Dimensões (Desdobrado, com hélices)",
+            "nl": "DJI Mini 4 Pro - Afmetingen (uitgevouwen, met propellers)"
+          },
+          "note_translations": {
+            "en": "Dimensions during flight.",
+            "de": "Abmessungen während des Fluges.",
+            "fr": "Dimensions en vol.",
+            "es": "Dimensiones durante el vuelo.",
+            "it": "Dimensioni durante il volo.",
+            "ja": "飛行中の寸法。",
+            "pt": "Dimensões durante o voo.",
+            "nl": "Afmetingen tijdens de vlucht."
+          }
+        },
+        {
+          "item": "DJI Air 3 - Dimensions (Folded, without propellers)",
+          "metric": "207 × 100 × 91 mm (L×W×H)",
+          "imperial": "8.15 × 3.94 × 3.58 in (L×W×H)",
+          "status": "Verified",
+          "note": "Compact size for portability.",
+          "item_translations": {
+            "en": "DJI Air 3 - Dimensions (Folded, without propellers)",
+            "de": "DJI Air 3 - Abmessungen (gefaltet, ohne Propeller)",
+            "fr": "DJI Air 3 - Dimensions (plié, sans hélices)",
+            "es": "DJI Air 3 - Dimensiones (plegado, sin hélices)",
+            "it": "DJI Air 3 - Dimensioni (piegato, senza eliche)",
+            "ja": "DJI Air 3 - 寸法 (折りたたみ時、プロペラなし)",
+            "pt": "DJI Air 3 - Dimensões (Dobrado, sem hélices)",
+            "nl": "DJI Air 3 - Afmetingen (opgevouwen, zonder propellers)"
+          },
+          "note_translations": {
+            "en": "Compact size for portability.",
+            "de": "Kompakte Größe für Portabilität.",
+            "fr": "Taille compacte pour la portabilité.",
+            "es": "Tamaño compacto para portabilidad.",
+            "it": "Dimensioni compatte per la portabilità.",
+            "ja": "携帯性に優れたコンパクトサイズ。",
+            "pt": "Tamanho compacto para portabilidade.",
+            "nl": "Compact formaat voor draagbaarheid."
+          }
+        },
+        {
+          "item": "DJI Air 3 - Dimensions (Unfolded, with propellers)",
+          "metric": "258.8 × 326 × 105.8 mm (L×W×H)",
+          "imperial": "10.19 × 12.83 × 4.17 in (L×W×H)",
+          "status": "Verified",
+          "note": "Dimensions during flight.",
+          "item_translations": {
+            "en": "DJI Air 3 - Dimensions (Unfolded, with propellers)",
+            "de": "DJI Air 3 - Abmessungen (ausgefaltet, mit Propellern)",
+            "fr": "DJI Air 3 - Dimensions (déplié, avec hélices)",
+            "es": "DJI Air 3 - Dimensiones (desplegado, con hélices)",
+            "it": "DJI Air 3 - Dimensioni (aperto, con eliche)",
+            "ja": "DJI Air 3 - 寸法 (展開時、プロペラあり)",
+            "pt": "DJI Air 3 - Dimensões (Desdobrado, com hélices)",
+            "nl": "DJI Air 3 - Afmetingen (uitgevouwen, met propellers)"
+          },
+          "note_translations": {
+            "en": "Dimensions during flight.",
+            "de": "Abmessungen während des Fluges.",
+            "fr": "Dimensions en vol.",
+            "es": "Dimensiones durante el vuelo.",
+            "it": "Dimensioni durante il volo.",
+            "ja": "飛行中の寸法。",
+            "pt": "Dimensões durante o voo.",
+            "nl": "Afmetingen tijdens de vlucht."
+          }
+        },
+        {
+          "item": "DJI Mini 4 Pro - Max Flight Time",
+          "metric": "34 minutes",
+          "imperial": "34 minutes",
+          "status": "Verified",
+          "note": "With standard Intelligent Flight Battery. Up to 45 minutes with Intelligent Flight Battery Plus (not available in all regions).",
+          "item_translations": {
+            "en": "DJI Mini 4 Pro - Max Flight Time",
+            "de": "DJI Mini 4 Pro - Maximale Flugzeit",
+            "fr": "DJI Mini 4 Pro - Durée de vol maximale",
+            "es": "DJI Mini 4 Pro - Tiempo máximo de vuelo",
+            "it": "DJI Mini 4 Pro - Tempo massimo di volo",
+            "ja": "DJI Mini 4 Pro - 最大飛行時間",
+            "pt": "DJI Mini 4 Pro - Tempo Máximo de Voo",
+            "nl": "DJI Mini 4 Pro - Maximale vliegtijd"
+          },
+          "note_translations": {
+            "en": "With standard Intelligent Flight Battery. Up to 45 minutes with Intelligent Flight Battery Plus (not available in all regions).",
+            "de": "Mit Standard Intelligent Flight Battery. Bis zu 45 Minuten mit Intelligent Flight Battery Plus (nicht in allen Regionen verfügbar).",
+            "fr": "Avec la batterie de vol intelligente standard. Jusqu'à 45 minutes avec la batterie de vol intelligente Plus (non disponible dans toutes les régions).",
+            "es": "Con la batería de vuelo inteligente estándar. Hasta 45 minutos con la batería de vuelo inteligente Plus (no disponible en todas las regiones).",
+            "it": "Con batteria di volo intelligente standard. Fino a 45 minuti con batteria di volo intelligente Plus (non disponibile in tutte le regioni).",
+            "ja": "標準インテリジェントフライトバッテリー使用時。インテリジェントフライトバッテリーPlus使用時は最大45分（一部地域では利用不可）。",
+            "pt": "Com Bateria de Voo Inteligente padrão. Até 45 minutos com Bateria de Voo Inteligente Plus (não disponível em todas as regiões).",
+            "nl": "Met standaard Intelligent Flight Battery. Tot 45 minuten met Intelligent Flight Battery Plus (niet in alle regio's beschikbaar)."
+          }
+        },
+        {
+          "item": "DJI Air 3 - Max Flight Time",
+          "metric": "46 minutes",
+          "imperial": "46 minutes",
+          "status": "Verified",
+          "note": "With Intelligent Flight Battery.",
+          "item_translations": {
+            "en": "DJI Air 3 - Max Flight Time",
+            "de": "DJI Air 3 - Maximale Flugzeit",
+            "fr": "DJI Air 3 - Durée de vol maximale",
+            "es": "DJI Air 3 - Tiempo máximo de vuelo",
+            "it": "DJI Air 3 - Tempo massimo di volo",
+            "ja": "DJI Air 3 - 最大飛行時間",
+            "pt": "DJI Air 3 - Tempo Máximo de Voo",
+            "nl": "DJI Air 3 - Maximale vliegtijd"
+          },
+          "note_translations": {
+            "en": "With Intelligent Flight Battery.",
+            "de": "Mit Intelligent Flight Battery.",
+            "fr": "Avec la batterie de vol intelligente.",
+            "es": "Con la batería de vuelo inteligente.",
+            "it": "Con batteria di volo intelligente.",
+            "ja": "インテリジェントフライトバッテリー使用時。",
+            "pt": "Com Bateria de Voo Inteligente.",
+            "nl": "Met Intelligent Flight Battery."
+          }
+        },
+        {
+          "item": "MicroSD Card Requirement",
+          "metric": "Class 10 or UHS-I Speed Grade 3 (U3)",
+          "imperial": "Class 10 or UHS-I Speed Grade 3 (U3)",
+          "status": "Required",
+          "note": "Essential for high-resolution video recording on both Mini 4 Pro and Air 3.",
+          "item_translations": {
+            "en": "MicroSD Card Requirement",
+            "de": "Anforderung an MicroSD-Karte",
+            "fr": "Exigence de carte MicroSD",
+            "es": "Requisito de tarjeta MicroSD",
+            "it": "Requisito scheda MicroSD",
+            "ja": "MicroSDカード要件",
+            "pt": "Requisito de Cartão MicroSD",
+            "nl": "MicroSD-kaartvereiste"
+          },
+          "note_translations": {
+            "en": "Essential for high-resolution video recording on both Mini 4 Pro and Air 3.",
+            "de": "Unerlässlich für hochauflösende Videoaufnahmen auf Mini 4 Pro und Air 3.",
+            "fr": "Essentiel pour l'enregistrement vidéo haute résolution sur les Mini 4 Pro et Air 3.",
+            "es": "Esencial para la grabación de video de alta resolución en Mini 4 Pro y Air 3.",
+            "it": "Essenziale per la registrazione video ad alta risoluzione su Mini 4 Pro e Air 3.",
+            "ja": "Mini 4 ProとAir 3の両方で高解像度ビデオ録画に不可欠です。",
+            "pt": "Essencial para gravação de vídeo de alta resolução tanto no Mini 4 Pro quanto no Air 3.",
+            "nl": "Essentieel voor video-opnamen in hoge resolutie op zowel Mini 4 Pro als Air 3."
+          }
+        },
+        {
+          "item": "DJI Mini 4 Pro - Recommended USB-C Charging Power",
+          "metric": "30 W",
+          "imperial": "30 W",
+          "status": "Recommended",
+          "note": "For direct drone charging or via two-way charging hub.",
+          "item_translations": {
+            "en": "DJI Mini 4 Pro - Recommended USB-C Charging Power",
+            "de": "DJI Mini 4 Pro - Empfohlene USB-C Ladeleistung",
+            "fr": "DJI Mini 4 Pro - Puissance de charge USB-C recommandée",
+            "es": "DJI Mini 4 Pro - Potencia de carga USB-C recomendada",
+            "it": "DJI Mini 4 Pro - Potenza di ricarica USB-C consigliata",
+            "ja": "DJI Mini 4 Pro - 推奨USB-C充電電力",
+            "pt": "DJI Mini 4 Pro - Potência de Carregamento USB-C Recomendada",
+            "nl": "DJI Mini 4 Pro - Aanbevolen USB-C laadvermogen"
+          },
+          "note_translations": {
+            "en": "For direct drone charging or via two-way charging hub.",
+            "de": "Für direktes Laden der Drohne oder über den Zwei-Wege-Ladehub.",
+            "fr": "Pour la charge directe du drone ou via le hub de charge bidirectionnel.",
+            "es": "Para carga directa del dron o a través del centro de carga bidireccional.",
+            "it": "Per la ricarica diretta del drone o tramite hub di ricarica bidirezionale.",
+            "ja": "ドローンの直接充電または双方向充電ハブ経由での充電用。",
+            "pt": "Para carregamento direto do drone ou via hub de carregamento bidirecional.",
+            "nl": "Voor direct opladen van de drone of via de tweeweg oplaadhub."
+          }
+        },
+        {
+          "item": "DJI Air 3 - Recommended USB-C Charging Power (for Charging Hub)",
+          "metric": "65 W",
+          "imperial": "65 W",
+          "status": "Recommended",
+          "note": "For the DJI Air 3 Two-Way Charging Hub. Drone charges via the hub.",
+          "item_translations": {
+            "en": "DJI Air 3 - Recommended USB-C Charging Power (for Charging Hub)",
+            "de": "DJI Air 3 - Empfohlene USB-C Ladeleistung (für Ladehub)",
+            "fr": "DJI Air 3 - Puissance de charge USB-C recommandée (pour le hub de charge)",
+            "es": "DJI Air 3 - Potencia de carga USB-C recomendada (para el centro de carga)",
+            "it": "DJI Air 3 - Potenza di ricarica USB-C consigliata (per l'hub di ricarica)",
+            "ja": "DJI Air 3 - 推奨USB-C充電電力 (充電ハブ用)",
+            "pt": "DJI Air 3 - Potência de Carregamento USB-C Recomendada (para Hub de Carregamento)",
+            "nl": "DJI Air 3 - Aanbevolen USB-C laadvermogen (voor oplaadhub)"
+          },
+          "note_translations": {
+            "en": "For the DJI Air 3 Two-Way Charging Hub. Drone charges via the hub.",
+            "de": "Für den DJI Air 3 Zwei-Wege-Ladehub. Die Drohne lädt über den Hub.",
+            "fr": "Pour le hub de charge bidirectionnel DJI Air 3. Le drone se charge via le hub.",
+            "es": "Para el centro de carga bidireccional DJI Air 3. El dron se carga a través del centro.",
+            "it": "Per l'hub di ricarica bidirezionale DJI Air 3. Il drone si ricarica tramite l'hub.",
+            "ja": "DJI Air 3 双方向充電ハブ用。ドローンはハブ経由で充電されます。",
+            "pt": "Para o Hub de Carregamento Bidirecional DJI Air 3. O drone carrega via o hub.",
+            "nl": "Voor de DJI Air 3 tweeweg oplaadhub. De drone laadt op via de hub."
+          }
+        },
+        {
+          "item": "Operating Temperature Range",
+          "metric": "-10°C to 40°C",
+          "imperial": "14°F to 104°F",
+          "status": "Verified",
+          "note": "Applies to both DJI Mini 4 Pro and Air 3 for safe operation.",
+          "item_translations": {
+            "en": "Operating Temperature Range",
+            "de": "Betriebstemperaturbereich",
+            "fr": "Plage de température de fonctionnement",
+            "es": "Rango de temperatura de funcionamiento",
+            "it": "Intervallo di temperatura operativa",
+            "ja": "動作温度範囲",
+            "pt": "Faixa de Temperatura Operacional",
+            "nl": "Bedrijfstemperatuurbereik"
+          },
+          "note_translations": {
+            "en": "Applies to both DJI Mini 4 Pro and Air 3 for safe operation.",
+            "de": "Gilt für DJI Mini 4 Pro und Air 3 für sicheren Betrieb.",
+            "fr": "S'applique aux DJI Mini 4 Pro et Air 3 pour un fonctionnement sûr.",
+            "es": "Se aplica tanto al DJI Mini 4 Pro como al Air 3 para una operación segura.",
+            "it": "Si applica sia al DJI Mini 4 Pro che all'Air 3 per un funzionamento sicuro.",
+            "ja": "DJI Mini 4 ProとAir 3の両方に適用され、安全な運用が可能です。",
+            "pt": "Aplica-se tanto ao DJI Mini 4 Pro quanto ao Air 3 para operação segura.",
+            "nl": "Geldt voor zowel DJI Mini 4 Pro als Air 3 voor veilige werking."
+          }
+        },
+        {
+          "item": "Video Transmission System",
+          "metric": "DJI O4",
+          "imperial": "DJI O4",
+          "status": "Verified",
+          "note": "Advanced transmission system for both drones, offering enhanced range and stability.",
+          "item_translations": {
+            "en": "Video Transmission System",
+            "de": "Videoübertragungssystem",
+            "fr": "Système de transmission vidéo",
+            "es": "Sistema de transmisión de video",
+            "it": "Sistema di trasmissione video",
+            "ja": "映像伝送システム",
+            "pt": "Sistema de Transmissão de Vídeo",
+            "nl": "Videotransmissiesysteem"
+          },
+          "note_translations": {
+            "en": "Advanced transmission system for both drones, offering enhanced range and stability.",
+            "de": "Fortschrittliches Übertragungssystem für beide Drohnen, bietet verbesserte Reichweite und Stabilität.",
+            "fr": "Système de transmission avancé pour les deux drones, offrant une portée et une stabilité améliorées.",
+            "es": "Sistema de transmisión avanzado para ambos drones, que ofrece mayor alcance y estabilidad.",
+            "it": "Sistema di trasmissione avanzato per entrambi i droni, che offre portata e stabilità migliorate.",
+            "ja": "両方のドローンに対応する高度な伝送システムで、範囲と安定性が向上しています。",
+            "pt": "Sistema de transmissão avançado para ambos os drones, oferecendo alcance e estabilidade aprimorados.",
+            "nl": "Geavanceerd transmissiesysteem voor beide drones, met verbeterd bereik en stabiliteit."
+          }
+        },
+        {
+          "item": "DJI Mini 4 Pro - Internal Storage",
+          "metric": "2 GB",
+          "imperial": "2 GB",
+          "status": "Verified",
+          "note": "Limited internal storage; microSD card highly recommended.",
+          "item_translations": {
+            "en": "DJI Mini 4 Pro - Internal Storage",
+            "de": "DJI Mini 4 Pro - Interner Speicher",
+            "fr": "DJI Mini 4 Pro - Stockage interne",
+            "es": "DJI Mini 4 Pro - Almacenamiento interno",
+            "it": "DJI Mini 4 Pro - Archiviazione interna",
+            "ja": "DJI Mini 4 Pro - 内部ストレージ",
+            "pt": "DJI Mini 4 Pro - Armazenamento Interno",
+            "nl": "DJI Mini 4 Pro - Interne opslag"
+          },
+          "note_translations": {
+            "en": "Limited internal storage; microSD card highly recommended.",
+            "de": "Begrenzter interner Speicher; microSD-Karte dringend empfohlen.",
+            "fr": "Stockage interne limité ; carte microSD fortement recommandée.",
+            "es": "Almacenamiento interno limitado; se recomienda encarecidamente una tarjeta microSD.",
+            "it": "Archiviazione interna limitata; scheda microSD altamente raccomandata.",
+            "ja": "内部ストレージは限られています。microSDカードを強くお勧めします。",
+            "pt": "Armazenamento interno limitado; cartão microSD altamente recomendado.",
+            "nl": "Beperkte interne opslag; microSD-kaart sterk aanbevolen."
+          }
+        },
+        {
+          "item": "DJI Air 3 - Internal Storage",
+          "metric": "8 GB",
+          "imperial": "8 GB",
+          "status": "Verified",
+          "note": "Internal storage for quick captures; microSD card recommended for extended use.",
+          "item_translations": {
+            "en": "DJI Air 3 - Internal Storage",
+            "de": "DJI Air 3 - Interner Speicher",
+            "fr": "DJI Air 3 - Stockage interne",
+            "es": "DJI Air 3 - Almacenamiento interno",
+            "it": "DJI Air 3 - Archiviazione interna",
+            "ja": "DJI Air 3 - 内部ストレージ",
+            "pt": "DJI Air 3 - Armazenamento Interno",
+            "nl": "DJI Air 3 - Interne opslag"
+          },
+          "note_translations": {
+            "en": "Internal storage for quick captures; microSD card recommended for extended use.",
+            "de": "Interner Speicher für schnelle Aufnahmen; microSD-Karte für längere Nutzung empfohlen.",
+            "fr": "Stockage interne pour les captures rapides ; carte microSD recommandée pour une utilisation prolongée.",
+            "es": "Almacenamiento interno para capturas rápidas; se recomienda una tarjeta microSD para un uso prolongado.",
+            "it": "Archiviazione interna per acquisizioni rapide; scheda microSD consigliata per un uso prolungato.",
+            "ja": "クイックキャプチャ用の内部ストレージ。長時間の使用にはmicroSDカードをお勧めします。",
+            "pt": "Armazenamento interno para capturas rápidas; cartão microSD recomendado para uso prolongado.",
+            "nl": "Interne opslag voor snelle opnames; microSD-kaart aanbevolen voor langdurig gebruik."
+          }
+        },
+        {
+          "item": "Remote Controller Compatibility",
+          "metric": "DJI RC 2, DJI RC-N2",
+          "imperial": "DJI RC 2, DJI RC-N2",
+          "status": "Compatible",
+          "note": "Both drones are compatible with the latest generation of DJI remote controllers.",
+          "item_translations": {
+            "en": "Remote Controller Compatibility",
+            "de": "Kompatibilität der Fernsteuerung",
+            "fr": "Compatibilité de la télécommande",
+            "es": "Compatibilidad del control remoto",
+            "it": "Compatibilità del radiocomando",
+            "ja": "送信機互換性",
+            "pt": "Compatibilidade do Controle Remoto",
+            "nl": "Compatibiliteit afstandsbediening"
+          },
+          "note_translations": {
+            "en": "Both drones are compatible with the latest generation of DJI remote controllers.",
+            "de": "Beide Drohnen sind mit der neuesten Generation von DJI-Fernsteuerungen kompatibel.",
+            "fr": "Les deux drones sont compatibles avec la dernière génération de télécommandes DJI.",
+            "es": "Ambos drones son compatibles con la última generación de controles remotos DJI.",
+            "it": "Entrambi i droni sono compatibili con l'ultima generazione di radiocomandi DJI.",
+            "ja": "両方のドローンは、最新世代のDJI送信機と互換性があります。",
+            "pt": "Ambos os drones são compatíveis com a última geração de controles remotos DJI.",
+            "nl": "Beide drones zijn compatibel met de nieuwste generatie DJI-afstandsbedieningen."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "dji-mini-4-pro-air-3-compatibility-matrix",
+          "title": "DJI Mini 4 Pro & Air 3 Compatibility and Measurement Matrix",
+          "summary": "Comprehensive compatibility and exact measurement matrix for DJI Mini 4 Pro and DJI Air 3 drones, covering key hardware specifications, regulatory compliance, and operational details.",
+          "amazon_search_query": "DJI Mini 4 Pro Air 3 accessories",
+          "buy_box_title": "Find Compatible Accessories for Your DJI Drone",
+          "buy_box_subtitle": "Explore recommended microSD cards, charging solutions, and carrying cases.",
+          "allowed_guidelines": [
+            "Use Class 10 or UHS-I Speed Grade 3 microSD cards for optimal performance.",
+            "Ensure proper battery charging with recommended power adapters (30W for Mini 4 Pro, 65W for Air 3 hub).",
+            "Operate within specified temperature ranges (-10°C to 40°C / 14°F to 104°F) for optimal performance and safety."
+          ],
+          "strict_restrictions": [
+            "Do not exceed local drone weight regulations (e.g., <250g for Mini 4 Pro in many regions; Air 3 requires registration).",
+            "Avoid using non-certified third-party batteries or charging equipment.",
+            "Do not operate outside specified operating temperature range, as it may affect drone performance and battery life."
+          ],
+          "faqs": [
+            {
+              "q": "What is the main weight difference between Mini 4 Pro and Air 3?",
+              "a": "The DJI Mini 4 Pro weighs less than 249g (0.55 lbs), making it exempt from registration in many regions, while the DJI Air 3 weighs 720g (1.59 lbs) and typically requires registration."
+            },
+            {
+              "q": "Can I use the same remote controller for both drones?",
+              "a": "Yes, both DJI Mini 4 Pro and Air 3 are compatible with the DJI RC 2 and DJI RC-N2 remote controllers, utilizing the O4 video transmission system."
+            },
+            {
+              "q": "What type of microSD card is recommended for these drones?",
+              "a": "Both drones require a Class 10 or UHS-I Speed Grade 3 (U3) microSD card for optimal video recording performance and data transfer speeds."
+            }
+          ]
+        },
+        "de": {
+          "slug": "dji-mini-4-pro-air-3-kompatibilitaetsmatrix",
+          "title": "DJI Mini 4 Pro & Air 3 Kompatibilitäts- und Messmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messmatrix für DJI Mini 4 Pro und DJI Air 3 Drohnen, die wichtige Hardwarespezifikationen, die Einhaltung gesetzlicher Vorschriften und Betriebsdetails abdeckt.",
+          "amazon_search_query": "DJI Mini 4 Pro Air 3 Zubehör",
+          "buy_box_title": "Finden Sie kompatibles Zubehör für Ihre DJI Drohne",
+          "buy_box_subtitle": "Entdecken Sie empfohlene microSD-Karten, Ladelösungen und Tragetaschen.",
+          "allowed_guidelines": [
+            "Verwenden Sie microSD-Karten der Klasse 10 oder UHS-I Speed Grade 3 für optimale Leistung.",
+            "Stellen Sie sicher, dass die Batterien ordnungsgemäß mit den empfohlenen Netzteilen geladen werden (30W für Mini 4 Pro, 65W für Air 3 Hub).",
+            "Betreiben Sie die Drohne innerhalb der angegebenen Temperaturbereiche (-10°C bis 40°C / 14°F bis 104°F) für optimale Leistung und Sicherheit."
+          ],
+          "strict_restrictions": [
+            "Überschreiten Sie nicht die lokalen Drohnengewichtsvorschriften (z.B. <250g für Mini 4 Pro in vielen Regionen; Air 3 erfordert Registrierung).",
+            "Vermeiden Sie die Verwendung von nicht zertifizierten Drittanbieter-Batterien oder Ladegeräten.",
+            "Betreiben Sie die Drohne nicht außerhalb des angegebenen Betriebstemperaturbereichs, da dies die Drohnenleistung und Batterielebensdauer beeinträchtigen kann."
+          ],
+          "faqs": [
+            {
+              "q": "Was ist der Hauptgewichts-Unterschied zwischen Mini 4 Pro und Air 3?",
+              "a": "Die DJI Mini 4 Pro wiegt weniger als 249g (0,55 lbs) und ist daher in vielen Regionen von der Registrierung befreit, während die DJI Air 3 720g (1,59 lbs) wiegt und in der Regel eine Registrierung erfordert."
+            },
+            {
+              "q": "Kann ich dieselbe Fernsteuerung für beide Drohnen verwenden?",
+              "a": "Ja, sowohl DJI Mini 4 Pro als auch Air 3 sind mit den Fernsteuerungen DJI RC 2 und DJI RC-N2 kompatibel und nutzen das O4-Videoübertragungssystem."
+            },
+            {
+              "q": "Welche Art von microSD-Karte wird für diese Drohnen empfohlen?",
+              "a": "Beide Drohnen benötigen eine microSD-Karte der Klasse 10 oder UHS-I Speed Grade 3 (U3) für optimale Videoaufnahmeleistung und Datenübertragungsgeschwindigkeiten."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "dji-mini-4-pro-air-3-matrice-compatibilite",
+          "title": "Matrice de compatibilité et de mesures exactes DJI Mini 4 Pro & Air 3",
+          "summary": "Matrice complète de compatibilité et de mesures exactes pour les drones DJI Mini 4 Pro et DJI Air 3, couvrant les spécifications matérielles clés, la conformité réglementaire et les détails opérationnels.",
+          "amazon_search_query": "Accessoires DJI Mini 4 Pro Air 3",
+          "buy_box_title": "Trouvez des accessoires compatibles pour votre drone DJI",
+          "buy_box_subtitle": "Découvrez les cartes microSD, les solutions de charge et les étuis de transport recommandés.",
+          "allowed_guidelines": [
+            "Utilisez des cartes microSD de classe 10 ou UHS-I Speed Grade 3 pour des performances optimales.",
+            "Assurez une charge correcte de la batterie avec les adaptateurs secteur recommandés (30W pour Mini 4 Pro, 65W pour le hub Air 3).",
+            "Opérez dans les plages de température spécifiées (-10°C à 40°C / 14°F à 104°F) pour des performances et une sécurité optimales."
+          ],
+          "strict_restrictions": [
+            "Ne dépassez pas les réglementations locales sur le poids des drones (par exemple, <250g pour le Mini 4 Pro dans de nombreuses régions ; l'Air 3 nécessite une immatriculation).",
+            "Évitez d'utiliser des batteries ou des équipements de charge tiers non certifiés.",
+            "N'opérez pas en dehors de la plage de température de fonctionnement spécifiée, car cela pourrait affecter les performances du drone et la durée de vie de la batterie."
+          ],
+          "faqs": [
+            {
+              "q": "Quelle est la principale différence de poids entre le Mini 4 Pro et l'Air 3 ?",
+              "a": "Le DJI Mini 4 Pro pèse moins de 249g (0,55 lbs), ce qui le dispense d'immatriculation dans de nombreuses régions, tandis que le DJI Air 3 pèse 720g (1,59 lbs) et nécessite généralement une immatriculation."
+            },
+            {
+              "q": "Puis-je utiliser la même télécommande pour les deux drones ?",
+              "a": "Oui, les DJI Mini 4 Pro et Air 3 sont tous deux compatibles avec les télécommandes DJI RC 2 et DJI RC-N2, utilisant le système de transmission vidéo O4."
+            },
+            {
+              "q": "Quel type de carte microSD est recommandé pour ces drones ?",
+              "a": "Les deux drones nécessitent une carte microSD de classe 10 ou UHS-I Speed Grade 3 (U3) pour des performances d'enregistrement vidéo et des vitesses de transfert de données optimales."
+            }
+          ]
+        },
+        "es": {
+          "slug": "dji-mini-4-pro-air-3-matriz-compatibilidad",
+          "title": "Matriz de Compatibilidad y Medidas Exactas DJI Mini 4 Pro y Air 3",
+          "summary": "Matriz completa de compatibilidad y medidas exactas para los drones DJI Mini 4 Pro y DJI Air 3, que cubre las especificaciones clave de hardware, el cumplimiento normativo y los detalles operativos.",
+          "amazon_search_query": "Accesorios DJI Mini 4 Pro Air 3",
+          "buy_box_title": "Encuentra accesorios compatibles para tu dron DJI",
+          "buy_box_subtitle": "Explora tarjetas microSD, soluciones de carga y estuches de transporte recomendados.",
+          "allowed_guidelines": [
+            "Utilice tarjetas microSD de Clase 10 o UHS-I Speed Grade 3 para un rendimiento óptimo.",
+            "Asegure una carga adecuada de la batería con los adaptadores de corriente recomendados (30W para Mini 4 Pro, 65W para el hub del Air 3).",
+            "Opere dentro de los rangos de temperatura especificados (-10°C a 40°C / 14°F a 104°F) para un rendimiento y seguridad óptimos."
+          ],
+          "strict_restrictions": [
+            "No exceda las regulaciones locales de peso de drones (por ejemplo, <250g para Mini 4 Pro en muchas regiones; Air 3 requiere registro).",
+            "Evite el uso de baterías o equipos de carga de terceros no certificados.",
+            "No opere fuera del rango de temperatura de funcionamiento especificado, ya que puede afectar el rendimiento del dron y la vida útil de la batería."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuál es la principal diferencia de peso entre el Mini 4 Pro y el Air 3?",
+              "a": "El DJI Mini 4 Pro pesa menos de 249g (0,55 lbs), lo que lo exime de registro en muchas regiones, mientras que el DJI Air 3 pesa 720g (1,59 lbs) y generalmente requiere registro."
+            },
+            {
+              "q": "¿Puedo usar el mismo control remoto para ambos drones?",
+              "a": "Sí, tanto el DJI Mini 4 Pro como el Air 3 son compatibles con los controles remotos DJI RC 2 y DJI RC-N2, utilizando el sistema de transmisión de video O4."
+            },
+            {
+              "q": "¿Qué tipo de tarjeta microSD se recomienda para estos drones?",
+              "a": "Ambos drones requieren una tarjeta microSD de Clase 10 o UHS-I Speed Grade 3 (U3) para un rendimiento óptimo de grabación de video y velocidades de transferencia de datos."
+            }
+          ]
+        },
+        "it": {
+          "slug": "dji-mini-4-pro-air-3-matrice-compatibilita",
+          "title": "Matrice di Compatibilità e Misure Esatte DJI Mini 4 Pro e Air 3",
+          "summary": "Matrice completa di compatibilità e misure esatte per i droni DJI Mini 4 Pro e DJI Air 3, che copre le specifiche hardware chiave, la conformità normativa e i dettagli operativi.",
+          "amazon_search_query": "Accessori DJI Mini 4 Pro Air 3",
+          "buy_box_title": "Trova accessori compatibili per il tuo drone DJI",
+          "buy_box_subtitle": "Esplora schede microSD, soluzioni di ricarica e custodie consigliate.",
+          "allowed_guidelines": [
+            "Utilizzare schede microSD di Classe 10 o UHS-I Speed Grade 3 per prestazioni ottimali.",
+            "Assicurare una corretta ricarica della batteria con gli adattatori di alimentazione consigliati (30W per Mini 4 Pro, 65W per l'hub Air 3).",
+            "Operare entro gli intervalli di temperatura specificati (da -10°C a 40°C / da 14°F a 104°F) per prestazioni e sicurezza ottimali."
+          ],
+          "strict_restrictions": [
+            "Non superare le normative locali sul peso dei droni (ad esempio, <250g per Mini 4 Pro in molte regioni; Air 3 richiede registrazione).",
+            "Evitare l'uso di batterie o apparecchiature di ricarica di terze parti non certificate.",
+            "Non operare al di fuori dell'intervallo di temperatura operativa specificato, poiché ciò potrebbe influire sulle prestazioni del drone e sulla durata della batteria."
+          ],
+          "faqs": [
+            {
+              "q": "Qual è la principale differenza di peso tra Mini 4 Pro e Air 3?",
+              "a": "Il DJI Mini 4 Pro pesa meno di 249g (0,55 lbs), il che lo esenta dalla registrazione in molte regioni, mentre il DJI Air 3 pesa 720g (1,59 lbs) e di solito richiede la registrazione."
+            },
+            {
+              "q": "Posso usare lo stesso radiocomando per entrambi i droni?",
+              "a": "Sì, sia il DJI Mini 4 Pro che l'Air 3 sono compatibili con i radiocomandi DJI RC 2 e DJI RC-N2, utilizzando il sistema di trasmissione video O4."
+            },
+            {
+              "q": "Che tipo di scheda microSD è consigliata per questi droni?",
+              "a": "Entrambi i droni richiedono una scheda microSD di Classe 10 o UHS-I Speed Grade 3 (U3) per prestazioni ottimali di registrazione video e velocità di trasferimento dati."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "dji-mini-4-pro-air-3-互換性マトリックス",
+          "title": "DJI Mini 4 Pro & Air 3 互換性および正確な測定マトリックス",
+          "summary": "DJI Mini 4 ProとDJI Air 3ドローンに関する包括的な互換性および正確な測定マトリックス。主要なハードウェア仕様、規制順守、運用詳細を網羅しています。",
+          "amazon_search_query": "DJI Mini 4 Pro Air 3 アクセサリー",
+          "buy_box_title": "DJIドローン用の互換性のあるアクセサリーを見つける",
+          "buy_box_subtitle": "推奨されるmicroSDカード、充電ソリューション、キャリングケースを探索する。",
+          "allowed_guidelines": [
+            "最適なパフォーマンスのために、Class 10またはUHS-I Speed Grade 3のmicroSDカードを使用してください。",
+            "推奨される電源アダプター（Mini 4 Proには30W、Air 3ハブには65W）でバッテリーが適切に充電されていることを確認してください。",
+            "最適なパフォーマンスと安全のために、指定された温度範囲（-10°C〜40°C / 14°F〜104°F）内で操作してください。"
+          ],
+          "strict_restrictions": [
+            "地域のドローン重量規制を超えないでください（例：多くの地域でMini 4 Proは250g未満。Air 3は登録が必要です）。",
+            "非認定のサードパーティ製バッテリーや充電機器の使用は避けてください。",
+            "指定された動作温度範囲外で操作しないでください。ドローンの性能とバッテリー寿命に影響を与える可能性があります。"
+          ],
+          "faqs": [
+            {
+              "q": "Mini 4 ProとAir 3の主な重量の違いは何ですか？",
+              "a": "DJI Mini 4 Proは249g（0.55ポンド）未満で、多くの地域で登録が免除されますが、DJI Air 3は720g（1.59ポンド）で、通常は登録が必要です。"
+            },
+            {
+              "q": "両方のドローンで同じ送信機を使用できますか？",
+              "a": "はい、DJI Mini 4 ProとAir 3の両方とも、O4映像伝送システムを利用して、DJI RC 2およびDJI RC-N2送信機と互換性があります。"
+            },
+            {
+              "q": "これらのドローンにはどのようなmicroSDカードが推奨されますか？",
+              "a": "両方のドローンは、最適なビデオ録画性能とデータ転送速度のために、Class 10またはUHS-I Speed Grade 3（U3）のmicroSDカードを必要とします。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "dji-mini-4-pro-air-3-matriz-compatibilidade",
+          "title": "Matriz de Compatibilidade e Medidas Exatas DJI Mini 4 Pro e Air 3",
+          "summary": "Matriz abrangente de compatibilidade e medidas exatas para os drones DJI Mini 4 Pro e DJI Air 3, cobrindo as principais especificações de hardware, conformidade regulatória e detalhes operacionais.",
+          "amazon_search_query": "Acessórios DJI Mini 4 Pro Air 3",
+          "buy_box_title": "Encontre Acessórios Compatíveis para o seu Drone DJI",
+          "buy_box_subtitle": "Explore cartões microSD, soluções de carregamento e estojos de transporte recomendados.",
+          "allowed_guidelines": [
+            "Use cartões microSD Classe 10 ou UHS-I Speed Grade 3 para desempenho ideal.",
+            "Garanta o carregamento adequado da bateria com adaptadores de energia recomendados (30W para Mini 4 Pro, 65W para o hub do Air 3).",
+            "Opere dentro das faixas de temperatura especificadas (-10°C a 40°C / 14°F a 104°F) para desempenho e segurança ideais."
+          ],
+          "strict_restrictions": [
+            "Não exceda as regulamentações locais de peso de drones (por exemplo, <250g para Mini 4 Pro em muitas regiões; Air 3 requer registro).",
+            "Evite usar baterias ou equipamentos de carregamento de terceiros não certificados.",
+            "Não opere fora da faixa de temperatura operacional especificada, pois isso pode afetar o desempenho do drone e a vida útil da bateria."
+          ],
+          "faqs": [
+            {
+              "q": "Qual é a principal diferença de peso entre o Mini 4 Pro e o Air 3?",
+              "a": "O DJI Mini 4 Pro pesa menos de 249g (0,55 lbs), o que o isenta de registro em muitas regiões, enquanto o DJI Air 3 pesa 720g (1,59 lbs) e geralmente requer registro."
+            },
+            {
+              "q": "Posso usar o mesmo controle remoto para ambos os drones?",
+              "a": "Sim, tanto o DJI Mini 4 Pro quanto o Air 3 são compatíveis com os controles remotos DJI RC 2 e DJI RC-N2, utilizando o sistema de transmissão de vídeo O4."
+            },
+            {
+              "q": "Que tipo de cartão microSD é recomendado para esses drones?",
+              "a": "Ambos os drones requerem um cartão microSD Classe 10 ou UHS-I Speed Grade 3 (U3) para desempenho ideal de gravação de vídeo e velocidades de transferência de dados."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "dji-mini-4-pro-air-3-compatibiliteitsmatrix",
+          "title": "DJI Mini 4 Pro & Air 3 Compatibiliteits- en Exacte Meetmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetmatrix voor DJI Mini 4 Pro en DJI Air 3 drones, met belangrijke hardwarespecificaties, naleving van regelgeving en operationele details.",
+          "amazon_search_query": "DJI Mini 4 Pro Air 3 accessoires",
+          "buy_box_title": "Vind compatibele accessoires voor uw DJI drone",
+          "buy_box_subtitle": "Ontdek aanbevolen microSD-kaarten, oplaadoplossingen en draagtassen.",
+          "allowed_guidelines": [
+            "Gebruik Class 10 of UHS-I Speed Grade 3 microSD-kaarten voor optimale prestaties.",
+            "Zorg voor correct opladen van de batterij met aanbevolen stroomadapters (30W voor Mini 4 Pro, 65W voor Air 3 hub).",
+            "Werk binnen de gespecificeerde temperatuurbereiken (-10°C tot 40°C / 14°F tot 104°F) voor optimale prestaties en veiligheid."
+          ],
+          "strict_restrictions": [
+            "Overschrijd de lokale dronewichtvoorschriften niet (bijv. <250g voor Mini 4 Pro in veel regio's; Air 3 vereist registratie).",
+            "Vermijd het gebruik van niet-gecertificeerde batterijen of oplaadapparatuur van derden.",
+            "Werk niet buiten het gespecificeerde bedrijfstemperatuurbereik, aangezien dit de droneprestaties en de levensduur van de batterij kan beïnvloeden."
+          ],
+          "faqs": [
+            {
+              "q": "Wat is het belangrijkste gewichtsverschil tussen Mini 4 Pro en Air 3?",
+              "a": "De DJI Mini 4 Pro weegt minder dan 249g (0,55 lbs), waardoor deze in veel regio's is vrijgesteld van registratie, terwijl de DJI Air 3 720g (1,59 lbs) weegt en doorgaans registratie vereist."
+            },
+            {
+              "q": "Kan ik dezelfde afstandsbediening gebruiken voor beide drones?",
+              "a": "Ja, zowel de DJI Mini 4 Pro als de Air 3 zijn compatibel met de DJI RC 2 en DJI RC-N2 afstandsbedieningen, die gebruikmaken van het O4 videotransmissiesysteem."
+            },
+            {
+              "q": "Welk type microSD-kaart wordt aanbevolen voor deze drones?",
+              "a": "Beide drones vereisen een Class 10 of UHS-I Speed Grade 3 (U3) microSD-kaart voor optimale videoprestaties en gegevensoverdrachtssnelheden."
             }
           ]
         }

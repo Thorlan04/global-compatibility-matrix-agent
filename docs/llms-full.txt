@@ -430,3 +430,35 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=GoPro+Hero+12+Black+accessories+microSD+battery+mount&tag=autocompat-21
 
 ---
+
+## DJI Mini 4 Pro & Air 3 (HARDWARE)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/dji-mini-4-pro-air-3-compatibility-matrix.html
+- Summary: Comprehensive compatibility and exact measurement matrix for DJI Mini 4 Pro and DJI Air 3 drones, covering key hardware specifications, regulatory compliance, and operational details.
+
+### Exact Specifications (Dual Units):
+* **DJI Mini 4 Pro - Aircraft Weight**: Metric: `<249 g` | Imperial: `<0.55 lbs` (Sub-250g classification for regulatory compliance in many regions.)
+* **DJI Air 3 - Aircraft Weight**: Metric: `720 g` | Imperial: `1.59 lbs` (Requires registration in most regions due to weight exceeding 250g.)
+* **DJI Mini 4 Pro - Battery Energy**: Metric: `18.96 Wh` | Imperial: `18.96 Wh` (Standard Intelligent Flight Battery capacity.)
+* **DJI Air 3 - Battery Energy**: Metric: `42.4 Wh` | Imperial: `42.4 Wh` (Intelligent Flight Battery capacity.)
+* **DJI Mini 4 Pro - Dimensions (Folded, without propellers)**: Metric: `145 × 90 × 62 mm (L×W×H)` | Imperial: `5.71 × 3.54 × 2.44 in (L×W×H)` (Compact size for portability.)
+* **DJI Mini 4 Pro - Dimensions (Unfolded, with propellers)**: Metric: `298 × 373 × 101 mm (L×W×H)` | Imperial: `11.73 × 14.69 × 3.98 in (L×W×H)` (Dimensions during flight.)
+* **DJI Air 3 - Dimensions (Folded, without propellers)**: Metric: `207 × 100 × 91 mm (L×W×H)` | Imperial: `8.15 × 3.94 × 3.58 in (L×W×H)` (Compact size for portability.)
+* **DJI Air 3 - Dimensions (Unfolded, with propellers)**: Metric: `258.8 × 326 × 105.8 mm (L×W×H)` | Imperial: `10.19 × 12.83 × 4.17 in (L×W×H)` (Dimensions during flight.)
+* **DJI Mini 4 Pro - Max Flight Time**: Metric: `34 minutes` | Imperial: `34 minutes` (With standard Intelligent Flight Battery. Up to 45 minutes with Intelligent Flight Battery Plus (not available in all regions).)
+* **DJI Air 3 - Max Flight Time**: Metric: `46 minutes` | Imperial: `46 minutes` (With Intelligent Flight Battery.)
+* **MicroSD Card Requirement**: Metric: `Class 10 or UHS-I Speed Grade 3 (U3)` | Imperial: `Class 10 or UHS-I Speed Grade 3 (U3)` (Essential for high-resolution video recording on both Mini 4 Pro and Air 3.)
+* **DJI Mini 4 Pro - Recommended USB-C Charging Power**: Metric: `30 W` | Imperial: `30 W` (For direct drone charging or via two-way charging hub.)
+* **DJI Air 3 - Recommended USB-C Charging Power (for Charging Hub)**: Metric: `65 W` | Imperial: `65 W` (For the DJI Air 3 Two-Way Charging Hub. Drone charges via the hub.)
+* **Operating Temperature Range**: Metric: `-10°C to 40°C` | Imperial: `14°F to 104°F` (Applies to both DJI Mini 4 Pro and Air 3 for safe operation.)
+* **Video Transmission System**: Metric: `DJI O4` | Imperial: `DJI O4` (Advanced transmission system for both drones, offering enhanced range and stability.)
+* **DJI Mini 4 Pro - Internal Storage**: Metric: `2 GB` | Imperial: `2 GB` (Limited internal storage; microSD card highly recommended.)
+* **DJI Air 3 - Internal Storage**: Metric: `8 GB` | Imperial: `8 GB` (Internal storage for quick captures; microSD card recommended for extended use.)
+* **Remote Controller Compatibility**: Metric: `DJI RC 2, DJI RC-N2` | Imperial: `DJI RC 2, DJI RC-N2` (Both drones are compatible with the latest generation of DJI remote controllers.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=DJI+Mini+4+Pro+Air+3+accessories&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=DJI+Mini+4+Pro+Air+3+accessories&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=DJI+Mini+4+Pro+Air+3+accessories&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=DJI+Mini+4+Pro+Air+3+accessories&tag=autocompat-21
+
+---
