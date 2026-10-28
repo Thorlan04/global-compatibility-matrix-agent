@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-10-27T21:46:26.413675+00:00",
-  "total_items": 24,
+  "generated_at": "2026-10-28T03:48:00.027075+00:00",
+  "total_items": 25,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -9838,6 +9838,558 @@
             {
               "q": "Welk type microSD-kaart wordt aanbevolen voor deze drones?",
               "a": "Beide drones vereisen een Class 10 of UHS-I Speed Grade 3 (U3) microSD-kaart voor optimale videoprestaties en gegevensoverdrachtssnelheden."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "nintendo-switch",
+      "slug": "nintendo-switch-switch-oled-compatibility-matrix",
+      "subject": "Nintendo Switch & Switch OLED",
+      "category": "hardware",
+      "spec_rows": [
+        {
+          "item": "Console Dimensions (with Joy-Cons attached)",
+          "metric": "Nintendo Switch: 23.9 cm x 10.2 cm x 1.39 cm; Nintendo Switch OLED: 24.2 cm x 10.2 cm x 1.39 cm",
+          "imperial": "Nintendo Switch: 9.4 in x 4.02 in x 0.55 in; Nintendo Switch OLED: 9.53 in x 4.02 in x 0.55 in",
+          "status": "Verified",
+          "note": "Dimensions are approximate and exclude the protruding analog sticks. The OLED model is slightly wider due to its larger screen.",
+          "item_translations": {
+            "en": "Console Dimensions (with Joy-Cons attached)",
+            "de": "Konsolenabmessungen (mit angeschlossenen Joy-Cons)",
+            "fr": "Dimensions de la console (avec Joy-Cons attachés)",
+            "es": "Dimensiones de la consola (con Joy-Cons conectados)",
+            "it": "Dimensioni della console (con Joy-Con collegati)",
+            "ja": "本体寸法（Joy-Con接続時）",
+            "pt": "Dimensões do console (com Joy-Cons conectados)",
+            "nl": "Consoleafmetingen (met aangesloten Joy-Cons)"
+          },
+          "note_translations": {
+            "en": "Dimensions are approximate and exclude the protruding analog sticks. The OLED model is slightly wider due to its larger screen.",
+            "de": "Die Abmessungen sind ungefähre Angaben und schließen die hervorstehenden Analog-Sticks aus. Das OLED-Modell ist aufgrund seines größeren Bildschirms etwas breiter.",
+            "fr": "Les dimensions sont approximatives et excluent les sticks analogiques saillants. Le modèle OLED est légèrement plus large en raison de son écran plus grand.",
+            "es": "Las dimensiones son aproximadas y excluyen los sticks analógicos sobresalientes. El modelo OLED es ligeramente más ancho debido a su pantalla más grande.",
+            "it": "Le dimensioni sono approssimative ed escludono gli stick analogici sporgenti. Il modello OLED è leggermente più largo a causa del suo schermo più grande.",
+            "ja": "寸法は概算であり、突出したアナログスティックは含まれません。OLEDモデルは、より大きな画面のため、わずかに幅が広くなっています。",
+            "pt": "As dimensões são aproximadas e excluem os sticks analógicos salientes. O modelo OLED é ligeiramente mais largo devido à sua tela maior.",
+            "nl": "De afmetingen zijn bij benadering en exclusief de uitstekende analoge sticks. Het OLED-model is iets breder vanwege het grotere scherm."
+          }
+        },
+        {
+          "item": "Console Weight (with Joy-Cons attached)",
+          "metric": "Nintendo Switch: 398 g; Nintendo Switch OLED: 420 g",
+          "imperial": "Nintendo Switch: 0.88 lbs; Nintendo Switch OLED: 0.93 lbs",
+          "status": "Verified",
+          "note": "Weight includes attached Joy-Cons. Console only: Switch 297g (0.65 lbs), OLED 320g (0.71 lbs).",
+          "item_translations": {
+            "en": "Console Weight (with Joy-Cons attached)",
+            "de": "Konsolengewicht (mit angeschlossenen Joy-Cons)",
+            "fr": "Poids de la console (avec Joy-Cons attachés)",
+            "es": "Peso de la consola (con Joy-Cons conectados)",
+            "it": "Peso della console (con Joy-Con collegati)",
+            "ja": "本体重量（Joy-Con接続時）",
+            "pt": "Peso do console (com Joy-Cons conectados)",
+            "nl": "Consolegewicht (met aangesloten Joy-Cons)"
+          },
+          "note_translations": {
+            "en": "Weight includes attached Joy-Cons. Console only: Switch 297g (0.65 lbs), OLED 320g (0.71 lbs).",
+            "de": "Das Gewicht beinhaltet die angeschlossenen Joy-Cons. Nur Konsole: Switch 297g (0,65 lbs), OLED 320g (0,71 lbs).",
+            "fr": "Le poids inclut les Joy-Cons attachés. Console seule : Switch 297g (0,65 lbs), OLED 320g (0,71 lbs).",
+            "es": "El peso incluye los Joy-Cons conectados. Solo consola: Switch 297g (0,65 lbs), OLED 320g (0,71 lbs).",
+            "it": "Il peso include i Joy-Con collegati. Solo console: Switch 297g (0,65 lbs), OLED 320g (0,71 lbs).",
+            "ja": "重量にはJoy-Conが含まれます。本体のみ：Switch 297g (0.65 lbs)、OLED 320g (0.71 lbs)。",
+            "pt": "O peso inclui os Joy-Cons conectados. Somente console: Switch 297g (0,65 lbs), OLED 320g (0,71 lbs).",
+            "nl": "Gewicht inclusief aangesloten Joy-Cons. Alleen console: Switch 297g (0,65 lbs), OLED 320g (0,71 lbs)."
+          }
+        },
+        {
+          "item": "Screen Type & Size",
+          "metric": "Nintendo Switch: 15.75 cm LCD; Nintendo Switch OLED: 17.78 cm OLED",
+          "imperial": "Nintendo Switch: 6.2 in LCD; Nintendo Switch OLED: 7.0 in OLED",
+          "status": "Verified",
+          "note": "The OLED model features a larger, more vibrant OLED display with thinner bezels.",
+          "item_translations": {
+            "en": "Screen Type & Size",
+            "de": "Bildschirmtyp & -größe",
+            "fr": "Type et taille de l'écran",
+            "es": "Tipo y tamaño de pantalla",
+            "it": "Tipo e dimensione dello schermo",
+            "ja": "画面タイプとサイズ",
+            "pt": "Tipo e tamanho da tela",
+            "nl": "Schermtype & -grootte"
+          },
+          "note_translations": {
+            "en": "The OLED model features a larger, more vibrant OLED display with thinner bezels.",
+            "de": "Das OLED-Modell verfügt über ein größeres, lebendigeres OLED-Display mit schmaleren Rändern.",
+            "fr": "Le modèle OLED est doté d'un écran OLED plus grand et plus éclatant avec des bordures plus fines.",
+            "es": "El modelo OLED cuenta con una pantalla OLED más grande y vibrante con biseles más delgados.",
+            "it": "Il modello OLED presenta un display OLED più grande e vibrante con cornici più sottili.",
+            "ja": "OLEDモデルは、より大きく鮮やかなOLEDディスプレイと、より薄いベゼルを特徴としています。",
+            "pt": "O modelo OLED apresenta uma tela OLED maior e mais vibrante com bordas mais finas.",
+            "nl": "Het OLED-model beschikt over een groter, levendiger OLED-scherm met dunnere randen."
+          }
+        },
+        {
+          "item": "Internal Storage Capacity",
+          "metric": "Nintendo Switch: 32 GB; Nintendo Switch OLED: 64 GB",
+          "imperial": "Nintendo Switch: 32 GB; Nintendo Switch OLED: 64 GB",
+          "status": "Verified",
+          "note": "A portion of the internal storage is reserved for system software.",
+          "item_translations": {
+            "en": "Internal Storage Capacity",
+            "de": "Interner Speicherplatz",
+            "fr": "Capacité de stockage interne",
+            "es": "Capacidad de almacenamiento interno",
+            "it": "Capacità di archiviazione interna",
+            "ja": "内部ストレージ容量",
+            "pt": "Capacidade de armazenamento interno",
+            "nl": "Interne opslagcapaciteit"
+          },
+          "note_translations": {
+            "en": "A portion of the internal storage is reserved for system software.",
+            "de": "Ein Teil des internen Speichers ist für die Systemsoftware reserviert.",
+            "fr": "Une partie du stockage interne est réservée au logiciel système.",
+            "es": "Una parte del almacenamiento interno está reservada para el software del sistema.",
+            "it": "Una parte della memoria interna è riservata al software di sistema.",
+            "ja": "内部ストレージの一部はシステムソフトウェア用に予約されています。",
+            "pt": "Uma parte do armazenamento interno é reservada para o software do sistema.",
+            "nl": "Een deel van de interne opslag is gereserveerd voor systeemsoftware."
+          }
+        },
+        {
+          "item": "Expandable Storage",
+          "metric": "microSDXC UHS-I up to 2 TB",
+          "imperial": "microSDXC UHS-I up to 2 TB",
+          "status": "Verified",
+          "note": "Compatible with microSD, microSDHC, and microSDXC memory cards. UHS-I speed class is recommended for optimal performance.",
+          "item_translations": {
+            "en": "Expandable Storage",
+            "de": "Erweiterbarer Speicher",
+            "fr": "Stockage extensible",
+            "es": "Almacenamiento expandible",
+            "it": "Archiviazione espandibile",
+            "ja": "拡張ストレージ",
+            "pt": "Armazenamento expansível",
+            "nl": "Uitbreidbare opslag"
+          },
+          "note_translations": {
+            "en": "Compatible with microSD, microSDHC, and microSDXC memory cards. UHS-I speed class is recommended for optimal performance.",
+            "de": "Kompatibel mit microSD-, microSDHC- und microSDXC-Speicherkarten. Für optimale Leistung wird die UHS-I Geschwindigkeitsklasse empfohlen.",
+            "fr": "Compatible avec les cartes mémoire microSD, microSDHC et microSDXC. La classe de vitesse UHS-I est recommandée pour des performances optimales.",
+            "es": "Compatible con tarjetas de memoria microSD, microSDHC y microSDXC. Se recomienda la clase de velocidad UHS-I para un rendimiento óptimo.",
+            "it": "Compatibile con schede di memoria microSD, microSDHC e microSDXC. La classe di velocità UHS-I è consigliata per prestazioni ottimali.",
+            "ja": "microSD、microSDHC、microSDXCメモリーカードに対応。最適なパフォーマンスのためにUHS-Iスピードクラスが推奨されます。",
+            "pt": "Compatível com cartões de memória microSD, microSDHC e microSDXC. A classe de velocidade UHS-I é recomendada para desempenho ideal.",
+            "nl": "Compatibel met microSD-, microSDHC- en microSDXC-geheugenkaarten. UHS-I snelheidsklasse wordt aanbevolen voor optimale prestaties."
+          }
+        },
+        {
+          "item": "Battery Capacity",
+          "metric": "4310 mAh (16 Wh)",
+          "imperial": "4310 mAh (16 Wh)",
+          "status": "Verified",
+          "note": "Both models share the same internal battery capacity. Battery life varies depending on game and usage conditions.",
+          "item_translations": {
+            "en": "Battery Capacity",
+            "de": "Akkukapazität",
+            "fr": "Capacité de la batterie",
+            "es": "Capacidad de la batería",
+            "it": "Capacità della batteria",
+            "ja": "バッテリー容量",
+            "pt": "Capacidade da bateria",
+            "nl": "Batterijcapaciteit"
+          },
+          "note_translations": {
+            "en": "Both models share the same internal battery capacity. Battery life varies depending on game and usage conditions.",
+            "de": "Beide Modelle teilen sich die gleiche interne Akkukapazität. Die Akkulaufzeit variiert je nach Spiel und Nutzungsbedingungen.",
+            "fr": "Les deux modèles partagent la même capacité de batterie interne. L'autonomie de la batterie varie en fonction du jeu et des conditions d'utilisation.",
+            "es": "Ambos modelos comparten la misma capacidad de batería interna. La duración de la batería varía según el juego y las condiciones de uso.",
+            "it": "Entrambi i modelli condividono la stessa capacità della batteria interna. La durata della batteria varia a seconda del gioco e delle condizioni d'uso.",
+            "ja": "両モデルとも同じ内部バッテリー容量を共有しています。バッテリー持続時間はゲームや使用状況によって異なります。",
+            "pt": "Ambos os modelos compartilham a mesma capacidade de bateria interna. A vida útil da bateria varia dependendo do jogo e das condições de uso.",
+            "nl": "Beide modellen delen dezelfde interne batterijcapaciteit. De batterijduur varieert afhankelijk van het spel en de gebruiksomstandigheden."
+          }
+        },
+        {
+          "item": "Power Adapter Output",
+          "metric": "15 V 2.6 A (39 W) USB-C",
+          "imperial": "15 V 2.6 A (39 W) USB-C",
+          "status": "Verified",
+          "note": "Standard output for the official Nintendo Switch AC adapter. Third-party chargers must meet these specifications for safe and efficient charging.",
+          "item_translations": {
+            "en": "Power Adapter Output",
+            "de": "Netzteil-Ausgangsleistung",
+            "fr": "Sortie de l'adaptateur secteur",
+            "es": "Salida del adaptador de corriente",
+            "it": "Uscita dell'alimentatore",
+            "ja": "電源アダプター出力",
+            "pt": "Saída do adaptador de energia",
+            "nl": "Voedingsadapteruitgang"
+          },
+          "note_translations": {
+            "en": "Standard output for the official Nintendo Switch AC adapter. Third-party chargers must meet these specifications for safe and efficient charging.",
+            "de": "Standardausgang für das offizielle Nintendo Switch Netzteil. Ladegeräte von Drittanbietern müssen diese Spezifikationen für sicheres und effizientes Laden erfüllen.",
+            "fr": "Sortie standard pour l'adaptateur secteur officiel Nintendo Switch. Les chargeurs tiers doivent respecter ces spécifications pour une charge sûre et efficace.",
+            "es": "Salida estándar para el adaptador de CA oficial de Nintendo Switch. Los cargadores de terceros deben cumplir estas especificaciones para una carga segura y eficiente.",
+            "it": "Uscita standard per l'alimentatore CA ufficiale di Nintendo Switch. I caricabatterie di terze parti devono soddisfare queste specifiche per una ricarica sicura ed efficiente.",
+            "ja": "公式Nintendo Switch ACアダプターの標準出力。安全で効率的な充電のため、サードパーティ製充電器もこれらの仕様を満たす必要があります。",
+            "pt": "Saída padrão para o adaptador CA oficial do Nintendo Switch. Carregadores de terceiros devem atender a essas especificações para um carregamento seguro e eficiente.",
+            "nl": "Standaarduitgang voor de officiële Nintendo Switch AC-adapter. Opladers van derden moeten aan deze specificaties voldoen voor veilig en efficiënt opladen."
+          }
+        },
+        {
+          "item": "Dock Video Output",
+          "metric": "HDMI (up to 1080p)",
+          "imperial": "HDMI (up to 1080p)",
+          "status": "Verified",
+          "note": "Both docks support video output to a TV via HDMI. Handheld mode resolution is 720p.",
+          "item_translations": {
+            "en": "Dock Video Output",
+            "de": "Dock-Videoausgang",
+            "fr": "Sortie vidéo du dock",
+            "es": "Salida de video del dock",
+            "it": "Uscita video del dock",
+            "ja": "ドック映像出力",
+            "pt": "Saída de vídeo do dock",
+            "nl": "Dock video-uitgang"
+          },
+          "note_translations": {
+            "en": "Both docks support video output to a TV via HDMI. Handheld mode resolution is 720p.",
+            "de": "Beide Docks unterstützen die Videoausgabe an einen Fernseher über HDMI. Die Auflösung im Handheld-Modus beträgt 720p.",
+            "fr": "Les deux docks prennent en charge la sortie vidéo vers un téléviseur via HDMI. La résolution en mode portable est de 720p.",
+            "es": "Ambos docks admiten la salida de video a un televisor a través de HDMI. La resolución en modo portátil es de 720p.",
+            "it": "Entrambi i dock supportano l'uscita video a un televisore tramite HDMI. La risoluzione in modalità portatile è 720p.",
+            "ja": "両方のドックはHDMI経由でテレビへの映像出力をサポートしています。携帯モードの解像度は720pです。",
+            "pt": "Ambos os docks suportam saída de vídeo para uma TV via HDMI. A resolução no modo portátil é de 720p.",
+            "nl": "Beide docks ondersteunen video-uitvoer naar een tv via HDMI. De resolutie in handheld-modus is 720p."
+          }
+        },
+        {
+          "item": "Dock Wired LAN Port",
+          "metric": "N/A",
+          "imperial": "N/A",
+          "status": "Verified",
+          "note": "Only the Nintendo Switch OLED Model dock includes a built-in wired LAN port for stable internet connection. The original Switch dock requires a USB-to-LAN adapter.",
+          "item_translations": {
+            "en": "Dock Wired LAN Port",
+            "de": "Dock-Kabel-LAN-Anschluss",
+            "fr": "Port LAN filaire du dock",
+            "es": "Puerto LAN con cable del dock",
+            "it": "Porta LAN cablata del dock",
+            "ja": "ドック有線LANポート",
+            "pt": "Porta LAN com fio do dock",
+            "nl": "Dock bedrade LAN-poort"
+          },
+          "note_translations": {
+            "en": "Only the Nintendo Switch OLED Model dock includes a built-in wired LAN port for stable internet connection. The original Switch dock requires a USB-to-LAN adapter.",
+            "de": "Nur das Dock des Nintendo Switch OLED-Modells verfügt über einen integrierten kabelgebundenen LAN-Anschluss für eine stabile Internetverbindung. Das Original-Switch-Dock erfordert einen USB-zu-LAN-Adapter.",
+            "fr": "Seul le dock du modèle Nintendo Switch OLED inclut un port LAN filaire intégré pour une connexion Internet stable. Le dock Switch original nécessite un adaptateur USB-vers-LAN.",
+            "es": "Solo el dock del modelo Nintendo Switch OLED incluye un puerto LAN con cable integrado para una conexión a Internet estable. El dock original de Switch requiere un adaptador USB a LAN.",
+            "it": "Solo il dock del modello Nintendo Switch OLED include una porta LAN cablata integrata per una connessione internet stabile. Il dock originale di Switch richiede un adattatore USB-to-LAN.",
+            "ja": "Nintendo Switch（有機ELモデル）のドックのみ、安定したインターネット接続のための有線LANポートを内蔵しています。元のSwitchドックにはUSB-LANアダプターが必要です。",
+            "pt": "Apenas o dock do modelo Nintendo Switch OLED inclui uma porta LAN com fio integrada para conexão estável à internet. O dock original do Switch requer um adaptador USB-para-LAN.",
+            "nl": "Alleen het dock van het Nintendo Switch OLED-model bevat een ingebouwde bedrade LAN-poort voor een stabiele internetverbinding. Het originele Switch-dock vereist een USB-naar-LAN-adapter."
+          }
+        },
+        {
+          "item": "USB-C Port Functionality",
+          "metric": "N/A",
+          "imperial": "N/A",
+          "status": "Verified",
+          "note": "Used for charging, TV output via dock, and connecting accessories.",
+          "item_translations": {
+            "en": "USB-C Port Functionality",
+            "de": "USB-C-Anschluss-Funktionalität",
+            "fr": "Fonctionnalité du port USB-C",
+            "es": "Funcionalidad del puerto USB-C",
+            "it": "Funzionalità della porta USB-C",
+            "ja": "USB-Cポート機能",
+            "pt": "Funcionalidade da porta USB-C",
+            "nl": "USB-C poort functionaliteit"
+          },
+          "note_translations": {
+            "en": "Used for charging, TV output via dock, and connecting accessories.",
+            "de": "Wird zum Laden, zur TV-Ausgabe über das Dock und zum Anschließen von Zubehör verwendet.",
+            "fr": "Utilisé pour la recharge, la sortie TV via le dock et la connexion d'accessoires.",
+            "es": "Se utiliza para cargar, la salida de TV a través del dock y la conexión de accesorios.",
+            "it": "Utilizzato per la ricarica, l'uscita TV tramite dock e la connessione di accessori.",
+            "ja": "充電、ドック経由でのテレビ出力、アクセサリー接続に使用されます。",
+            "pt": "Usado para carregamento, saída de TV via dock e conexão de acessórios.",
+            "nl": "Gebruikt voor opladen, tv-uitvoer via dock en het aansluiten van accessoires."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "nintendo-switch-switch-oled-compatibility-matrix",
+          "title": "Nintendo Switch & Switch OLED: Universal Compatibility & Measurement Matrix",
+          "summary": "Comprehensive compatibility and exact measurement matrix for Nintendo Switch and Nintendo Switch OLED models, covering hardware specifications, dimensions, power requirements, and storage options for global users.",
+          "amazon_search_query": "Nintendo Switch OLED console, Nintendo Switch accessories, Switch charger, microSDXC Switch",
+          "buy_box_title": "Official Nintendo Switch & OLED Hardware",
+          "buy_box_subtitle": "Ensure seamless gaming with verified specifications.",
+          "allowed_guidelines": [
+            "Use official Nintendo Switch AC adapters or certified third-party chargers meeting 15V 2.6A (39W) USB-C specifications.",
+            "Expand storage with microSD, microSDHC, or microSDXC cards up to 2TB, preferably UHS-I speed class.",
+            "Utilize the included dock for TV output up to 1080p via HDMI.",
+            "Connect Joy-Cons and Pro Controllers via Bluetooth 4.1 or direct rail attachment."
+          ],
+          "strict_restrictions": [
+            "Do not use non-compliant chargers or power adapters that do not match 15V 2.6A (39W) USB-C output, as this may damage the console or dock.",
+            "Avoid inserting foreign objects into the console's ports or vents.",
+            "Do not attempt to modify the console's hardware or software, as this voids warranty and may lead to irreversible damage.",
+            "Ensure proper ventilation when using the console in handheld or docked mode to prevent overheating."
+          ],
+          "faqs": [
+            {
+              "q": "What is the main difference between the Nintendo Switch and Switch OLED?",
+              "a": "The Switch OLED features a larger, more vibrant 7.0-inch OLED screen, 64GB of internal storage (vs. 32GB), an improved kickstand, and a dock with a built-in wired LAN port. Both models share the same CPU/GPU and RAM."
+            },
+            {
+              "q": "Are accessories compatible between the original Switch and Switch OLED?",
+              "a": "Most accessories, including Joy-Cons, Pro Controllers, and microSD cards, are fully compatible. However, some cases or screen protectors designed specifically for the original Switch may not fit the slightly larger OLED model due to its screen size and dimensions."
+            },
+            {
+              "q": "Can I use any USB-C charger with my Nintendo Switch?",
+              "a": "While the Switch uses a standard USB-C port, it requires a specific power profile (15V 2.6A, 39W) for optimal charging and TV output. Using chargers that do not meet these specifications may result in slow charging, no charging, or potential damage to the console or dock. Always use official or certified third-party chargers."
+            }
+          ]
+        },
+        "de": {
+          "slug": "nintendo-switch-switch-oled-kompatibilitaetsmatrix",
+          "title": "Nintendo Switch & Switch OLED: Universelle Kompatibilitäts- und Messmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messmatrix für Nintendo Switch und Nintendo Switch OLED Modelle, die Hardwarespezifikationen, Abmessungen, Stromanforderungen und Speicheroptionen für globale Benutzer abdeckt.",
+          "amazon_search_query": "Nintendo Switch OLED Konsole, Nintendo Switch Zubehör, Switch Ladegerät, microSDXC Switch",
+          "buy_box_title": "Offizielle Nintendo Switch & OLED Hardware",
+          "buy_box_subtitle": "Sorgen Sie für nahtloses Gaming mit verifizierten Spezifikationen.",
+          "allowed_guidelines": [
+            "Verwenden Sie offizielle Nintendo Switch Netzteile oder zertifizierte Ladegeräte von Drittanbietern, die den USB-C-Spezifikationen von 15V 2.6A (39W) entsprechen.",
+            "Erweitern Sie den Speicher mit microSD-, microSDHC- oder microSDXC-Karten bis zu 2 TB, vorzugsweise der UHS-I Geschwindigkeitsklasse.",
+            "Nutzen Sie das mitgelieferte Dock für die TV-Ausgabe bis zu 1080p über HDMI.",
+            "Verbinden Sie Joy-Cons und Pro Controller über Bluetooth 4.1 oder direkte Schienenbefestigung."
+          ],
+          "strict_restrictions": [
+            "Verwenden Sie keine nicht konformen Ladegeräte oder Netzteile, die nicht der USB-C-Ausgangsleistung von 15V 2.6A (39W) entsprechen, da dies die Konsole oder das Dock beschädigen kann.",
+            "Vermeiden Sie das Einführen von Fremdkörpern in die Anschlüsse oder Lüftungsschlitze der Konsole.",
+            "Versuchen Sie nicht, die Hardware oder Software der Konsole zu modifizieren, da dies die Garantie erlischt und zu irreversiblen Schäden führen kann.",
+            "Sorgen Sie für ausreichende Belüftung, wenn Sie die Konsole im Handheld- oder Dock-Modus verwenden, um Überhitzung zu vermeiden."
+          ],
+          "faqs": [
+            {
+              "q": "Was ist der Hauptunterschied zwischen der Nintendo Switch und der Switch OLED?",
+              "a": "Die Switch OLED verfügt über einen größeren, lebendigeren 7,0-Zoll-OLED-Bildschirm, 64 GB internen Speicher (gegenüber 32 GB), einen verbesserten Ständer und ein Dock mit integriertem kabelgebundenen LAN-Anschluss. Beide Modelle teilen sich dieselbe CPU/GPU und denselben RAM."
+            },
+            {
+              "q": "Sind Zubehörteile zwischen der originalen Switch und der Switch OLED kompatibel?",
+              "a": "Die meisten Zubehörteile, einschließlich Joy-Cons, Pro Controller und microSD-Karten, sind vollständig kompatibel. Einige Hüllen oder Displayschutzfolien, die speziell für die originale Switch entwickelt wurden, passen jedoch möglicherweise nicht auf das etwas größere OLED-Modell aufgrund seiner Bildschirmgröße und Abmessungen."
+            },
+            {
+              "q": "Kann ich jedes USB-C-Ladegerät mit meiner Nintendo Switch verwenden?",
+              "a": "Obwohl die Switch einen Standard-USB-C-Anschluss verwendet, benötigt sie ein spezifisches Leistungsprofil (15V 2.6A, 39W) für optimales Laden und TV-Ausgabe. Die Verwendung von Ladegeräten, die diese Spezifikationen nicht erfüllen, kann zu langsamem Laden, keiner Ladung oder potenziellen Schäden an der Konsole oder dem Dock führen. Verwenden Sie immer offizielle oder zertifizierte Ladegeräte von Drittanbietern."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "nintendo-switch-switch-oled-matrice-compatibilite",
+          "title": "Nintendo Switch & Switch OLED : Matrice universelle de compatibilité et de mesures",
+          "summary": "Matrice complète de compatibilité et de mesures exactes pour les modèles Nintendo Switch et Nintendo Switch OLED, couvrant les spécifications matérielles, les dimensions, les exigences d'alimentation et les options de stockage pour les utilisateurs mondiaux.",
+          "amazon_search_query": "Console Nintendo Switch OLED, accessoires Nintendo Switch, chargeur Switch, microSDXC Switch",
+          "buy_box_title": "Matériel officiel Nintendo Switch & OLED",
+          "buy_box_subtitle": "Assurez une expérience de jeu fluide avec des spécifications vérifiées.",
+          "allowed_guidelines": [
+            "Utilisez des adaptateurs secteur Nintendo Switch officiels ou des chargeurs tiers certifiés respectant les spécifications USB-C de 15V 2.6A (39W).",
+            "Étendez le stockage avec des cartes microSD, microSDHC ou microSDXC jusqu'à 2 To, de préférence de classe de vitesse UHS-I.",
+            "Utilisez le dock inclus pour la sortie TV jusqu'à 1080p via HDMI.",
+            "Connectez les Joy-Cons et les manettes Pro via Bluetooth 4.1 ou par fixation directe sur les rails."
+          ],
+          "strict_restrictions": [
+            "N'utilisez pas de chargeurs ou d'adaptateurs secteur non conformes qui ne correspondent pas à la sortie USB-C de 15V 2.6A (39W), car cela pourrait endommager la console ou le dock.",
+            "Évitez d'insérer des objets étrangers dans les ports ou les fentes d'aération de la console.",
+            "N'essayez pas de modifier le matériel ou le logiciel de la console, car cela annulerait la garantie et pourrait entraîner des dommages irréversibles.",
+            "Assurez une ventilation adéquate lorsque vous utilisez la console en mode portable ou sur dock pour éviter la surchauffe."
+          ],
+          "faqs": [
+            {
+              "q": "Quelle est la principale différence entre la Nintendo Switch et la Switch OLED ?",
+              "a": "La Switch OLED dispose d'un écran OLED plus grand et plus éclatant de 7,0 pouces, de 64 Go de stockage interne (contre 32 Go), d'un support amélioré et d'un dock avec un port LAN filaire intégré. Les deux modèles partagent le même CPU/GPU et la même RAM."
+            },
+            {
+              "q": "Les accessoires sont-ils compatibles entre la Switch originale et la Switch OLED ?",
+              "a": "La plupart des accessoires, y compris les Joy-Cons, les manettes Pro et les cartes microSD, sont entièrement compatibles. Cependant, certaines coques ou protections d'écran conçues spécifiquement pour la Switch originale pourraient ne pas s'adapter au modèle OLED légèrement plus grand en raison de sa taille d'écran et de ses dimensions."
+            },
+            {
+              "q": "Puis-je utiliser n'importe quel chargeur USB-C avec ma Nintendo Switch ?",
+              "a": "Bien que la Switch utilise un port USB-C standard, elle nécessite un profil d'alimentation spécifique (15V 2.6A, 39W) pour une charge et une sortie TV optimales. L'utilisation de chargeurs qui ne respectent pas ces spécifications peut entraîner une charge lente, aucune charge, ou des dommages potentiels à la console ou au dock. Utilisez toujours des chargeurs officiels ou certifiés par des tiers."
+            }
+          ]
+        },
+        "es": {
+          "slug": "nintendo-switch-switch-oled-matriz-compatibilidad",
+          "title": "Nintendo Switch & Switch OLED: Matriz universal de compatibilidad y medidas",
+          "summary": "Matriz completa de compatibilidad y medidas exactas para los modelos Nintendo Switch y Nintendo Switch OLED, que cubre especificaciones de hardware, dimensiones, requisitos de energía y opciones de almacenamiento para usuarios globales.",
+          "amazon_search_query": "Consola Nintendo Switch OLED, accesorios Nintendo Switch, cargador Switch, microSDXC Switch",
+          "buy_box_title": "Hardware oficial de Nintendo Switch y OLED",
+          "buy_box_subtitle": "Asegure una experiencia de juego fluida con especificaciones verificadas.",
+          "allowed_guidelines": [
+            "Utilice adaptadores de CA oficiales de Nintendo Switch o cargadores de terceros certificados que cumplan con las especificaciones USB-C de 15V 2.6A (39W).",
+            "Amplíe el almacenamiento con tarjetas microSD, microSDHC o microSDXC de hasta 2 TB, preferiblemente de clase de velocidad UHS-I.",
+            "Utilice el dock incluido para la salida de TV de hasta 1080p a través de HDMI.",
+            "Conecte los Joy-Cons y los Pro Controllers a través de Bluetooth 4.1 o mediante conexión directa a los rieles."
+          ],
+          "strict_restrictions": [
+            "No utilice cargadores o adaptadores de corriente no conformes que no coincidan con la salida USB-C de 15V 2.6A (39W), ya que esto podría dañar la consola o el dock.",
+            "Evite insertar objetos extraños en los puertos o las rejillas de ventilación de la consola.",
+            "No intente modificar el hardware o software de la consola, ya que esto anula la garantía y puede provocar daños irreversibles.",
+            "Asegure una ventilación adecuada al usar la consola en modo portátil o acoplado para evitar el sobrecalentamiento."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuál es la principal diferencia entre la Nintendo Switch y la Switch OLED?",
+              "a": "La Switch OLED cuenta con una pantalla OLED más grande y vibrante de 7.0 pulgadas, 64 GB de almacenamiento interno (frente a 32 GB), un soporte mejorado y un dock con un puerto LAN con cable incorporado. Ambos modelos comparten la misma CPU/GPU y RAM."
+            },
+            {
+              "q": "¿Son compatibles los accesorios entre la Switch original y la Switch OLED?",
+              "a": "La mayoría de los accesorios, incluidos los Joy-Cons, los Pro Controllers y las tarjetas microSD, son totalmente compatibles. Sin embargo, algunas fundas o protectores de pantalla diseñados específicamente para la Switch original pueden no ajustarse al modelo OLED ligeramente más grande debido a su tamaño de pantalla y dimensiones."
+            },
+            {
+              "q": "¿Puedo usar cualquier cargador USB-C con mi Nintendo Switch?",
+              "a": "Aunque la Switch utiliza un puerto USB-C estándar, requiere un perfil de energía específico (15V 2.6A, 39W) para una carga y salida de TV óptimas. El uso de cargadores que no cumplan con estas especificaciones puede resultar en una carga lenta, ninguna carga o daños potenciales a la consola o al dock. Utilice siempre cargadores oficiales o certificados por terceros."
+            }
+          ]
+        },
+        "it": {
+          "slug": "nintendo-switch-switch-oled-matrice-compatibilita",
+          "title": "Nintendo Switch & Switch OLED: Matrice universale di compatibilità e misurazioni",
+          "summary": "Matrice completa di compatibilità e misurazioni esatte per i modelli Nintendo Switch e Nintendo Switch OLED, che copre le specifiche hardware, le dimensioni, i requisiti di alimentazione e le opzioni di archiviazione per gli utenti globali.",
+          "amazon_search_query": "Console Nintendo Switch OLED, accessori Nintendo Switch, caricabatterie Switch, microSDXC Switch",
+          "buy_box_title": "Hardware ufficiale Nintendo Switch & OLED",
+          "buy_box_subtitle": "Assicura un'esperienza di gioco fluida con specifiche verificate.",
+          "allowed_guidelines": [
+            "Utilizzare adattatori CA ufficiali Nintendo Switch o caricabatterie di terze parti certificati che soddisfino le specifiche USB-C di 15V 2.6A (39W).",
+            "Espandere l'archiviazione con schede microSD, microSDHC o microSDXC fino a 2 TB, preferibilmente di classe di velocità UHS-I.",
+            "Utilizzare il dock incluso per l'uscita TV fino a 1080p tramite HDMI.",
+            "Collegare Joy-Con e Pro Controller tramite Bluetooth 4.1 o tramite attacco diretto ai binari."
+          ],
+          "strict_restrictions": [
+            "Non utilizzare caricabatterie o adattatori di alimentazione non conformi che non corrispondano all'uscita USB-C di 15V 2.6A (39W), poiché ciò potrebbe danneggiare la console o il dock.",
+            "Evitare di inserire oggetti estranei nelle porte o nelle prese d'aria della console.",
+            "Non tentare di modificare l'hardware o il software della console, poiché ciò invalida la garanzia e può causare danni irreversibili.",
+            "Assicurare una ventilazione adeguata quando si utilizza la console in modalità portatile o dock per prevenire il surriscaldamento."
+          ],
+          "faqs": [
+            {
+              "q": "Qual è la principale differenza tra Nintendo Switch e Switch OLED?",
+              "a": "La Switch OLED presenta uno schermo OLED più grande e vibrante da 7,0 pollici, 64 GB di memoria interna (rispetto a 32 GB), un supporto migliorato e un dock con una porta LAN cablata integrata. Entrambi i modelli condividono la stessa CPU/GPU e RAM."
+            },
+            {
+              "q": "Gli accessori sono compatibili tra la Switch originale e la Switch OLED?",
+              "a": "La maggior parte degli accessori, inclusi Joy-Con, Pro Controller e schede microSD, sono completamente compatibili. Tuttavia, alcune custodie o protezioni per lo schermo progettate specificamente per la Switch originale potrebbero non adattarsi al modello OLED leggermente più grande a causa delle sue dimensioni dello schermo e delle sue dimensioni."
+            },
+            {
+              "q": "Posso usare qualsiasi caricabatterie USB-C con la mia Nintendo Switch?",
+              "a": "Sebbene la Switch utilizzi una porta USB-C standard, richiede un profilo di alimentazione specifico (15V 2.6A, 39W) per una ricarica e un'uscita TV ottimali. L'utilizzo di caricabatterie che non soddisfano queste specifiche può comportare una ricarica lenta, nessuna ricarica o potenziali danni alla console o al dock. Utilizzare sempre caricabatterie ufficiali o certificati di terze parti."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "nintendo-switch-switch-oled-gokan-matrix",
+          "title": "Nintendo Switch & Switch OLED: ユニバーサル互換性および測定マトリックス",
+          "summary": "Nintendo SwitchおよびNintendo Switch（有機ELモデル）の包括的な互換性および正確な測定マトリックス。ハードウェア仕様、寸法、電力要件、ストレージオプションをグローバルユーザー向けに網羅しています。",
+          "amazon_search_query": "Nintendo Switch 有機ELモデル 本体, Nintendo Switch アクセサリー, Switch 充電器, microSDXC Switch",
+          "buy_box_title": "公式Nintendo Switch & 有機ELモデル ハードウェア",
+          "buy_box_subtitle": "検証済みの仕様でシームレスなゲーム体験を保証します。",
+          "allowed_guidelines": [
+            "公式のNintendo Switch ACアダプター、または15V 2.6A (39W) USB-C仕様を満たす認定サードパーティ製充電器を使用してください。",
+            "ストレージはmicroSD、microSDHC、またはmicroSDXCカードで最大2TBまで拡張可能で、UHS-Iスピードクラスを推奨します。",
+            "付属のドックを使用して、HDMI経由で最大1080pのテレビ出力を利用してください。",
+            "Joy-ConおよびProコントローラーはBluetooth 4.1または直接レール接続で接続してください。"
+          ],
+          "strict_restrictions": [
+            "15V 2.6A (39W) USB-C出力に適合しない非準拠の充電器や電源アダプターを使用しないでください。本体またはドックが損傷する可能性があります。",
+            "本体のポートや通気口に異物を挿入しないでください。",
+            "本体のハードウェアまたはソフトウェアを改造しようとしないでください。保証が無効になり、取り返しのつかない損傷につながる可能性があります。",
+            "本体を携帯モードまたはドックモードで使用する際は、過熱を防ぐために適切な換気を確保してください。"
+          ],
+          "faqs": [
+            {
+              "q": "Nintendo SwitchとSwitch（有機ELモデル）の主な違いは何ですか？",
+              "a": "Switch（有機ELモデル）は、より大きく鮮やかな7.0インチOLEDスクリーン、64GBの内部ストレージ（32GBに対し）、改良されたキックスタンド、および有線LANポート内蔵のドックを特徴としています。両モデルは同じCPU/GPUとRAMを共有しています。"
+            },
+            {
+              "q": "オリジナルSwitchとSwitch（有機ELモデル）の間でアクセサリーは互換性がありますか？",
+              "a": "Joy-Con、Proコントローラー、microSDカードを含むほとんどのアクセサリーは完全に互換性があります。ただし、オリジナルSwitch専用に設計された一部のケースやスクリーンプロテクターは、画面サイズと寸法がわずかに大きいため、OLEDモデルには適合しない場合があります。"
+            },
+            {
+              "q": "Nintendo Switchで任意のUSB-C充電器を使用できますか？",
+              "a": "Switchは標準のUSB-Cポートを使用しますが、最適な充電とテレビ出力には特定の電源プロファイル（15V 2.6A、39W）が必要です。これらの仕様を満たさない充電器を使用すると、充電が遅くなったり、充電されなかったり、本体やドックに潜在的な損傷を与える可能性があります。常に公式または認定されたサードパーティ製充電器を使用してください。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "nintendo-switch-switch-oled-matriz-compatibilidade",
+          "title": "Nintendo Switch & Switch OLED: Matriz Universal de Compatibilidade e Medidas",
+          "summary": "Matriz abrangente de compatibilidade e medidas exatas para os modelos Nintendo Switch e Nintendo Switch OLED, cobrindo especificações de hardware, dimensões, requisitos de energia e opções de armazenamento para usuários globais.",
+          "amazon_search_query": "Console Nintendo Switch OLED, acessórios Nintendo Switch, carregador Switch, microSDXC Switch",
+          "buy_box_title": "Hardware Oficial Nintendo Switch & OLED",
+          "buy_box_subtitle": "Garanta jogos sem interrupções com especificações verificadas.",
+          "allowed_guidelines": [
+            "Use adaptadores CA oficiais do Nintendo Switch ou carregadores de terceiros certificados que atendam às especificações USB-C de 15V 2.6A (39W).",
+            "Expanda o armazenamento com cartões microSD, microSDHC ou microSDXC de até 2 TB, preferencialmente de classe de velocidade UHS-I.",
+            "Utilize o dock incluído para saída de TV de até 1080p via HDMI.",
+            "Conecte Joy-Cons e Pro Controllers via Bluetooth 4.1 ou encaixe direto nos trilhos."
+          ],
+          "strict_restrictions": [
+            "Não use carregadores ou adaptadores de energia não conformes que não correspondam à saída USB-C de 15V 2.6A (39W), pois isso pode danificar o console ou o dock.",
+            "Evite inserir objetos estranhos nas portas ou aberturas de ventilação do console.",
+            "Não tente modificar o hardware ou software do console, pois isso anula a garantia e pode levar a danos irreversíveis.",
+            "Garanta ventilação adequada ao usar o console no modo portátil ou encaixado para evitar superaquecimento."
+          ],
+          "faqs": [
+            {
+              "q": "Qual é a principal diferença entre o Nintendo Switch e o Switch OLED?",
+              "a": "O Switch OLED apresenta uma tela OLED maior e mais vibrante de 7,0 polegadas, 64 GB de armazenamento interno (vs. 32 GB), um suporte aprimorado e um dock com uma porta LAN com fio integrada. Ambos os modelos compartilham a mesma CPU/GPU e RAM."
+            },
+            {
+              "q": "Os acessórios são compatíveis entre o Switch original e o Switch OLED?",
+              "a": "A maioria dos acessórios, incluindo Joy-Cons, Pro Controllers e cartões microSD, são totalmente compatíveis. No entanto, algumas capas ou protetores de tela projetados especificamente para o Switch original podem não se ajustar ao modelo OLED ligeiramente maior devido ao seu tamanho de tela e dimensões."
+            },
+            {
+              "q": "Posso usar qualquer carregador USB-C com meu Nintendo Switch?",
+              "a": "Embora o Switch use uma porta USB-C padrão, ele requer um perfil de energia específico (15V 2.6A, 39W) para carregamento e saída de TV ideais. O uso de carregadores que não atendam a essas especificações pode resultar em carregamento lento, ausência de carregamento ou danos potenciais ao console ou ao dock. Sempre use carregadores oficiais ou certificados por terceiros."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "nintendo-switch-switch-oled-compatibiliteitsmatrix",
+          "title": "Nintendo Switch & Switch OLED: Universele Compatibiliteits- en Meetmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetmatrix voor Nintendo Switch en Nintendo Switch OLED-modellen, met hardware specificaties, afmetingen, stroomvereisten en opslagopties voor wereldwijde gebruikers.",
+          "amazon_search_query": "Nintendo Switch OLED console, Nintendo Switch accessoires, Switch oplader, microSDXC Switch",
+          "buy_box_title": "Officiële Nintendo Switch & OLED Hardware",
+          "buy_box_subtitle": "Zorg voor naadloos gamen met geverifieerde specificaties.",
+          "allowed_guidelines": [
+            "Gebruik officiële Nintendo Switch AC-adapters of gecertificeerde opladers van derden die voldoen aan de 15V 2.6A (39W) USB-C specificaties.",
+            "Breid de opslag uit met microSD-, microSDHC- of microSDXC-kaarten tot 2 TB, bij voorkeur UHS-I snelheidsklasse.",
+            "Gebruik het meegeleverde dock voor tv-uitvoer tot 1080p via HDMI.",
+            "Verbind Joy-Cons en Pro Controllers via Bluetooth 4.1 of directe railbevestiging."
+          ],
+          "strict_restrictions": [
+            "Gebruik geen niet-conforme opladers of stroomadapters die niet overeenkomen met de 15V 2.6A (39W) USB-C-uitgang, aangezien dit de console of het dock kan beschadigen.",
+            "Vermijd het inbrengen van vreemde voorwerpen in de poorten of ventilatieopeningen van de console.",
+            "Probeer de hardware of software van de console niet te wijzigen, aangezien dit de garantie ongeldig maakt en kan leiden tot onherstelbare schade.",
+            "Zorg voor voldoende ventilatie bij gebruik van de console in handheld- of dockmodus om oververhitting te voorkomen."
+          ],
+          "faqs": [
+            {
+              "q": "Wat is het belangrijkste verschil tussen de Nintendo Switch en Switch OLED?",
+              "a": "De Switch OLED beschikt over een groter, levendiger 7,0-inch OLED-scherm, 64 GB interne opslag (vs. 32 GB), een verbeterde standaard en een dock met een ingebouwde bedrade LAN-poort. Beide modellen delen dezelfde CPU/GPU en RAM."
+            },
+            {
+              "q": "Zijn accessoires compatibel tussen de originele Switch en Switch OLED?",
+              "a": "De meeste accessoires, waaronder Joy-Cons, Pro Controllers en microSD-kaarten, zijn volledig compatibel. Sommige hoesjes of schermbeschermers die specifiek zijn ontworpen voor de originele Switch passen echter mogelijk niet op het iets grotere OLED-model vanwege de schermgrootte en afmetingen."
+            },
+            {
+              "q": "Kan ik elke USB-C oplader gebruiken met mijn Nintendo Switch?",
+              "a": "Hoewel de Switch een standaard USB-C poort gebruikt, vereist deze een specifiek stroomprofiel (15V 2.6A, 39W) voor optimaal opladen en tv-uitvoer. Het gebruik van opladers die niet aan deze specificaties voldoen, kan leiden tot langzaam opladen, geen opladen of potentiële schade aan de console of het dock. Gebruik altijd officiële of gecertificeerde opladers van derden."
             }
           ]
         }

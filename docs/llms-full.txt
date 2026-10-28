@@ -462,3 +462,27 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=DJI+Mini+4+Pro+Air+3+accessories&tag=autocompat-21
 
 ---
+
+## Nintendo Switch & Switch OLED (HARDWARE)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/nintendo-switch-switch-oled-compatibility-matrix.html
+- Summary: Comprehensive compatibility and exact measurement matrix for Nintendo Switch and Nintendo Switch OLED models, covering hardware specifications, dimensions, power requirements, and storage options for global users.
+
+### Exact Specifications (Dual Units):
+* **Console Dimensions (with Joy-Cons attached)**: Metric: `Nintendo Switch: 23.9 cm x 10.2 cm x 1.39 cm; Nintendo Switch OLED: 24.2 cm x 10.2 cm x 1.39 cm` | Imperial: `Nintendo Switch: 9.4 in x 4.02 in x 0.55 in; Nintendo Switch OLED: 9.53 in x 4.02 in x 0.55 in` (Dimensions are approximate and exclude the protruding analog sticks. The OLED model is slightly wider due to its larger screen.)
+* **Console Weight (with Joy-Cons attached)**: Metric: `Nintendo Switch: 398 g; Nintendo Switch OLED: 420 g` | Imperial: `Nintendo Switch: 0.88 lbs; Nintendo Switch OLED: 0.93 lbs` (Weight includes attached Joy-Cons. Console only: Switch 297g (0.65 lbs), OLED 320g (0.71 lbs).)
+* **Screen Type & Size**: Metric: `Nintendo Switch: 15.75 cm LCD; Nintendo Switch OLED: 17.78 cm OLED` | Imperial: `Nintendo Switch: 6.2 in LCD; Nintendo Switch OLED: 7.0 in OLED` (The OLED model features a larger, more vibrant OLED display with thinner bezels.)
+* **Internal Storage Capacity**: Metric: `Nintendo Switch: 32 GB; Nintendo Switch OLED: 64 GB` | Imperial: `Nintendo Switch: 32 GB; Nintendo Switch OLED: 64 GB` (A portion of the internal storage is reserved for system software.)
+* **Expandable Storage**: Metric: `microSDXC UHS-I up to 2 TB` | Imperial: `microSDXC UHS-I up to 2 TB` (Compatible with microSD, microSDHC, and microSDXC memory cards. UHS-I speed class is recommended for optimal performance.)
+* **Battery Capacity**: Metric: `4310 mAh (16 Wh)` | Imperial: `4310 mAh (16 Wh)` (Both models share the same internal battery capacity. Battery life varies depending on game and usage conditions.)
+* **Power Adapter Output**: Metric: `15 V 2.6 A (39 W) USB-C` | Imperial: `15 V 2.6 A (39 W) USB-C` (Standard output for the official Nintendo Switch AC adapter. Third-party chargers must meet these specifications for safe and efficient charging.)
+* **Dock Video Output**: Metric: `HDMI (up to 1080p)` | Imperial: `HDMI (up to 1080p)` (Both docks support video output to a TV via HDMI. Handheld mode resolution is 720p.)
+* **Dock Wired LAN Port**: Metric: `N/A` | Imperial: `N/A` (Only the Nintendo Switch OLED Model dock includes a built-in wired LAN port for stable internet connection. The original Switch dock requires a USB-to-LAN adapter.)
+* **USB-C Port Functionality**: Metric: `N/A` | Imperial: `N/A` (Used for charging, TV output via dock, and connecting accessories.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=Nintendo+Switch+OLED+console%2C+Nintendo+Switch+accessories%2C+Switch+charger%2C+microSDXC+Switch&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=Nintendo+Switch+OLED+console%2C+Nintendo+Switch+accessories%2C+Switch+charger%2C+microSDXC+Switch&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=Nintendo+Switch+OLED+console%2C+Nintendo+Switch+accessories%2C+Switch+charger%2C+microSDXC+Switch&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=Nintendo+Switch+OLED+console%2C+Nintendo+Switch+accessories%2C+Switch+charger%2C+microSDXC+Switch&tag=autocompat-21
+
+---
