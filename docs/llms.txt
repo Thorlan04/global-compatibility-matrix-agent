@@ -43,3 +43,4 @@
 - [GoPro Hero 12 & 13 Black](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/gopro-hero-12-13-black-compatibility-matrix.html): Hardware | 71.8 mm (W) x 50.8 mm (H) x 33.6 mm (D) / 2.83 in (W) x 2.00 in (H) x 1.32 in (D)
 - [DJI Mini 4 Pro & Air 3](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/dji-mini-4-pro-air-3-compatibility-matrix.html): Hardware | <249 g / <0.55 lbs
 - [Nintendo Switch & Switch OLED](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/nintendo-switch-switch-oled-compatibility-matrix.html): Hardware | Nintendo Switch: 23.9 cm x 10.2 cm x 1.39 cm; Nintendo Switch OLED: 24.2 cm x 10.2 cm x 1.39 cm / Nintendo Switch: 9.4 in x 4.02 in x 0.55 in; Nintendo Switch OLED: 9.53 in x 4.02 in x 0.55 in
+- [Valve Steam Deck OLED](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/valve-steam-deck-oled.html): Hardware | 29.8 cm x 11.7 cm x 4.9 cm / 11.73 in x 4.61 in x 1.93 in

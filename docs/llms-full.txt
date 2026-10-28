@@ -486,3 +486,28 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=Nintendo+Switch+OLED+console%2C+Nintendo+Switch+accessories%2C+Switch+charger%2C+microSDXC+Switch&tag=autocompat-21
 
 ---
+
+## Valve Steam Deck OLED (HARDWARE)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/valve-steam-deck-oled.html
+- Summary: Comprehensive compatibility and exact measurement matrix for the Valve Steam Deck OLED handheld gaming PC, covering physical dimensions, storage, power, and connectivity.
+
+### Exact Specifications (Dual Units):
+* **Device Dimensions**: Metric: `29.8 cm x 11.7 cm x 4.9 cm` | Imperial: `11.73 in x 4.61 in x 1.93 in` (Width x Height x Depth.)
+* **Device Weight**: Metric: `0.64 kg` | Imperial: `1.41 lbs` (Approximate weight of the handheld console.)
+* **Internal Storage (M.2 SSD)**: Metric: `M.2 2230 NVMe (22 mm x 30 mm)` | Imperial: `M.2 2230 NVMe (0.87 in x 1.18 in)` (PCIe Gen 3 x4 interface. User-replaceable, but requires opening the device.)
+* **Power Input (USB-C PD)**: Metric: `45 Watts (15 Volts, 3 Amperes)` | Imperial: `45 Watts (15 Volts, 3 Amperes)` (USB Power Delivery (PD) standard.)
+* **MicroSD Card Slot**: Metric: `A2 (UHS-I compatible)` | Imperial: `A2 (UHS-I compatible)` (Supports UHS-I speeds. A2 class recommended for optimal application performance.)
+* **Display Size (Diagonal)**: Metric: `18.8 cm` | Imperial: `7.4 inches` (OLED HDR display.)
+* **Battery Capacity**: Metric: `50 Wh` | Imperial: `50 Wh` (Lithium-ion battery.)
+* **Wireless Connectivity**: Metric: `Wi-Fi 6E, Bluetooth 5.3` | Imperial: `Wi-Fi 6E, Bluetooth 5.3` (Tri-band Wi-Fi (2.4/5/6 GHz) and Bluetooth Low Energy.)
+* **Operating System**: Metric: `SteamOS 3.0 (Linux-based)` | Imperial: `SteamOS 3.0 (Linux-based)` (Optimized for gaming.)
+* **USB-C Port**: Metric: `USB 3.2 Gen 2 (DisplayPort 1.4 Alt-Mode)` | Imperial: `USB 3.2 Gen 2 (DisplayPort 1.4 Alt-Mode)` (Single port for charging, data, and video output.)
+* **Audio Jack**: Metric: `3.5 mm Stereo` | Imperial: `0.14 inches Stereo` (Headphone/headset compatible.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=Steam+Deck+OLED+accessories&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=Steam+Deck+OLED+accessories&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=Steam+Deck+OLED+accessories&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=Steam+Deck+OLED+accessories&tag=autocompat-21
+
+---

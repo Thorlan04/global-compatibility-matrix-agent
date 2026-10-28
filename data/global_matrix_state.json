@@ -1,52 +1,54 @@
 {
-  "last_updated": "2026-10-28T12:01:53.321037+00:00",
+  "last_updated": "2026-10-28T22:09:01.673660+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "ana-jal",
-    "united",
-    "latam",
-    "united-airlines-baggage-lithium-battery-rules",
-    "qatar-airways-baggage-power-bank-guide",
-    "easyjet",
-    "delta-air-lines-compatibility-matrix",
-    "qantas",
-    "southwest",
-    "lg-oled-c3-c4-vesa-mount-power",
-    "transavia",
-    "emirates",
-    "emirates-baggage-allowance",
-    "ana-japan-airlines-carry-on-luggage-compatibility",
-    "southwest-airlines-baggage-policy",
-    "samsung-neo-qled-oled-tv-compatibility-matrix",
-    "gopro-hero-12-13-black-compatibility-matrix",
-    "ryanair-cabin-baggage-dimensions",
-    "american-airlines-compatibility-matrix",
-    "air-france-baggage-allowance",
-    "wizz-air",
-    "vueling",
-    "latam-airlines-baggage-allowance",
     "nintendo-switch",
-    "sony-bravia",
-    "transavia-baggage-allowance",
-    "american",
-    "british-airways",
-    "nintendo-switch-switch-oled-compatibility-matrix",
-    "tesla-model-y-wipers-roof-trunk-dimensions",
-    "vueling-baggage-allowance",
-    "easyjet-baggage-powerbank-guide",
-    "samsung-qled",
-    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
+    "united-airlines-baggage-lithium-battery-rules",
     "dji-mini-4-pro-air-3-compatibility-matrix",
-    "dji-mini-air",
-    "delta",
-    "lufthansa",
-    "qatar-airways",
-    "qantas-carry-on-baggage-allowance",
-    "lufthansa-airlines-baggage-guide",
-    "air-canada",
     "gopro-12-13",
-    "air-france"
+    "emirates",
+    "delta",
+    "vueling-baggage-allowance",
+    "nintendo-switch-switch-oled-compatibility-matrix",
+    "lg-oled-c3-c4-vesa-mount-power",
+    "air-canada",
+    "lufthansa-airlines-baggage-guide",
+    "gopro-hero-12-13-black-compatibility-matrix",
+    "easyjet",
+    "air-france-baggage-allowance",
+    "steam-deck-oled",
+    "dji-mini-air",
+    "delta-air-lines-compatibility-matrix",
+    "latam",
+    "sony-bravia",
+    "emirates-baggage-allowance",
+    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
+    "easyjet-baggage-powerbank-guide",
+    "transavia",
+    "samsung-neo-qled-oled-tv-compatibility-matrix",
+    "qantas-carry-on-baggage-allowance",
+    "samsung-qled",
+    "united",
+    "qatar-airways-baggage-power-bank-guide",
+    "british-airways",
+    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "transavia-baggage-allowance",
+    "lufthansa",
+    "southwest",
+    "ana-jal",
+    "qatar-airways",
+    "american-airlines-compatibility-matrix",
+    "southwest-airlines-baggage-policy",
+    "ana-japan-airlines-carry-on-luggage-compatibility",
+    "wizz-air",
+    "air-france",
+    "vueling",
+    "valve-steam-deck-oled",
+    "american",
+    "ryanair-cabin-baggage-dimensions",
+    "qantas",
+    "latam-airlines-baggage-allowance"
   ],
   "topics_backlog": [
     {
@@ -10671,6 +10673,585 @@
             {
               "q": "Kan ik elke USB-C oplader gebruiken met mijn Nintendo Switch?",
               "a": "Hoewel de Switch een standaard USB-C poort gebruikt, vereist deze een specifiek stroomprofiel (15V 2.6A, 39W) voor optimaal opladen en tv-uitvoer. Het gebruik van opladers die niet aan deze specificaties voldoen, kan leiden tot langzaam opladen, geen opladen of potentiële schade aan de console of het dock. Gebruik altijd officiële of gecertificeerde opladers van derden."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "steam-deck-oled",
+      "slug": "valve-steam-deck-oled",
+      "subject": "Valve Steam Deck OLED",
+      "category": "hardware",
+      "spec_rows": [
+        {
+          "item": "Device Dimensions",
+          "metric": "29.8 cm x 11.7 cm x 4.9 cm",
+          "imperial": "11.73 in x 4.61 in x 1.93 in",
+          "status": "Verified",
+          "note": "Width x Height x Depth.",
+          "item_translations": {
+            "en": "Device Dimensions",
+            "de": "Geräteabmessungen",
+            "fr": "Dimensions de l'appareil",
+            "es": "Dimensiones del dispositivo",
+            "it": "Dimensioni del dispositivo",
+            "ja": "デバイスの寸法",
+            "pt": "Dimensões do Dispositivo",
+            "nl": "Afmetingen apparaat"
+          },
+          "note_translations": {
+            "en": "Width x Height x Depth.",
+            "de": "Breite x Höhe x Tiefe.",
+            "fr": "Largeur x Hauteur x Profondeur.",
+            "es": "Ancho x Alto x Profundidad.",
+            "it": "Larghezza x Altezza x Profondità.",
+            "ja": "幅 x 高さ x 奥行き。",
+            "pt": "Largura x Altura x Profundidade.",
+            "nl": "Breedte x Hoogte x Diepte."
+          }
+        },
+        {
+          "item": "Device Weight",
+          "metric": "0.64 kg",
+          "imperial": "1.41 lbs",
+          "status": "Verified",
+          "note": "Approximate weight of the handheld console.",
+          "item_translations": {
+            "en": "Device Weight",
+            "de": "Gerätegewicht",
+            "fr": "Poids de l'appareil",
+            "es": "Peso del dispositivo",
+            "it": "Peso del dispositivo",
+            "ja": "デバイスの重量",
+            "pt": "Peso do Dispositivo",
+            "nl": "Gewicht apparaat"
+          },
+          "note_translations": {
+            "en": "Approximate weight of the handheld console.",
+            "de": "Ungefähres Gewicht der Handheld-Konsole.",
+            "fr": "Poids approximatif de la console portable.",
+            "es": "Peso aproximado de la consola portátil.",
+            "it": "Peso approssimativo della console portatile.",
+            "ja": "ハンドヘルドコンソールの概算重量。",
+            "pt": "Peso aproximado da consola portátil.",
+            "nl": "Geschat gewicht van de handheld console."
+          }
+        },
+        {
+          "item": "Internal Storage (M.2 SSD)",
+          "metric": "M.2 2230 NVMe (22 mm x 30 mm)",
+          "imperial": "M.2 2230 NVMe (0.87 in x 1.18 in)",
+          "status": "Compliant",
+          "note": "PCIe Gen 3 x4 interface. User-replaceable, but requires opening the device.",
+          "item_translations": {
+            "en": "Internal Storage (M.2 SSD)",
+            "de": "Interner Speicher (M.2 SSD)",
+            "fr": "Stockage interne (SSD M.2)",
+            "es": "Almacenamiento interno (SSD M.2)",
+            "it": "Archiviazione interna (SSD M.2)",
+            "ja": "内部ストレージ (M.2 SSD)",
+            "pt": "Armazenamento Interno (SSD M.2)",
+            "nl": "Interne opslag (M.2 SSD)"
+          },
+          "note_translations": {
+            "en": "PCIe Gen 3 x4 interface. User-replaceable, but requires opening the device.",
+            "de": "PCIe Gen 3 x4 Schnittstelle. Vom Benutzer austauschbar, erfordert jedoch das Öffnen des Geräts.",
+            "fr": "Interface PCIe Gen 3 x4. Remplaçable par l'utilisateur, mais nécessite l'ouverture de l'appareil.",
+            "es": "Interfaz PCIe Gen 3 x4. Reemplazable por el usuario, pero requiere abrir el dispositivo.",
+            "it": "Interfaccia PCIe Gen 3 x4. Sostituibile dall'utente, ma richiede l'apertura del dispositivo.",
+            "ja": "PCIe Gen 3 x4インターフェース。ユーザーによる交換は可能ですが、デバイスを開ける必要があります。",
+            "pt": "Interface PCIe Gen 3 x4. Substituível pelo utilizador, mas requer a abertura do dispositivo.",
+            "nl": "PCIe Gen 3 x4 interface. Door gebruiker te vervangen, maar vereist het openen van het apparaat."
+          }
+        },
+        {
+          "item": "Power Input (USB-C PD)",
+          "metric": "45 Watts (15 Volts, 3 Amperes)",
+          "imperial": "45 Watts (15 Volts, 3 Amperes)",
+          "status": "Compliant",
+          "note": "USB Power Delivery (PD) standard.",
+          "item_translations": {
+            "en": "Power Input (USB-C PD)",
+            "de": "Stromeingang (USB-C PD)",
+            "fr": "Entrée d'alimentation (USB-C PD)",
+            "es": "Entrada de alimentación (USB-C PD)",
+            "it": "Ingresso alimentazione (USB-C PD)",
+            "ja": "電源入力 (USB-C PD)",
+            "pt": "Entrada de Energia (USB-C PD)",
+            "nl": "Stroomingang (USB-C PD)"
+          },
+          "note_translations": {
+            "en": "USB Power Delivery (PD) standard.",
+            "de": "USB Power Delivery (PD) Standard.",
+            "fr": "Norme USB Power Delivery (PD).",
+            "es": "Estándar USB Power Delivery (PD).",
+            "it": "Standard USB Power Delivery (PD).",
+            "ja": "USB Power Delivery (PD) 規格。",
+            "pt": "Padrão USB Power Delivery (PD).",
+            "nl": "USB Power Delivery (PD) standaard."
+          }
+        },
+        {
+          "item": "MicroSD Card Slot",
+          "metric": "A2 (UHS-I compatible)",
+          "imperial": "A2 (UHS-I compatible)",
+          "status": "Compliant",
+          "note": "Supports UHS-I speeds. A2 class recommended for optimal application performance.",
+          "item_translations": {
+            "en": "MicroSD Card Slot",
+            "de": "MicroSD-Kartensteckplatz",
+            "fr": "Emplacement pour carte MicroSD",
+            "es": "Ranura para tarjeta MicroSD",
+            "it": "Slot per scheda MicroSD",
+            "ja": "MicroSDカードスロット",
+            "pt": "Slot para Cartão MicroSD",
+            "nl": "MicroSD-kaartslot"
+          },
+          "note_translations": {
+            "en": "Supports UHS-I speeds. A2 class recommended for optimal application performance.",
+            "de": "Unterstützt UHS-I Geschwindigkeiten. A2-Klasse für optimale Anwendungsleistung empfohlen.",
+            "fr": "Prend en charge les vitesses UHS-I. La classe A2 est recommandée pour des performances d'application optimales.",
+            "es": "Soporta velocidades UHS-I. Se recomienda la clase A2 para un rendimiento óptimo de las aplicaciones.",
+            "it": "Supporta velocità UHS-I. La classe A2 è consigliata per prestazioni ottimali delle applicazioni.",
+            "ja": "UHS-I速度をサポート。最適なアプリケーションパフォーマンスのためにA2クラスを推奨。",
+            "pt": "Suporta velocidades UHS-I. A classe A2 é recomendada para um desempenho ótimo das aplicações.",
+            "nl": "Ondersteunt UHS-I snelheden. A2-klasse aanbevolen voor optimale applicatieprestaties."
+          }
+        },
+        {
+          "item": "Display Size (Diagonal)",
+          "metric": "18.8 cm",
+          "imperial": "7.4 inches",
+          "status": "Verified",
+          "note": "OLED HDR display.",
+          "item_translations": {
+            "en": "Display Size (Diagonal)",
+            "de": "Displaygröße (Diagonal)",
+            "fr": "Taille de l'écran (Diagonale)",
+            "es": "Tamaño de la pantalla (Diagonal)",
+            "it": "Dimensioni del display (Diagonale)",
+            "ja": "ディスプレイサイズ (対角)",
+            "pt": "Tamanho do Ecrã (Diagonal)",
+            "nl": "Schermgrootte (Diagonaal)"
+          },
+          "note_translations": {
+            "en": "OLED HDR display.",
+            "de": "OLED HDR Display.",
+            "fr": "Écran OLED HDR.",
+            "es": "Pantalla OLED HDR.",
+            "it": "Display OLED HDR.",
+            "ja": "OLED HDRディスプレイ。",
+            "pt": "Ecrã OLED HDR.",
+            "nl": "OLED HDR-scherm."
+          }
+        },
+        {
+          "item": "Battery Capacity",
+          "metric": "50 Wh",
+          "imperial": "50 Wh",
+          "status": "Verified",
+          "note": "Lithium-ion battery.",
+          "item_translations": {
+            "en": "Battery Capacity",
+            "de": "Akkukapazität",
+            "fr": "Capacité de la batterie",
+            "es": "Capacidad de la batería",
+            "it": "Capacità della batteria",
+            "ja": "バッテリー容量",
+            "pt": "Capacidade da Bateria",
+            "nl": "Batterijcapaciteit"
+          },
+          "note_translations": {
+            "en": "Lithium-ion battery.",
+            "de": "Lithium-Ionen-Akku.",
+            "fr": "Batterie lithium-ion.",
+            "es": "Batería de iones de litio.",
+            "it": "Batteria agli ioni di litio.",
+            "ja": "リチウムイオンバッテリー。",
+            "pt": "Bateria de íons de lítio.",
+            "nl": "Lithium-ion batterij."
+          }
+        },
+        {
+          "item": "Wireless Connectivity",
+          "metric": "Wi-Fi 6E, Bluetooth 5.3",
+          "imperial": "Wi-Fi 6E, Bluetooth 5.3",
+          "status": "Compliant",
+          "note": "Tri-band Wi-Fi (2.4/5/6 GHz) and Bluetooth Low Energy.",
+          "item_translations": {
+            "en": "Wireless Connectivity",
+            "de": "Drahtlose Konnektivität",
+            "fr": "Connectivité sans fil",
+            "es": "Conectividad inalámbrica",
+            "it": "Connettività wireless",
+            "ja": "ワイヤレス接続",
+            "pt": "Conectividade Sem Fio",
+            "nl": "Draadloze connectiviteit"
+          },
+          "note_translations": {
+            "en": "Tri-band Wi-Fi (2.4/5/6 GHz) and Bluetooth Low Energy.",
+            "de": "Tri-Band Wi-Fi (2.4/5/6 GHz) und Bluetooth Low Energy.",
+            "fr": "Wi-Fi tri-bande (2.4/5/6 GHz) et Bluetooth Low Energy.",
+            "es": "Wi-Fi de triple banda (2.4/5/6 GHz) y Bluetooth de baja energía.",
+            "it": "Wi-Fi tri-band (2.4/5/6 GHz) e Bluetooth Low Energy.",
+            "ja": "トライバンドWi-Fi (2.4/5/6 GHz) およびBluetooth Low Energy。",
+            "pt": "Wi-Fi tri-band (2.4/5/6 GHz) e Bluetooth Low Energy.",
+            "nl": "Tri-band Wi-Fi (2.4/5/6 GHz) en Bluetooth Low Energy."
+          }
+        },
+        {
+          "item": "Operating System",
+          "metric": "SteamOS 3.0 (Linux-based)",
+          "imperial": "SteamOS 3.0 (Linux-based)",
+          "status": "Verified",
+          "note": "Optimized for gaming.",
+          "item_translations": {
+            "en": "Operating System",
+            "de": "Betriebssystem",
+            "fr": "Système d'exploitation",
+            "es": "Sistema operativo",
+            "it": "Sistema operativo",
+            "ja": "オペレーティングシステム",
+            "pt": "Sistema Operativo",
+            "nl": "Besturingssysteem"
+          },
+          "note_translations": {
+            "en": "Optimized for gaming.",
+            "de": "Für Spiele optimiert.",
+            "fr": "Optimisé pour le jeu.",
+            "es": "Optimizado para juegos.",
+            "it": "Ottimizzato per il gaming.",
+            "ja": "ゲーム用に最適化されています。",
+            "pt": "Otimizado para jogos.",
+            "nl": "Geoptimaliseerd voor gaming."
+          }
+        },
+        {
+          "item": "USB-C Port",
+          "metric": "USB 3.2 Gen 2 (DisplayPort 1.4 Alt-Mode)",
+          "imperial": "USB 3.2 Gen 2 (DisplayPort 1.4 Alt-Mode)",
+          "status": "Compliant",
+          "note": "Single port for charging, data, and video output.",
+          "item_translations": {
+            "en": "USB-C Port",
+            "de": "USB-C Anschluss",
+            "fr": "Port USB-C",
+            "es": "Puerto USB-C",
+            "it": "Porta USB-C",
+            "ja": "USB-Cポート",
+            "pt": "Porta USB-C",
+            "nl": "USB-C poort"
+          },
+          "note_translations": {
+            "en": "Single port for charging, data, and video output.",
+            "de": "Einzelner Anschluss für Laden, Daten und Videoausgabe.",
+            "fr": "Port unique pour la charge, les données et la sortie vidéo.",
+            "es": "Puerto único para carga, datos y salida de video.",
+            "it": "Porta singola per ricarica, dati e uscita video.",
+            "ja": "充電、データ、ビデオ出力用の単一ポート。",
+            "pt": "Porta única para carregamento, dados e saída de vídeo.",
+            "nl": "Enkele poort voor opladen, data en video-uitvoer."
+          }
+        },
+        {
+          "item": "Audio Jack",
+          "metric": "3.5 mm Stereo",
+          "imperial": "0.14 inches Stereo",
+          "status": "Compliant",
+          "note": "Headphone/headset compatible.",
+          "item_translations": {
+            "en": "Audio Jack",
+            "de": "Audioanschluss",
+            "fr": "Prise audio",
+            "es": "Conector de audio",
+            "it": "Jack audio",
+            "ja": "オーディオジャック",
+            "pt": "Tomada de Áudio",
+            "nl": "Audio-aansluiting"
+          },
+          "note_translations": {
+            "en": "Headphone/headset compatible.",
+            "de": "Kopfhörer/Headset-kompatibel.",
+            "fr": "Compatible casque/micro-casque.",
+            "es": "Compatible con auriculares/cascos.",
+            "it": "Compatibile con cuffie/auricolari.",
+            "ja": "ヘッドホン/ヘッドセット対応。",
+            "pt": "Compatível com auscultadores/headsets.",
+            "nl": "Compatibel met hoofdtelefoon/headset."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "valve-steam-deck-oled",
+          "title": "Valve Steam Deck OLED Compatibility Matrix",
+          "summary": "Comprehensive compatibility and exact measurement matrix for the Valve Steam Deck OLED handheld gaming PC, covering physical dimensions, storage, power, and connectivity.",
+          "amazon_search_query": "Steam Deck OLED accessories",
+          "buy_box_title": "Official Steam Deck OLED Accessories",
+          "buy_box_subtitle": "Enhance your gaming experience with verified compatible gear.",
+          "allowed_guidelines": [
+            "Use M.2 2230 NVMe SSDs for internal storage upgrades.",
+            "Utilize USB-C Power Delivery chargers rated 45W (15V 3A) or higher.",
+            "Employ A2-rated microSD cards for optimal game loading and application performance.",
+            "Ensure accessories are compatible with USB 3.2 Gen 2 and DisplayPort 1.4 Alt-Mode via USB-C."
+          ],
+          "strict_restrictions": [
+            "Do not use M.2 SSDs larger than 2230 form factor internally.",
+            "Avoid non-USB PD chargers or those with insufficient power (below 45W 15V 3A) for optimal charging.",
+            "Do not attempt to replace the display or battery without professional expertise, as it may void warranty.",
+            "Avoid exposing the device to extreme temperatures or liquids."
+          ],
+          "faqs": [
+            {
+              "q": "What type of internal SSD does the Steam Deck OLED use?",
+              "a": "The Steam Deck OLED uses an M.2 2230 NVMe SSD. While user-replaceable, it requires opening the device and is recommended for experienced users."
+            },
+            {
+              "q": "Can I use any USB-C charger with my Steam Deck OLED?",
+              "a": "For optimal charging and performance, it's recommended to use a USB-C Power Delivery (PD) charger that provides at least 45W (15V 3A). Lower wattage chargers may charge slower or not at all during gameplay."
+            },
+            {
+              "q": "What kind of microSD card should I get for my Steam Deck OLED?",
+              "a": "For the best experience, a microSD card with an A2 (Application Performance Class 2) rating is recommended. This ensures faster loading times for games and applications."
+            }
+          ]
+        },
+        "de": {
+          "slug": "valve-steam-deck-oled",
+          "title": "Valve Steam Deck OLED Kompatibilitätsmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messmatrix für den Valve Steam Deck OLED Handheld-Gaming-PC, einschließlich physischer Abmessungen, Speicher, Stromversorgung und Konnektivität.",
+          "amazon_search_query": "Steam Deck OLED Zubehör",
+          "buy_box_title": "Offizielles Steam Deck OLED Zubehör",
+          "buy_box_subtitle": "Verbessern Sie Ihr Spielerlebnis mit verifiziertem kompatiblem Zubehör.",
+          "allowed_guidelines": [
+            "Verwenden Sie M.2 2230 NVMe SSDs für interne Speicher-Upgrades.",
+            "Verwenden Sie USB-C Power Delivery Ladegeräte mit 45W (15V 3A) oder höher.",
+            "Verwenden Sie A2-klassifizierte microSD-Karten für optimale Ladezeiten von Spielen und Anwendungen.",
+            "Stellen Sie sicher, dass Zubehör über USB-C mit USB 3.2 Gen 2 und DisplayPort 1.4 Alt-Mode kompatibel ist."
+          ],
+          "strict_restrictions": [
+            "Verwenden Sie intern keine M.2 SSDs, die größer als der Formfaktor 2230 sind.",
+            "Vermeiden Sie Nicht-USB-PD-Ladegeräte oder solche mit unzureichender Leistung (unter 45W 15V 3A) für optimales Laden.",
+            "Versuchen Sie nicht, das Display oder den Akku ohne professionelle Fachkenntnisse auszutauschen, da dies die Garantie ungültig machen kann.",
+            "Setzen Sie das Gerät keinen extremen Temperaturen oder Flüssigkeiten aus."
+          ],
+          "faqs": [
+            {
+              "q": "Welche Art von interner SSD verwendet das Steam Deck OLED?",
+              "a": "Das Steam Deck OLED verwendet eine M.2 2230 NVMe SSD. Obwohl vom Benutzer austauschbar, erfordert dies das Öffnen des Geräts und wird erfahrenen Benutzern empfohlen."
+            },
+            {
+              "q": "Kann ich jedes USB-C Ladegerät mit meinem Steam Deck OLED verwenden?",
+              "a": "Für optimales Laden und Leistung wird empfohlen, ein USB-C Power Delivery (PD) Ladegerät zu verwenden, das mindestens 45W (15V 3A) liefert. Ladegeräte mit geringerer Wattzahl laden möglicherweise langsamer oder gar nicht während des Spiels."
+            },
+            {
+              "q": "Welche Art von microSD-Karte sollte ich für mein Steam Deck OLED kaufen?",
+              "a": "Für das beste Erlebnis wird eine microSD-Karte mit A2-Klassifizierung (Application Performance Class 2) empfohlen. Dies gewährleistet schnellere Ladezeiten für Spiele und Anwendungen."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "valve-steam-deck-oled",
+          "title": "Matrice de Compatibilité Valve Steam Deck OLED",
+          "summary": "Matrice complète de compatibilité et de mesures exactes pour le PC de jeu portable Valve Steam Deck OLED, couvrant les dimensions physiques, le stockage, l'alimentation et la connectivité.",
+          "amazon_search_query": "Accessoires Steam Deck OLED",
+          "buy_box_title": "Accessoires Officiels Steam Deck OLED",
+          "buy_box_subtitle": "Améliorez votre expérience de jeu avec des équipements compatibles vérifiés.",
+          "allowed_guidelines": [
+            "Utilisez des SSD M.2 2230 NVMe pour les mises à niveau de stockage interne.",
+            "Utilisez des chargeurs USB-C Power Delivery d'une puissance de 45W (15V 3A) ou plus.",
+            "Employez des cartes microSD classées A2 pour des performances optimales de chargement de jeux et d'applications.",
+            "Assurez-vous que les accessoires sont compatibles avec USB 3.2 Gen 2 et DisplayPort 1.4 Alt-Mode via USB-C."
+          ],
+          "strict_restrictions": [
+            "N'utilisez pas de SSD M.2 de format supérieur à 2230 en interne.",
+            "Évitez les chargeurs non USB PD ou ceux dont la puissance est insuffisante (inférieure à 45W 15V 3A) pour une charge optimale.",
+            "N'essayez pas de remplacer l'écran ou la batterie sans expertise professionnelle, car cela pourrait annuler la garantie.",
+            "Évitez d'exposer l'appareil à des températures extrêmes ou à des liquides."
+          ],
+          "faqs": [
+            {
+              "q": "Quel type de SSD interne utilise le Steam Deck OLED ?",
+              "a": "Le Steam Deck OLED utilise un SSD M.2 2230 NVMe. Bien que remplaçable par l'utilisateur, cela nécessite d'ouvrir l'appareil et est recommandé aux utilisateurs expérimentés."
+            },
+            {
+              "q": "Puis-je utiliser n'importe quel chargeur USB-C avec mon Steam Deck OLED ?",
+              "a": "Pour une charge et des performances optimales, il est recommandé d'utiliser un chargeur USB-C Power Delivery (PD) qui fournit au moins 45W (15V 3A). Les chargeurs de puissance inférieure peuvent charger plus lentement ou pas du tout pendant le jeu."
+            },
+            {
+              "q": "Quel type de carte microSD dois-je acheter pour mon Steam Deck OLED ?",
+              "a": "Pour la meilleure expérience, une carte microSD avec une classification A2 (Application Performance Class 2) est recommandée. Cela garantit des temps de chargement plus rapides pour les jeux et les applications."
+            }
+          ]
+        },
+        "es": {
+          "slug": "valve-steam-deck-oled",
+          "title": "Matriz de Compatibilidad Valve Steam Deck OLED",
+          "summary": "Matriz completa de compatibilidad y medidas exactas para el PC de juegos portátil Valve Steam Deck OLED, que cubre dimensiones físicas, almacenamiento, energía y conectividad.",
+          "amazon_search_query": "Accesorios Steam Deck OLED",
+          "buy_box_title": "Accesorios Oficiales Steam Deck OLED",
+          "buy_box_subtitle": "Mejora tu experiencia de juego con equipo compatible verificado.",
+          "allowed_guidelines": [
+            "Utilice SSD M.2 2230 NVMe para actualizaciones de almacenamiento interno.",
+            "Utilice cargadores USB-C Power Delivery con una potencia de 45W (15V 3A) o superior.",
+            "Emplee tarjetas microSD con clasificación A2 para un rendimiento óptimo de carga de juegos y aplicaciones.",
+            "Asegúrese de que los accesorios sean compatibles con USB 3.2 Gen 2 y DisplayPort 1.4 Alt-Mode a través de USB-C."
+          ],
+          "strict_restrictions": [
+            "No utilice SSD M.2 de factor de forma mayor a 2230 internamente.",
+            "Evite cargadores que no sean USB PD o aquellos con potencia insuficiente (inferior a 45W 15V 3A) para una carga óptima.",
+            "No intente reemplazar la pantalla o la batería sin experiencia profesional, ya que podría anular la garantía.",
+            "Evite exponer el dispositivo a temperaturas extremas o líquidos."
+          ],
+          "faqs": [
+            {
+              "q": "¿Qué tipo de SSD interno utiliza el Steam Deck OLED?",
+              "a": "El Steam Deck OLED utiliza un SSD M.2 2230 NVMe. Aunque es reemplazable por el usuario, requiere abrir el dispositivo y se recomienda para usuarios experimentados."
+            },
+            {
+              "q": "¿Puedo usar cualquier cargador USB-C con mi Steam Deck OLED?",
+              "a": "Para una carga y rendimiento óptimos, se recomienda utilizar un cargador USB-C Power Delivery (PD) que proporcione al menos 45W (15V 3A). Los cargadores de menor potencia pueden cargar más lento o no cargar en absoluto durante el juego."
+            },
+            {
+              "q": "¿Qué tipo de tarjeta microSD debo comprar para mi Steam Deck OLED?",
+              "a": "Para la mejor experiencia, se recomienda una tarjeta microSD con clasificación A2 (Application Performance Class 2). Esto garantiza tiempos de carga más rápidos para juegos y aplicaciones."
+            }
+          ]
+        },
+        "it": {
+          "slug": "valve-steam-deck-oled",
+          "title": "Matrice di Compatibilità Valve Steam Deck OLED",
+          "summary": "Matrice completa di compatibilità e misurazioni esatte per il PC da gioco portatile Valve Steam Deck OLED, che copre dimensioni fisiche, archiviazione, alimentazione e connettività.",
+          "amazon_search_query": "Accessori Steam Deck OLED",
+          "buy_box_title": "Accessori Ufficiali Steam Deck OLED",
+          "buy_box_subtitle": "Migliora la tua esperienza di gioco con accessori compatibili verificati.",
+          "allowed_guidelines": [
+            "Utilizzare SSD M.2 2230 NVMe per gli aggiornamenti di archiviazione interna.",
+            "Utilizzare caricabatterie USB-C Power Delivery con una potenza di 45W (15V 3A) o superiore.",
+            "Impiegare schede microSD con classificazione A2 per prestazioni ottimali di caricamento di giochi e applicazioni.",
+            "Assicurarsi che gli accessori siano compatibili con USB 3.2 Gen 2 e DisplayPort 1.4 Alt-Mode tramite USB-C."
+          ],
+          "strict_restrictions": [
+            "Non utilizzare SSD M.2 con fattore di forma superiore a 2230 internamente.",
+            "Evitare caricabatterie non USB PD o quelli con potenza insufficiente (inferiore a 45W 15V 3A) per una ricarica ottimale.",
+            "Non tentare di sostituire il display o la batteria senza competenza professionale, poiché ciò potrebbe invalidare la garanzia.",
+            "Evitare di esporre il dispositivo a temperature estreme o liquidi."
+          ],
+          "faqs": [
+            {
+              "q": "Che tipo di SSD interno utilizza lo Steam Deck OLED?",
+              "a": "Lo Steam Deck OLED utilizza un SSD M.2 2230 NVMe. Sebbene sia sostituibile dall'utente, richiede l'apertura del dispositivo ed è consigliato per utenti esperti."
+            },
+            {
+              "q": "Posso usare qualsiasi caricabatterie USB-C con il mio Steam Deck OLED?",
+              "a": "Per una ricarica e prestazioni ottimali, si consiglia di utilizzare un caricabatterie USB-C Power Delivery (PD) che fornisca almeno 45W (15V 3A). Caricabatterie con potenza inferiore potrebbero caricare più lentamente o non caricare affatto durante il gioco."
+            },
+            {
+              "q": "Che tipo di scheda microSD dovrei acquistare per il mio Steam Deck OLED?",
+              "a": "Per la migliore esperienza, si consiglia una scheda microSD con classificazione A2 (Application Performance Class 2). Ciò garantisce tempi di caricamento più rapidi per giochi e applicazioni."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "valve-steam-deck-oled",
+          "title": "Valve Steam Deck OLED 互換性マトリックス",
+          "summary": "Valve Steam Deck OLED ハンドヘルドゲーミングPCの包括的な互換性と正確な測定マトリックス。物理的寸法、ストレージ、電源、接続性を網羅しています。",
+          "amazon_search_query": "Steam Deck OLED アクセサリー",
+          "buy_box_title": "公式 Steam Deck OLED アクセサリー",
+          "buy_box_subtitle": "検証済みの互換性のあるギアでゲーム体験を向上させましょう。",
+          "allowed_guidelines": [
+            "内部ストレージのアップグレードにはM.2 2230 NVMe SSDを使用してください。",
+            "45W (15V 3A) 以上のUSB-C Power Delivery充電器を使用してください。",
+            "最適なゲームの読み込みとアプリケーションのパフォーマンスのために、A2定格のmicroSDカードを使用してください。",
+            "アクセサリがUSB-C経由でUSB 3.2 Gen 2およびDisplayPort 1.4 Alt-Modeと互換性があることを確認してください。"
+          ],
+          "strict_restrictions": [
+            "内部に2230フォームファクターより大きいM.2 SSDを使用しないでください。",
+            "最適な充電のために、非USB PD充電器や電力不足（45W 15V 3A未満）の充電器は避けてください。",
+            "専門知識なしにディスプレイやバッテリーを交換しようとしないでください。保証が無効になる場合があります。",
+            "デバイスを極端な温度や液体にさらさないでください。"
+          ],
+          "faqs": [
+            {
+              "q": "Steam Deck OLEDはどのような種類の内部SSDを使用していますか？",
+              "a": "Steam Deck OLEDはM.2 2230 NVMe SSDを使用しています。ユーザーによる交換は可能ですが、デバイスを開ける必要があり、経験豊富なユーザーに推奨されます。"
+            },
+            {
+              "q": "Steam Deck OLEDで任意のUSB-C充電器を使用できますか？",
+              "a": "最適な充電とパフォーマンスのために、少なくとも45W (15V 3A) を供給するUSB-C Power Delivery (PD) 充電器を使用することをお勧めします。ワット数の低い充電器は、ゲームプレイ中に充電が遅くなるか、まったく充電されない場合があります。"
+            },
+            {
+              "q": "Steam Deck OLEDにはどのようなmicroSDカードを購入すべきですか？",
+              "a": "最高の体験のために、A2 (Application Performance Class 2) 定格のmicroSDカードをお勧めします。これにより、ゲームやアプリケーションの読み込み時間が短縮されます。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "valve-steam-deck-oled",
+          "title": "Matriz de Compatibilidade Valve Steam Deck OLED",
+          "summary": "Matriz abrangente de compatibilidade e medições exatas para o PC de jogos portátil Valve Steam Deck OLED, cobrindo dimensões físicas, armazenamento, energia e conectividade.",
+          "amazon_search_query": "Acessórios Steam Deck OLED",
+          "buy_box_title": "Acessórios Oficiais Steam Deck OLED",
+          "buy_box_subtitle": "Melhore a sua experiência de jogo com equipamento compatível verificado.",
+          "allowed_guidelines": [
+            "Utilize SSDs M.2 2230 NVMe para atualizações de armazenamento interno.",
+            "Utilize carregadores USB-C Power Delivery com potência de 45W (15V 3A) ou superior.",
+            "Empregue cartões microSD com classificação A2 para um desempenho ideal de carregamento de jogos e aplicações.",
+            "Certifique-se de que os acessórios são compatíveis com USB 3.2 Gen 2 e DisplayPort 1.4 Alt-Mode via USB-C."
+          ],
+          "strict_restrictions": [
+            "Não utilize SSDs M.2 com fator de forma maior que 2230 internamente.",
+            "Evite carregadores não USB PD ou aqueles com potência insuficiente (abaixo de 45W 15V 3A) para um carregamento ideal.",
+            "Não tente substituir o ecrã ou a bateria sem experiência profissional, pois isso pode anular a garantia.",
+            "Evite expor o dispositivo a temperaturas extremas ou líquidos."
+          ],
+          "faqs": [
+            {
+              "q": "Que tipo de SSD interno o Steam Deck OLED utiliza?",
+              "a": "O Steam Deck OLED utiliza um SSD M.2 2230 NVMe. Embora seja substituível pelo utilizador, requer a abertura do dispositivo e é recomendado para utilizadores experientes."
+            },
+            {
+              "q": "Posso usar qualquer carregador USB-C com o meu Steam Deck OLED?",
+              "a": "Para um carregamento e desempenho ótimos, é recomendado usar um carregador USB-C Power Delivery (PD) que forneça pelo menos 45W (15V 3A). Carregadores de menor potência podem carregar mais lentamente ou não carregar de todo durante o jogo."
+            },
+            {
+              "q": "Que tipo de cartão microSD devo comprar para o meu Steam Deck OLED?",
+              "a": "Para a melhor experiência, é recomendado um cartão microSD com classificação A2 (Application Performance Class 2). Isso garante tempos de carregamento mais rápidos para jogos e aplicações."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "valve-steam-deck-oled",
+          "title": "Valve Steam Deck OLED Compatibiliteitsmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetmatrix voor de Valve Steam Deck OLED handheld gaming-pc, inclusief fysieke afmetingen, opslag, stroomvoorziening en connectiviteit.",
+          "amazon_search_query": "Steam Deck OLED accessoires",
+          "buy_box_title": "Officiële Steam Deck OLED Accessoires",
+          "buy_box_subtitle": "Verbeter je game-ervaring met geverifieerde compatibele uitrusting.",
+          "allowed_guidelines": [
+            "Gebruik M.2 2230 NVMe SSD's voor interne opslagupgrades.",
+            "Gebruik USB-C Power Delivery opladers met een vermogen van 45W (15V 3A) of hoger.",
+            "Gebruik A2-geclassificeerde microSD-kaarten voor optimale laadtijden van games en applicaties.",
+            "Zorg ervoor dat accessoires compatibel zijn met USB 3.2 Gen 2 en DisplayPort 1.4 Alt-Mode via USB-C."
+          ],
+          "strict_restrictions": [
+            "Gebruik intern geen M.2 SSD's die groter zijn dan de 2230 form factor.",
+            "Vermijd niet-USB PD-laders of laders met onvoldoende vermogen (minder dan 45W 15V 3A) voor optimaal opladen.",
+            "Probeer het scherm of de batterij niet te vervangen zonder professionele expertise, aangezien dit de garantie ongeldig kan maken.",
+            "Stel het apparaat niet bloot aan extreme temperaturen of vloeistoffen."
+          ],
+          "faqs": [
+            {
+              "q": "Welk type interne SSD gebruikt de Steam Deck OLED?",
+              "a": "De Steam Deck OLED gebruikt een M.2 2230 NVMe SSD. Hoewel deze door de gebruiker kan worden vervangen, vereist dit het openen van het apparaat en wordt het aanbevolen voor ervaren gebruikers."
+            },
+            {
+              "q": "Kan ik elke USB-C oplader gebruiken met mijn Steam Deck OLED?",
+              "a": "Voor optimaal opladen en prestaties wordt aanbevolen een USB-C Power Delivery (PD) oplader te gebruiken die minimaal 45W (15V 3A) levert. Opladers met een lager wattage kunnen langzamer opladen of helemaal niet opladen tijdens het spelen."
+            },
+            {
+              "q": "Welk type microSD-kaart moet ik kopen voor mijn Steam Deck OLED?",
+              "a": "Voor de beste ervaring wordt een microSD-kaart met een A2 (Application Performance Class 2) classificatie aanbevolen. Dit zorgt voor snellere laadtijden voor games en applicaties."
             }
           ]
         }
