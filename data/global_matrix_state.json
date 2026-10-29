@@ -1,54 +1,56 @@
 {
-  "last_updated": "2026-10-28T22:09:01.673660+00:00",
+  "last_updated": "2026-10-29T04:10:48.198481+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "nintendo-switch",
-    "united-airlines-baggage-lithium-battery-rules",
-    "dji-mini-4-pro-air-3-compatibility-matrix",
-    "gopro-12-13",
-    "emirates",
-    "delta",
-    "vueling-baggage-allowance",
-    "nintendo-switch-switch-oled-compatibility-matrix",
+    "ryanair-cabin-baggage-dimensions",
     "lg-oled-c3-c4-vesa-mount-power",
-    "air-canada",
-    "lufthansa-airlines-baggage-guide",
-    "gopro-hero-12-13-black-compatibility-matrix",
-    "easyjet",
-    "air-france-baggage-allowance",
-    "steam-deck-oled",
-    "dji-mini-air",
-    "delta-air-lines-compatibility-matrix",
-    "latam",
-    "sony-bravia",
-    "emirates-baggage-allowance",
-    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
-    "easyjet-baggage-powerbank-guide",
-    "transavia",
-    "samsung-neo-qled-oled-tv-compatibility-matrix",
-    "qantas-carry-on-baggage-allowance",
-    "samsung-qled",
-    "united",
     "qatar-airways-baggage-power-bank-guide",
-    "british-airways",
+    "latam-airlines-baggage-allowance",
     "tesla-model-y-wipers-roof-trunk-dimensions",
-    "transavia-baggage-allowance",
-    "lufthansa",
+    "transavia",
+    "air-france-baggage-allowance",
+    "qantas",
+    "easyjet-baggage-powerbank-guide",
+    "united",
+    "british-airways",
+    "vueling",
+    "delta",
+    "steam-deck-oled",
+    "lufthansa-airlines-baggage-guide",
+    "sony-bravia",
+    "easyjet",
+    "gopro-hero-12-13-black-compatibility-matrix",
+    "nintendo-switch",
+    "valve-steam-deck-oled",
+    "dji-mini-4-pro-air-3-compatibility-matrix",
     "southwest",
-    "ana-jal",
-    "qatar-airways",
+    "latam",
+    "transavia-baggage-allowance",
+    "gopro-12-13",
+    "air-canada",
+    "delta-air-lines-compatibility-matrix",
+    "nintendo-switch-switch-oled-compatibility-matrix",
+    "emirates-baggage-allowance",
+    "samsung-qled",
     "american-airlines-compatibility-matrix",
-    "southwest-airlines-baggage-policy",
+    "samsung-neo-qled-oled-tv-compatibility-matrix",
     "ana-japan-airlines-carry-on-luggage-compatibility",
     "wizz-air",
+    "qatar-airways",
     "air-france",
-    "vueling",
-    "valve-steam-deck-oled",
+    "ps5-slim-pro",
+    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
+    "united-airlines-baggage-lithium-battery-rules",
+    "ana-jal",
+    "emirates",
+    "dji-mini-air",
     "american",
-    "ryanair-cabin-baggage-dimensions",
-    "qantas",
-    "latam-airlines-baggage-allowance"
+    "southwest-airlines-baggage-policy",
+    "qantas-carry-on-baggage-allowance",
+    "vueling-baggage-allowance",
+    "playstation-5-slim-pro-compatibility",
+    "lufthansa"
   ],
   "topics_backlog": [
     {
@@ -11252,6 +11254,542 @@
             {
               "q": "Welk type microSD-kaart moet ik kopen voor mijn Steam Deck OLED?",
               "a": "Voor de beste ervaring wordt een microSD-kaart met een A2 (Application Performance Class 2) classificatie aanbevolen. Dit zorgt voor snellere laadtijden voor games en applicaties."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ps5-slim-pro",
+      "slug": "playstation-5-slim-pro-compatibility",
+      "subject": "PlayStation 5 Slim & Pro",
+      "category": "hardware",
+      "spec_rows": [
+        {
+          "item": "M.2 NVMe SSD Heatsink Max Height",
+          "metric": "11.25 mm",
+          "imperial": "0.44 inches",
+          "status": "Critical",
+          "note": "Maximum combined height for M.2 NVMe SSD and its heatsink to fit into the expansion slot.",
+          "item_translations": {
+            "en": "M.2 NVMe SSD Heatsink Max Height",
+            "de": "Max. Höhe des M.2 NVMe SSD Kühlkörpers",
+            "fr": "Hauteur maximale du dissipateur thermique SSD M.2 NVMe",
+            "es": "Altura máxima del disipador de calor SSD M.2 NVMe",
+            "it": "Altezza massima del dissipatore di calore SSD M.2 NVMe",
+            "ja": "M.2 NVMe SSDヒートシンクの最大高さ",
+            "pt": "Altura Máxima do Dissipador de Calor SSD M.2 NVMe",
+            "nl": "Maximale hoogte M.2 NVMe SSD koellichaam"
+          },
+          "note_translations": {
+            "en": "Maximum combined height for M.2 NVMe SSD and its heatsink to fit into the expansion slot.",
+            "de": "Maximale Gesamthöhe für M.2 NVMe SSD und ihren Kühlkörper, um in den Erweiterungssteckplatz zu passen.",
+            "fr": "Hauteur combinée maximale pour le SSD M.2 NVMe et son dissipateur thermique afin qu'il s'insère dans l'emplacement d'extension.",
+            "es": "Altura combinada máxima para la SSD M.2 NVMe y su disipador de calor para encajar en la ranura de expansión.",
+            "it": "Altezza combinata massima per l'SSD M.2 NVMe e il suo dissipatore di calore per l'inserimento nello slot di espansione.",
+            "ja": "M.2 NVMe SSDとそのヒートシンクが拡張スロットに収まる最大合計高さ。",
+            "pt": "Altura combinada máxima para o SSD M.2 NVMe e seu dissipador de calor para caber no slot de expansão.",
+            "nl": "Maximale gecombineerde hoogte voor M.2 NVMe SSD en zijn koellichaam om in de uitbreidingssleuf te passen."
+          }
+        },
+        {
+          "item": "M.2 NVMe SSD Interface",
+          "metric": "PCIe Gen4 x4",
+          "imperial": "PCIe Gen4 x4",
+          "status": "Required",
+          "note": "Only PCIe Gen4 x4 NVMe SSDs are supported for expansion storage.",
+          "item_translations": {
+            "en": "M.2 NVMe SSD Interface",
+            "de": "M.2 NVMe SSD Schnittstelle",
+            "fr": "Interface SSD M.2 NVMe",
+            "es": "Interfaz SSD M.2 NVMe",
+            "it": "Interfaccia SSD M.2 NVMe",
+            "ja": "M.2 NVMe SSDインターフェース",
+            "pt": "Interface SSD M.2 NVMe",
+            "nl": "M.2 NVMe SSD-interface"
+          },
+          "note_translations": {
+            "en": "Only PCIe Gen4 x4 NVMe SSDs are supported for expansion storage.",
+            "de": "Nur PCIe Gen4 x4 NVMe SSDs werden für den Erweiterungsspeicher unterstützt.",
+            "fr": "Seuls les SSD NVMe PCIe Gen4 x4 sont pris en charge pour le stockage d'extension.",
+            "es": "Solo se admiten SSD NVMe PCIe Gen4 x4 para almacenamiento de expansión.",
+            "it": "Solo gli SSD NVMe PCIe Gen4 x4 sono supportati per l'archiviazione di espansione.",
+            "ja": "拡張ストレージにはPCIe Gen4 x4 NVMe SSDのみがサポートされています。",
+            "pt": "Apenas SSDs NVMe PCIe Gen4 x4 são suportados para armazenamento de expansão.",
+            "nl": "Alleen PCIe Gen4 x4 NVMe SSD's worden ondersteund voor uitbreidingsopslag."
+          }
+        },
+        {
+          "item": "M.2 NVMe SSD Form Factors",
+          "metric": "2230, 2242, 2260, 2280, 22110",
+          "imperial": "2230, 2242, 2260, 2280, 22110",
+          "status": "Supported",
+          "note": "Standard M.2 form factors compatible with the expansion slot.",
+          "item_translations": {
+            "en": "M.2 NVMe SSD Form Factors",
+            "de": "M.2 NVMe SSD Formfaktoren",
+            "fr": "Facteurs de forme SSD M.2 NVMe",
+            "es": "Factores de forma SSD M.2 NVMe",
+            "it": "Fattori di forma SSD M.2 NVMe",
+            "ja": "M.2 NVMe SSDフォームファクター",
+            "pt": "Fatores de Forma SSD M.2 NVMe",
+            "nl": "M.2 NVMe SSD-vormfactoren"
+          },
+          "note_translations": {
+            "en": "Standard M.2 form factors compatible with the expansion slot.",
+            "de": "Standard M.2 Formfaktoren, die mit dem Erweiterungssteckplatz kompatibel sind.",
+            "fr": "Facteurs de forme M.2 standard compatibles avec l'emplacement d'extension.",
+            "es": "Factores de forma M.2 estándar compatibles con la ranura de expansión.",
+            "it": "Fattori di forma M.2 standard compatibili con lo slot di espansione.",
+            "ja": "拡張スロットと互換性のある標準M.2フォームファクター。",
+            "pt": "Fatores de forma M.2 padrão compatíveis com o slot de expansão.",
+            "nl": "Standaard M.2-vormfactoren compatibel met de uitbreidingssleuf."
+          }
+        },
+        {
+          "item": "M.2 NVMe SSD Capacity Range",
+          "metric": "250 GB - 8 TB",
+          "imperial": "250 GB - 8 TB",
+          "status": "Supported",
+          "note": "Minimum and maximum supported storage capacity for expansion.",
+          "item_translations": {
+            "en": "M.2 NVMe SSD Capacity Range",
+            "de": "M.2 NVMe SSD Kapazitätsbereich",
+            "fr": "Plage de capacité SSD M.2 NVMe",
+            "es": "Rango de capacidad SSD M.2 NVMe",
+            "it": "Intervallo di capacità SSD M.2 NVMe",
+            "ja": "M.2 NVMe SSD容量範囲",
+            "pt": "Faixa de Capacidade SSD M.2 NVMe",
+            "nl": "M.2 NVMe SSD-capaciteitsbereik"
+          },
+          "note_translations": {
+            "en": "Minimum and maximum supported storage capacity for expansion.",
+            "de": "Mindest- und Höchstkapazität für den Erweiterungsspeicher.",
+            "fr": "Capacité de stockage minimale et maximale prise en charge pour l'extension.",
+            "es": "Capacidad de almacenamiento mínima y máxima admitida para la expansión.",
+            "it": "Capacità di archiviazione minima e massima supportata per l'espansione.",
+            "ja": "拡張用の最小および最大サポートストレージ容量。",
+            "pt": "Capacidade de armazenamento mínima e máxima suportada para expansão.",
+            "nl": "Minimale en maximale ondersteunde opslagcapaciteit voor uitbreiding."
+          }
+        },
+        {
+          "item": "M.2 NVMe SSD Recommended Read Speed",
+          "metric": "5,500 MB/s",
+          "imperial": "5,500 MB/s",
+          "status": "Recommended",
+          "note": "For optimal game loading and system performance, a read speed of 5,500 MB/s or faster is advised.",
+          "item_translations": {
+            "en": "M.2 NVMe SSD Recommended Read Speed",
+            "de": "Empfohlene Lesegeschwindigkeit der M.2 NVMe SSD",
+            "fr": "Vitesse de lecture recommandée du SSD M.2 NVMe",
+            "es": "Velocidad de lectura recomendada del SSD M.2 NVMe",
+            "it": "Velocità di lettura consigliata SSD M.2 NVMe",
+            "ja": "M.2 NVMe SSD推奨読み取り速度",
+            "pt": "Velocidade de Leitura Recomendada do SSD M.2 NVMe",
+            "nl": "Aanbevolen leessnelheid M.2 NVMe SSD"
+          },
+          "note_translations": {
+            "en": "For optimal game loading and system performance, a read speed of 5,500 MB/s or faster is advised.",
+            "de": "Für optimales Laden von Spielen und Systemleistung wird eine Lesegeschwindigkeit von 5.500 MB/s oder schneller empfohlen.",
+            "fr": "Pour un chargement optimal des jeux et des performances système, une vitesse de lecture de 5 500 Mo/s ou plus rapide est conseillée.",
+            "es": "Para una carga óptima de juegos y un rendimiento del sistema, se recomienda una velocidad de lectura de 5.500 MB/s o superior.",
+            "it": "Per un caricamento ottimale dei giochi e delle prestazioni del sistema, si consiglia una velocità di lettura di 5.500 MB/s o superiore.",
+            "ja": "最適なゲームの読み込みとシステムパフォーマンスのために、5,500 MB/s以上の読み取り速度が推奨されます。",
+            "pt": "Para carregamento ideal de jogos e desempenho do sistema, é aconselhada uma velocidade de leitura de 5.500 MB/s ou superior.",
+            "nl": "Voor optimale game-laadtijden en systeemprestaties wordt een leessnelheid van 5.500 MB/s of sneller aanbevolen."
+          }
+        },
+        {
+          "item": "Maximum Power Consumption (PS5 Pro)",
+          "metric": "370 Watts",
+          "imperial": "370 Watts",
+          "status": "Verified",
+          "note": "Maximum power draw for the PlayStation 5 Pro model under heavy load. (Based on provided hint)",
+          "item_translations": {
+            "en": "Maximum Power Consumption (PS5 Pro)",
+            "de": "Maximale Leistungsaufnahme (PS5 Pro)",
+            "fr": "Consommation électrique maximale (PS5 Pro)",
+            "es": "Consumo máximo de energía (PS5 Pro)",
+            "it": "Consumo energetico massimo (PS5 Pro)",
+            "ja": "最大消費電力 (PS5 Pro)",
+            "pt": "Consumo Máximo de Energia (PS5 Pro)",
+            "nl": "Maximaal stroomverbruik (PS5 Pro)"
+          },
+          "note_translations": {
+            "en": "Maximum power draw for the PlayStation 5 Pro model under heavy load. (Based on provided hint)",
+            "de": "Maximale Leistungsaufnahme des PlayStation 5 Pro Modells unter hoher Last. (Basierend auf dem bereitgestellten Hinweis)",
+            "fr": "Consommation électrique maximale du modèle PlayStation 5 Pro sous forte charge. (Basé sur l'indice fourni)",
+            "es": "Consumo máximo de energía para el modelo PlayStation 5 Pro bajo carga pesada. (Basado en la pista proporcionada)",
+            "it": "Assorbimento massimo di potenza per il modello PlayStation 5 Pro sotto carico pesante. (Basato sul suggerimento fornito)",
+            "ja": "PlayStation 5 Proモデルの最大消費電力（高負荷時）。（提供されたヒントに基づく）",
+            "pt": "Consumo máximo de energia para o modelo PlayStation 5 Pro sob carga pesada. (Com base na dica fornecida)",
+            "nl": "Maximaal stroomverbruik voor het PlayStation 5 Pro-model onder zware belasting. (Gebaseerd op de verstrekte hint)"
+          }
+        },
+        {
+          "item": "Maximum Power Consumption (PS5 Slim)",
+          "metric": "220 Watts",
+          "imperial": "220 Watts",
+          "status": "Verified",
+          "note": "Maximum power draw for the PlayStation 5 Slim model under heavy load.",
+          "item_translations": {
+            "en": "Maximum Power Consumption (PS5 Slim)",
+            "de": "Maximale Leistungsaufnahme (PS5 Slim)",
+            "fr": "Consommation électrique maximale (PS5 Slim)",
+            "es": "Consumo máximo de energía (PS5 Slim)",
+            "it": "Consumo energetico massimo (PS5 Slim)",
+            "ja": "最大消費電力 (PS5 Slim)",
+            "pt": "Consumo Máximo de Energia (PS5 Slim)",
+            "nl": "Maximaal stroomverbruik (PS5 Slim)"
+          },
+          "note_translations": {
+            "en": "Maximum power draw for the PlayStation 5 Slim model under heavy load.",
+            "de": "Maximale Leistungsaufnahme des PlayStation 5 Slim Modells unter hoher Last.",
+            "fr": "Consommation électrique maximale du modèle PlayStation 5 Slim sous forte charge.",
+            "es": "Consumo máximo de energía para el modelo PlayStation 5 Slim bajo carga pesada.",
+            "it": "Assorbimento massimo di potenza per il modello PlayStation 5 Slim sotto carico pesante.",
+            "ja": "PlayStation 5 Slimモデルの最大消費電力（高負荷時）。",
+            "pt": "Consumo máximo de energia para o modelo PlayStation 5 Slim sob carga pesada.",
+            "nl": "Maximaal stroomverbruik voor het PlayStation 5 Slim-model onder zware belasting."
+          }
+        },
+        {
+          "item": "Console Dimensions (PS5 Slim - without stand)",
+          "metric": "35.8 × 9.6 × 21.6 cm (Height × Width × Depth)",
+          "imperial": "14.1 × 3.8 × 8.5 inches (Height × Width × Depth)",
+          "status": "Verified",
+          "note": "Approximate dimensions for the PlayStation 5 Slim model. PS5 Pro dimensions are expected to be larger.",
+          "item_translations": {
+            "en": "Console Dimensions (PS5 Slim - without stand)",
+            "de": "Konsolenabmessungen (PS5 Slim - ohne Standfuß)",
+            "fr": "Dimensions de la console (PS5 Slim - sans support)",
+            "es": "Dimensiones de la consola (PS5 Slim - sin soporte)",
+            "it": "Dimensioni della console (PS5 Slim - senza supporto)",
+            "ja": "本体寸法 (PS5 Slim - スタンドなし)",
+            "pt": "Dimensões da Consola (PS5 Slim - sem suporte)",
+            "nl": "Consoleafmetingen (PS5 Slim - zonder standaard)"
+          },
+          "note_translations": {
+            "en": "Approximate dimensions for the PlayStation 5 Slim model. PS5 Pro dimensions are expected to be larger.",
+            "de": "Ungefähre Abmessungen für das PlayStation 5 Slim Modell. Die Abmessungen der PS5 Pro werden voraussichtlich größer sein.",
+            "fr": "Dimensions approximatives du modèle PlayStation 5 Slim. Les dimensions de la PS5 Pro devraient être plus grandes.",
+            "es": "Dimensiones aproximadas para el modelo PlayStation 5 Slim. Se espera que las dimensiones de la PS5 Pro sean mayores.",
+            "it": "Dimensioni approssimative per il modello PlayStation 5 Slim. Le dimensioni della PS5 Pro dovrebbero essere maggiori.",
+            "ja": "PlayStation 5 Slimモデルのおおよその寸法。PS5 Proの寸法はより大きくなると予想されます。",
+            "pt": "Dimensões aproximadas para o modelo PlayStation 5 Slim. As dimensões da PS5 Pro são esperadas para serem maiores.",
+            "nl": "Geschatte afmetingen voor het PlayStation 5 Slim-model. De afmetingen van de PS5 Pro zullen naar verwachting groter zijn."
+          }
+        },
+        {
+          "item": "Console Weight (PS5 Slim)",
+          "metric": "3.2 kg",
+          "imperial": "7.1 lbs",
+          "status": "Verified",
+          "note": "Approximate weight for the PlayStation 5 Slim model. PS5 Pro weight is expected to be higher.",
+          "item_translations": {
+            "en": "Console Weight (PS5 Slim)",
+            "de": "Konsolengewicht (PS5 Slim)",
+            "fr": "Poids de la console (PS5 Slim)",
+            "es": "Peso de la consola (PS5 Slim)",
+            "it": "Peso della console (PS5 Slim)",
+            "ja": "本体重量 (PS5 Slim)",
+            "pt": "Peso da Consola (PS5 Slim)",
+            "nl": "Consolegewicht (PS5 Slim)"
+          },
+          "note_translations": {
+            "en": "Approximate weight for the PlayStation 5 Slim model. PS5 Pro weight is expected to be higher.",
+            "de": "Ungefähres Gewicht für das PlayStation 5 Slim Modell. Das Gewicht der PS5 Pro wird voraussichtlich höher sein.",
+            "fr": "Poids approximatif du modèle PlayStation 5 Slim. Le poids de la PS5 Pro devrait être plus élevé.",
+            "es": "Peso aproximado para el modelo PlayStation 5 Slim. Se espera que el peso de la PS5 Pro sea mayor.",
+            "it": "Peso approssimativo per il modello PlayStation 5 Slim. Il peso della PS5 Pro dovrebbe essere maggiore.",
+            "ja": "PlayStation 5 Slimモデルのおおよその重量。PS5 Proの重量はより重くなると予想されます。",
+            "pt": "Peso aproximado para o modelo PlayStation 5 Slim. O peso da PS5 Pro é esperado para ser maior.",
+            "nl": "Geschat gewicht voor het PlayStation 5 Slim-model. Het gewicht van de PS5 Pro zal naar verwachting hoger zijn."
+          }
+        },
+        {
+          "item": "Included Stand Type (PS5 Slim)",
+          "metric": "Horizontal Stand",
+          "imperial": "Horizontal Stand",
+          "status": "Included",
+          "note": "The PS5 Slim model includes a horizontal stand. A vertical stand is sold separately.",
+          "item_translations": {
+            "en": "Included Stand Type (PS5 Slim)",
+            "de": "Mitgelieferter Standfußtyp (PS5 Slim)",
+            "fr": "Type de support inclus (PS5 Slim)",
+            "es": "Tipo de soporte incluido (PS5 Slim)",
+            "it": "Tipo di supporto incluso (PS5 Slim)",
+            "ja": "付属スタンドタイプ (PS5 Slim)",
+            "pt": "Tipo de Suporte Incluído (PS5 Slim)",
+            "nl": "Inbegrepen standaardtype (PS5 Slim)"
+          },
+          "note_translations": {
+            "en": "The PS5 Slim model includes a horizontal stand. A vertical stand is sold separately.",
+            "de": "Das PS5 Slim Modell enthält einen horizontalen Standfuß. Ein vertikaler Standfuß wird separat verkauft.",
+            "fr": "Le modèle PS5 Slim inclut un support horizontal. Un support vertical est vendu séparément.",
+            "es": "El modelo PS5 Slim incluye un soporte horizontal. Un soporte vertical se vende por separado.",
+            "it": "Il modello PS5 Slim include un supporto orizzontale. Un supporto verticale è venduto separatamente.",
+            "ja": "PS5 Slimモデルには横置きスタンドが付属しています。縦置きスタンドは別売りです。",
+            "pt": "O modelo PS5 Slim inclui um suporte horizontal. Um suporte vertical é vendido separadamente.",
+            "nl": "Het PS5 Slim-model wordt geleverd met een horizontale standaard. Een verticale standaard wordt apart verkocht."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "playstation-5-slim-pro-compatibility",
+          "title": "PlayStation 5 Slim & Pro Compatibility Matrix",
+          "summary": "Comprehensive compatibility and exact measurement matrix for PlayStation 5 Slim and PlayStation 5 Pro hardware, focusing on M.2 NVMe SSD specifications and power requirements.",
+          "amazon_search_query": "PS5 Slim Pro M.2 NVMe SSD heatsink",
+          "buy_box_title": "Recommended PS5 Slim & Pro Compatible SSDs",
+          "buy_box_subtitle": "Ensure optimal performance and fit for your console.",
+          "allowed_guidelines": [
+            "Use M.2 NVMe PCIe Gen4 x4 SSDs for best performance.",
+            "Ensure SSDs with heatsinks do not exceed 11.25mm (0.44 inches) in total height.",
+            "Utilize the included horizontal stand for stable console placement."
+          ],
+          "strict_restrictions": [
+            "Do not use M.2 SATA SSDs; they are not supported.",
+            "Avoid SSDs with heatsinks exceeding 11.25mm (0.44 inches) as they will not fit.",
+            "Do not block console ventilation ports."
+          ],
+          "faqs": [
+            {
+              "q": "What type of SSD is compatible with PS5 Slim/Pro?",
+              "a": "Both PS5 Slim and Pro models support M.2 NVMe PCIe Gen4 x4 SSDs."
+            },
+            {
+              "q": "What is the maximum heatsink height for an M.2 SSD in PS5 Slim/Pro?",
+              "a": "The maximum combined height for the M.2 SSD and its heatsink is 11.25 mm (0.44 inches)."
+            },
+            {
+              "q": "Does the PS5 Slim/Pro come with a stand?",
+              "a": "The PS5 Slim includes a horizontal stand. A vertical stand is sold separately. PS5 Pro stand details are TBD."
+            }
+          ]
+        },
+        "de": {
+          "slug": "playstation-5-slim-pro-kompatibilitaet",
+          "title": "PlayStation 5 Slim & Pro Kompatibilitätsmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messmatrix für PlayStation 5 Slim und PlayStation 5 Pro Hardware, mit Fokus auf M.2 NVMe SSD Spezifikationen und Leistungsanforderungen.",
+          "amazon_search_query": "PS5 Slim Pro M.2 NVMe SSD Kühlkörper",
+          "buy_box_title": "Empfohlene PS5 Slim & Pro Kompatible SSDs",
+          "buy_box_subtitle": "Sorgen Sie für optimale Leistung und Passform für Ihre Konsole.",
+          "allowed_guidelines": [
+            "Verwenden Sie M.2 NVMe PCIe Gen4 x4 SSDs für beste Leistung.",
+            "Stellen Sie sicher, dass SSDs mit Kühlkörpern eine Gesamthöhe von 11,25 mm (0,44 Zoll) nicht überschreiten.",
+            "Verwenden Sie den mitgelieferten horizontalen Standfuß für eine stabile Konsolenplatzierung."
+          ],
+          "strict_restrictions": [
+            "Verwenden Sie keine M.2 SATA SSDs; diese werden nicht unterstützt.",
+            "Vermeiden Sie SSDs mit Kühlkörpern, die 11,25 mm (0,44 Zoll) überschreiten, da sie nicht passen.",
+            "Blockieren Sie keine Lüftungsöffnungen der Konsole."
+          ],
+          "faqs": [
+            {
+              "q": "Welche Art von SSD ist mit PS5 Slim/Pro kompatibel?",
+              "a": "Sowohl PS5 Slim als auch Pro Modelle unterstützen M.2 NVMe PCIe Gen4 x4 SSDs."
+            },
+            {
+              "q": "Was ist die maximale Kühlkörperhöhe für eine M.2 SSD in PS5 Slim/Pro?",
+              "a": "Die maximale Gesamthöhe für die M.2 SSD und ihren Kühlkörper beträgt 11,25 mm (0,44 Zoll)."
+            },
+            {
+              "q": "Wird die PS5 Slim/Pro mit einem Standfuß geliefert?",
+              "a": "Die PS5 Slim enthält einen horizontalen Standfuß. Ein vertikaler Standfuß wird separat verkauft. Details zum PS5 Pro Standfuß sind noch nicht bekannt."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "playstation-5-slim-pro-compatibilite",
+          "title": "Matrice de Compatibilité PlayStation 5 Slim & Pro",
+          "summary": "Matrice complète de compatibilité et de mesures exactes pour le matériel PlayStation 5 Slim et PlayStation 5 Pro, axée sur les spécifications du SSD M.2 NVMe et les exigences d'alimentation.",
+          "amazon_search_query": "PS5 Slim Pro M.2 NVMe SSD dissipateur thermique",
+          "buy_box_title": "SSD Recommandés Compatibles PS5 Slim & Pro",
+          "buy_box_subtitle": "Assurez des performances et un ajustement optimaux pour votre console.",
+          "allowed_guidelines": [
+            "Utilisez des SSD M.2 NVMe PCIe Gen4 x4 pour des performances optimales.",
+            "Assurez-vous que les SSD avec dissipateurs thermiques ne dépassent pas 11,25 mm (0,44 pouces) de hauteur totale.",
+            "Utilisez le support horizontal inclus pour un placement stable de la console."
+          ],
+          "strict_restrictions": [
+            "N'utilisez pas de SSD M.2 SATA ; ils ne sont pas pris en charge.",
+            "Évitez les SSD avec des dissipateurs thermiques dépassant 11,25 mm (0,44 pouces) car ils ne s'adapteront pas.",
+            "Ne bloquez pas les ports de ventilation de la console."
+          ],
+          "faqs": [
+            {
+              "q": "Quel type de SSD est compatible avec la PS5 Slim/Pro?",
+              "a": "Les modèles PS5 Slim et Pro prennent en charge les SSD M.2 NVMe PCIe Gen4 x4."
+            },
+            {
+              "q": "Quelle est la hauteur maximale du dissipateur thermique pour un SSD M.2 dans la PS5 Slim/Pro?",
+              "a": "La hauteur combinée maximale pour le SSD M.2 et son dissipateur thermique est de 11,25 mm (0,44 pouces)."
+            },
+            {
+              "q": "La PS5 Slim/Pro est-elle livrée avec un support?",
+              "a": "La PS5 Slim inclut un support horizontal. Un support vertical est vendu séparément. Les détails du support PS5 Pro sont à déterminer."
+            }
+          ]
+        },
+        "es": {
+          "slug": "playstation-5-slim-pro-compatibilidad",
+          "title": "Matriz de Compatibilidad PlayStation 5 Slim & Pro",
+          "summary": "Matriz completa de compatibilidad y medidas exactas para el hardware de PlayStation 5 Slim y PlayStation 5 Pro, centrándose en las especificaciones de SSD M.2 NVMe y los requisitos de energía.",
+          "amazon_search_query": "PS5 Slim Pro M.2 NVMe SSD disipador",
+          "buy_box_title": "SSDs Recomendados Compatibles con PS5 Slim & Pro",
+          "buy_box_subtitle": "Asegure un rendimiento y ajuste óptimos para su consola.",
+          "allowed_guidelines": [
+            "Utilice SSD M.2 NVMe PCIe Gen4 x4 para un mejor rendimiento.",
+            "Asegúrese de que los SSD con disipadores de calor no superen los 11,25 mm (0,44 pulgadas) de altura total.",
+            "Utilice el soporte horizontal incluido para una colocación estable de la consola."
+          ],
+          "strict_restrictions": [
+            "No utilice SSD M.2 SATA; no son compatibles.",
+            "Evite los SSD con disipadores de calor que superen los 11,25 mm (0,44 pulgadas), ya que no encajarán.",
+            "No bloquee los puertos de ventilación de la consola."
+          ],
+          "faqs": [
+            {
+              "q": "¿Qué tipo de SSD es compatible con PS5 Slim/Pro?",
+              "a": "Ambos modelos de PS5 Slim y Pro son compatibles con SSD M.2 NVMe PCIe Gen4 x4."
+            },
+            {
+              "q": "¿Cuál es la altura máxima del disipador de calor para un SSD M.2 en PS5 Slim/Pro?",
+              "a": "La altura combinada máxima para el SSD M.2 y su disipador de calor es de 11,25 mm (0,44 pulgadas)."
+            },
+            {
+              "q": "¿La PS5 Slim/Pro viene con un soporte?",
+              "a": "La PS5 Slim incluye un soporte horizontal. Un soporte vertical se vende por separado. Los detalles del soporte de la PS5 Pro están por determinar."
+            }
+          ]
+        },
+        "it": {
+          "slug": "playstation-5-slim-pro-compatibilita",
+          "title": "Matrice di Compatibilità PlayStation 5 Slim & Pro",
+          "summary": "Matrice completa di compatibilità e misurazioni esatte per l'hardware PlayStation 5 Slim e PlayStation 5 Pro, focalizzata sulle specifiche SSD M.2 NVMe e sui requisiti di alimentazione.",
+          "amazon_search_query": "PS5 Slim Pro M.2 NVMe SSD dissipatore",
+          "buy_box_title": "SSD Consigliati Compatibili con PS5 Slim & Pro",
+          "buy_box_subtitle": "Garantisci prestazioni e adattamento ottimali per la tua console.",
+          "allowed_guidelines": [
+            "Utilizzare SSD M.2 NVMe PCIe Gen4 x4 per le migliori prestazioni.",
+            "Assicurarsi che gli SSD con dissipatori di calore non superino i 11,25 mm (0,44 pollici) di altezza totale.",
+            "Utilizzare il supporto orizzontale incluso per un posizionamento stabile della console."
+          ],
+          "strict_restrictions": [
+            "Non utilizzare SSD M.2 SATA; non sono supportati.",
+            "Evitare SSD con dissipatori di calore che superano i 11,25 mm (0,44 pollici) poiché non si adatteranno.",
+            "Non ostruire le porte di ventilazione della console."
+          ],
+          "faqs": [
+            {
+              "q": "Che tipo di SSD è compatibile con PS5 Slim/Pro?",
+              "a": "Entrambi i modelli PS5 Slim e Pro supportano SSD M.2 NVMe PCIe Gen4 x4."
+            },
+            {
+              "q": "Qual è l'altezza massima del dissipatore di calore per un SSD M.2 in PS5 Slim/Pro?",
+              "a": "L'altezza combinata massima per l'SSD M.2 e il suo dissipatore di calore è di 11,25 mm (0,44 pollici)."
+            },
+            {
+              "q": "La PS5 Slim/Pro viene fornita con un supporto?",
+              "a": "La PS5 Slim include un supporto orizzontale. Un supporto verticale è venduto separatamente. I dettagli del supporto PS5 Pro sono da definire."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "playstation-5-slim-pro-compatibility",
+          "title": "PlayStation 5 Slim & Pro 互換性マトリックス",
+          "summary": "PlayStation 5 SlimおよびPlayStation 5 Proハードウェアの包括的な互換性と正確な測定マトリックス。M.2 NVMe SSDの仕様と電力要件に焦点を当てています。",
+          "amazon_search_query": "PS5 Slim Pro M.2 NVMe SSD ヒートシンク",
+          "buy_box_title": "推奨されるPS5 Slim & Pro互換SSD",
+          "buy_box_subtitle": "コンソールに最適なパフォーマンスとフィット感を確保します。",
+          "allowed_guidelines": [
+            "最高のパフォーマンスを得るには、M.2 NVMe PCIe Gen4 x4 SSDを使用してください。",
+            "ヒートシンク付きSSDの合計高さが11.25mm（0.44インチ）を超えないようにしてください。",
+            "付属の横置きスタンドを使用して、コンソールを安定して設置してください。"
+          ],
+          "strict_restrictions": [
+            "M.2 SATA SSDはサポートされていないため、使用しないでください。",
+            "ヒートシンクが11.25mm（0.44インチ）を超えるSSDは適合しないため、避けてください。",
+            "コンソールの通気口を塞がないでください。"
+          ],
+          "faqs": [
+            {
+              "q": "PS5 Slim/Proと互換性のあるSSDの種類は何ですか？",
+              "a": "PS5 SlimおよびProモデルは両方ともM.2 NVMe PCIe Gen4 x4 SSDをサポートしています。"
+            },
+            {
+              "q": "PS5 Slim/ProのM.2 SSDのヒートシンクの最大高さはどれくらいですか？",
+              "a": "M.2 SSDとそのヒートシンクの合計最大高さは11.25 mm（0.44インチ）です。"
+            },
+            {
+              "q": "PS5 Slim/Proにはスタンドが付属していますか？",
+              "a": "PS5 Slimには横置きスタンドが付属しています。縦置きスタンドは別売りです。PS5 Proのスタンドの詳細は未定です。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "playstation-5-slim-pro-compatibilidade",
+          "title": "Matriz de Compatibilidade PlayStation 5 Slim & Pro",
+          "summary": "Matriz abrangente de compatibilidade e medições exatas para o hardware PlayStation 5 Slim e PlayStation 5 Pro, focando nas especificações do SSD M.2 NVMe e nos requisitos de energia.",
+          "amazon_search_query": "PS5 Slim Pro M.2 NVMe SSD dissipador de calor",
+          "buy_box_title": "SSDs Recomendados Compatíveis com PS5 Slim & Pro",
+          "buy_box_subtitle": "Garanta desempenho e ajuste ideais para sua consola.",
+          "allowed_guidelines": [
+            "Use SSDs M.2 NVMe PCIe Gen4 x4 para o melhor desempenho.",
+            "Certifique-se de que os SSDs com dissipadores de calor não excedam 11,25 mm (0,44 polegadas) de altura total.",
+            "Utilize o suporte horizontal incluído para um posicionamento estável da consola."
+          ],
+          "strict_restrictions": [
+            "Não use SSDs M.2 SATA; eles não são suportados.",
+            "Evite SSDs com dissipadores de calor que excedam 11,25 mm (0,44 polegadas), pois não caberão.",
+            "Não bloqueie as portas de ventilação da consola."
+          ],
+          "faqs": [
+            {
+              "q": "Que tipo de SSD é compatível com PS5 Slim/Pro?",
+              "a": "Ambos os modelos PS5 Slim e Pro suportam SSDs M.2 NVMe PCIe Gen4 x4."
+            },
+            {
+              "q": "Qual é a altura máxima do dissipador de calor para um SSD M.2 na PS5 Slim/Pro?",
+              "a": "A altura combinada máxima para o SSD M.2 e seu dissipador de calor é de 11,25 mm (0.44 polegadas)."
+            },
+            {
+              "q": "A PS5 Slim/Pro vem com um suporte?",
+              "a": "O PS5 Slim inclui um suporte horizontal. Um suporte vertical é vendido separadamente. Os detalhes do suporte da PS5 Pro estão por determinar."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "playstation-5-slim-pro-compatibiliteit",
+          "title": "PlayStation 5 Slim & Pro Compatibiliteitsmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetmatrix voor PlayStation 5 Slim en PlayStation 5 Pro hardware, gericht op M.2 NVMe SSD specificaties en stroomvereisten.",
+          "amazon_search_query": "PS5 Slim Pro M.2 NVMe SSD koellichaam",
+          "buy_box_title": "Aanbevolen PS5 Slim & Pro Compatibele SSD's",
+          "buy_box_subtitle": "Zorg voor optimale prestaties en pasvorm voor uw console.",
+          "allowed_guidelines": [
+            "Gebruik M.2 NVMe PCIe Gen4 x4 SSD's voor de beste prestaties.",
+            "Zorg ervoor dat SSD's met koellichamen niet hoger zijn dan 11,25 mm (0,44 inch) in totale hoogte.",
+            "Gebruik de meegeleverde horizontale standaard voor een stabiele plaatsing van de console."
+          ],
+          "strict_restrictions": [
+            "Gebruik geen M.2 SATA SSD's; deze worden niet ondersteund.",
+            "Vermijd SSD's met koellichamen die hoger zijn dan 11,25 mm (0,44 inch), aangezien deze niet passen.",
+            "Blokkeer de ventilatiepoorten van de console niet."
+          ],
+          "faqs": [
+            {
+              "q": "Welk type SSD is compatibel met PS5 Slim/Pro?",
+              "a": "Zowel PS5 Slim als Pro modellen ondersteunen M.2 NVMe PCIe Gen4 x4 SSD's."
+            },
+            {
+              "q": "Wat is de maximale koellichaamhoogte voor een M.2 SSD in PS5 Slim/Pro?",
+              "a": "De maximale gecombineerde hoogte voor de M.2 SSD en zijn koellichaam is 11,25 mm (0,44 inch)."
+            },
+            {
+              "q": "Wordt de PS5 Slim/Pro geleverd met een standaard?",
+              "a": "Het PS5 Slim-model wordt geleverd met een horizontale standaard. Een verticale standaard wordt apart verkocht. Details over de PS5 Pro-standaard zijn nog niet bekend."
             }
           ]
         }

@@ -511,3 +511,27 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=Steam+Deck+OLED+accessories&tag=autocompat-21
 
 ---
+
+## PlayStation 5 Slim & Pro (HARDWARE)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/playstation-5-slim-pro-compatibility.html
+- Summary: Comprehensive compatibility and exact measurement matrix for PlayStation 5 Slim and PlayStation 5 Pro hardware, focusing on M.2 NVMe SSD specifications and power requirements.
+
+### Exact Specifications (Dual Units):
+* **M.2 NVMe SSD Heatsink Max Height**: Metric: `11.25 mm` | Imperial: `0.44 inches` (Maximum combined height for M.2 NVMe SSD and its heatsink to fit into the expansion slot.)
+* **M.2 NVMe SSD Interface**: Metric: `PCIe Gen4 x4` | Imperial: `PCIe Gen4 x4` (Only PCIe Gen4 x4 NVMe SSDs are supported for expansion storage.)
+* **M.2 NVMe SSD Form Factors**: Metric: `2230, 2242, 2260, 2280, 22110` | Imperial: `2230, 2242, 2260, 2280, 22110` (Standard M.2 form factors compatible with the expansion slot.)
+* **M.2 NVMe SSD Capacity Range**: Metric: `250 GB - 8 TB` | Imperial: `250 GB - 8 TB` (Minimum and maximum supported storage capacity for expansion.)
+* **M.2 NVMe SSD Recommended Read Speed**: Metric: `5,500 MB/s` | Imperial: `5,500 MB/s` (For optimal game loading and system performance, a read speed of 5,500 MB/s or faster is advised.)
+* **Maximum Power Consumption (PS5 Pro)**: Metric: `370 Watts` | Imperial: `370 Watts` (Maximum power draw for the PlayStation 5 Pro model under heavy load. (Based on provided hint))
+* **Maximum Power Consumption (PS5 Slim)**: Metric: `220 Watts` | Imperial: `220 Watts` (Maximum power draw for the PlayStation 5 Slim model under heavy load.)
+* **Console Dimensions (PS5 Slim - without stand)**: Metric: `35.8 × 9.6 × 21.6 cm (Height × Width × Depth)` | Imperial: `14.1 × 3.8 × 8.5 inches (Height × Width × Depth)` (Approximate dimensions for the PlayStation 5 Slim model. PS5 Pro dimensions are expected to be larger.)
+* **Console Weight (PS5 Slim)**: Metric: `3.2 kg` | Imperial: `7.1 lbs` (Approximate weight for the PlayStation 5 Slim model. PS5 Pro weight is expected to be higher.)
+* **Included Stand Type (PS5 Slim)**: Metric: `Horizontal Stand` | Imperial: `Horizontal Stand` (The PS5 Slim model includes a horizontal stand. A vertical stand is sold separately.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=PS5+Slim+Pro+M.2+NVMe+SSD+heatsink&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=PS5+Slim+Pro+M.2+NVMe+SSD+heatsink&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=PS5+Slim+Pro+M.2+NVMe+SSD+heatsink&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=PS5+Slim+Pro+M.2+NVMe+SSD+heatsink&tag=autocompat-21
+
+---
