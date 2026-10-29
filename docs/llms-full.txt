@@ -535,3 +535,27 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=PS5+Slim+Pro+M.2+NVMe+SSD+heatsink&tag=autocompat-21
 
 ---
+
+## Xbox Series X (HARDWARE)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/xbox-series-x-hardware-compatibility-matrix.html
+- Summary: Comprehensive compatibility and exact measurement matrix for the Xbox Series X console, detailing physical dimensions, storage, video output, and core hardware specifications.
+
+### Exact Specifications (Dual Units):
+* **Dimensions (Console)**: Metric: `15.1 x 15.1 x 30.1 cm (151 x 151 x 301 mm)` | Imperial: `5.94 x 5.94 x 11.85 inches` (Vertical orientation is recommended for optimal airflow, but horizontal is supported.)
+* **Weight (Console)**: Metric: `4.45 kg` | Imperial: `9.8 lbs` (Approximate weight of the console unit only.)
+* **Internal Storage**: Metric: `1 TB NVMe SSD` | Imperial: `1 TB NVMe SSD` (Approximately 802 GB usable space for games and apps.)
+* **Storage Expansion**: Metric: `Dedicated slot for 1 TB Seagate Storage Expansion Card (CFexpress Type B equivalent)` | Imperial: `Dedicated slot for 1 TB Seagate Storage Expansion Card (CFexpress Type B equivalent)` (Proprietary expansion card required for full Xbox Series X performance. USB 3.1 external HDD/SSD supported for Xbox One/360/Original Xbox games.)
+* **Video Output**: Metric: `HDMI 2.1 (Up to 4K @ 120Hz, 8K @ 60Hz)` | Imperial: `HDMI 2.1 (Up to 4K @ 120Hz, 8K @ 60Hz)` (Supports Variable Refresh Rate (VRR), Auto Low Latency Mode (ALLM), and High Dynamic Range (HDR).)
+* **Optical Drive**: Metric: `4K UHD Blu-ray Drive` | Imperial: `4K UHD Blu-ray Drive` (Supports physical game discs and 4K Ultra HD Blu-ray movies.)
+* **CPU**: Metric: `Custom 8x Cores @ 3.8 GHz (3.66 GHz with SMT) AMD Zen 2 CPU` | Imperial: `Custom 8x Cores @ 3.8 GHz (3.66 GHz with SMT) AMD Zen 2 CPU` (Designed for high-performance gaming.)
+* **GPU**: Metric: `Custom 12 TFLOPS, 52 CUs @ 1.825 GHz AMD RDNA 2 GPU` | Imperial: `Custom 12 TFLOPS, 52 CUs @ 1.825 GHz AMD RDNA 2 GPU` (Enables hardware-accelerated DirectX Raytracing.)
+* **RAM**: Metric: `16 GB GDDR6 (10 GB @ 560 GB/s, 6 GB @ 336 GB/s)` | Imperial: `16 GB GDDR6 (10 GB @ 560 GB/s, 6 GB @ 336 GB/s)` (Unified memory architecture for CPU and GPU.)
+* **Power Consumption**: Metric: `Max 300 Watts (Gaming: 160-200 W, Idle: 30-40 W, Standby: <1 W)` | Imperial: `Max 300 Watts (Gaming: 160-200 W, Idle: 30-40 W, Standby: <1 W)` (Actual consumption varies based on game, settings, and system load.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=Xbox+Series+X+console&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=Xbox+Series+X+console&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=Xbox+Series+X+console&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=Xbox+Series+X+console&tag=autocompat-21
+
+---

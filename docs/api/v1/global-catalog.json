@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-10-29T12:12:13.982681+00:00",
-  "total_items": 27,
+  "generated_at": "2026-10-29T22:25:10.354326+00:00",
+  "total_items": 28,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -11505,6 +11505,558 @@
             {
               "q": "Wordt de PS5 Slim/Pro geleverd met een standaard?",
               "a": "Het PS5 Slim-model wordt geleverd met een horizontale standaard. Een verticale standaard wordt apart verkocht. Details over de PS5 Pro-standaard zijn nog niet bekend."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "xbox-series-x",
+      "slug": "xbox-series-x-hardware-compatibility-matrix",
+      "subject": "Xbox Series X",
+      "category": "hardware",
+      "spec_rows": [
+        {
+          "item": "Dimensions (Console)",
+          "metric": "15.1 x 15.1 x 30.1 cm (151 x 151 x 301 mm)",
+          "imperial": "5.94 x 5.94 x 11.85 inches",
+          "status": "Verified",
+          "note": "Vertical orientation is recommended for optimal airflow, but horizontal is supported.",
+          "item_translations": {
+            "en": "Dimensions (Console)",
+            "de": "Abmessungen (Konsole)",
+            "fr": "Dimensions (Console)",
+            "es": "Dimensiones (Consola)",
+            "it": "Dimensioni (Console)",
+            "ja": "寸法 (本体)",
+            "pt": "Dimensões (Console)",
+            "nl": "Afmetingen (Console)"
+          },
+          "note_translations": {
+            "en": "Vertical orientation is recommended for optimal airflow, but horizontal is supported.",
+            "de": "Vertikale Ausrichtung wird für optimale Luftzirkulation empfohlen, horizontale Ausrichtung wird jedoch unterstützt.",
+            "fr": "L'orientation verticale est recommandée pour une circulation d'air optimale, mais l'horizontale est prise en charge.",
+            "es": "Se recomienda la orientación vertical para un flujo de aire óptimo, pero la horizontal es compatible.",
+            "it": "L'orientamento verticale è raccomandato per un flusso d'aria ottimale, ma quello orizzontale è supportato.",
+            "ja": "最適なエアフローのためには縦置きが推奨されますが、横置きもサポートされています。",
+            "pt": "A orientação vertical é recomendada para um fluxo de ar ideal, mas a horizontal é suportada.",
+            "nl": "Verticale oriëntatie wordt aanbevolen voor optimale luchtstroom, maar horizontale oriëntatie wordt ondersteund."
+          }
+        },
+        {
+          "item": "Weight (Console)",
+          "metric": "4.45 kg",
+          "imperial": "9.8 lbs",
+          "status": "Verified",
+          "note": "Approximate weight of the console unit only.",
+          "item_translations": {
+            "en": "Weight (Console)",
+            "de": "Gewicht (Konsole)",
+            "fr": "Poids (Console)",
+            "es": "Peso (Consola)",
+            "it": "Peso (Console)",
+            "ja": "重量 (本体)",
+            "pt": "Peso (Console)",
+            "nl": "Gewicht (Console)"
+          },
+          "note_translations": {
+            "en": "Approximate weight of the console unit only.",
+            "de": "Ungefähres Gewicht der Konsoleinheit allein.",
+            "fr": "Poids approximatif de l'unité de console uniquement.",
+            "es": "Peso aproximado solo de la unidad de consola.",
+            "it": "Peso approssimativo della sola unità console.",
+            "ja": "本体ユニットのみのおおよその重量です。",
+            "pt": "Peso aproximado apenas da unidade do console.",
+            "nl": "Geschat gewicht van de console-eenheid alleen."
+          }
+        },
+        {
+          "item": "Internal Storage",
+          "metric": "1 TB NVMe SSD",
+          "imperial": "1 TB NVMe SSD",
+          "status": "Verified",
+          "note": "Approximately 802 GB usable space for games and apps.",
+          "item_translations": {
+            "en": "Internal Storage",
+            "de": "Interner Speicher",
+            "fr": "Stockage Interne",
+            "es": "Almacenamiento Interno",
+            "it": "Archiviazione Interna",
+            "ja": "内部ストレージ",
+            "pt": "Armazenamento Interno",
+            "nl": "Interne Opslag"
+          },
+          "note_translations": {
+            "en": "Approximately 802 GB usable space for games and apps.",
+            "de": "Ungefähr 802 GB nutzbarer Speicherplatz für Spiele und Apps.",
+            "fr": "Environ 802 Go d'espace utilisable pour les jeux et applications.",
+            "es": "Aproximadamente 802 GB de espacio utilizable para juegos y aplicaciones.",
+            "it": "Circa 802 GB di spazio utilizzabile per giochi e app.",
+            "ja": "ゲームやアプリに約802 GBの利用可能なスペース。",
+            "pt": "Aproximadamente 802 GB de espaço utilizável para jogos e aplicativos.",
+            "nl": "Ongeveer 802 GB bruikbare ruimte voor games en apps."
+          }
+        },
+        {
+          "item": "Storage Expansion",
+          "metric": "Dedicated slot for 1 TB Seagate Storage Expansion Card (CFexpress Type B equivalent)",
+          "imperial": "Dedicated slot for 1 TB Seagate Storage Expansion Card (CFexpress Type B equivalent)",
+          "status": "Verified",
+          "note": "Proprietary expansion card required for full Xbox Series X performance. USB 3.1 external HDD/SSD supported for Xbox One/360/Original Xbox games.",
+          "item_translations": {
+            "en": "Storage Expansion",
+            "de": "Speichererweiterung",
+            "fr": "Extension de Stockage",
+            "es": "Expansión de Almacenamiento",
+            "it": "Espansione Archiviazione",
+            "ja": "ストレージ拡張",
+            "pt": "Expansão de Armazenamento",
+            "nl": "Opslaguitbreiding"
+          },
+          "note_translations": {
+            "en": "Proprietary expansion card required for full Xbox Series X performance. USB 3.1 external HDD/SSD supported for Xbox One/360/Original Xbox games.",
+            "de": "Proprietäre Erweiterungskarte für volle Xbox Series X Leistung erforderlich. Externe USB 3.1 HDD/SSD für Xbox One/360/Original Xbox Spiele unterstützt.",
+            "fr": "Carte d'extension propriétaire requise pour les performances complètes de la Xbox Series X. Disque dur/SSD externe USB 3.1 pris en charge pour les jeux Xbox One/360/Xbox Originale.",
+            "es": "Tarjeta de expansión propietaria requerida para el rendimiento completo de Xbox Series X. HDD/SSD externo USB 3.1 compatible para juegos de Xbox One/360/Xbox Original.",
+            "it": "Scheda di espansione proprietaria richiesta per le prestazioni complete di Xbox Series X. HDD/SSD esterno USB 3.1 supportato per giochi Xbox One/360/Xbox Originale.",
+            "ja": "Xbox Series Xのフル性能には専用拡張カードが必要です。Xbox One/360/初代XboxゲームにはUSB 3.1外付けHDD/SSDがサポートされています。",
+            "pt": "Cartão de expansão proprietário necessário para o desempenho total do Xbox Series X. HDD/SSD externo USB 3.1 suportado para jogos Xbox One/360/Xbox Original.",
+            "nl": "Eigendoms uitbreidingskaart vereist voor volledige Xbox Series X prestaties. Externe USB 3.1 HDD/SSD ondersteund voor Xbox One/360/Original Xbox games."
+          }
+        },
+        {
+          "item": "Video Output",
+          "metric": "HDMI 2.1 (Up to 4K @ 120Hz, 8K @ 60Hz)",
+          "imperial": "HDMI 2.1 (Up to 4K @ 120Hz, 8K @ 60Hz)",
+          "status": "Verified",
+          "note": "Supports Variable Refresh Rate (VRR), Auto Low Latency Mode (ALLM), and High Dynamic Range (HDR).",
+          "item_translations": {
+            "en": "Video Output",
+            "de": "Videoausgang",
+            "fr": "Sortie Vidéo",
+            "es": "Salida de Video",
+            "it": "Uscita Video",
+            "ja": "ビデオ出力",
+            "pt": "Saída de Vídeo",
+            "nl": "Video-uitgang"
+          },
+          "note_translations": {
+            "en": "Supports Variable Refresh Rate (VRR), Auto Low Latency Mode (ALLM), and High Dynamic Range (HDR).",
+            "de": "Unterstützt Variable Refresh Rate (VRR), Auto Low Latency Mode (ALLM) und High Dynamic Range (HDR).",
+            "fr": "Prend en charge le taux de rafraîchissement variable (VRR), le mode de faible latence automatique (ALLM) et la plage dynamique élevée (HDR).",
+            "es": "Soporta Tasa de Refresco Variable (VRR), Modo de Baja Latencia Automático (ALLM) y Alto Rango Dinámico (HDR).",
+            "it": "Supporta Variable Refresh Rate (VRR), Auto Low Latency Mode (ALLM) e High Dynamic Range (HDR).",
+            "ja": "可変リフレッシュレート (VRR)、自動低遅延モード (ALLM)、ハイダイナミックレンジ (HDR) をサポートします。",
+            "pt": "Suporta Taxa de Atualização Variável (VRR), Modo de Baixa Latência Automática (ALLM) e High Dynamic Range (HDR).",
+            "nl": "Ondersteunt Variable Refresh Rate (VRR), Auto Low Latency Mode (ALLM) en High Dynamic Range (HDR)."
+          }
+        },
+        {
+          "item": "Optical Drive",
+          "metric": "4K UHD Blu-ray Drive",
+          "imperial": "4K UHD Blu-ray Drive",
+          "status": "Verified",
+          "note": "Supports physical game discs and 4K Ultra HD Blu-ray movies.",
+          "item_translations": {
+            "en": "Optical Drive",
+            "de": "Optisches Laufwerk",
+            "fr": "Lecteur Optique",
+            "es": "Unidad Óptica",
+            "it": "Unità Ottica",
+            "ja": "光学ドライブ",
+            "pt": "Unidade Óptica",
+            "nl": "Optische Drive"
+          },
+          "note_translations": {
+            "en": "Supports physical game discs and 4K Ultra HD Blu-ray movies.",
+            "de": "Unterstützt physische Spielediscs und 4K Ultra HD Blu-ray Filme.",
+            "fr": "Prend en charge les disques de jeux physiques et les films Blu-ray 4K Ultra HD.",
+            "es": "Soporta discos de juegos físicos y películas Blu-ray 4K Ultra HD.",
+            "it": "Supporta dischi di gioco fisici e film Blu-ray 4K Ultra HD.",
+            "ja": "物理ゲームディスクと4K Ultra HD Blu-ray映画をサポートします。",
+            "pt": "Suporta discos de jogos físicos e filmes Blu-ray 4K Ultra HD.",
+            "nl": "Ondersteunt fysieke game discs en 4K Ultra HD Blu-ray films."
+          }
+        },
+        {
+          "item": "CPU",
+          "metric": "Custom 8x Cores @ 3.8 GHz (3.66 GHz with SMT) AMD Zen 2 CPU",
+          "imperial": "Custom 8x Cores @ 3.8 GHz (3.66 GHz with SMT) AMD Zen 2 CPU",
+          "status": "Verified",
+          "note": "Designed for high-performance gaming.",
+          "item_translations": {
+            "en": "CPU",
+            "de": "CPU",
+            "fr": "CPU",
+            "es": "CPU",
+            "it": "CPU",
+            "ja": "CPU",
+            "pt": "CPU",
+            "nl": "CPU"
+          },
+          "note_translations": {
+            "en": "Designed for high-performance gaming.",
+            "de": "Entwickelt für Hochleistungs-Gaming.",
+            "fr": "Conçu pour le jeu haute performance.",
+            "es": "Diseñado para juegos de alto rendimiento.",
+            "it": "Progettato per il gaming ad alte prestazioni.",
+            "ja": "高性能ゲーミング向けに設計されています。",
+            "pt": "Projetado para jogos de alto desempenho.",
+            "nl": "Ontworpen voor high-performance gaming."
+          }
+        },
+        {
+          "item": "GPU",
+          "metric": "Custom 12 TFLOPS, 52 CUs @ 1.825 GHz AMD RDNA 2 GPU",
+          "imperial": "Custom 12 TFLOPS, 52 CUs @ 1.825 GHz AMD RDNA 2 GPU",
+          "status": "Verified",
+          "note": "Enables hardware-accelerated DirectX Raytracing.",
+          "item_translations": {
+            "en": "GPU",
+            "de": "GPU",
+            "fr": "GPU",
+            "es": "GPU",
+            "it": "GPU",
+            "ja": "GPU",
+            "pt": "GPU",
+            "nl": "GPU"
+          },
+          "note_translations": {
+            "en": "Enables hardware-accelerated DirectX Raytracing.",
+            "de": "Ermöglicht hardwarebeschleunigtes DirectX Raytracing.",
+            "fr": "Permet le Raytracing DirectX accéléré par le matériel.",
+            "es": "Permite el Raytracing DirectX acelerado por hardware.",
+            "it": "Abilita il Raytracing DirectX accelerato dall'hardware.",
+            "ja": "ハードウェアアクセラレーションによるDirectXレイトレーシングを可能にします。",
+            "pt": "Permite o Raytracing DirectX acelerado por hardware.",
+            "nl": "Maakt hardware-versnelde DirectX Raytracing mogelijk."
+          }
+        },
+        {
+          "item": "RAM",
+          "metric": "16 GB GDDR6 (10 GB @ 560 GB/s, 6 GB @ 336 GB/s)",
+          "imperial": "16 GB GDDR6 (10 GB @ 560 GB/s, 6 GB @ 336 GB/s)",
+          "status": "Verified",
+          "note": "Unified memory architecture for CPU and GPU.",
+          "item_translations": {
+            "en": "RAM",
+            "de": "RAM",
+            "fr": "RAM",
+            "es": "RAM",
+            "it": "RAM",
+            "ja": "RAM",
+            "pt": "RAM",
+            "nl": "RAM"
+          },
+          "note_translations": {
+            "en": "Unified memory architecture for CPU and GPU.",
+            "de": "Vereinheitlichte Speicherarchitektur für CPU und GPU.",
+            "fr": "Architecture de mémoire unifiée pour CPU et GPU.",
+            "es": "Arquitectura de memoria unificada para CPU y GPU.",
+            "it": "Architettura di memoria unificata per CPU e GPU.",
+            "ja": "CPUとGPUのための統合メモリアーキテクチャ。",
+            "pt": "Arquitetura de memória unificada para CPU e GPU.",
+            "nl": "Uniforme geheugenarchitectuur voor CPU en GPU."
+          }
+        },
+        {
+          "item": "Power Consumption",
+          "metric": "Max 300 Watts (Gaming: 160-200 W, Idle: 30-40 W, Standby: <1 W)",
+          "imperial": "Max 300 Watts (Gaming: 160-200 W, Idle: 30-40 W, Standby: <1 W)",
+          "status": "Verified",
+          "note": "Actual consumption varies based on game, settings, and system load.",
+          "item_translations": {
+            "en": "Power Consumption",
+            "de": "Stromverbrauch",
+            "fr": "Consommation Électrique",
+            "es": "Consumo de Energía",
+            "it": "Consumo Energetico",
+            "ja": "消費電力",
+            "pt": "Consumo de Energia",
+            "nl": "Stroomverbruik"
+          },
+          "note_translations": {
+            "en": "Actual consumption varies based on game, settings, and system load.",
+            "de": "Der tatsächliche Verbrauch variiert je nach Spiel, Einstellungen und Systemauslastung.",
+            "fr": "La consommation réelle varie en fonction du jeu, des paramètres et de la charge du système.",
+            "es": "El consumo real varía según el juego, la configuración y la carga del sistema.",
+            "it": "Il consumo effettivo varia in base al gioco, alle impostazioni e al carico del sistema.",
+            "ja": "実際の消費電力は、ゲーム、設定、システム負荷によって異なります。",
+            "pt": "O consumo real varia com base no jogo, configurações e carga do sistema.",
+            "nl": "Werkelijk verbruik varieert op basis van spel, instellingen en systeem belasting."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "xbox-series-x-hardware-compatibility-matrix",
+          "title": "Xbox Series X Hardware Compatibility & Measurement Matrix",
+          "summary": "Comprehensive compatibility and exact measurement matrix for the Xbox Series X console, detailing physical dimensions, storage, video output, and core hardware specifications.",
+          "amazon_search_query": "Xbox Series X console",
+          "buy_box_title": "Get the Xbox Series X Console",
+          "buy_box_subtitle": "Experience next-gen gaming with 4K resolution and lightning-fast load times.",
+          "allowed_guidelines": [
+            "Compatible with HDMI 2.1 displays for 4K 120Hz gaming.",
+            "Supports proprietary Seagate Storage Expansion Cards for full-speed storage.",
+            "USB 3.1 external drives compatible for backward-compatible games.",
+            "Supports 4K UHD Blu-ray discs."
+          ],
+          "strict_restrictions": [
+            "Requires a power outlet (100-240V AC, 50/60Hz).",
+            "Proprietary storage expansion card required for Xbox Series X|S optimized games.",
+            "Internet connection required for initial setup and system updates.",
+            "Does not support external GPUs."
+          ],
+          "faqs": [
+            {
+              "q": "Can I use any external SSD with the Xbox Series X?",
+              "a": "You can use USB 3.1 external SSDs for storing and playing Xbox One, Xbox 360, and Original Xbox games. For Xbox Series X|S optimized games, you must use the proprietary Seagate Storage Expansion Card."
+            },
+            {
+              "q": "What kind of HDMI cable do I need for 4K 120Hz?",
+              "a": "You need an Ultra High Speed HDMI cable (HDMI 2.1 certified) to achieve 4K at 120Hz. The console includes one."
+            },
+            {
+              "q": "Can the Xbox Series X play 8K content?",
+              "a": "Yes, the Xbox Series X supports 8K output at 60Hz, though 8K gaming is not currently a primary focus."
+            }
+          ]
+        },
+        "de": {
+          "slug": "xbox-series-x-hardware-kompatibilitaets-matrix",
+          "title": "Xbox Series X Hardware Kompatibilitäts- & Messmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messmatrix für die Xbox Series X Konsole, detailliert mit physischen Abmessungen, Speicher, Videoausgang und Kern-Hardware-Spezifikationen.",
+          "amazon_search_query": "Xbox Series X Konsole",
+          "buy_box_title": "Holen Sie sich die Xbox Series X Konsole",
+          "buy_box_subtitle": "Erleben Sie Next-Gen-Gaming mit 4K-Auflösung und blitzschnellen Ladezeiten.",
+          "allowed_guidelines": [
+            "Kompatibel mit HDMI 2.1 Displays für 4K 120Hz Gaming.",
+            "Unterstützt proprietäre Seagate Speichererweiterungskarten für volle Speichergeschwindigkeit.",
+            "Externe USB 3.1 Laufwerke kompatibel für abwärtskompatible Spiele.",
+            "Unterstützt 4K UHD Blu-ray Discs."
+          ],
+          "strict_restrictions": [
+            "Benötigt eine Steckdose (100-240V AC, 50/60Hz).",
+            "Proprietäre Speichererweiterungskarte für Xbox Series X|S optimierte Spiele erforderlich.",
+            "Internetverbindung für die Ersteinrichtung und Systemupdates erforderlich.",
+            "Unterstützt keine externen GPUs."
+          ],
+          "faqs": [
+            {
+              "q": "Kann ich jede externe SSD mit der Xbox Series X verwenden?",
+              "a": "Sie können externe USB 3.1 SSDs zum Speichern und Spielen von Xbox One, Xbox 360 und Original Xbox Spielen verwenden. Für Xbox Series X|S optimierte Spiele müssen Sie die proprietäre Seagate Speichererweiterungskarte verwenden."
+            },
+            {
+              "q": "Welches HDMI-Kabel benötige ich für 4K 120Hz?",
+              "a": "Sie benötigen ein Ultra High Speed HDMI-Kabel (HDMI 2.1 zertifiziert), um 4K bei 120Hz zu erreichen. Die Konsole enthält ein solches Kabel."
+            },
+            {
+              "q": "Kann die Xbox Series X 8K-Inhalte abspielen?",
+              "a": "Ja, die Xbox Series X unterstützt 8K-Ausgabe bei 60Hz, obwohl 8K-Gaming derzeit kein primärer Fokus ist."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "xbox-series-x-compatibilite-materielle-matrice",
+          "title": "Matrice de Compatibilité et de Mesures Matérielles Xbox Series X",
+          "summary": "Matrice complète de compatibilité et de mesures exactes pour la console Xbox Series X, détaillant les dimensions physiques, le stockage, la sortie vidéo et les spécifications matérielles de base.",
+          "amazon_search_query": "console Xbox Series X",
+          "buy_box_title": "Obtenez la Console Xbox Series X",
+          "buy_box_subtitle": "Découvrez le jeu de nouvelle génération avec une résolution 4K et des temps de chargement ultra-rapides.",
+          "allowed_guidelines": [
+            "Compatible avec les écrans HDMI 2.1 pour le jeu en 4K 120Hz.",
+            "Prend en charge les cartes d'extension de stockage Seagate propriétaires pour un stockage à pleine vitesse.",
+            "Disques externes USB 3.1 compatibles pour les jeux rétrocompatibles.",
+            "Prend en charge les disques Blu-ray 4K UHD."
+          ],
+          "strict_restrictions": [
+            "Nécessite une prise de courant (100-240V AC, 50/60Hz).",
+            "Carte d'extension de stockage propriétaire requise pour les jeux optimisés Xbox Series X|S.",
+            "Connexion Internet requise pour la configuration initiale et les mises à jour du système.",
+            "Ne prend pas en charge les GPU externes."
+          ],
+          "faqs": [
+            {
+              "q": "Puis-je utiliser n'importe quel SSD externe avec la Xbox Series X?",
+              "a": "Vous pouvez utiliser des SSD externes USB 3.1 pour stocker et jouer aux jeux Xbox One, Xbox 360 et Xbox Originale. Pour les jeux optimisés Xbox Series X|S, vous devez utiliser la carte d'extension de stockage Seagate propriétaire."
+            },
+            {
+              "q": "Quel type de câble HDMI ai-je besoin pour le 4K 120Hz?",
+              "a": "Vous avez besoin d'un câble HDMI Ultra Haute Vitesse (certifié HDMI 2.1) pour atteindre le 4K à 120Hz. La console en inclut un."
+            },
+            {
+              "q": "La Xbox Series X peut-elle lire du contenu 8K?",
+              "a": "Oui, la Xbox Series X prend en charge la sortie 8K à 60Hz, bien que le jeu en 8K ne soit pas actuellement une priorité principale."
+            }
+          ]
+        },
+        "es": {
+          "slug": "xbox-series-x-compatibilidad-hardware-matriz",
+          "title": "Matriz de Compatibilidad y Medidas Exactas de Hardware Xbox Series X",
+          "summary": "Matriz completa de compatibilidad y medidas exactas para la consola Xbox Series X, detallando dimensiones físicas, almacenamiento, salida de video y especificaciones de hardware principales.",
+          "amazon_search_query": "consola Xbox Series X",
+          "buy_box_title": "Consigue la Consola Xbox Series X",
+          "buy_box_subtitle": "Experimenta los juegos de próxima generación con resolución 4K y tiempos de carga ultrarrápidos.",
+          "allowed_guidelines": [
+            "Compatible con pantallas HDMI 2.1 para juegos 4K 120Hz.",
+            "Soporta tarjetas de expansión de almacenamiento Seagate propietarias para almacenamiento a máxima velocidad.",
+            "Unidades externas USB 3.1 compatibles para juegos retrocompatibles.",
+            "Soporta discos Blu-ray 4K UHD."
+          ],
+          "strict_restrictions": [
+            "Requiere una toma de corriente (100-240V AC, 50/60Hz).",
+            "Tarjeta de expansión de almacenamiento propietaria requerida para juegos optimizados para Xbox Series X|S.",
+            "Conexión a Internet requerida para la configuración inicial y las actualizaciones del sistema.",
+            "No es compatible con GPUs externas."
+          ],
+          "faqs": [
+            {
+              "q": "¿Puedo usar cualquier SSD externo con la Xbox Series X?",
+              "a": "Puedes usar SSDs externos USB 3.1 para almacenar y jugar juegos de Xbox One, Xbox 360 y Xbox Original. Para juegos optimizados para Xbox Series X|S, debes usar la tarjeta de expansión de almacenamiento propietaria de Seagate."
+            },
+            {
+              "q": "¿Qué tipo de cable HDMI necesito para 4K 120Hz?",
+              "a": "Necesitas un cable HDMI de Ultra Alta Velocidad (certificado HDMI 2.1) para lograr 4K a 120Hz. La consola incluye uno."
+            },
+            {
+              "q": "¿Puede la Xbox Series X reproducir contenido 8K?",
+              "a": "Sí, la Xbox Series X soporta salida 8K a 60Hz, aunque los juegos en 8K no son actualmente un enfoque principal."
+            }
+          ]
+        },
+        "it": {
+          "slug": "xbox-series-x-compatibilita-hardware-matrice",
+          "title": "Matrice di Compatibilità e Misure Esatte Hardware Xbox Series X",
+          "summary": "Matrice completa di compatibilità e misure esatte per la console Xbox Series X, che dettaglia dimensioni fisiche, archiviazione, uscita video e specifiche hardware principali.",
+          "amazon_search_query": "console Xbox Series X",
+          "buy_box_title": "Ottieni la Console Xbox Series X",
+          "buy_box_subtitle": "Vivi il gaming di nuova generazione con risoluzione 4K e tempi di caricamento fulminei.",
+          "allowed_guidelines": [
+            "Compatibile con display HDMI 2.1 per gaming 4K 120Hz.",
+            "Supporta schede di espansione di archiviazione Seagate proprietarie per archiviazione a piena velocità.",
+            "Unità esterne USB 3.1 compatibili per giochi retrocompatibili.",
+            "Supporta dischi Blu-ray 4K UHD."
+          ],
+          "strict_restrictions": [
+            "Richiede una presa di corrente (100-240V AC, 50/60Hz).",
+            "Scheda di espansione di archiviazione proprietaria richiesta per i giochi ottimizzati per Xbox Series X|S.",
+            "Connessione Internet richiesta per la configurazione iniziale e gli aggiornamenti di sistema.",
+            "Non supporta GPU esterne."
+          ],
+          "faqs": [
+            {
+              "q": "Posso usare qualsiasi SSD esterno con la Xbox Series X?",
+              "a": "Puoi usare SSD esterni USB 3.1 per archiviare e giocare ai giochi Xbox One, Xbox 360 e Xbox Originale. Per i giochi ottimizzati per Xbox Series X|S, devi usare la scheda di espansione di archiviazione proprietaria Seagate."
+            },
+            {
+              "q": "Che tipo di cavo HDMI mi serve per il 4K 120Hz?",
+              "a": "Hai bisogno di un cavo HDMI Ultra High Speed (certificato HDMI 2.1) per raggiungere il 4K a 120Hz. La console ne include uno."
+            },
+            {
+              "q": "La Xbox Series X può riprodurre contenuti 8K?",
+              "a": "Sì, la Xbox Series X supporta l'uscita 8K a 60Hz, sebbene il gaming in 8K non sia attualmente un focus primario."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "xbox-series-x-hardware-compatibility-matrix",
+          "title": "Xbox Series X ハードウェア互換性および正確な測定マトリックス",
+          "summary": "Xbox Series X本体の物理的寸法、ストレージ、ビデオ出力、およびコアハードウェア仕様を詳述した、包括的な互換性および正確な測定マトリックス。",
+          "amazon_search_query": "Xbox Series X 本体",
+          "buy_box_title": "Xbox Series X 本体を手に入れよう",
+          "buy_box_subtitle": "4K解像度と超高速ロード時間で次世代ゲームを体験してください。",
+          "allowed_guidelines": [
+            "4K 120Hzゲーミングに対応するHDMI 2.1ディスプレイと互換性があります。",
+            "フルスピードストレージ用のSeagate独自のストレージ拡張カードをサポートします。",
+            "下位互換性のあるゲームにはUSB 3.1外付けドライブが対応します。",
+            "4K UHD Blu-rayディスクをサポートします。"
+          ],
+          "strict_restrictions": [
+            "電源コンセントが必要です (100-240V AC, 50/60Hz)。",
+            "Xbox Series X|S最適化ゲームには独自のストレージ拡張カードが必要です。",
+            "初期設定およびシステムアップデートにはインターネット接続が必要です。",
+            "外部GPUはサポートしていません。"
+          ],
+          "faqs": [
+            {
+              "q": "Xbox Series Xでどの外付けSSDでも使えますか？",
+              "a": "Xbox One、Xbox 360、および初代Xboxのゲームを保存してプレイするには、USB 3.1外付けSSDを使用できます。Xbox Series X|S最適化ゲームの場合、Seagate独自のストレージ拡張カードを使用する必要があります。"
+            },
+            {
+              "q": "4K 120HzにはどのようなHDMIケーブルが必要ですか？",
+              "a": "4K 120Hzを実現するには、ウルトラハイスピードHDMIケーブル（HDMI 2.1認証済み）が必要です。本体には1本付属しています。"
+            },
+            {
+              "q": "Xbox Series Xは8Kコンテンツを再生できますか？",
+              "a": "はい、Xbox Series Xは60Hzでの8K出力をサポートしていますが、現在8Kゲーミングは主要な焦点ではありません。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "xbox-series-x-compatibilidade-hardware-matriz",
+          "title": "Matriz de Compatibilidade e Medidas Exatas de Hardware Xbox Series X",
+          "summary": "Matriz abrangente de compatibilidade e medidas exatas para o console Xbox Series X, detalhando dimensões físicas, armazenamento, saída de vídeo e especificações de hardware principais.",
+          "amazon_search_query": "console Xbox Series X",
+          "buy_box_title": "Adquira o Console Xbox Series X",
+          "buy_box_subtitle": "Experimente jogos de próxima geração com resolução 4K e tempos de carregamento ultrarrápidos.",
+          "allowed_guidelines": [
+            "Compatível com monitores HDMI 2.1 para jogos em 4K 120Hz.",
+            "Suporta cartões de expansão de armazenamento Seagate proprietários para armazenamento de velocidade total.",
+            "Unidades externas USB 3.1 compatíveis para jogos retrocompatíveis.",
+            "Suporta discos Blu-ray 4K UHD."
+          ],
+          "strict_restrictions": [
+            "Requer uma tomada de energia (100-240V AC, 50/60Hz).",
+            "Cartão de expansão de armazenamento proprietário necessário para jogos otimizados para Xbox Series X|S.",
+            "Conexão à internet necessária para a configuração inicial e atualizações do sistema.",
+            "Não suporta GPUs externas."
+          ],
+          "faqs": [
+            {
+              "q": "Posso usar qualquer SSD externo com o Xbox Series X?",
+              "a": "Você pode usar SSDs externos USB 3.1 para armazenar e jogar jogos de Xbox One, Xbox 360 e Xbox Original. Para jogos otimizados para Xbox Series X|S, você deve usar o cartão de expansão de armazenamento proprietário da Seagate."
+            },
+            {
+              "q": "Que tipo de cabo HDMI preciso para 4K 120Hz?",
+              "a": "Você precisa de um cabo HDMI de Ultra Alta Velocidade (certificado HDMI 2.1) para atingir 4K a 120Hz. O console inclui um."
+            },
+            {
+              "q": "O Xbox Series X pode reproduzir conteúdo 8K?",
+              "a": "Sim, o Xbox Series X suporta saída 8K a 60Hz, embora o jogo em 8K não seja atualmente um foco principal."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "xbox-series-x-hardware-compatibiliteits-matrix",
+          "title": "Xbox Series X Hardware Compatibiliteits- & Meetmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetmatrix voor de Xbox Series X-console, met gedetailleerde fysieke afmetingen, opslag, video-uitvoer en kernhardware specificaties.",
+          "amazon_search_query": "Xbox Series X console",
+          "buy_box_title": "Koop de Xbox Series X Console",
+          "buy_box_subtitle": "Ervaar next-gen gaming met 4K-resolutie en razendsnelle laadtijden.",
+          "allowed_guidelines": [
+            "Compatibel met HDMI 2.1 schermen voor 4K 120Hz gaming.",
+            "Ondersteunt eigen Seagate Storage Expansion Cards voor volledige opslagsnelheid.",
+            "USB 3.1 externe schijven compatibel voor backwards-compatible games.",
+            "Ondersteunt 4K UHD Blu-ray discs."
+          ],
+          "strict_restrictions": [
+            "Vereist een stopcontact (100-240V AC, 50/60Hz).",
+            "Eigen opslaguitbreidingskaart vereist voor Xbox Series X|S geoptimaliseerde games.",
+            "Internetverbinding vereist voor initiële installatie en systeemupdates.",
+            "Ondersteunt geen externe GPU's."
+          ],
+          "faqs": [
+            {
+              "q": "Kan ik elke externe SSD gebruiken met de Xbox Series X?",
+              "a": "Je kunt USB 3.1 externe SSD's gebruiken voor het opslaan en spelen van Xbox One, Xbox 360 en Original Xbox games. Voor Xbox Series X|S geoptimaliseerde games moet je de eigen Seagate Storage Expansion Card gebruiken."
+            },
+            {
+              "q": "Welke HDMI-kabel heb ik nodig voor 4K 120Hz?",
+              "a": "Je hebt een Ultra High Speed HDMI-kabel (HDMI 2.1 gecertificeerd) nodig om 4K op 120Hz te bereiken. De console wordt geleverd met één."
+            },
+            {
+              "q": "Kan de Xbox Series X 8K-content afspelen?",
+              "a": "Ja, de Xbox Series X ondersteunt 8K-uitvoer op 60Hz, hoewel 8K-gaming momenteel geen primaire focus is."
             }
           ]
         }
