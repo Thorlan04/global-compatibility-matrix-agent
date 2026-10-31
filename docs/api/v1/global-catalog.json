@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-10-31T16:44:29.823933+00:00",
-  "total_items": 28,
+  "generated_at": "2026-10-31T20:57:36.701979+00:00",
+  "total_items": 29,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -12057,6 +12057,677 @@
             {
               "q": "Kan de Xbox Series X 8K-content afspelen?",
               "a": "Ja, de Xbox Series X ondersteunt 8K-uitvoer op 60Hz, hoewel 8K-gaming momenteel geen primaire focus is."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "macbook-pro-m3",
+      "slug": "macbook-pro-14-16-m3-m4-compatibility",
+      "subject": "Apple MacBook Pro 14 & 16 (M3/M4)",
+      "category": "hardware",
+      "spec_rows": [
+        {
+          "item": "MacBook Pro 14-inch Dimensions (Height x Width x Depth)",
+          "metric": "1.55 cm x 31.26 cm x 22.12 cm",
+          "imperial": "0.61 in x 12.31 in x 8.71 in",
+          "status": "Verified",
+          "note": "Applies to all MacBook Pro 14-inch M3, M3 Pro, and M3 Max models.",
+          "item_translations": {
+            "en": "MacBook Pro 14-inch Dimensions (Height x Width x Depth)",
+            "de": "MacBook Pro 14 Zoll Abmessungen (Höhe x Breite x Tiefe)",
+            "fr": "Dimensions du MacBook Pro 14 pouces (Hauteur x Largeur x Profondeur)",
+            "es": "Dimensiones del MacBook Pro de 14 pulgadas (Alto x Ancho x Profundidad)",
+            "it": "Dimensioni MacBook Pro 14 pollici (Altezza x Larghezza x Profondità)",
+            "ja": "MacBook Pro 14インチの寸法 (高さ x 幅 x 奥行き)",
+            "pt": "Dimensões do MacBook Pro de 14 polegadas (Altura x Largura x Profundidade)",
+            "nl": "MacBook Pro 14-inch Afmetingen (Hoogte x Breedte x Diepte)"
+          },
+          "note_translations": {
+            "en": "Applies to all MacBook Pro 14-inch M3, M3 Pro, and M3 Max models.",
+            "de": "Gilt für alle MacBook Pro 14 Zoll M3, M3 Pro und M3 Max Modelle.",
+            "fr": "S'applique à tous les modèles MacBook Pro 14 pouces M3, M3 Pro et M3 Max.",
+            "es": "Se aplica a todos los modelos MacBook Pro de 14 pulgadas M3, M3 Pro y M3 Max.",
+            "it": "Si applica a tutti i modelli MacBook Pro 14 pollici M3, M3 Pro e M3 Max.",
+            "ja": "すべてのMacBook Pro 14インチ M3、M3 Pro、およびM3 Maxモデルに適用されます。",
+            "pt": "Aplica-se a todos os modelos MacBook Pro de 14 polegadas M3, M3 Pro e M3 Max.",
+            "nl": "Van toepassing op alle MacBook Pro 14-inch M3, M3 Pro en M3 Max modellen."
+          }
+        },
+        {
+          "item": "MacBook Pro 16-inch Dimensions (Height x Width x Depth)",
+          "metric": "1.68 cm x 35.57 cm x 24.81 cm",
+          "imperial": "0.66 in x 14.01 in x 9.77 in",
+          "status": "Verified",
+          "note": "Applies to all MacBook Pro 16-inch M3 Pro and M3 Max models.",
+          "item_translations": {
+            "en": "MacBook Pro 16-inch Dimensions (Height x Width x Depth)",
+            "de": "MacBook Pro 16 Zoll Abmessungen (Höhe x Breite x Tiefe)",
+            "fr": "Dimensions du MacBook Pro 16 pouces (Hauteur x Largeur x Profondeur)",
+            "es": "Dimensiones del MacBook Pro de 16 pulgadas (Alto x Ancho x Profundidad)",
+            "it": "Dimensioni MacBook Pro 16 pollici (Altezza x Larghezza x Profondità)",
+            "ja": "MacBook Pro 16インチの寸法 (高さ x 幅 x 奥行き)",
+            "pt": "Dimensões do MacBook Pro de 16 polegadas (Altura x Largura x Profundidade)",
+            "nl": "MacBook Pro 16-inch Afmetingen (Hoogte x Breedte x Diepte)"
+          },
+          "note_translations": {
+            "en": "Applies to all MacBook Pro 16-inch M3 Pro and M3 Max models.",
+            "de": "Gilt für alle MacBook Pro 16 Zoll M3 Pro und M3 Max Modelle.",
+            "fr": "S'applique à tous les modèles MacBook Pro 16 pouces M3 Pro et M3 Max.",
+            "es": "Se aplica a todos los modelos MacBook Pro de 16 pulgadas M3 Pro y M3 Max.",
+            "it": "Si applica a tutti i modelli MacBook Pro 16 pollici M3 Pro e M3 Max.",
+            "ja": "すべてのMacBook Pro 16インチ M3 ProおよびM3 Maxモデルに適用されます。",
+            "pt": "Aplica-se a todos os modelos MacBook Pro de 16 polegadas M3 Pro e M3 Max.",
+            "nl": "Van toepassing op alle MacBook Pro 16-inch M3 Pro en M3 Max modellen."
+          }
+        },
+        {
+          "item": "MacBook Pro 14-inch Weight",
+          "metric": "1.55 kg (M3) / 1.61 kg (M3 Pro/Max)",
+          "imperial": "3.4 lbs (M3) / 3.5 lbs (M3 Pro/Max)",
+          "status": "Verified",
+          "note": "Weight varies slightly based on the specific M3 chip configuration.",
+          "item_translations": {
+            "en": "MacBook Pro 14-inch Weight",
+            "de": "MacBook Pro 14 Zoll Gewicht",
+            "fr": "Poids du MacBook Pro 14 pouces",
+            "es": "Peso del MacBook Pro de 14 pulgadas",
+            "it": "Peso MacBook Pro 14 pollici",
+            "ja": "MacBook Pro 14インチの重量",
+            "pt": "Peso do MacBook Pro de 14 polegadas",
+            "nl": "MacBook Pro 14-inch Gewicht"
+          },
+          "note_translations": {
+            "en": "Weight varies slightly based on the specific M3 chip configuration.",
+            "de": "Das Gewicht variiert leicht je nach spezifischer M3-Chip-Konfiguration.",
+            "fr": "Le poids varie légèrement en fonction de la configuration spécifique de la puce M3.",
+            "es": "El peso varía ligeramente según la configuración específica del chip M3.",
+            "it": "Il peso varia leggermente in base alla configurazione specifica del chip M3.",
+            "ja": "重量は、特定のM3チップ構成によって若干異なります。",
+            "pt": "O peso varia ligeiramente com base na configuração específica do chip M3.",
+            "nl": "Het gewicht varieert enigszins afhankelijk van de specifieke M3-chipconfiguratie."
+          }
+        },
+        {
+          "item": "MacBook Pro 16-inch Weight",
+          "metric": "2.14 kg (M3 Pro) / 2.16 kg (M3 Max)",
+          "imperial": "4.7 lbs (M3 Pro) / 4.8 lbs (M3 Max)",
+          "status": "Verified",
+          "note": "Weight varies slightly based on the specific M3 chip configuration.",
+          "item_translations": {
+            "en": "MacBook Pro 16-inch Weight",
+            "de": "MacBook Pro 16 Zoll Gewicht",
+            "fr": "Poids du MacBook Pro 16 pouces",
+            "es": "Peso del MacBook Pro de 16 pulgadas",
+            "it": "Peso MacBook Pro 16 pollici",
+            "ja": "MacBook Pro 16インチの重量",
+            "pt": "Peso do MacBook Pro de 16 polegadas",
+            "nl": "MacBook Pro 16-inch Gewicht"
+          },
+          "note_translations": {
+            "en": "Weight varies slightly based on the specific M3 chip configuration.",
+            "de": "Das Gewicht variiert leicht je nach spezifischer M3-Chip-Konfiguration.",
+            "fr": "Le poids varie légèrement en fonction de la configuration spécifique de la puce M3.",
+            "es": "El peso varía ligeramente según la configuración específica del chip M3.",
+            "it": "Il peso varia leggermente in base alla configurazione specifica del chip M3.",
+            "ja": "重量は、特定のM3チップ構成によって若干異なります。",
+            "pt": "O peso varia ligeiramente com base na configuração específica do chip M3.",
+            "nl": "Het gewicht varieert enigszins afhankelijk van de specifieke M3-chipconfiguratie."
+          }
+        },
+        {
+          "item": "MagSafe 3 Power Delivery",
+          "metric": "70W (14-inch M3/M3 Pro 11-core) / 96W (14-inch M3 Pro 12-core/M3 Max) / 140W (16-inch M3 Pro/Max)",
+          "imperial": "70W (14-inch M3/M3 Pro 11-core) / 96W (14-inch M3 Pro 12-core/M3 Max) / 140W (16-inch M3 Pro/Max)",
+          "status": "Verified",
+          "note": "MagSafe 3 port supports fast charging. The specific adapter wattage depends on the MacBook Pro model and configuration.",
+          "item_translations": {
+            "en": "MagSafe 3 Power Delivery",
+            "de": "MagSafe 3 Stromversorgung",
+            "fr": "Alimentation MagSafe 3",
+            "es": "Suministro de energía MagSafe 3",
+            "it": "Alimentazione MagSafe 3",
+            "ja": "MagSafe 3電源供給",
+            "pt": "Fornecimento de Energia MagSafe 3",
+            "nl": "MagSafe 3 Stroomvoorziening"
+          },
+          "note_translations": {
+            "en": "MagSafe 3 port supports fast charging. The specific adapter wattage depends on the MacBook Pro model and configuration.",
+            "de": "Der MagSafe 3 Anschluss unterstützt schnelles Laden. Die spezifische Adapterleistung hängt vom MacBook Pro Modell und der Konfiguration ab.",
+            "fr": "Le port MagSafe 3 prend en charge la charge rapide. La puissance de l'adaptateur spécifique dépend du modèle et de la configuration du MacBook Pro.",
+            "es": "El puerto MagSafe 3 admite carga rápida. La potencia específica del adaptador depende del modelo y la configuración del MacBook Pro.",
+            "it": "La porta MagSafe 3 supporta la ricarica rapida. Il wattaggio specifico dell'adattatore dipende dal modello e dalla configurazione del MacBook Pro.",
+            "ja": "MagSafe 3ポートは高速充電をサポートしています。特定のアダプターワット数は、MacBook Proのモデルと構成によって異なります。",
+            "pt": "A porta MagSafe 3 suporta carregamento rápido. A potência específica do adaptador depende do modelo e da configuração do MacBook Pro.",
+            "nl": "De MagSafe 3-poort ondersteunt snel opladen. Het specifieke adaptervermogen is afhankelijk van het MacBook Pro-model en de configuratie."
+          }
+        },
+        {
+          "item": "USB-C Power Delivery (PD 3.1)",
+          "metric": "Up to 140W (16-inch models) / Up to 96W (14-inch models)",
+          "imperial": "Up to 140W (16-inch models) / Up to 96W (14-inch models)",
+          "status": "Verified",
+          "note": "All Thunderbolt 4 ports also support USB-C Power Delivery. 16-inch models require a 140W adapter for full fast charging via USB-C.",
+          "item_translations": {
+            "en": "USB-C Power Delivery (PD 3.1)",
+            "de": "USB-C Power Delivery (PD 3.1)",
+            "fr": "Alimentation USB-C (PD 3.1)",
+            "es": "Suministro de energía USB-C (PD 3.1)",
+            "it": "Alimentazione USB-C (PD 3.1)",
+            "ja": "USB-C Power Delivery (PD 3.1)",
+            "pt": "Fornecimento de Energia USB-C (PD 3.1)",
+            "nl": "USB-C Power Delivery (PD 3.1)"
+          },
+          "note_translations": {
+            "en": "All Thunderbolt 4 ports also support USB-C Power Delivery. 16-inch models require a 140W adapter for full fast charging via USB-C.",
+            "de": "Alle Thunderbolt 4 Anschlüsse unterstützen auch USB-C Power Delivery. 16-Zoll-Modelle benötigen ein 140W-Netzteil für vollständiges schnelles Laden über USB-C.",
+            "fr": "Tous les ports Thunderbolt 4 prennent également en charge l'alimentation USB-C. Les modèles 16 pouces nécessitent un adaptateur de 140W pour une charge rapide complète via USB-C.",
+            "es": "Todos los puertos Thunderbolt 4 también admiten suministro de energía USB-C. Los modelos de 16 pulgadas requieren un adaptador de 140W para una carga rápida completa a través de USB-C.",
+            "it": "Tutte le porte Thunderbolt 4 supportano anche l'alimentazione USB-C. I modelli da 16 pollici richiedono un adattatore da 140W per la ricarica rapida completa tramite USB-C.",
+            "ja": "すべてのThunderbolt 4ポートはUSB-C Power Deliveryもサポートしています。16インチモデルは、USB-C経由での完全な高速充電には140Wアダプターが必要です。",
+            "pt": "Todas as portas Thunderbolt 4 também suportam fornecimento de energia USB-C. Os modelos de 16 polegadas exigem um adaptador de 140W para carregamento rápido completo via USB-C.",
+            "nl": "Alle Thunderbolt 4-poorten ondersteunen ook USB-C Power Delivery. 16-inch modellen vereisen een 140W-adapter voor volledig snel opladen via USB-C."
+          }
+        },
+        {
+          "item": "Thunderbolt 4 Ports",
+          "metric": "2 ports (14-inch M3) / 3 ports (14-inch M3 Pro/Max & all 16-inch models)",
+          "imperial": "2 ports (14-inch M3) / 3 ports (14-inch M3 Pro/Max & all 16-inch models)",
+          "status": "Verified",
+          "note": "Supports Thunderbolt 4 (up to 40Gb/s), DisplayPort, USB4 (up to 40Gb/s), and USB 3.1 Gen 2 (up to 10Gb/s).",
+          "item_translations": {
+            "en": "Thunderbolt 4 Ports",
+            "de": "Thunderbolt 4 Anschlüsse",
+            "fr": "Ports Thunderbolt 4",
+            "es": "Puertos Thunderbolt 4",
+            "it": "Porte Thunderbolt 4",
+            "ja": "Thunderbolt 4ポート",
+            "pt": "Portas Thunderbolt 4",
+            "nl": "Thunderbolt 4 Poorten"
+          },
+          "note_translations": {
+            "en": "Supports Thunderbolt 4 (up to 40Gb/s), DisplayPort, USB4 (up to 40Gb/s), and USB 3.1 Gen 2 (up to 10Gb/s).",
+            "de": "Unterstützt Thunderbolt 4 (bis zu 40 Gbit/s), DisplayPort, USB4 (bis zu 40 Gbit/s) und USB 3.1 Gen 2 (bis zu 10 Gbit/s).",
+            "fr": "Prend en charge Thunderbolt 4 (jusqu'à 40 Gbit/s), DisplayPort, USB4 (jusqu'à 40 Gbit/s) et USB 3.1 Gen 2 (jusqu'à 10 Gbit/s).",
+            "es": "Admite Thunderbolt 4 (hasta 40 Gb/s), DisplayPort, USB4 (hasta 40 Gb/s) y USB 3.1 Gen 2 (hasta 10 Gb/s).",
+            "it": "Supporta Thunderbolt 4 (fino a 40 Gb/s), DisplayPort, USB4 (fino a 40 Gb/s) e USB 3.1 Gen 2 (fino a 10 Gb/s).",
+            "ja": "Thunderbolt 4 (最大40Gb/s)、DisplayPort、USB4 (最大40Gb/s)、およびUSB 3.1 Gen 2 (最大10Gb/s) をサポートします。",
+            "pt": "Suporta Thunderbolt 4 (até 40 Gb/s), DisplayPort, USB4 (até 40 Gb/s) e USB 3.1 Gen 2 (até 10 Gb/s).",
+            "nl": "Ondersteunt Thunderbolt 4 (tot 40 Gb/s), DisplayPort, USB4 (tot 40 Gb/s) en USB 3.1 Gen 2 (tot 10 Gb/s)."
+          }
+        },
+        {
+          "item": "SDXC UHS-II Card Slot",
+          "metric": "UHS-II (up to 312 MB/s)",
+          "imperial": "UHS-II (up to 312 MB/s)",
+          "status": "Verified",
+          "note": "Backward compatible with UHS-I cards. Ideal for photographers and videographers requiring high-speed data transfer.",
+          "item_translations": {
+            "en": "SDXC UHS-II Card Slot",
+            "de": "SDXC UHS-II Kartensteckplatz",
+            "fr": "Emplacement pour carte SDXC UHS-II",
+            "es": "Ranura para tarjeta SDXC UHS-II",
+            "it": "Slot per schede SDXC UHS-II",
+            "ja": "SDXC UHS-IIカードスロット",
+            "pt": "Slot para Cartão SDXC UHS-II",
+            "nl": "SDXC UHS-II Kaartsleuf"
+          },
+          "note_translations": {
+            "en": "Backward compatible with UHS-I cards. Ideal for photographers and videographers requiring high-speed data transfer.",
+            "de": "Abwärtskompatibel mit UHS-I Karten. Ideal für Fotografen und Videografen, die eine schnelle Datenübertragung benötigen.",
+            "fr": "Rétrocompatible avec les cartes UHS-I. Idéal pour les photographes et vidéastes nécessitant un transfert de données à haute vitesse.",
+            "es": "Compatible con versiones anteriores de tarjetas UHS-I. Ideal para fotógrafos y videógrafos que requieren transferencia de datos de alta velocidad.",
+            "it": "Retrocompatibile con schede UHS-I. Ideale per fotografi e videomaker che richiedono un trasferimento dati ad alta velocità.",
+            "ja": "UHS-Iカードと下位互換性があります。高速データ転送を必要とする写真家やビデオグラファーに最適です。",
+            "pt": "Compatível com versões anteriores de cartões UHS-I. Ideal para fotógrafos e videógrafos que exigem transferência de dados de alta velocidade.",
+            "nl": "Achterwaarts compatibel met UHS-I kaarten. Ideaal voor fotografen en videografen die snelle gegevensoverdracht nodig hebben."
+          }
+        },
+        {
+          "item": "HDMI Port",
+          "metric": "HDMI 2.1",
+          "imperial": "HDMI 2.1",
+          "status": "Verified",
+          "note": "Supports up to 8K resolution at 60Hz or 4K resolution at 240Hz.",
+          "item_translations": {
+            "en": "HDMI Port",
+            "de": "HDMI Anschluss",
+            "fr": "Port HDMI",
+            "es": "Puerto HDMI",
+            "it": "Porta HDMI",
+            "ja": "HDMIポート",
+            "pt": "Porta HDMI",
+            "nl": "HDMI Poort"
+          },
+          "note_translations": {
+            "en": "Supports up to 8K resolution at 60Hz or 4K resolution at 240Hz.",
+            "de": "Unterstützt bis zu 8K Auflösung bei 60Hz oder 4K Auflösung bei 240Hz.",
+            "fr": "Prend en charge une résolution jusqu'à 8K à 60Hz ou 4K à 240Hz.",
+            "es": "Admite resolución de hasta 8K a 60Hz o resolución de 4K a 240Hz.",
+            "it": "Supporta risoluzione fino a 8K a 60Hz o risoluzione 4K a 240Hz.",
+            "ja": "最大8K解像度（60Hz）または4K解像度（240Hz）をサポートします。",
+            "pt": "Suporta resolução de até 8K a 60Hz ou resolução de 4K a 240Hz.",
+            "nl": "Ondersteunt tot 8K resolutie bij 60Hz of 4K resolutie bij 240Hz."
+          }
+        },
+        {
+          "item": "3.5mm Headphone Jack",
+          "metric": "High-impedance headphone support",
+          "imperial": "High-impedance headphone support",
+          "status": "Verified",
+          "note": "Advanced support for high-impedance headphones.",
+          "item_translations": {
+            "en": "3.5mm Headphone Jack",
+            "de": "3,5mm Kopfhöreranschluss",
+            "fr": "Prise casque 3,5 mm",
+            "es": "Conector para auriculares de 3,5 mm",
+            "it": "Jack per cuffie da 3,5 mm",
+            "ja": "3.5mmヘッドホンジャック",
+            "pt": "Entrada para Fone de Ouvido de 3,5 mm",
+            "nl": "3,5mm Hoofdtelefoonaansluiting"
+          },
+          "note_translations": {
+            "en": "Advanced support for high-impedance headphones.",
+            "de": "Erweiterte Unterstützung für hochohmige Kopfhörer.",
+            "fr": "Prise en charge avancée des casques à haute impédance.",
+            "es": "Soporte avanzado para auriculares de alta impedancia.",
+            "it": "Supporto avanzato per cuffie ad alta impedenza.",
+            "ja": "高インピーダンスヘッドホンに対応した高度なサポート。",
+            "pt": "Suporte avançado para fones de ouvido de alta impedância.",
+            "nl": "Geavanceerde ondersteuning voor hoofdtelefoons met hoge impedantie."
+          }
+        },
+        {
+          "item": "Battery Capacity (14-inch)",
+          "metric": "70 Wh",
+          "imperial": "70 Wh",
+          "status": "Verified",
+          "note": "Integrated lithium-polymer battery. Up to 22 hours of Apple TV app movie playback.",
+          "item_translations": {
+            "en": "Battery Capacity (14-inch)",
+            "de": "Akkukapazität (14 Zoll)",
+            "fr": "Capacité de la batterie (14 pouces)",
+            "es": "Capacidad de la batería (14 pulgadas)",
+            "it": "Capacità della batteria (14 pollici)",
+            "ja": "バッテリー容量 (14インチ)",
+            "pt": "Capacidade da Bateria (14 polegadas)",
+            "nl": "Batterijcapaciteit (14-inch)"
+          },
+          "note_translations": {
+            "en": "Integrated lithium-polymer battery. Up to 22 hours of Apple TV app movie playback.",
+            "de": "Integrierter Lithium-Polymer-Akku. Bis zu 22 Stunden Wiedergabe von Filmen über die Apple TV App.",
+            "fr": "Batterie lithium-polymère intégrée. Jusqu'à 22 heures de lecture de films via l'application Apple TV.",
+            "es": "Batería de polímero de litio integrada. Hasta 22 horas de reproducción de películas con la aplicación Apple TV.",
+            "it": "Batteria integrata ai polimeri di litio. Fino a 22 ore di riproduzione di film dall'app Apple TV.",
+            "ja": "統合型リチウムポリマーバッテリー。Apple TVアプリでの映画再生は最大22時間。",
+            "pt": "Bateria de polímero de lítio integrada. Até 22 horas de reprodução de filmes no aplicativo Apple TV.",
+            "nl": "Geïntegreerde lithium-polymeerbatterij. Tot 22 uur filmweergave via de Apple TV-app."
+          }
+        },
+        {
+          "item": "Battery Capacity (16-inch)",
+          "metric": "100 Wh",
+          "imperial": "100 Wh",
+          "status": "Verified",
+          "note": "Integrated lithium-polymer battery. Up to 22 hours of Apple TV app movie playback.",
+          "item_translations": {
+            "en": "Battery Capacity (16-inch)",
+            "de": "Akkukapazität (16 Zoll)",
+            "fr": "Capacité de la batterie (16 pouces)",
+            "es": "Capacidad de la batería (16 pulgadas)",
+            "it": "Capacità della batteria (16 pollici)",
+            "ja": "バッテリー容量 (16インチ)",
+            "pt": "Capacidade da Bateria (16 polegadas)",
+            "nl": "Batterijcapaciteit (16-inch)"
+          },
+          "note_translations": {
+            "en": "Integrated lithium-polymer battery. Up to 22 hours of Apple TV app movie playback.",
+            "de": "Integrierter Lithium-Polymer-Akku. Bis zu 22 Stunden Wiedergabe von Filmen über die Apple TV App.",
+            "fr": "Batterie lithium-polymère intégrée. Jusqu'à 22 heures de lecture de films via l'application Apple TV.",
+            "es": "Batería de polímero de litio integrada. Hasta 22 horas de reproducción de películas con la aplicación Apple TV.",
+            "it": "Batteria integrata ai polimeri di litio. Fino a 22 ore di riproduzione di film dall'app Apple TV.",
+            "ja": "統合型リチウムポリマーバッテリー。Apple TVアプリでの映画再生は最大22時間。",
+            "pt": "Bateria de polímero de lítio integrada. Até 22 horas de reprodução de filmes no aplicativo Apple TV.",
+            "nl": "Geïntegreerde lithium-polymeerbatterij. Tot 22 uur filmweergave via de Apple TV-app."
+          }
+        },
+        {
+          "item": "External Display Support (M3 Chip)",
+          "metric": "1 display up to 6K @ 60Hz",
+          "imperial": "1 display up to 6K @ 60Hz",
+          "status": "Verified",
+          "note": "Via Thunderbolt.",
+          "item_translations": {
+            "en": "External Display Support (M3 Chip)",
+            "de": "Unterstützung für externe Displays (M3 Chip)",
+            "fr": "Prise en charge des écrans externes (puce M3)",
+            "es": "Soporte para pantallas externas (chip M3)",
+            "it": "Supporto display esterni (chip M3)",
+            "ja": "外部ディスプレイサポート (M3チップ)",
+            "pt": "Suporte a Monitores Externos (Chip M3)",
+            "nl": "Ondersteuning voor externe beeldschermen (M3-chip)"
+          },
+          "note_translations": {
+            "en": "Via Thunderbolt.",
+            "de": "Über Thunderbolt.",
+            "fr": "Via Thunderbolt.",
+            "es": "Vía Thunderbolt.",
+            "it": "Tramite Thunderbolt.",
+            "ja": "Thunderbolt経由。",
+            "pt": "Via Thunderbolt.",
+            "nl": "Via Thunderbolt."
+          }
+        },
+        {
+          "item": "External Display Support (M3 Pro Chip)",
+          "metric": "2 displays (e.g., 2x 6K @ 60Hz or 1x 6K @ 60Hz + 1x 4K @ 144Hz)",
+          "imperial": "2 displays (e.g., 2x 6K @ 60Hz or 1x 6K @ 60Hz + 1x 4K @ 144Hz)",
+          "status": "Verified",
+          "note": "Via Thunderbolt and HDMI.",
+          "item_translations": {
+            "en": "External Display Support (M3 Pro Chip)",
+            "de": "Unterstützung für externe Displays (M3 Pro Chip)",
+            "fr": "Prise en charge des écrans externes (puce M3 Pro)",
+            "es": "Soporte para pantallas externas (chip M3 Pro)",
+            "it": "Supporto display esterni (chip M3 Pro)",
+            "ja": "外部ディスプレイサポート (M3 Proチップ)",
+            "pt": "Suporte a Monitores Externos (Chip M3 Pro)",
+            "nl": "Ondersteuning voor externe beeldschermen (M3 Pro-chip)"
+          },
+          "note_translations": {
+            "en": "Via Thunderbolt and HDMI.",
+            "de": "Über Thunderbolt und HDMI.",
+            "fr": "Via Thunderbolt et HDMI.",
+            "es": "Vía Thunderbolt y HDMI.",
+            "it": "Tramite Thunderbolt e HDMI.",
+            "ja": "ThunderboltおよびHDMI経由。",
+            "pt": "Via Thunderbolt e HDMI.",
+            "nl": "Via Thunderbolt en HDMI."
+          }
+        },
+        {
+          "item": "External Display Support (M3 Max Chip)",
+          "metric": "4 displays (e.g., 3x 6K @ 60Hz + 1x 4K @ 144Hz or 2x 6K @ 60Hz + 1x 8K @ 60Hz)",
+          "imperial": "4 displays (e.g., 3x 6K @ 60Hz + 1x 4K @ 144Hz or 2x 6K @ 60Hz + 1x 8K @ 60Hz)",
+          "status": "Verified",
+          "note": "Via Thunderbolt and HDMI.",
+          "item_translations": {
+            "en": "External Display Support (M3 Max Chip)",
+            "de": "Unterstützung für externe Displays (M3 Max Chip)",
+            "fr": "Prise en charge des écrans externes (puce M3 Max)",
+            "es": "Soporte para pantallas externas (chip M3 Max)",
+            "it": "Supporto display esterni (chip M3 Max)",
+            "ja": "外部ディスプレイサポート (M3 Maxチップ)",
+            "pt": "Suporte a Monitores Externos (Chip M3 Max)",
+            "nl": "Ondersteuning voor externe beeldschermen (M3 Max-chip)"
+          },
+          "note_translations": {
+            "en": "Via Thunderbolt and HDMI.",
+            "de": "Über Thunderbolt und HDMI.",
+            "fr": "Via Thunderbolt et HDMI.",
+            "es": "Vía Thunderbolt y HDMI.",
+            "it": "Tramite Thunderbolt e HDMI.",
+            "ja": "ThunderboltおよびHDMI経由。",
+            "pt": "Via Thunderbolt e HDMI.",
+            "nl": "Via Thunderbolt en HDMI."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "macbook-pro-14-16-m3-m4-compatibility",
+          "title": "Apple MacBook Pro 14 & 16 (M3/M4) Compatibility Matrix",
+          "summary": "Comprehensive compatibility and exact measurement matrix for Apple MacBook Pro 14-inch and 16-inch models featuring M3 (and future M4) series chips, covering physical dimensions, power delivery, and port specifications.",
+          "amazon_search_query": "macbook pro m3 accessories, macbook pro 14 inch case, macbook pro 16 inch charger",
+          "buy_box_title": "Recommended Accessories for MacBook Pro M3/M4",
+          "buy_box_subtitle": "Enhance your workflow with compatible power adapters, docks, and storage.",
+          "allowed_guidelines": [
+            "Use USB-C PD 3.1 compatible chargers for optimal fast charging.",
+            "Ensure external displays support Thunderbolt 4 or HDMI 2.1 for full resolution and refresh rates.",
+            "Utilize UHS-II SDXC cards for maximum transfer speeds."
+          ],
+          "strict_restrictions": [
+            "Do not use non-certified power adapters; risk of damage or reduced performance.",
+            "Avoid blocking ventilation ports to prevent overheating.",
+            "Ensure cases and sleeves match exact dimensions to prevent pressure damage."
+          ],
+          "faqs": [
+            {
+              "q": "What is the maximum power input for the MacBook Pro 16-inch?",
+              "a": "The MacBook Pro 16-inch (M3 Pro/Max) supports up to 140W via MagSafe 3 and USB-C PD 3.1."
+            },
+            {
+              "q": "How many external displays can the M3 Max chip support?",
+              "a": "The M3 Max chip can support up to four external displays simultaneously."
+            },
+            {
+              "q": "Are M4 MacBook Pro models expected to have different dimensions?",
+              "a": "While M4 models are not yet released, Apple typically maintains similar chassis dimensions for several generations. Significant changes are not anticipated for the immediate future."
+            }
+          ]
+        },
+        "de": {
+          "slug": "macbook-pro-14-16-m3-m4-kompatibilitaet",
+          "title": "Apple MacBook Pro 14 & 16 (M3/M4) Kompatibilitätsmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messmatrix für Apple MacBook Pro 14-Zoll- und 16-Zoll-Modelle mit M3- (und zukünftigen M4-) Chips, einschließlich physischer Abmessungen, Stromversorgung und Anschluss-Spezifikationen.",
+          "amazon_search_query": "macbook pro m3 zubehör, macbook pro 14 zoll hülle, macbook pro 16 zoll ladegerät",
+          "buy_box_title": "Empfohlenes Zubehör für MacBook Pro M3/M4",
+          "buy_box_subtitle": "Optimieren Sie Ihren Workflow mit kompatiblen Netzteilen, Docks und Speicherlösungen.",
+          "allowed_guidelines": [
+            "Verwenden Sie USB-C PD 3.1 kompatible Ladegeräte für optimales schnelles Laden.",
+            "Stellen Sie sicher, dass externe Displays Thunderbolt 4 oder HDMI 2.1 für volle Auflösung und Bildwiederholraten unterstützen.",
+            "Verwenden Sie UHS-II SDXC-Karten für maximale Übertragungsgeschwindigkeiten."
+          ],
+          "strict_restrictions": [
+            "Verwenden Sie keine nicht zertifizierten Netzteile; Gefahr von Schäden oder verminderter Leistung.",
+            "Vermeiden Sie das Blockieren von Lüftungsöffnungen, um Überhitzung zu verhindern.",
+            "Stellen Sie sicher, dass Hüllen und Sleeves den genauen Abmessungen entsprechen, um Druckschäden zu vermeiden."
+          ],
+          "faqs": [
+            {
+              "q": "Was ist die maximale Leistungsaufnahme für das MacBook Pro 16 Zoll?",
+              "a": "Das MacBook Pro 16 Zoll (M3 Pro/Max) unterstützt bis zu 140W über MagSafe 3 und USB-C PD 3.1."
+            },
+            {
+              "q": "Wie viele externe Displays kann der M3 Max Chip unterstützen?",
+              "a": "Der M3 Max Chip kann bis zu vier externe Displays gleichzeitig unterstützen."
+            },
+            {
+              "q": "Werden M4 MacBook Pro Modelle voraussichtlich andere Abmessungen haben?",
+              "a": "Obwohl M4 Modelle noch nicht veröffentlicht wurden, behält Apple in der Regel ähnliche Gehäuseabmessungen über mehrere Generationen bei. Wesentliche Änderungen werden für die unmittelbare Zukunft nicht erwartet."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "macbook-pro-14-16-m3-m4-compatibilite",
+          "title": "Matrice de Compatibilité Apple MacBook Pro 14 & 16 (M3/M4)",
+          "summary": "Matrice complète de compatibilité et de mesures exactes pour les modèles Apple MacBook Pro 14 et 16 pouces équipés de puces de la série M3 (et futures M4), couvrant les dimensions physiques, l'alimentation et les spécifications des ports.",
+          "amazon_search_query": "accessoires macbook pro m3, coque macbook pro 14 pouces, chargeur macbook pro 16 pouces",
+          "buy_box_title": "Accessoires Recommandés pour MacBook Pro M3/M4",
+          "buy_box_subtitle": "Améliorez votre flux de travail avec des adaptateurs secteur, des stations d'accueil et des solutions de stockage compatibles.",
+          "allowed_guidelines": [
+            "Utilisez des chargeurs compatibles USB-C PD 3.1 pour une charge rapide optimale.",
+            "Assurez-vous que les écrans externes prennent en charge Thunderbolt 4 ou HDMI 2.1 pour des résolutions et des taux de rafraîchissement complets.",
+            "Utilisez des cartes SDXC UHS-II pour des vitesses de transfert maximales."
+          ],
+          "strict_restrictions": [
+            "N'utilisez pas d'adaptateurs secteur non certifiés ; risque de dommages ou de performances réduites.",
+            "Évitez de bloquer les ports de ventilation pour éviter la surchauffe.",
+            "Assurez-vous que les étuis et les housses correspondent aux dimensions exactes pour éviter les dommages dus à la pression."
+          ],
+          "faqs": [
+            {
+              "q": "Quelle est la puissance d'entrée maximale pour le MacBook Pro 16 pouces?",
+              "a": "Le MacBook Pro 16 pouces (M3 Pro/Max) prend en charge jusqu'à 140W via MagSafe 3 et USB-C PD 3.1."
+            },
+            {
+              "q": "Combien d'écrans externes la puce M3 Max peut-elle prendre en charge?",
+              "a": "La puce M3 Max peut prendre en charge jusqu'à quatre écrans externes simultanément."
+            },
+            {
+              "q": "Les modèles MacBook Pro M4 devraient-ils avoir des dimensions différentes?",
+              "a": "Bien que les modèles M4 ne soient pas encore sortis, Apple maintient généralement des dimensions de châssis similaires pendant plusieurs générations. Des changements significatifs ne sont pas anticipés pour un avenir immédiat."
+            }
+          ]
+        },
+        "es": {
+          "slug": "macbook-pro-14-16-m3-m4-compatibilidad",
+          "title": "Matriz de Compatibilidad Apple MacBook Pro 14 y 16 (M3/M4)",
+          "summary": "Matriz completa de compatibilidad y medidas exactas para los modelos Apple MacBook Pro de 14 y 16 pulgadas con chips de la serie M3 (y futuros M4), cubriendo dimensiones físicas, suministro de energía y especificaciones de puertos.",
+          "amazon_search_query": "accesorios macbook pro m3, funda macbook pro 14 pulgadas, cargador macbook pro 16 pulgadas",
+          "buy_box_title": "Accesorios Recomendados para MacBook Pro M3/M4",
+          "buy_box_subtitle": "Mejore su flujo de trabajo con adaptadores de corriente, docks y almacenamiento compatibles.",
+          "allowed_guidelines": [
+            "Utilice cargadores compatibles con USB-C PD 3.1 para una carga rápida óptima.",
+            "Asegúrese de que las pantallas externas admitan Thunderbolt 4 o HDMI 2.1 para resoluciones y frecuencias de actualización completas.",
+            "Utilice tarjetas SDXC UHS-II para velocidades de transferencia máximas."
+          ],
+          "strict_restrictions": [
+            "No utilice adaptadores de corriente no certificados; riesgo de daños o rendimiento reducido.",
+            "Evite bloquear los puertos de ventilación para evitar el sobrecalentamiento.",
+            "Asegúrese de que las fundas y estuches coincidan con las dimensiones exactas para evitar daños por presión."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuál es la entrada de energía máxima para el MacBook Pro de 16 pulgadas?",
+              "a": "El MacBook Pro de 16 pulgadas (M3 Pro/Max) admite hasta 140W a través de MagSafe 3 y USB-C PD 3.1."
+            },
+            {
+              "q": "¿Cuántas pantallas externas puede admitir el chip M3 Max?",
+              "a": "El chip M3 Max puede admitir hasta cuatro pantallas externas simultáneamente."
+            },
+            {
+              "q": "¿Se espera que los modelos de MacBook Pro M4 tengan dimensiones diferentes?",
+              "a": "Aunque los modelos M4 aún no se han lanzado, Apple suele mantener dimensiones de chasis similares durante varias generaciones. No se anticipan cambios significativos en el futuro inmediato."
+            }
+          ]
+        },
+        "it": {
+          "slug": "macbook-pro-14-16-m3-m4-compatibilita",
+          "title": "Matrice di Compatibilità Apple MacBook Pro 14 e 16 (M3/M4)",
+          "summary": "Matrice completa di compatibilità e misurazioni esatte per i modelli Apple MacBook Pro da 14 e 16 pollici con chip della serie M3 (e futuri M4), che copre dimensioni fisiche, alimentazione e specifiche delle porte.",
+          "amazon_search_query": "accessori macbook pro m3, custodia macbook pro 14 pollici, caricatore macbook pro 16 pollici",
+          "buy_box_title": "Accessori Consigliati per MacBook Pro M3/M4",
+          "buy_box_subtitle": "Migliora il tuo flusso di lavoro con alimentatori, dock e soluzioni di archiviazione compatibili.",
+          "allowed_guidelines": [
+            "Utilizzare caricabatterie compatibili con USB-C PD 3.1 per una ricarica rapida ottimale.",
+            "Assicurarsi che i display esterni supportino Thunderbolt 4 o HDMI 2.1 per risoluzioni e frequenze di aggiornamento complete.",
+            "Utilizzare schede SDXC UHS-II per massime velocità di trasferimento."
+          ],
+          "strict_restrictions": [
+            "Non utilizzare alimentatori non certificati; rischio di danni o prestazioni ridotte.",
+            "Evitare di bloccare le porte di ventilazione per prevenire il surriscaldamento.",
+            "Assicurarsi che custodie e sleeve corrispondano alle dimensioni esatte per prevenire danni da pressione."
+          ],
+          "faqs": [
+            {
+              "q": "Qual è l'ingresso di alimentazione massimo per il MacBook Pro da 16 pollici?",
+              "a": "Il MacBook Pro da 16 pollici (M3 Pro/Max) supporta fino a 140W tramite MagSafe 3 e USB-C PD 3.1."
+            },
+            {
+              "q": "Quanti display esterni può supportare il chip M3 Max?",
+              "a": "Il chip M3 Max può supportare fino a quattro display esterni contemporaneamente."
+            },
+            {
+              "q": "I modelli MacBook Pro M4 dovrebbero avere dimensioni diverse?",
+              "a": "Sebbene i modelli M4 non siano ancora stati rilasciati, Apple mantiene tipicamente dimensioni del telaio simili per diverse generazioni. Non sono previsti cambiamenti significativi per il futuro immediato."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "macbook-pro-14-16-m3-m4-compatibility",
+          "title": "Apple MacBook Pro 14 & 16 (M3/M4) 互換性マトリックス",
+          "summary": "M3（および将来のM4）シリーズチップを搭載したApple MacBook Pro 14インチおよび16インチモデルの、物理的寸法、電力供給、ポート仕様を網羅した包括的な互換性および正確な測定マトリックス。",
+          "amazon_search_query": "macbook pro m3 アクセサリー, macbook pro 14インチ ケース, macbook pro 16インチ 充電器",
+          "buy_box_title": "MacBook Pro M3/M4におすすめのアクセサリー",
+          "buy_box_subtitle": "互換性のある電源アダプター、ドック、ストレージでワークフローを強化しましょう。",
+          "allowed_guidelines": [
+            "最適な高速充電のためにUSB-C PD 3.1互換充電器を使用してください。",
+            "フル解像度とリフレッシュレートのために、外部ディスプレイがThunderbolt 4またはHDMI 2.1をサポートしていることを確認してください。",
+            "最大転送速度のためにUHS-II SDXCカードを利用してください。"
+          ],
+          "strict_restrictions": [
+            "非認証の電源アダプターを使用しないでください。損傷や性能低下のリスクがあります。",
+            "過熱を防ぐため、通気口を塞がないでください。",
+            "圧力による損傷を防ぐため、ケースやスリーブが正確な寸法に合っていることを確認してください。"
+          ],
+          "faqs": [
+            {
+              "q": "MacBook Pro 16インチの最大電力入力は何ワットですか？",
+              "a": "MacBook Pro 16インチ（M3 Pro/Max）は、MagSafe 3およびUSB-C PD 3.1経由で最大140Wをサポートします。"
+            },
+            {
+              "q": "M3 Maxチップはいくつの外部ディスプレイをサポートできますか？",
+              "a": "M3 Maxチップは最大4つの外部ディスプレイを同時にサポートできます。"
+            },
+            {
+              "q": "M4 MacBook Proモデルは異なる寸法になると予想されますか？",
+              "a": "M4モデルはまだリリースされていませんが、Appleは通常、数世代にわたって同様のシャーシ寸法を維持しています。近い将来、大幅な変更は予想されていません。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "macbook-pro-14-16-m3-m4-compatibilidade",
+          "title": "Matriz de Compatibilidade Apple MacBook Pro 14 e 16 (M3/M4)",
+          "summary": "Matriz abrangente de compatibilidade e medições exatas para os modelos Apple MacBook Pro de 14 e 16 polegadas com chips da série M3 (e futuros M4), cobrindo dimensões físicas, fornecimento de energia e especificações de portas.",
+          "amazon_search_query": "acessórios macbook pro m3, capa macbook pro 14 polegadas, carregador macbook pro 16 polegadas",
+          "buy_box_title": "Acessórios Recomendados para MacBook Pro M3/M4",
+          "buy_box_subtitle": "Melhore seu fluxo de trabalho com adaptadores de energia, docks e armazenamento compatíveis.",
+          "allowed_guidelines": [
+            "Use carregadores compatíveis com USB-C PD 3.1 para carregamento rápido ideal.",
+            "Garanta que os monitores externos suportem Thunderbolt 4 ou HDMI 2.1 para resoluções e taxas de atualização completas.",
+            "Utilize cartões SDXC UHS-II para velocidades máximas de transferência."
+          ],
+          "strict_restrictions": [
+            "Não use adaptadores de energia não certificados; risco de danos ou desempenho reduzido.",
+            "Evite bloquear as portas de ventilação para evitar superaquecimento.",
+            "Certifique-se de que as capas e sleeves correspondam às dimensões exatas para evitar danos por pressão."
+          ],
+          "faqs": [
+            {
+              "q": "Qual é a entrada de energia máxima para o MacBook Pro de 16 polegadas?",
+              "a": "O MacBook Pro de 16 polegadas (M3 Pro/Max) suporta até 140W via MagSafe 3 e USB-C PD 3.1."
+            },
+            {
+              "q": "Quantos monitores externos o chip M3 Max pode suportar?",
+              "a": "O chip M3 Max pode suportar até quatro monitores externos simultaneamente."
+            },
+            {
+              "q": "Os modelos MacBook Pro M4 devem ter dimensões diferentes?",
+              "a": "Embora os modelos M4 ainda não tenham sido lançados, a Apple geralmente mantém dimensões de chassi semelhantes por várias gerações. Não são antecipadas mudanças significativas para o futuro imediato."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "macbook-pro-14-16-m3-m4-compatibiliteit",
+          "title": "Apple MacBook Pro 14 & 16 (M3/M4) Compatibiliteitsmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetmatrix voor Apple MacBook Pro 14-inch en 16-inch modellen met M3 (en toekomstige M4) serie chips, inclusief fysieke afmetingen, stroomvoorziening en poortspecificaties.",
+          "amazon_search_query": "macbook pro m3 accessoires, macbook pro 14 inch hoes, macbook pro 16 inch oplader",
+          "buy_box_title": "Aanbevolen accessoires voor MacBook Pro M3/M4",
+          "buy_box_subtitle": "Verbeter uw workflow met compatibele stroomadapters, docks en opslag.",
+          "allowed_guidelines": [
+            "Gebruik USB-C PD 3.1 compatibele opladers voor optimaal snel opladen.",
+            "Zorg ervoor dat externe beeldschermen Thunderbolt 4 of HDMI 2.1 ondersteunen voor volledige resolutie en verversingsfrequenties.",
+            "Gebruik UHS-II SDXC-kaarten voor maximale overdrachtssnelheden."
+          ],
+          "strict_restrictions": [
+            "Gebruik geen niet-gecertificeerde stroomadapters; risico op schade of verminderde prestaties.",
+            "Voorkom het blokkeren van ventilatiepoorten om oververhitting te voorkomen.",
+            "Zorg ervoor dat hoezen en sleeves exact overeenkomen met de afmetingen om drukschade te voorkomen."
+          ],
+          "faqs": [
+            {
+              "q": "Wat is de maximale stroominput voor de MacBook Pro 16-inch?",
+              "a": "De MacBook Pro 16-inch (M3 Pro/Max) ondersteunt tot 140W via MagSafe 3 en USB-C PD 3.1."
+            },
+            {
+              "q": "Hoeveel externe beeldschermen kan de M3 Max-chip ondersteunen?",
+              "a": "De M3 Max-chip kan tot vier externe beeldschermen tegelijk ondersteunen."
+            },
+            {
+              "q": "Wordt verwacht dat M4 MacBook Pro-modellen andere afmetingen zullen hebben?",
+              "a": "Hoewel M4-modellen nog niet zijn uitgebracht, handhaaft Apple doorgaans vergelijkbare chassisafmetingen voor meerdere generaties. Significante veranderingen worden niet verwacht voor de directe toekomst."
             }
           ]
         }

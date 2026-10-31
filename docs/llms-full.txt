@@ -559,3 +559,32 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=Xbox+Series+X+console&tag=autocompat-21
 
 ---
+
+## Apple MacBook Pro 14 & 16 (M3/M4) (HARDWARE)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/macbook-pro-14-16-m3-m4-compatibility.html
+- Summary: Comprehensive compatibility and exact measurement matrix for Apple MacBook Pro 14-inch and 16-inch models featuring M3 (and future M4) series chips, covering physical dimensions, power delivery, and port specifications.
+
+### Exact Specifications (Dual Units):
+* **MacBook Pro 14-inch Dimensions (Height x Width x Depth)**: Metric: `1.55 cm x 31.26 cm x 22.12 cm` | Imperial: `0.61 in x 12.31 in x 8.71 in` (Applies to all MacBook Pro 14-inch M3, M3 Pro, and M3 Max models.)
+* **MacBook Pro 16-inch Dimensions (Height x Width x Depth)**: Metric: `1.68 cm x 35.57 cm x 24.81 cm` | Imperial: `0.66 in x 14.01 in x 9.77 in` (Applies to all MacBook Pro 16-inch M3 Pro and M3 Max models.)
+* **MacBook Pro 14-inch Weight**: Metric: `1.55 kg (M3) / 1.61 kg (M3 Pro/Max)` | Imperial: `3.4 lbs (M3) / 3.5 lbs (M3 Pro/Max)` (Weight varies slightly based on the specific M3 chip configuration.)
+* **MacBook Pro 16-inch Weight**: Metric: `2.14 kg (M3 Pro) / 2.16 kg (M3 Max)` | Imperial: `4.7 lbs (M3 Pro) / 4.8 lbs (M3 Max)` (Weight varies slightly based on the specific M3 chip configuration.)
+* **MagSafe 3 Power Delivery**: Metric: `70W (14-inch M3/M3 Pro 11-core) / 96W (14-inch M3 Pro 12-core/M3 Max) / 140W (16-inch M3 Pro/Max)` | Imperial: `70W (14-inch M3/M3 Pro 11-core) / 96W (14-inch M3 Pro 12-core/M3 Max) / 140W (16-inch M3 Pro/Max)` (MagSafe 3 port supports fast charging. The specific adapter wattage depends on the MacBook Pro model and configuration.)
+* **USB-C Power Delivery (PD 3.1)**: Metric: `Up to 140W (16-inch models) / Up to 96W (14-inch models)` | Imperial: `Up to 140W (16-inch models) / Up to 96W (14-inch models)` (All Thunderbolt 4 ports also support USB-C Power Delivery. 16-inch models require a 140W adapter for full fast charging via USB-C.)
+* **Thunderbolt 4 Ports**: Metric: `2 ports (14-inch M3) / 3 ports (14-inch M3 Pro/Max & all 16-inch models)` | Imperial: `2 ports (14-inch M3) / 3 ports (14-inch M3 Pro/Max & all 16-inch models)` (Supports Thunderbolt 4 (up to 40Gb/s), DisplayPort, USB4 (up to 40Gb/s), and USB 3.1 Gen 2 (up to 10Gb/s).)
+* **SDXC UHS-II Card Slot**: Metric: `UHS-II (up to 312 MB/s)` | Imperial: `UHS-II (up to 312 MB/s)` (Backward compatible with UHS-I cards. Ideal for photographers and videographers requiring high-speed data transfer.)
+* **HDMI Port**: Metric: `HDMI 2.1` | Imperial: `HDMI 2.1` (Supports up to 8K resolution at 60Hz or 4K resolution at 240Hz.)
+* **3.5mm Headphone Jack**: Metric: `High-impedance headphone support` | Imperial: `High-impedance headphone support` (Advanced support for high-impedance headphones.)
+* **Battery Capacity (14-inch)**: Metric: `70 Wh` | Imperial: `70 Wh` (Integrated lithium-polymer battery. Up to 22 hours of Apple TV app movie playback.)
+* **Battery Capacity (16-inch)**: Metric: `100 Wh` | Imperial: `100 Wh` (Integrated lithium-polymer battery. Up to 22 hours of Apple TV app movie playback.)
+* **External Display Support (M3 Chip)**: Metric: `1 display up to 6K @ 60Hz` | Imperial: `1 display up to 6K @ 60Hz` (Via Thunderbolt.)
+* **External Display Support (M3 Pro Chip)**: Metric: `2 displays (e.g., 2x 6K @ 60Hz or 1x 6K @ 60Hz + 1x 4K @ 144Hz)` | Imperial: `2 displays (e.g., 2x 6K @ 60Hz or 1x 6K @ 60Hz + 1x 4K @ 144Hz)` (Via Thunderbolt and HDMI.)
+* **External Display Support (M3 Max Chip)**: Metric: `4 displays (e.g., 3x 6K @ 60Hz + 1x 4K @ 144Hz or 2x 6K @ 60Hz + 1x 8K @ 60Hz)` | Imperial: `4 displays (e.g., 3x 6K @ 60Hz + 1x 4K @ 144Hz or 2x 6K @ 60Hz + 1x 8K @ 60Hz)` (Via Thunderbolt and HDMI.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=macbook+pro+m3+accessories%2C+macbook+pro+14+inch+case%2C+macbook+pro+16+inch+charger&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=macbook+pro+m3+accessories%2C+macbook+pro+14+inch+case%2C+macbook+pro+16+inch+charger&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=macbook+pro+m3+accessories%2C+macbook+pro+14+inch+case%2C+macbook+pro+16+inch+charger&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=macbook+pro+m3+accessories%2C+macbook+pro+14+inch+case%2C+macbook+pro+16+inch+charger&tag=autocompat-21
+
+---
