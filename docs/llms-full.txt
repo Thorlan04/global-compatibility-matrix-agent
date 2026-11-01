@@ -588,3 +588,25 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=macbook+pro+m3+accessories%2C+macbook+pro+14+inch+case%2C+macbook+pro+16+inch+charger&tag=autocompat-21
 
 ---
+
+## Asus ROG Ally X (HARDWARE)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/asus-rog-ally-x.html
+- Summary: Comprehensive compatibility and exact measurement matrix for the Asus ROG Ally X handheld gaming PC, detailing key specifications for accessories and upgrades.
+
+### Exact Specifications (Dual Units):
+* **Device Dimensions (L x W x H)**: Metric: `28.0 cm x 11.5 cm x 3.69 cm` | Imperial: `11.02 in x 4.53 in x 1.45 in` (Overall physical dimensions of the handheld device.)
+* **Device Weight**: Metric: `0.678 kg` | Imperial: `1.495 lbs` (Total weight of the handheld device, including battery.)
+* **Internal Storage Slot Type**: Metric: `M.2 2280 NVMe PCIe Gen4` | Imperial: `M.2 2280 NVMe PCIe Gen4` (Supports full-size M.2 2280 NVMe SSDs for storage expansion. Backward compatible with PCIe Gen3.)
+* **Battery Capacity**: Metric: `80 Wh` | Imperial: `80 Wh` (Integrated lithium-ion battery capacity. Significant upgrade from original ROG Ally's 40 Wh.)
+* **Power Input (USB-C PD)**: Metric: `65W (Standard) / 100W (Max)` | Imperial: `65W (Standard) / 100W (Max)` (Supports USB Power Delivery (PD) via USB-C. 65W for general charging, 100W for faster charging or XG Mobile connectivity.)
+* **Display Size & Resolution**: Metric: `17.78 cm (1920x1080 FHD)` | Imperial: `7.0 in (1920x1080 FHD)` (7-inch IPS-level panel with 120Hz refresh rate and FreeSync Premium.)
+* **RAM Capacity**: Metric: `24 GB LPDDR5X` | Imperial: `24 GB LPDDR5X` (High-speed LPDDR5X RAM, soldered to the motherboard and not user-upgradable.)
+* **Cooling System**: Metric: `Dual Fan Design` | Imperial: `Dual Fan Design` (Enhanced thermal solution with two fans for improved heat dissipation and airflow.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=Asus+ROG+Ally+X+accessories&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=Asus+ROG+Ally+X+accessories&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=Asus+ROG+Ally+X+accessories&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=Asus+ROG+Ally+X+accessories&tag=autocompat-21
+
+---

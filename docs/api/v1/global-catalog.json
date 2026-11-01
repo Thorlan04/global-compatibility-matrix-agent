@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-10-31T20:57:36.701979+00:00",
-  "total_items": 29,
+  "generated_at": "2026-11-01T04:04:02.012417+00:00",
+  "total_items": 30,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -12728,6 +12728,488 @@
             {
               "q": "Wordt verwacht dat M4 MacBook Pro-modellen andere afmetingen zullen hebben?",
               "a": "Hoewel M4-modellen nog niet zijn uitgebracht, handhaaft Apple doorgaans vergelijkbare chassisafmetingen voor meerdere generaties. Significante veranderingen worden niet verwacht voor de directe toekomst."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "asus-rog-ally-x",
+      "slug": "asus-rog-ally-x",
+      "subject": "Asus ROG Ally X",
+      "category": "hardware",
+      "spec_rows": [
+        {
+          "item": "Device Dimensions (L x W x H)",
+          "metric": "28.0 cm x 11.5 cm x 3.69 cm",
+          "imperial": "11.02 in x 4.53 in x 1.45 in",
+          "status": "Verified",
+          "note": "Overall physical dimensions of the handheld device.",
+          "item_translations": {
+            "en": "Device Dimensions (L x W x H)",
+            "de": "Geräteabmessungen (L x B x H)",
+            "fr": "Dimensions de l'appareil (L x l x H)",
+            "es": "Dimensiones del dispositivo (L x An x Al)",
+            "it": "Dimensioni del dispositivo (L x P x A)",
+            "ja": "デバイスの寸法 (L x W x H)",
+            "pt": "Dimensões do Dispositivo (C x L x A)",
+            "nl": "Afmetingen apparaat (L x B x H)"
+          },
+          "note_translations": {
+            "en": "Overall physical dimensions of the handheld device.",
+            "de": "Gesamte physische Abmessungen des Handheld-Geräts.",
+            "fr": "Dimensions physiques globales de l'appareil portable.",
+            "es": "Dimensiones físicas generales del dispositivo portátil.",
+            "it": "Dimensioni fisiche complessive del dispositivo portatile.",
+            "ja": "ハンドヘルドデバイスの全体的な物理的寸法。",
+            "pt": "Dimensões físicas gerais do dispositivo portátil.",
+            "nl": "Algemene fysieke afmetingen van het handheld-apparaat."
+          }
+        },
+        {
+          "item": "Device Weight",
+          "metric": "0.678 kg",
+          "imperial": "1.495 lbs",
+          "status": "Verified",
+          "note": "Total weight of the handheld device, including battery.",
+          "item_translations": {
+            "en": "Device Weight",
+            "de": "Gerätegewicht",
+            "fr": "Poids de l'appareil",
+            "es": "Peso del dispositivo",
+            "it": "Peso del dispositivo",
+            "ja": "デバイスの重量",
+            "pt": "Peso do Dispositivo",
+            "nl": "Gewicht apparaat"
+          },
+          "note_translations": {
+            "en": "Total weight of the handheld device, including battery.",
+            "de": "Gesamtgewicht des Handheld-Geräts, einschließlich Akku.",
+            "fr": "Poids total de l'appareil portable, batterie incluse.",
+            "es": "Peso total del dispositivo portátil, incluida la batería.",
+            "it": "Peso totale del dispositivo portatile, inclusa la batteria.",
+            "ja": "バッテリーを含むハンドヘルドデバイスの総重量。",
+            "pt": "Peso total do dispositivo portátil, incluindo a bateria.",
+            "nl": "Totaal gewicht van het handheld-apparaat, inclusief batterij."
+          }
+        },
+        {
+          "item": "Internal Storage Slot Type",
+          "metric": "M.2 2280 NVMe PCIe Gen4",
+          "imperial": "M.2 2280 NVMe PCIe Gen4",
+          "status": "Compliant",
+          "note": "Supports full-size M.2 2280 NVMe SSDs for storage expansion. Backward compatible with PCIe Gen3.",
+          "item_translations": {
+            "en": "Internal Storage Slot Type",
+            "de": "Interner Speichersteckplatztyp",
+            "fr": "Type de slot de stockage interne",
+            "es": "Tipo de ranura de almacenamiento interno",
+            "it": "Tipo di slot di archiviazione interna",
+            "ja": "内部ストレージスロットタイプ",
+            "pt": "Tipo de Slot de Armazenamento Interno",
+            "nl": "Type interne opslagslot"
+          },
+          "note_translations": {
+            "en": "Supports full-size M.2 2280 NVMe SSDs for storage expansion. Backward compatible with PCIe Gen3.",
+            "de": "Unterstützt M.2 2280 NVMe SSDs in voller Größe zur Speichererweiterung. Abwärtskompatibel mit PCIe Gen3.",
+            "fr": "Prend en charge les SSD NVMe M.2 2280 pleine taille pour l'extension de stockage. Rétrocompatible avec PCIe Gen3.",
+            "es": "Admite SSD NVMe M.2 2280 de tamaño completo para expansión de almacenamiento. Compatible con versiones anteriores de PCIe Gen3.",
+            "it": "Supporta SSD NVMe M.2 2280 a grandezza naturale per l'espansione dello storage. Retrocompatibile con PCIe Gen3.",
+            "ja": "ストレージ拡張用のフルサイズM.2 2280 NVMe SSDをサポート。PCIe Gen3と下位互換性があります。",
+            "pt": "Suporta SSDs NVMe M.2 2280 de tamanho completo para expansão de armazenamento. Retrocompatível com PCIe Gen3.",
+            "nl": "Ondersteunt full-size M.2 2280 NVMe SSD's voor opslaguitbreiding. Achterwaarts compatibel met PCIe Gen3."
+          }
+        },
+        {
+          "item": "Battery Capacity",
+          "metric": "80 Wh",
+          "imperial": "80 Wh",
+          "status": "Verified",
+          "note": "Integrated lithium-ion battery capacity. Significant upgrade from original ROG Ally's 40 Wh.",
+          "item_translations": {
+            "en": "Battery Capacity",
+            "de": "Akkukapazität",
+            "fr": "Capacité de la batterie",
+            "es": "Capacidad de la batería",
+            "it": "Capacità della batteria",
+            "ja": "バッテリー容量",
+            "pt": "Capacidade da Bateria",
+            "nl": "Batterijcapaciteit"
+          },
+          "note_translations": {
+            "en": "Integrated lithium-ion battery capacity. Significant upgrade from original ROG Ally's 40 Wh.",
+            "de": "Integrierte Lithium-Ionen-Akkukapazität. Deutliches Upgrade gegenüber den 40 Wh des ursprünglichen ROG Ally.",
+            "fr": "Capacité de la batterie lithium-ion intégrée. Mise à niveau significative par rapport aux 40 Wh du ROG Ally original.",
+            "es": "Capacidad de la batería de iones de litio integrada. Mejora significativa con respecto a los 40 Wh del ROG Ally original.",
+            "it": "Capacità della batteria agli ioni di litio integrata. Aggiornamento significativo rispetto ai 40 Wh del ROG Ally originale.",
+            "ja": "内蔵リチウムイオンバッテリー容量。初代ROG Allyの40Whから大幅にアップグレード。",
+            "pt": "Capacidade da bateria de íon de lítio integrada. Atualização significativa em relação aos 40 Wh do ROG Ally original.",
+            "nl": "Geïntegreerde lithium-ion batterijcapaciteit. Aanzienlijke upgrade ten opzichte van de 40 Wh van de originele ROG Ally."
+          }
+        },
+        {
+          "item": "Power Input (USB-C PD)",
+          "metric": "65W (Standard) / 100W (Max)",
+          "imperial": "65W (Standard) / 100W (Max)",
+          "status": "Compliant",
+          "note": "Supports USB Power Delivery (PD) via USB-C. 65W for general charging, 100W for faster charging or XG Mobile connectivity.",
+          "item_translations": {
+            "en": "Power Input (USB-C PD)",
+            "de": "Stromeingang (USB-C PD)",
+            "fr": "Entrée d'alimentation (USB-C PD)",
+            "es": "Entrada de alimentación (USB-C PD)",
+            "it": "Ingresso alimentazione (USB-C PD)",
+            "ja": "電源入力 (USB-C PD)",
+            "pt": "Entrada de Energia (USB-C PD)",
+            "nl": "Stroomingang (USB-C PD)"
+          },
+          "note_translations": {
+            "en": "Supports USB Power Delivery (PD) via USB-C. 65W for general charging, 100W for faster charging or XG Mobile connectivity.",
+            "de": "Unterstützt USB Power Delivery (PD) über USB-C. 65W für allgemeines Laden, 100W für schnelleres Laden oder XG Mobile-Konnektivität.",
+            "fr": "Prend en charge l'alimentation USB Power Delivery (PD) via USB-C. 65W pour la charge générale, 100W pour une charge plus rapide ou la connectivité XG Mobile.",
+            "es": "Admite USB Power Delivery (PD) a través de USB-C. 65W para carga general, 100W para carga más rápida o conectividad XG Mobile.",
+            "it": "Supporta USB Power Delivery (PD) tramite USB-C. 65W per la ricarica generale, 100W per la ricarica più rapida o la connettività XG Mobile.",
+            "ja": "USB-C経由のUSB Power Delivery (PD)をサポート。一般的な充電には65W、高速充電またはXG Mobile接続には100W。",
+            "pt": "Suporta USB Power Delivery (PD) via USB-C. 65W para carregamento geral, 100W para carregamento mais rápido ou conectividade XG Mobile.",
+            "nl": "Ondersteunt USB Power Delivery (PD) via USB-C. 65W voor algemeen opladen, 100W voor sneller opladen of XG Mobile-connectiviteit."
+          }
+        },
+        {
+          "item": "Display Size & Resolution",
+          "metric": "17.78 cm (1920x1080 FHD)",
+          "imperial": "7.0 in (1920x1080 FHD)",
+          "status": "Verified",
+          "note": "7-inch IPS-level panel with 120Hz refresh rate and FreeSync Premium.",
+          "item_translations": {
+            "en": "Display Size & Resolution",
+            "de": "Displaygröße & Auflösung",
+            "fr": "Taille et résolution de l'écran",
+            "es": "Tamaño y resolución de la pantalla",
+            "it": "Dimensioni e risoluzione del display",
+            "ja": "ディスプレイサイズと解像度",
+            "pt": "Tamanho e Resolução do Ecrã",
+            "nl": "Schermgrootte en -resolutie"
+          },
+          "note_translations": {
+            "en": "7-inch IPS-level panel with 120Hz refresh rate and FreeSync Premium.",
+            "de": "7-Zoll-IPS-Panel mit 120Hz Bildwiederholfrequenz und FreeSync Premium.",
+            "fr": "Dalle de niveau IPS de 7 pouces avec un taux de rafraîchissement de 120 Hz et FreeSync Premium.",
+            "es": "Panel de nivel IPS de 7 pulgadas con frecuencia de actualización de 120 Hz y FreeSync Premium.",
+            "it": "Pannello IPS-level da 7 pollici con frequenza di aggiornamento di 120 Hz e FreeSync Premium.",
+            "ja": "120HzリフレッシュレートとFreeSync Premiumを備えた7インチIPSレベルパネル。",
+            "pt": "Painel de nível IPS de 7 polegadas com taxa de atualização de 120 Hz e FreeSync Premium.",
+            "nl": "7-inch IPS-paneel met 120Hz verversingssnelheid en FreeSync Premium."
+          }
+        },
+        {
+          "item": "RAM Capacity",
+          "metric": "24 GB LPDDR5X",
+          "imperial": "24 GB LPDDR5X",
+          "status": "Verified",
+          "note": "High-speed LPDDR5X RAM, soldered to the motherboard and not user-upgradable.",
+          "item_translations": {
+            "en": "RAM Capacity",
+            "de": "RAM-Kapazität",
+            "fr": "Capacité de la RAM",
+            "es": "Capacidad de RAM",
+            "it": "Capacità RAM",
+            "ja": "RAM容量",
+            "pt": "Capacidade da RAM",
+            "nl": "RAM-capaciteit"
+          },
+          "note_translations": {
+            "en": "High-speed LPDDR5X RAM, soldered to the motherboard and not user-upgradable.",
+            "de": "Hochgeschwindigkeits-LPDDR5X-RAM, auf dem Motherboard verlötet und nicht vom Benutzer aufrüstbar.",
+            "fr": "RAM LPDDR5X haute vitesse, soudée à la carte mère et non évolutive par l'utilisateur.",
+            "es": "RAM LPDDR5X de alta velocidad, soldada a la placa base y no actualizable por el usuario.",
+            "it": "RAM LPDDR5X ad alta velocità, saldata alla scheda madre e non aggiornabile dall'utente.",
+            "ja": "高速LPDDR5X RAM、マザーボードにはんだ付けされており、ユーザーによるアップグレードはできません。",
+            "pt": "RAM LPDDR5X de alta velocidade, soldada à placa-mãe e não atualizável pelo utilizador.",
+            "nl": "High-speed LPDDR5X RAM, gesoldeerd op het moederbord en niet door de gebruiker te upgraden."
+          }
+        },
+        {
+          "item": "Cooling System",
+          "metric": "Dual Fan Design",
+          "imperial": "Dual Fan Design",
+          "status": "Verified",
+          "note": "Enhanced thermal solution with two fans for improved heat dissipation and airflow.",
+          "item_translations": {
+            "en": "Cooling System",
+            "de": "Kühlsystem",
+            "fr": "Système de refroidissement",
+            "es": "Sistema de refrigeración",
+            "it": "Sistema di raffreddamento",
+            "ja": "冷却システム",
+            "pt": "Sistema de Refrigeração",
+            "nl": "Koelsysteem"
+          },
+          "note_translations": {
+            "en": "Enhanced thermal solution with two fans for improved heat dissipation and airflow.",
+            "de": "Verbesserte thermische Lösung mit zwei Lüftern für verbesserte Wärmeableitung und Luftstrom.",
+            "fr": "Solution thermique améliorée avec deux ventilateurs pour une meilleure dissipation de la chaleur et un meilleur flux d'air.",
+            "es": "Solución térmica mejorada con dos ventiladores para una mejor disipación del calor y flujo de aire.",
+            "it": "Soluzione termica migliorata con due ventole per una migliore dissipazione del calore e flusso d'aria.",
+            "ja": "熱放散とエアフローを改善するための2つのファンを備えた強化された熱ソリューション。",
+            "pt": "Solução térmica aprimorada com duas ventoinhas para melhor dissipação de calor e fluxo de ar.",
+            "nl": "Verbeterde thermische oplossing met twee ventilatoren voor verbeterde warmteafvoer en luchtstroom."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "asus-rog-ally-x",
+          "title": "Asus ROG Ally X Compatibility & Measurement Matrix",
+          "summary": "Comprehensive compatibility and exact measurement matrix for the Asus ROG Ally X handheld gaming PC, detailing key specifications for accessories and upgrades.",
+          "amazon_search_query": "Asus ROG Ally X accessories",
+          "buy_box_title": "Find Compatible Accessories for Asus ROG Ally X",
+          "buy_box_subtitle": "Ensure perfect fit and optimal performance with verified specifications.",
+          "allowed_guidelines": [
+            "Use M.2 2280 NVMe SSDs for internal storage upgrades.",
+            "Utilize USB-C Power Delivery (PD) chargers supporting 65W or 100W for optimal charging.",
+            "Select cases and grips designed for the updated dimensions of the ROG Ally X."
+          ],
+          "strict_restrictions": [
+            "Do not use M.2 2230 or 2242 SSDs in the main slot without an adapter.",
+            "Avoid non-PD chargers or those below 65W for primary charging to prevent slow charging or insufficient power.",
+            "Original ROG Ally cases may not fit due to increased dimensions and weight."
+          ],
+          "faqs": [
+            {
+              "q": "What SSD type does the ROG Ally X use?",
+              "a": "The Asus ROG Ally X features a full-size M.2 2280 NVMe PCIe Gen4 slot for internal storage upgrades."
+            },
+            {
+              "q": "What power adapter should I use for the ROG Ally X?",
+              "a": "For optimal charging and performance, use a USB-C Power Delivery (PD) charger that supports at least 65W, with 100W recommended for faster charging or XG Mobile connectivity."
+            },
+            {
+              "q": "Will my old ROG Ally case fit the ROG Ally X?",
+              "a": "No, the ROG Ally X has slightly increased dimensions and weight compared to the original ROG Ally, so existing cases are unlikely to fit perfectly. Look for cases specifically designed for the ROG Ally X."
+            }
+          ]
+        },
+        "de": {
+          "slug": "asus-rog-ally-x",
+          "title": "Asus ROG Ally X Kompatibilitäts- und Messmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messmatrix für den Asus ROG Ally X Handheld-Gaming-PC, detaillierte Schlüsselspezifikationen für Zubehör und Upgrades.",
+          "amazon_search_query": "Asus ROG Ally X Zubehör",
+          "buy_box_title": "Finden Sie kompatibles Zubehör für Asus ROG Ally X",
+          "buy_box_subtitle": "Sorgen Sie für perfekte Passform und optimale Leistung mit verifizierten Spezifikationen.",
+          "allowed_guidelines": [
+            "Verwenden Sie M.2 2280 NVMe SSDs für interne Speicher-Upgrades.",
+            "Verwenden Sie USB-C Power Delivery (PD) Ladegeräte, die 65W oder 100W unterstützen, für optimales Laden.",
+            "Wählen Sie Hüllen und Griffe, die für die aktualisierten Abmessungen des ROG Ally X entwickelt wurden."
+          ],
+          "strict_restrictions": [
+            "Verwenden Sie keine M.2 2230 oder 2242 SSDs im Hauptsteckplatz ohne Adapter.",
+            "Vermeiden Sie Nicht-PD-Ladegeräte oder solche unter 65W für die primäre Ladung, um langsames Laden oder unzureichende Stromversorgung zu verhindern.",
+            "Original ROG Ally Hüllen passen aufgrund der größeren Abmessungen und des Gewichts möglicherweise nicht."
+          ],
+          "faqs": [
+            {
+              "q": "Welchen SSD-Typ verwendet der ROG Ally X?",
+              "a": "Der Asus ROG Ally X verfügt über einen vollwertigen M.2 2280 NVMe PCIe Gen4 Steckplatz für interne Speicher-Upgrades."
+            },
+            {
+              "q": "Welches Netzteil sollte ich für den ROG Ally X verwenden?",
+              "a": "Für optimales Laden und Leistung verwenden Sie ein USB-C Power Delivery (PD) Ladegerät, das mindestens 65W unterstützt, wobei 100W für schnelleres Laden oder XG Mobile-Konnektivität empfohlen werden."
+            },
+            {
+              "q": "Passt meine alte ROG Ally Hülle auf den ROG Ally X?",
+              "a": "Nein, der ROG Ally X hat im Vergleich zum ursprünglichen ROG Ally leicht größere Abmessungen und ein höheres Gewicht, daher ist es unwahrscheinlich, dass bestehende Hüllen perfekt passen. Suchen Sie nach Hüllen, die speziell für den ROG Ally X entwickelt wurden."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "asus-rog-ally-x",
+          "title": "Matrice de compatibilité et de mesures Asus ROG Ally X",
+          "summary": "Matrice complète de compatibilité et de mesures exactes pour le PC de jeu portable Asus ROG Ally X, détaillant les spécifications clés pour les accessoires et les mises à niveau.",
+          "amazon_search_query": "Accessoires Asus ROG Ally X",
+          "buy_box_title": "Trouver des accessoires compatibles pour Asus ROG Ally X",
+          "buy_box_subtitle": "Assurez un ajustement parfait et des performances optimales avec des spécifications vérifiées.",
+          "allowed_guidelines": [
+            "Utilisez des SSD NVMe M.2 2280 pour les mises à niveau de stockage interne.",
+            "Utilisez des chargeurs USB-C Power Delivery (PD) prenant en charge 65W ou 100W pour une charge optimale.",
+            "Sélectionnez des étuis et des poignées conçus pour les dimensions mises à jour du ROG Ally X."
+          ],
+          "strict_restrictions": [
+            "N'utilisez pas de SSD M.2 2230 ou 2242 dans le slot principal sans adaptateur.",
+            "Évitez les chargeurs non-PD ou ceux inférieurs à 65W pour la charge principale afin d'éviter une charge lente ou une alimentation insuffisante.",
+            "Les étuis d'origine du ROG Ally pourraient ne pas convenir en raison des dimensions et du poids accrus."
+          ],
+          "faqs": [
+            {
+              "q": "Quel type de SSD utilise le ROG Ally X?",
+              "a": "L'Asus ROG Ally X dispose d'un slot M.2 2280 NVMe PCIe Gen4 pleine taille pour les mises à niveau de stockage interne."
+            },
+            {
+              "q": "Quel adaptateur secteur dois-je utiliser pour le ROG Ally X?",
+              "a": "Pour une charge et des performances optimales, utilisez un chargeur USB-C Power Delivery (PD) qui prend en charge au moins 65W, avec 100W recommandé pour une charge plus rapide ou la connectivité XG Mobile."
+            },
+            {
+              "q": "Mon ancien étui ROG Ally conviendra-t-il au ROG Ally X?",
+              "a": "Non, le ROG Ally X a des dimensions et un poids légèrement augmentés par rapport au ROG Ally original, il est donc peu probable que les étuis existants s'adaptent parfaitement. Recherchez des étuis spécialement conçus pour le ROG Ally X."
+            }
+          ]
+        },
+        "es": {
+          "slug": "asus-rog-ally-x",
+          "title": "Matriz de Compatibilidad y Medidas de Asus ROG Ally X",
+          "summary": "Matriz completa de compatibilidad y medidas exactas para el PC de juegos portátil Asus ROG Ally X, detallando las especificaciones clave para accesorios y actualizaciones.",
+          "amazon_search_query": "Accesorios Asus ROG Ally X",
+          "buy_box_title": "Encuentra accesorios compatibles para Asus ROG Ally X",
+          "buy_box_subtitle": "Asegura un ajuste perfecto y un rendimiento óptimo con especificaciones verificadas.",
+          "allowed_guidelines": [
+            "Utilice SSD NVMe M.2 2280 para actualizaciones de almacenamiento interno.",
+            "Utilice cargadores USB-C Power Delivery (PD) que soporten 65W o 100W para una carga óptima.",
+            "Seleccione fundas y agarres diseñados para las dimensiones actualizadas del ROG Ally X."
+          ],
+          "strict_restrictions": [
+            "No utilice SSD M.2 2230 o 2242 en la ranura principal sin un adaptador.",
+            "Evite cargadores no PD o aquellos por debajo de 65W para la carga principal para evitar una carga lenta o una potencia insuficiente.",
+            "Las fundas originales del ROG Ally pueden no encajar debido al aumento de dimensiones y peso."
+          ],
+          "faqs": [
+            {
+              "q": "¿Qué tipo de SSD utiliza el ROG Ally X?",
+              "a": "El Asus ROG Ally X cuenta con una ranura M.2 2280 NVMe PCIe Gen4 de tamaño completo para actualizaciones de almacenamiento interno."
+            },
+            {
+              "q": "¿Qué adaptador de corriente debo usar para el ROG Ally X?",
+              "a": "Para una carga y rendimiento óptimos, utilice un cargador USB-C Power Delivery (PD) que admita al menos 65W, con 100W recomendado para una carga más rápida o conectividad XG Mobile."
+            },
+            {
+              "q": "¿Mi antigua funda del ROG Ally servirá para el ROG Ally X?",
+              "a": "No, el ROG Ally X tiene dimensiones y peso ligeramente aumentados en comparación con el ROG Ally original, por lo que es poco probable que las fundas existentes encajen perfectamente. Busque fundas diseñadas específicamente para el ROG Ally X."
+            }
+          ]
+        },
+        "it": {
+          "slug": "asus-rog-ally-x",
+          "title": "Matrice di Compatibilità e Misurazione Asus ROG Ally X",
+          "summary": "Matrice completa di compatibilità e misurazioni esatte per il PC da gioco portatile Asus ROG Ally X, che dettaglia le specifiche chiave per accessori e aggiornamenti.",
+          "amazon_search_query": "Accessori Asus ROG Ally X",
+          "buy_box_title": "Trova accessori compatibili per Asus ROG Ally X",
+          "buy_box_subtitle": "Assicurati una vestibilità perfetta e prestazioni ottimali con specifiche verificate.",
+          "allowed_guidelines": [
+            "Utilizzare SSD NVMe M.2 2280 per gli aggiornamenti di archiviazione interna.",
+            "Utilizzare caricabatterie USB-C Power Delivery (PD) che supportano 65W o 100W per una ricarica ottimale.",
+            "Selezionare custodie e impugnature progettate per le dimensioni aggiornate del ROG Ally X."
+          ],
+          "strict_restrictions": [
+            "Non utilizzare SSD M.2 2230 o 2242 nello slot principale senza un adattatore.",
+            "Evitare caricabatterie non PD o quelli inferiori a 65W per la ricarica primaria per prevenire una ricarica lenta o una potenza insufficiente.",
+            "Le custodie originali del ROG Ally potrebbero non adattarsi a causa delle dimensioni e del peso maggiori."
+          ],
+          "faqs": [
+            {
+              "q": "Che tipo di SSD utilizza il ROG Ally X?",
+              "a": "L'Asus ROG Ally X è dotato di uno slot M.2 2280 NVMe PCIe Gen4 a grandezza naturale per gli aggiornamenti di archiviazione interna."
+            },
+            {
+              "q": "Quale adattatore di alimentazione dovrei usare per il ROG Ally X?",
+              "a": "Per una ricarica e prestazioni ottimali, utilizzare un caricabatterie USB-C Power Delivery (PD) che supporti almeno 65W, con 100W raccomandati per una ricarica più rapida o la connettività XG Mobile."
+            },
+            {
+              "q": "La mia vecchia custodia del ROG Ally si adatterà al ROG Ally X?",
+              "a": "No, il ROG Ally X ha dimensioni e peso leggermente aumentati rispetto al ROG Ally originale, quindi è improbabile che le custodie esistenti si adattino perfettamente. Cerca custodie progettate specificamente per il ROG Ally X."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "asus-rog-ally-x",
+          "title": "Asus ROG Ally X 互換性および測定マトリックス",
+          "summary": "Asus ROG Ally X ハンドヘルドゲーミングPCの包括的な互換性および正確な測定マトリックス。アクセサリとアップグレードの主要な仕様を詳述します。",
+          "amazon_search_query": "Asus ROG Ally X アクセサリー",
+          "buy_box_title": "Asus ROG Ally X の互換性のあるアクセサリーを見つける",
+          "buy_box_subtitle": "検証済みの仕様で完璧なフィット感と最適なパフォーマンスを確保します。",
+          "allowed_guidelines": [
+            "内部ストレージのアップグレードにはM.2 2280 NVMe SSDを使用してください。",
+            "最適な充電のために、65Wまたは100WをサポートするUSB-C Power Delivery (PD) 充電器を使用してください。",
+            "ROG Ally Xの更新された寸法に合わせて設計されたケースとグリップを選択してください。"
+          ],
+          "strict_restrictions": [
+            "アダプターなしでメインスロットにM.2 2230または2242 SSDを使用しないでください。",
+            "充電速度の低下や電力不足を防ぐため、65W未満の非PD充電器を主充電に使用しないでください。",
+            "ROG Allyの元のケースは、寸法と重量が増加しているため、適合しない場合があります。"
+          ],
+          "faqs": [
+            {
+              "q": "ROG Ally XはどのSSDタイプを使用していますか？",
+              "a": "Asus ROG Ally Xは、内部ストレージのアップグレード用にフルサイズのM.2 2280 NVMe PCIe Gen4スロットを備えています。"
+            },
+            {
+              "q": "ROG Ally Xにはどの電源アダプターを使用すべきですか？",
+              "a": "最適な充電とパフォーマンスのために、少なくとも65WをサポートするUSB-C Power Delivery (PD) 充電器を使用してください。高速充電またはXG Mobile接続には100Wが推奨されます。"
+            },
+            {
+              "q": "古いROG AllyのケースはROG Ally Xに適合しますか？",
+              "a": "いいえ、ROG Ally Xは元のROG Allyと比較して寸法と重量がわずかに増加しているため、既存のケースが完全に適合する可能性は低いです。ROG Ally X専用に設計されたケースを探してください。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "asus-rog-ally-x",
+          "title": "Matriz de Compatibilidade e Medidas do Asus ROG Ally X",
+          "summary": "Matriz abrangente de compatibilidade e medidas exatas para o PC de jogos portátil Asus ROG Ally X, detalhando as especificações chave para acessórios e atualizações.",
+          "amazon_search_query": "Acessórios Asus ROG Ally X",
+          "buy_box_title": "Encontre Acessórios Compatíveis para Asus ROG Ally X",
+          "buy_box_subtitle": "Garanta um ajuste perfeito e desempenho ideal com especificações verificadas.",
+          "allowed_guidelines": [
+            "Use SSDs NVMe M.2 2280 para atualizações de armazenamento interno.",
+            "Utilize carregadores USB-C Power Delivery (PD) que suportem 65W ou 100W para carregamento ideal.",
+            "Selecione capas e punhos projetados para as dimensões atualizadas do ROG Ally X."
+          ],
+          "strict_restrictions": [
+            "Não use SSDs M.2 2230 ou 2242 no slot principal sem um adaptador.",
+            "Evite carregadores não-PD ou aqueles abaixo de 65W para carregamento primário para evitar carregamento lento ou energia insuficiente.",
+            "As capas originais do ROG Ally podem não servir devido ao aumento das dimensões e peso."
+          ],
+          "faqs": [
+            {
+              "q": "Que tipo de SSD o ROG Ally X usa?",
+              "a": "O Asus ROG Ally X possui um slot M.2 2280 NVMe PCIe Gen4 de tamanho completo para atualizações de armazenamento interno."
+            },
+            {
+              "q": "Que adaptador de energia devo usar para o ROG Ally X?",
+              "a": "Para carregamento e desempenho ideais, use um carregador USB-C Power Delivery (PD) que suporte pelo menos 65W, com 100W recomendado para carregamento mais rápido ou conectividade XG Mobile."
+            },
+            {
+              "q": "Minha antiga capa do ROG Ally servirá no ROG Ally X?",
+              "a": "Não, o ROG Ally X tem dimensões e peso ligeiramente aumentados em comparação com o ROG Ally original, então é improvável que as capas existentes se encaixem perfeitamente. Procure capas projetadas especificamente para o ROG Ally X."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "asus-rog-ally-x",
+          "title": "Asus ROG Ally X Compatibiliteits- en Meetmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetmatrix voor de Asus ROG Ally X handheld gaming-pc, met gedetailleerde belangrijke specificaties voor accessoires en upgrades.",
+          "amazon_search_query": "Asus ROG Ally X accessoires",
+          "buy_box_title": "Vind compatibele accessoires voor Asus ROG Ally X",
+          "buy_box_subtitle": "Zorg voor een perfecte pasvorm en optimale prestaties met geverifieerde specificaties.",
+          "allowed_guidelines": [
+            "Gebruik M.2 2280 NVMe SSD's voor interne opslagupgrades.",
+            "Gebruik USB-C Power Delivery (PD) laders die 65W of 100W ondersteunen voor optimaal opladen.",
+            "Kies hoesjes en grips die zijn ontworpen voor de bijgewerkte afmetingen van de ROG Ally X."
+          ],
+          "strict_restrictions": [
+            "Gebruik geen M.2 2230 of 2242 SSD's in de hoofdsleuf zonder adapter.",
+            "Vermijd niet-PD laders of laders onder 65W voor primair opladen om langzaam opladen of onvoldoende stroom te voorkomen.",
+            "Originele ROG Ally hoesjes passen mogelijk niet vanwege de toegenomen afmetingen en het gewicht."
+          ],
+          "faqs": [
+            {
+              "q": "Welk type SSD gebruikt de ROG Ally X?",
+              "a": "De Asus ROG Ally X beschikt over een full-size M.2 2280 NVMe PCIe Gen4 slot voor interne opslagupgrades."
+            },
+            {
+              "q": "Welke voedingsadapter moet ik gebruiken voor de ROG Ally X?",
+              "a": "Voor optimaal opladen en prestaties, gebruik een USB-C Power Delivery (PD) lader die minimaal 65W ondersteunt, met 100W aanbevolen voor sneller opladen of XG Mobile-connectiviteit."
+            },
+            {
+              "q": "Past mijn oude ROG Ally hoesje op de ROG Ally X?",
+              "a": "Nee, de ROG Ally X heeft iets grotere afmetingen en gewicht vergeleken met de originele ROG Ally, dus bestaande hoesjes passen waarschijnlijk niet perfect. Zoek naar hoesjes die specifiek zijn ontworpen voor de ROG Ally X."
             }
           ]
         }
