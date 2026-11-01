@@ -610,3 +610,22 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=Asus+ROG+Ally+X+accessories&tag=autocompat-21
 
 ---
+
+## Tesla Model 3 Highland (AUTO)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/tesla-model-3-highland-compatibility-matrix.html
+- Summary: Comprehensive compatibility and exact measurement guide for the Tesla Model 3 Highland (2024+ refresh), covering essential accessories and specifications.
+
+### Exact Specifications (Dual Units):
+* **Front Wiper Blade (Driver Side)**: Metric: `650 mm` | Imperial: `26 in` (Specific to Tesla Model 3 Highland (2024+ refresh). Ensure correct adapter type.)
+* **Front Wiper Blade (Passenger Side)**: Metric: `475 mm` | Imperial: `19 in` (Specific to Tesla Model 3 Highland (2024+ refresh). Ensure correct adapter type.)
+* **Roof Rack Max Load Capacity**: Metric: `68 kg` | Imperial: `150 lbs` (Includes the weight of the roof rack itself. Refer to owner's manual for proper installation and load distribution.)
+* **Total Cargo Volume (Trunk + Frunk)**: Metric: `594 L` | Imperial: `21.0 cu ft` (Combined volume of rear trunk and front trunk (frunk).)
+* **Trunk Liner Fitment**: Metric: `Custom fit` | Imperial: `Custom fit` (Designed for exact contour of Tesla Model 3 Highland trunk. Not compatible with pre-Highland models.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=Tesla+Model+3+Highland+accessories&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=Tesla+Model+3+Highland+accessories&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=Tesla+Model+3+Highland+accessories&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=Tesla+Model+3+Highland+accessories&tag=autocompat-21
+
+---

@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-11-01T12:36:27.083683+00:00",
-  "total_items": 30,
+  "generated_at": "2026-11-01T21:39:07.300238+00:00",
+  "total_items": 31,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -13210,6 +13210,407 @@
             {
               "q": "Past mijn oude ROG Ally hoesje op de ROG Ally X?",
               "a": "Nee, de ROG Ally X heeft iets grotere afmetingen en gewicht vergeleken met de originele ROG Ally, dus bestaande hoesjes passen waarschijnlijk niet perfect. Zoek naar hoesjes die specifiek zijn ontworpen voor de ROG Ally X."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "tesla-model-3-highland",
+      "slug": "tesla-model-3-highland-compatibility-matrix",
+      "subject": "Tesla Model 3 Highland",
+      "category": "auto",
+      "spec_rows": [
+        {
+          "item": "Front Wiper Blade (Driver Side)",
+          "metric": "650 mm",
+          "imperial": "26 in",
+          "status": "Verified",
+          "note": "Specific to Tesla Model 3 Highland (2024+ refresh). Ensure correct adapter type.",
+          "item_translations": {
+            "en": "Front Wiper Blade (Driver Side)",
+            "de": "Frontscheibenwischer (Fahrerseite)",
+            "fr": "Balai d'essuie-glace avant (côté conducteur)",
+            "es": "Escobilla limpiaparabrisas delantera (lado del conductor)",
+            "it": "Spazzola tergicristallo anteriore (lato conducente)",
+            "ja": "フロントワイパーブレード（運転席側）",
+            "pt": "Palheta do Limpador Dianteiro (Lado do Motorista)",
+            "nl": "Voorruitwisserblad (Bestuurderszijde)"
+          },
+          "note_translations": {
+            "en": "Specific to Tesla Model 3 Highland (2024+ refresh). Ensure correct adapter type.",
+            "de": "Spezifisch für Tesla Model 3 Highland (Modellpflege 2024+). Richtigen Adaptertyp sicherstellen.",
+            "fr": "Spécifique au Tesla Model 3 Highland (rafraîchissement 2024+). Assurez-vous du bon type d'adaptateur.",
+            "es": "Específico para Tesla Model 3 Highland (actualización 2024+). Asegúrese del tipo de adaptador correcto.",
+            "it": "Specifico per Tesla Model 3 Highland (aggiornamento 2024+). Assicurarsi del tipo di adattatore corretto.",
+            "ja": "テスラ モデル3 ハイランド（2024年以降の改良モデル）専用。正しいアダプタータイプを確認してください。",
+            "pt": "Específico para Tesla Model 3 Highland (atualização 2024+). Garanta o tipo de adaptador correto.",
+            "nl": "Specifiek voor Tesla Model 3 Highland (2024+ facelift). Zorg voor het juiste adaptertype."
+          }
+        },
+        {
+          "item": "Front Wiper Blade (Passenger Side)",
+          "metric": "475 mm",
+          "imperial": "19 in",
+          "status": "Verified",
+          "note": "Specific to Tesla Model 3 Highland (2024+ refresh). Ensure correct adapter type.",
+          "item_translations": {
+            "en": "Front Wiper Blade (Passenger Side)",
+            "de": "Frontscheibenwischer (Beifahrerseite)",
+            "fr": "Balai d'essuie-glace avant (côté passager)",
+            "es": "Escobilla limpiaparabrisas delantera (lado del pasajero)",
+            "it": "Spazzola tergicristallo anteriore (lato passeggero)",
+            "ja": "フロントワイパーブレード（助手席側）",
+            "pt": "Palheta do Limpador Dianteiro (Lado do Passageiro)",
+            "nl": "Voorruitwisserblad (Passagierszijde)"
+          },
+          "note_translations": {
+            "en": "Specific to Tesla Model 3 Highland (2024+ refresh). Ensure correct adapter type.",
+            "de": "Spezifisch für Tesla Model 3 Highland (Modellpflege 2024+). Richtigen Adaptertyp sicherstellen.",
+            "fr": "Spécifique au Tesla Model 3 Highland (rafraîchissement 2024+). Assurez-vous du bon type d'adaptateur.",
+            "es": "Específico para Tesla Model 3 Highland (actualización 2024+). Asegúrese del tipo de adaptador correcto.",
+            "it": "Specifico per Tesla Model 3 Highland (aggiornamento 2024+). Assicurarsi del tipo di adattatore corretto.",
+            "ja": "テスラ モデル3 ハイランド（2024年以降の改良モデル）専用。正しいアダプタータイプを確認してください。",
+            "pt": "Específico para Tesla Model 3 Highland (atualização 2024+). Garanta o tipo de adaptador correto.",
+            "nl": "Specifiek voor Tesla Model 3 Highland (2024+ facelift). Zorg voor het juiste adaptertype."
+          }
+        },
+        {
+          "item": "Roof Rack Max Load Capacity",
+          "metric": "68 kg",
+          "imperial": "150 lbs",
+          "status": "Verified",
+          "note": "Includes the weight of the roof rack itself. Refer to owner's manual for proper installation and load distribution.",
+          "item_translations": {
+            "en": "Roof Rack Max Load Capacity",
+            "de": "Dachträger maximale Tragfähigkeit",
+            "fr": "Capacité de charge maximale du porte-bagages de toit",
+            "es": "Capacidad de carga máxima del portaequipajes de techo",
+            "it": "Capacità di carico massima del portapacchi",
+            "ja": "ルーフラック最大積載量",
+            "pt": "Capacidade Máxima de Carga do Bagageiro de Teto",
+            "nl": "Maximale dakdrager draagcapaciteit"
+          },
+          "note_translations": {
+            "en": "Includes the weight of the roof rack itself. Refer to owner's manual for proper installation and load distribution.",
+            "de": "Beinhaltet das Eigengewicht des Dachträgers. Beachten Sie die Bedienungsanleitung für die korrekte Installation und Lastverteilung.",
+            "fr": "Comprend le poids du porte-bagages lui-même. Consultez le manuel du propriétaire pour une installation et une répartition de la charge appropriées.",
+            "es": "Incluye el peso del propio portaequipajes. Consulte el manual del propietario para una instalación y distribución de carga adecuadas.",
+            "it": "Include il peso del portapacchi stesso. Fare riferimento al manuale del proprietario per una corretta installazione e distribuzione del carico.",
+            "ja": "ルーフラック自体の重量を含みます。適切な取り付けと荷重配分については、取扱説明書を参照してください。",
+            "pt": "Inclui o peso do próprio bagageiro de teto. Consulte o manual do proprietário para instalação e distribuição de carga adequadas.",
+            "nl": "Inclusief het gewicht van de dakdrager zelf. Raadpleeg de gebruikershandleiding voor correcte installatie en lastverdeling."
+          }
+        },
+        {
+          "item": "Total Cargo Volume (Trunk + Frunk)",
+          "metric": "594 L",
+          "imperial": "21.0 cu ft",
+          "status": "Verified",
+          "note": "Combined volume of rear trunk and front trunk (frunk).",
+          "item_translations": {
+            "en": "Total Cargo Volume (Trunk + Frunk)",
+            "de": "Gesamtladevolumen (Kofferraum + Frunk)",
+            "fr": "Volume de chargement total (coffre + frunk)",
+            "es": "Volumen total de carga (maletero + frunk)",
+            "it": "Volume di carico totale (bagagliaio + frunk)",
+            "ja": "総積載量（トランク＋フランク）",
+            "pt": "Volume Total de Carga (Porta-malas + Frunk)",
+            "nl": "Totaal laadvolume (Kofferbak + Frunk)"
+          },
+          "note_translations": {
+            "en": "Combined volume of rear trunk and front trunk (frunk).",
+            "de": "Kombiniertes Volumen von hinterem Kofferraum und vorderem Kofferraum (Frunk).",
+            "fr": "Volume combiné du coffre arrière et du coffre avant (frunk).",
+            "es": "Volumen combinado del maletero trasero y el maletero delantero (frunk).",
+            "it": "Volume combinato del bagagliaio posteriore e del bagagliaio anteriore (frunk).",
+            "ja": "リアトランクとフロントトランク（フランク）の合計容積。",
+            "pt": "Volume combinado do porta-malas traseiro e do porta-malas dianteiro (frunk).",
+            "nl": "Gecombineerd volume van achterbak en voorbak (frunk)."
+          }
+        },
+        {
+          "item": "Trunk Liner Fitment",
+          "metric": "Custom fit",
+          "imperial": "Custom fit",
+          "status": "Verified",
+          "note": "Designed for exact contour of Tesla Model 3 Highland trunk. Not compatible with pre-Highland models.",
+          "item_translations": {
+            "en": "Trunk Liner Fitment",
+            "de": "Kofferraumwanne Passform",
+            "fr": "Ajustement du tapis de coffre",
+            "es": "Ajuste del revestimiento del maletero",
+            "it": "Adattamento del rivestimento del bagagliaio",
+            "ja": "トランクライナー適合",
+            "pt": "Ajuste do Forro do Porta-malas",
+            "nl": "Kofferbakmat Pasvorm"
+          },
+          "note_translations": {
+            "en": "Designed for exact contour of Tesla Model 3 Highland trunk. Not compatible with pre-Highland models.",
+            "de": "Entwickelt für die exakte Kontur des Tesla Model 3 Highland Kofferraums. Nicht kompatibel mit Pre-Highland Modellen.",
+            "fr": "Conçu pour épouser parfaitement les contours du coffre du Tesla Model 3 Highland. Non compatible avec les modèles antérieurs au Highland.",
+            "es": "Diseñado para el contorno exacto del maletero del Tesla Model 3 Highland. No compatible con modelos anteriores al Highland.",
+            "it": "Progettato per il contorno esatto del bagagliaio del Tesla Model 3 Highland. Non compatibile con i modelli pre-Highland.",
+            "ja": "テスラ モデル3 ハイランドのトランクの正確な形状に合わせて設計されています。ハイランド以前のモデルとは互換性がありません。",
+            "pt": "Projetado para o contorno exato do porta-malas do Tesla Model 3 Highland. Não compatível com modelos pré-Highland.",
+            "nl": "Ontworpen voor de exacte contouren van de Tesla Model 3 Highland kofferbak. Niet compatibel met pre-Highland modellen."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "tesla-model-3-highland-compatibility-matrix",
+          "title": "Tesla Model 3 Highland Compatibility & Measurement Matrix",
+          "summary": "Comprehensive compatibility and exact measurement guide for the Tesla Model 3 Highland (2024+ refresh), covering essential accessories and specifications.",
+          "amazon_search_query": "Tesla Model 3 Highland accessories",
+          "buy_box_title": "Recommended Accessories for Tesla Model 3 Highland",
+          "buy_box_subtitle": "Ensure perfect fitment and optimal performance.",
+          "allowed_guidelines": [
+            "Always verify part numbers with official Tesla documentation.",
+            "Prioritize accessories specifically designed for the 'Highland' refresh model.",
+            "Adhere to all weight limits and installation instructions."
+          ],
+          "strict_restrictions": [
+            "Do not use accessories designed for pre-Highland Model 3 unless explicitly stated as compatible.",
+            "Exceeding roof rack load capacity can cause damage and is unsafe.",
+            "Avoid generic wiper blades; specific fitment is crucial for optimal performance."
+          ],
+          "faqs": [
+            {
+              "q": "Are Model 3 (pre-Highland) accessories compatible with the Highland model?",
+              "a": "Many accessories, especially interior and exterior trim, are not directly compatible due to design changes. Always look for products specifically labeled for the 'Highland' or '2024+' Model 3."
+            },
+            {
+              "q": "What are the correct wiper blade sizes for the Tesla Model 3 Highland?",
+              "a": "The driver's side requires a 650mm (26in) blade, and the passenger's side requires a 475mm (19in) blade."
+            },
+            {
+              "q": "What is the maximum roof rack load for the Model 3 Highland?",
+              "a": "The maximum load capacity for the roof rack is 68 kg (150 lbs), including the weight of the roof rack itself."
+            }
+          ]
+        },
+        "de": {
+          "slug": "tesla-model-3-highland-kompatibilitaetsmatrix",
+          "title": "Tesla Model 3 Highland Kompatibilitäts- und Messmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messanleitung für das Tesla Model 3 Highland (Modellpflege 2024+), die wesentliche Zubehörteile und Spezifikationen abdeckt.",
+          "amazon_search_query": "Tesla Model 3 Highland Zubehör",
+          "buy_box_title": "Empfohlenes Zubehör für Tesla Model 3 Highland",
+          "buy_box_subtitle": "Sorgen Sie für perfekte Passform und optimale Leistung.",
+          "allowed_guidelines": [
+            "Überprüfen Sie immer die Teilenummern mit der offiziellen Tesla-Dokumentation.",
+            "Bevorzugen Sie Zubehör, das speziell für das 'Highland'-Modell entwickelt wurde.",
+            "Beachten Sie alle Gewichtsbeschränkungen und Installationsanweisungen."
+          ],
+          "strict_restrictions": [
+            "Verwenden Sie kein Zubehör, das für das Pre-Highland Model 3 entwickelt wurde, es sei denn, die Kompatibilität ist ausdrücklich angegeben.",
+            "Das Überschreiten der Dachträger-Tragfähigkeit kann Schäden verursachen und ist unsicher.",
+            "Vermeiden Sie generische Scheibenwischer; eine spezifische Passform ist entscheidend für optimale Leistung."
+          ],
+          "faqs": [
+            {
+              "q": "Sind Model 3 (Pre-Highland) Zubehörteile mit dem Highland-Modell kompatibel?",
+              "a": "Viele Zubehörteile, insbesondere Innen- und Außenverkleidungen, sind aufgrund von Designänderungen nicht direkt kompatibel. Suchen Sie immer nach Produkten, die speziell für das 'Highland' oder '2024+' Model 3 gekennzeichnet sind."
+            },
+            {
+              "q": "Welche Scheibenwischergrößen sind für das Tesla Model 3 Highland korrekt?",
+              "a": "Die Fahrerseite benötigt ein 650 mm (26 Zoll) langes Wischerblatt und die Beifahrerseite ein 475 mm (19 Zoll) langes Wischerblatt."
+            },
+            {
+              "q": "Wie hoch ist die maximale Dachträgerlast für das Model 3 Highland?",
+              "a": "Die maximale Tragfähigkeit für den Dachträger beträgt 68 kg (150 lbs), einschließlich des Gewichts des Dachträgers selbst."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "tesla-model-3-highland-matrice-compatibilite",
+          "title": "Matrice de Compatibilité et de Mesures du Tesla Model 3 Highland",
+          "summary": "Guide complet de compatibilité et de mesures exactes pour le Tesla Model 3 Highland (rafraîchissement 2024+), couvrant les accessoires essentiels et les spécifications.",
+          "amazon_search_query": "Accessoires Tesla Model 3 Highland",
+          "buy_box_title": "Accessoires Recommandés pour Tesla Model 3 Highland",
+          "buy_box_subtitle": "Assurez un ajustement parfait et des performances optimales.",
+          "allowed_guidelines": [
+            "Vérifiez toujours les numéros de pièce avec la documentation officielle de Tesla.",
+            "Privilégiez les accessoires spécifiquement conçus pour le modèle 'Highland' rafraîchi.",
+            "Respectez toutes les limites de poids et les instructions d'installation."
+          ],
+          "strict_restrictions": [
+            "N'utilisez pas d'accessoires conçus pour le Model 3 pré-Highland, sauf indication explicite de compatibilité.",
+            "Dépasser la capacité de charge du porte-bagages de toit peut causer des dommages et est dangereux.",
+            "Évitez les balais d'essuie-glace génériques ; un ajustement spécifique est crucial pour des performances optimales."
+          ],
+          "faqs": [
+            {
+              "q": "Les accessoires du Model 3 (pré-Highland) sont-ils compatibles avec le modèle Highland ?",
+              "a": "De nombreux accessoires, en particulier les garnitures intérieures et extérieures, ne sont pas directement compatibles en raison des changements de conception. Recherchez toujours des produits spécifiquement étiquetés pour le Model 3 'Highland' ou '2024+'."
+            },
+            {
+              "q": "Quelles sont les tailles correctes des balais d'essuie-glace pour le Tesla Model 3 Highland ?",
+              "a": "Le côté conducteur nécessite un balai de 650 mm (26 pouces), et le côté passager nécessite un balai de 475 mm (19 pouces)."
+            },
+            {
+              "q": "Quelle est la charge maximale du porte-bagages de toit pour le Model 3 Highland ?",
+              "a": "La capacité de charge maximale du porte-bagages de toit est de 68 kg (150 lbs), y compris le poids du porte-bagages lui-même."
+            }
+          ]
+        },
+        "es": {
+          "slug": "tesla-model-3-highland-matriz-compatibilidad",
+          "title": "Matriz de Compatibilidad y Medidas del Tesla Model 3 Highland",
+          "summary": "Guía completa de compatibilidad y medidas exactas para el Tesla Model 3 Highland (actualización 2024+), que cubre accesorios esenciales y especificaciones.",
+          "amazon_search_query": "Accesorios Tesla Model 3 Highland",
+          "buy_box_title": "Accesorios Recomendados para Tesla Model 3 Highland",
+          "buy_box_subtitle": "Asegure un ajuste perfecto y un rendimiento óptimo.",
+          "allowed_guidelines": [
+            "Verifique siempre los números de pieza con la documentación oficial de Tesla.",
+            "Priorice los accesorios diseñados específicamente para el modelo 'Highland' actualizado.",
+            "Respete todos los límites de peso y las instrucciones de instalación."
+          ],
+          "strict_restrictions": [
+            "No utilice accesorios diseñados para el Model 3 pre-Highland a menos que se indique explícitamente su compatibilidad.",
+            "Exceder la capacidad de carga del portaequipajes de techo puede causar daños y es inseguro.",
+            "Evite las escobillas limpiaparabrisas genéricas; un ajuste específico es crucial para un rendimiento óptimo."
+          ],
+          "faqs": [
+            {
+              "q": "¿Son compatibles los accesorios del Model 3 (pre-Highland) con el modelo Highland?",
+              "a": "Muchos accesorios, especialmente los embellecedores interiores y exteriores, no son directamente compatibles debido a los cambios de diseño. Busque siempre productos específicamente etiquetados para el Model 3 'Highland' o '2024+'."
+            },
+            {
+              "q": "¿Cuáles son los tamaños correctos de las escobillas limpiaparabrisas para el Tesla Model 3 Highland?",
+              "a": "El lado del conductor requiere una escobilla de 650 mm (26 pulgadas), y el lado del pasajero requiere una escobilla de 475 mm (19 pulgadas)."
+            },
+            {
+              "q": "¿Cuál es la carga máxima del portaequipajes de techo para el Model 3 Highland?",
+              "a": "La capacidad de carga máxima para el portaequipajes de techo es de 68 kg (150 lbs), incluyendo el peso del propio portaequipajes."
+            }
+          ]
+        },
+        "it": {
+          "slug": "tesla-model-3-highland-matrice-compatibilita",
+          "title": "Matrice di Compatibilità e Misurazioni Tesla Model 3 Highland",
+          "summary": "Guida completa alla compatibilità e alle misurazioni esatte per la Tesla Model 3 Highland (aggiornamento 2024+), che copre accessori e specifiche essenziali.",
+          "amazon_search_query": "Accessori Tesla Model 3 Highland",
+          "buy_box_title": "Accessori Consigliati per Tesla Model 3 Highland",
+          "buy_box_subtitle": "Garantire una perfetta aderenza e prestazioni ottimali.",
+          "allowed_guidelines": [
+            "Verificare sempre i codici dei ricambi con la documentazione ufficiale Tesla.",
+            "Dare priorità agli accessori progettati specificamente per il modello 'Highland' aggiornato.",
+            "Rispettare tutti i limiti di peso e le istruzioni di installazione."
+          ],
+          "strict_restrictions": [
+            "Non utilizzare accessori progettati per la Model 3 pre-Highland a meno che non sia esplicitamente indicata la compatibilità.",
+            "Superare la capacità di carico del portapacchi può causare danni ed è pericoloso.",
+            "Evitare spazzole tergicristallo generiche; un adattamento specifico è fondamentale per prestazioni ottimali."
+          ],
+          "faqs": [
+            {
+              "q": "Gli accessori della Model 3 (pre-Highland) sono compatibili con il modello Highland?",
+              "a": "Molti accessori, in particolare le finiture interne ed esterne, non sono direttamente compatibili a causa dei cambiamenti di design. Cercare sempre prodotti specificamente etichettati per la Model 3 'Highland' o '2024+'."
+            },
+            {
+              "q": "Quali sono le dimensioni corrette delle spazzole tergicristallo per la Tesla Model 3 Highland?",
+              "a": "Il lato del conducente richiede una spazzola da 650 mm (26 pollici) e il lato del passeggero richiede una spazzola da 475 mm (19 pollici)."
+            },
+            {
+              "q": "Qual è il carico massimo del portapacchi per la Model 3 Highland?",
+              "a": "La capacità di carico massima per il portapacchi è di 68 kg (150 lbs), incluso il peso del portapacchi stesso."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "tesla-model-3-highland-gokansei-matrix",
+          "title": "テスラ モデル3 ハイランド 互換性および測定マトリックス",
+          "summary": "テスラ モデル3 ハイランド（2024年以降の改良モデル）の包括的な互換性および正確な測定ガイド。主要なアクセサリーと仕様を網羅しています。",
+          "amazon_search_query": "テスラ モデル3 ハイランド アクセサリー",
+          "buy_box_title": "テスラ モデル3 ハイランド おすすめアクセサリー",
+          "buy_box_subtitle": "完璧なフィット感と最適なパフォーマンスを保証します。",
+          "allowed_guidelines": [
+            "常に公式のテスラ文書で部品番号を確認してください。",
+            "「ハイランド」改良モデル専用に設計されたアクセサリーを優先してください。",
+            "すべての重量制限と取り付け指示に従ってください。"
+          ],
+          "strict_restrictions": [
+            "互換性が明示的に記載されていない限り、ハイランド以前のモデル3用に設計されたアクセサリーは使用しないでください。",
+            "ルーフラックの積載量を超えると、損傷を引き起こす可能性があり、危険です。",
+            "汎用ワイパーブレードは避けてください。最適なパフォーマンスには特定の適合が不可欠です。"
+          ],
+          "faqs": [
+            {
+              "q": "モデル3（ハイランド以前）のアクセサリーはハイランドモデルと互換性がありますか？",
+              "a": "多くのアクセサリー、特に内装および外装トリムは、設計変更のため直接互換性がありません。「ハイランド」または「2024+」モデル3専用と明記された製品を常に探してください。"
+            },
+            {
+              "q": "テスラ モデル3 ハイランドの正しいワイパーブレードのサイズは何ですか？",
+              "a": "運転席側は650mm（26インチ）、助手席側は475mm（19インチ）のブレードが必要です。"
+            },
+            {
+              "q": "モデル3 ハイランドのルーフラックの最大積載量はどれくらいですか？",
+              "a": "ルーフラックの最大積載量は、ルーフラック自体の重量を含めて68 kg（150 lbs）です。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "tesla-model-3-highland-matriz-compatibilidade",
+          "title": "Matriz de Compatibilidade e Medidas do Tesla Model 3 Highland",
+          "summary": "Guia completo de compatibilidade e medidas exatas para o Tesla Model 3 Highland (atualização 2024+), cobrindo acessórios essenciais e especificações.",
+          "amazon_search_query": "Acessórios Tesla Model 3 Highland",
+          "buy_box_title": "Acessórios Recomendados para Tesla Model 3 Highland",
+          "buy_box_subtitle": "Garanta ajuste perfeito e desempenho ideal.",
+          "allowed_guidelines": [
+            "Sempre verifique os números de peça com a documentação oficial da Tesla.",
+            "Priorize acessórios projetados especificamente para o modelo 'Highland' atualizado.",
+            "Cumpra todos os limites de peso e instruções de instalação."
+          ],
+          "strict_restrictions": [
+            "Não use acessórios projetados para o Model 3 pré-Highland, a menos que explicitamente declarado como compatível.",
+            "Exceder a capacidade de carga do bagageiro de teto pode causar danos e é inseguro.",
+            "Evite palhetas de limpador genéricas; o ajuste específico é crucial para um desempenho ideal."
+          ],
+          "faqs": [
+            {
+              "q": "Os acessórios do Model 3 (pré-Highland) são compatíveis com o modelo Highland?",
+              "a": "Muitos acessórios, especialmente acabamentos internos e externos, não são diretamente compatíveis devido a mudanças de design. Sempre procure produtos especificamente rotulados para o Model 3 'Highland' ou '2024+'."
+            },
+            {
+              "q": "Quais são os tamanhos corretos das palhetas do limpador para o Tesla Model 3 Highland?",
+              "a": "O lado do motorista requer uma palheta de 650 mm (26 polegadas), e o lado do passageiro requer uma palheta de 475 mm (19 polegadas)."
+            },
+            {
+              "q": "Qual é a carga máxima do bagageiro de teto para o Model 3 Highland?",
+              "a": "A capacidade máxima de carga para o bagageiro de teto é de 68 kg (150 lbs), incluindo o peso do próprio bagageiro de teto."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "tesla-model-3-highland-compatibiliteitsmatrix",
+          "title": "Tesla Model 3 Highland Compatibiliteits- en Meetmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetgids voor de Tesla Model 3 Highland (2024+ refresh), met essentiële accessoires en specificaties.",
+          "amazon_search_query": "Tesla Model 3 Highland accessoires",
+          "buy_box_title": "Aanbevolen Accessoires voor Tesla Model 3 Highland",
+          "buy_box_subtitle": "Zorg voor een perfecte pasvorm en optimale prestaties.",
+          "allowed_guidelines": [
+            "Controleer altijd onderdeelnummers met officiële Tesla-documentatie.",
+            "Geef prioriteit aan accessoires die specifiek zijn ontworpen voor het 'Highland' refresh-model.",
+            "Houd u aan alle gewichtslimieten en installatie-instructies."
+          ],
+          "strict_restrictions": [
+            "Gebruik geen accessoires die zijn ontworpen voor de pre-Highland Model 3, tenzij expliciet vermeld als compatibel.",
+            "Het overschrijden van de dakdrager draagcapaciteit kan schade veroorzaken en is onveilig.",
+            "Vermijd generieke ruitenwisserbladen; specifieke pasvorm is cruciaal voor optimale prestaties."
+          ],
+          "faqs": [
+            {
+              "q": "Zijn Model 3 (pre-Highland) accessoires compatibel met het Highland-model?",
+              "a": "Veel accessoires, met name interieur- en exterieurafwerking, zijn niet direct compatibel vanwege ontwerpwijzigingen. Zoek altijd naar producten die specifiek zijn gelabeld voor de 'Highland' of '2024+' Model 3."
+            },
+            {
+              "q": "Wat zijn de juiste ruitenwisserbladmaten voor de Tesla Model 3 Highland?",
+              "a": "De bestuurderszijde vereist een blad van 650 mm (26 inch), en de passagierszijde vereist een blad van 475 mm (19 inch)."
+            },
+            {
+              "q": "Wat is de maximale dakdragerbelasting voor de Model 3 Highland?",
+              "a": "De maximale draagcapaciteit voor de dakdrager is 68 kg (150 lbs), inclusief het gewicht van de dakdrager zelf."
             }
           ]
         }
