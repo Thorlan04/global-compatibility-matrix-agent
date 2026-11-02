@@ -629,3 +629,23 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=Tesla+Model+3+Highland+accessories&tag=autocompat-21
 
 ---
+
+## Toyota RAV4 (5th Gen 2019-2026) (AUTO)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/toyota-rav4-5th-gen-compatibility-matrix.html
+- Summary: Comprehensive compatibility and exact measurement guide for the Toyota RAV4 5th Generation (XA50 chassis code), covering models from 2019 to 2026. Includes details for wiper blades, roof rail crossbar fitment, and load capacities.
+
+### Exact Specifications (Dual Units):
+* **Front Wiper Blade (Driver Side)**: Metric: `650 mm` | Imperial: `26 in` (Standard hook (J-hook) type. Ensure correct adapter for specific blade models.)
+* **Front Wiper Blade (Passenger Side)**: Metric: `400 mm` | Imperial: `16 in` (Standard hook (J-hook) type. Ensure correct adapter for specific blade models.)
+* **Rear Wiper Blade**: Metric: `300 mm` | Imperial: `12 in` (Specific fitment for rear arm. Often a unique attachment type.)
+* **Roof Rail Crossbar Length (Front)**: Metric: `Approx. 100-105 cm` | Imperial: `Approx. 39.4-41.3 in` (Distance between mounting points on factory roof rails. Actual crossbar length may be longer to extend beyond rails.)
+* **Roof Rail Crossbar Length (Rear)**: Metric: `Approx. 95-100 cm` | Imperial: `Approx. 37.4-39.4 in` (Distance between mounting points on factory roof rails. Actual crossbar length may be longer to extend beyond rails.)
+* **Roof Rail Crossbar Load Capacity (Dynamic)**: Metric: `Max 75 kg` | Imperial: `Max 165 lbs` (Includes weight of crossbars, accessories, and cargo. Consult vehicle manual for exact dynamic load limits and distribution.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=Toyota+RAV4+5th+Gen+wiper+blades%2C+RAV4+2019-2026+roof+rack+crossbars&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=Toyota+RAV4+5th+Gen+wiper+blades%2C+RAV4+2019-2026+roof+rack+crossbars&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=Toyota+RAV4+5th+Gen+wiper+blades%2C+RAV4+2019-2026+roof+rack+crossbars&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=Toyota+RAV4+5th+Gen+wiper+blades%2C+RAV4+2019-2026+roof+rack+crossbars&tag=autocompat-21
+
+---

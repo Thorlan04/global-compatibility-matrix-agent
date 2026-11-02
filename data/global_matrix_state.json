@@ -1,63 +1,65 @@
 {
-  "last_updated": "2026-11-02T04:08:11.332789+00:00",
+  "last_updated": "2026-11-02T14:39:49.019988+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
+    "emirates",
     "latam",
-    "air-france-baggage-allowance",
-    "easyjet-baggage-powerbank-guide",
-    "xbox-series-x-hardware-compatibility-matrix",
-    "american",
-    "transavia-baggage-allowance",
-    "latam-airlines-baggage-allowance",
-    "lufthansa",
-    "ana-jal",
     "southwest-airlines-baggage-policy",
-    "southwest",
-    "ps5-slim-pro",
-    "british-airways",
-    "ana-japan-airlines-carry-on-luggage-compatibility",
-    "ryanair-cabin-baggage-dimensions",
-    "united",
-    "qatar-airways",
-    "asus-rog-ally-x",
-    "delta",
-    "playstation-5-slim-pro-compatibility",
+    "air-france",
     "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
-    "emirates-baggage-allowance",
-    "tesla-model-3",
-    "lufthansa-airlines-baggage-guide",
-    "vueling",
-    "macbook-pro-m3",
-    "air-canada",
-    "gopro-12-13",
-    "united-airlines-baggage-lithium-battery-rules",
+    "qatar-airways-baggage-power-bank-guide",
+    "delta",
+    "sony-bravia",
+    "dji-mini-4-pro-air-3-compatibility-matrix",
+    "toyota-rav4",
+    "asus-rog-ally-x",
+    "lufthansa",
+    "dji-mini-air",
     "easyjet",
     "qantas-carry-on-baggage-allowance",
-    "lg-oled-c3-c4-vesa-mount-power",
+    "steam-deck-oled",
+    "samsung-qled",
+    "air-france-baggage-allowance",
+    "transavia",
+    "ana-jal",
+    "ana-japan-airlines-carry-on-luggage-compatibility",
+    "lufthansa-airlines-baggage-guide",
+    "macbook-pro-m3",
+    "nintendo-switch",
+    "playstation-5-slim-pro-compatibility",
+    "qantas",
     "delta-air-lines-compatibility-matrix",
-    "emirates",
+    "vueling-baggage-allowance",
+    "gopro-12-13",
+    "wizz-air",
+    "vueling",
+    "macbook-pro-14-16-m3-m4-compatibility",
+    "toyota-rav4-5th-gen-compatibility-matrix",
+    "united",
+    "american-airlines-compatibility-matrix",
+    "transavia-baggage-allowance",
+    "easyjet-baggage-powerbank-guide",
+    "emirates-baggage-allowance",
+    "air-canada",
+    "latam-airlines-baggage-allowance",
+    "american",
+    "xbox-series-x",
+    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "southwest",
+    "xbox-series-x-hardware-compatibility-matrix",
+    "tesla-model-3",
+    "lg-oled-c3-c4-vesa-mount-power",
+    "tesla-model-3-highland-compatibility-matrix",
+    "ps5-slim-pro",
+    "samsung-neo-qled-oled-tv-compatibility-matrix",
+    "qatar-airways",
+    "united-airlines-baggage-lithium-battery-rules",
+    "gopro-hero-12-13-black-compatibility-matrix",
     "valve-steam-deck-oled",
     "nintendo-switch-switch-oled-compatibility-matrix",
-    "macbook-pro-14-16-m3-m4-compatibility",
-    "xbox-series-x",
-    "air-france",
-    "qatar-airways-baggage-power-bank-guide",
-    "wizz-air",
-    "steam-deck-oled",
-    "samsung-neo-qled-oled-tv-compatibility-matrix",
-    "vueling-baggage-allowance",
-    "american-airlines-compatibility-matrix",
-    "nintendo-switch",
-    "sony-bravia",
-    "gopro-hero-12-13-black-compatibility-matrix",
-    "dji-mini-4-pro-air-3-compatibility-matrix",
-    "dji-mini-air",
-    "samsung-qled",
-    "tesla-model-y-wipers-roof-trunk-dimensions",
-    "transavia",
-    "qantas",
-    "tesla-model-3-highland-compatibility-matrix"
+    "british-airways",
+    "ryanair-cabin-baggage-dimensions"
   ],
   "topics_backlog": [
     {
@@ -13903,6 +13905,434 @@
             {
               "q": "Wat is de maximale dakdragerbelasting voor de Model 3 Highland?",
               "a": "De maximale draagcapaciteit voor de dakdrager is 68 kg (150 lbs), inclusief het gewicht van de dakdrager zelf."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "toyota-rav4",
+      "slug": "toyota-rav4-5th-gen-compatibility-matrix",
+      "subject": "Toyota RAV4 (5th Gen 2019-2026)",
+      "category": "auto",
+      "spec_rows": [
+        {
+          "item": "Front Wiper Blade (Driver Side)",
+          "metric": "650 mm",
+          "imperial": "26 in",
+          "status": "Verified",
+          "note": "Standard hook (J-hook) type. Ensure correct adapter for specific blade models.",
+          "item_translations": {
+            "en": "Front Wiper Blade (Driver Side)",
+            "de": "Scheibenwischer vorne (Fahrerseite)",
+            "fr": "Balai d'essuie-glace avant (côté conducteur)",
+            "es": "Escobilla limpiaparabrisas delantera (lado del conductor)",
+            "it": "Spazzola tergicristallo anteriore (lato conducente)",
+            "ja": "フロントワイパーブレード（運転席側）",
+            "pt": "Escova do Limpa Para-brisas Dianteira (Lado do Condutor)",
+            "nl": "Ruitenwisserblad voor (bestuurderszijde)"
+          },
+          "note_translations": {
+            "en": "Standard hook (J-hook) type. Ensure correct adapter for specific blade models.",
+            "de": "Standard-Haken-Typ (J-Haken). Stellen Sie den richtigen Adapter für spezifische Klingenmodelle sicher.",
+            "fr": "Type de crochet standard (crochet en J). Assurez-vous d'utiliser l'adaptateur correct pour les modèles de balais spécifiques.",
+            "es": "Tipo de gancho estándar (gancho en J). Asegúrese de usar el adaptador correcto para modelos de escobillas específicos.",
+            "it": "Tipo a gancio standard (gancio a J). Assicurarsi dell'adattatore corretto per specifici modelli di spazzole.",
+            "ja": "標準フック（Jフック）タイプ。特定のブレードモデルには正しいアダプターを使用してください。",
+            "pt": "Tipo de gancho padrão (gancho em J). Garanta o adaptador correto para modelos de lâminas específicos.",
+            "nl": "Standaard haak (J-haak) type. Zorg voor de juiste adapter voor specifieke bladmodellen."
+          }
+        },
+        {
+          "item": "Front Wiper Blade (Passenger Side)",
+          "metric": "400 mm",
+          "imperial": "16 in",
+          "status": "Verified",
+          "note": "Standard hook (J-hook) type. Ensure correct adapter for specific blade models.",
+          "item_translations": {
+            "en": "Front Wiper Blade (Passenger Side)",
+            "de": "Scheibenwischer vorne (Beifahrerseite)",
+            "fr": "Balai d'essuie-glace avant (côté passager)",
+            "es": "Escobilla limpiaparabrisas delantera (lado del pasajero)",
+            "it": "Spazzola tergicristallo anteriore (lato passeggero)",
+            "ja": "フロントワイパーブレード（助手席側）",
+            "pt": "Escova do Limpa Para-brisas Dianteira (Lado do Passageiro)",
+            "nl": "Ruitenwisserblad voor (passagierszijde)"
+          },
+          "note_translations": {
+            "en": "Standard hook (J-hook) type. Ensure correct adapter for specific blade models.",
+            "de": "Standard-Haken-Typ (J-Haken). Stellen Sie den richtigen Adapter für spezifische Klingenmodelle sicher.",
+            "fr": "Type de crochet standard (crochet en J). Assurez-vous d'utiliser l'adaptateur correct pour les modèles de balais spécifiques.",
+            "es": "Tipo de gancho estándar (gancho en J). Asegúrese de usar el adaptador correcto para modelos de escobillas específicos.",
+            "it": "Tipo a gancio standard (gancio a J). Assicurarsi dell'adattatore corretto per specifici modelli di spazzole.",
+            "ja": "標準フック（Jフック）タイプ。特定のブレードモデルには正しいアダプターを使用してください。",
+            "pt": "Tipo de gancho padrão (gancho em J). Garanta o adaptador correto para modelos de lâminas específicos.",
+            "nl": "Standaard haak (J-haak) type. Zorg voor de juiste adapter voor specifieke bladmodellen."
+          }
+        },
+        {
+          "item": "Rear Wiper Blade",
+          "metric": "300 mm",
+          "imperial": "12 in",
+          "status": "Verified",
+          "note": "Specific fitment for rear arm. Often a unique attachment type.",
+          "item_translations": {
+            "en": "Rear Wiper Blade",
+            "de": "Heckscheibenwischer",
+            "fr": "Balai d'essuie-glace arrière",
+            "es": "Escobilla limpiaparabrisas trasera",
+            "it": "Spazzola tergicristallo posteriore",
+            "ja": "リアワイパーブレード",
+            "pt": "Escova do Limpa Para-brisas Traseira",
+            "nl": "Ruitenwisserblad achter"
+          },
+          "note_translations": {
+            "en": "Specific fitment for rear arm. Often a unique attachment type.",
+            "de": "Spezifische Passform für den Heckwischerarm. Oft ein einzigartiger Befestigungstyp.",
+            "fr": "Montage spécifique pour le bras arrière. Souvent un type de fixation unique.",
+            "es": "Ajuste específico para el brazo trasero. A menudo, un tipo de fijación único.",
+            "it": "Montaggio specifico per il braccio posteriore. Spesso un tipo di attacco unico.",
+            "ja": "リアアーム専用の取り付け。多くの場合、独自の取り付けタイプです。",
+            "pt": "Encaixe específico para o braço traseiro. Frequentemente um tipo de fixação único.",
+            "nl": "Specifieke pasvorm voor de achterarm. Vaak een uniek bevestigingstype."
+          }
+        },
+        {
+          "item": "Roof Rail Crossbar Length (Front)",
+          "metric": "Approx. 100-105 cm",
+          "imperial": "Approx. 39.4-41.3 in",
+          "status": "Verified",
+          "note": "Distance between mounting points on factory roof rails. Actual crossbar length may be longer to extend beyond rails.",
+          "item_translations": {
+            "en": "Roof Rail Crossbar Length (Front)",
+            "de": "Dachreling-Querträgerlänge (vorne)",
+            "fr": "Longueur de la barre transversale de toit (avant)",
+            "es": "Longitud de la barra transversal del riel del techo (delantera)",
+            "it": "Lunghezza barra trasversale portapacchi (anteriore)",
+            "ja": "ルーフレールクロスバーの長さ（フロント）",
+            "pt": "Comprimento da Barra Transversal do Tejadilho (Dianteira)",
+            "nl": "Dakdrager dwarsbalk lengte (voor)"
+          },
+          "note_translations": {
+            "en": "Distance between mounting points on factory roof rails. Actual crossbar length may be longer to extend beyond rails.",
+            "de": "Abstand zwischen den Befestigungspunkten an den werkseitigen Dachrelings. Die tatsächliche Querträgerlänge kann länger sein, um über die Relings hinauszuragen.",
+            "fr": "Distance entre les points de fixation sur les barres de toit d'origine. La longueur réelle de la barre transversale peut être plus longue pour dépasser les barres.",
+            "es": "Distancia entre los puntos de montaje en los rieles de techo de fábrica. La longitud real de la barra transversal puede ser mayor para extenderse más allá de los rieles.",
+            "it": "Distanza tra i punti di montaggio sulle barre portatutto di fabbrica. La lunghezza effettiva della barra trasversale può essere maggiore per estendersi oltre le barre.",
+            "ja": "工場出荷時のルーフレール取り付けポイント間の距離。実際のクロスバーの長さは、レールを超えて延長するために長くなる場合があります。",
+            "pt": "Distância entre os pontos de montagem nos trilhos de teto de fábrica. O comprimento real da barra transversal pode ser maior para se estender além dos trilhos.",
+            "nl": "Afstand tussen de bevestigingspunten op de fabrieks dakrails. De werkelijke lengte van de dwarsbalk kan langer zijn om buiten de rails uit te steken."
+          }
+        },
+        {
+          "item": "Roof Rail Crossbar Length (Rear)",
+          "metric": "Approx. 95-100 cm",
+          "imperial": "Approx. 37.4-39.4 in",
+          "status": "Verified",
+          "note": "Distance between mounting points on factory roof rails. Actual crossbar length may be longer to extend beyond rails.",
+          "item_translations": {
+            "en": "Roof Rail Crossbar Length (Rear)",
+            "de": "Dachreling-Querträgerlänge (hinten)",
+            "fr": "Longueur de la barre transversale de toit (arrière)",
+            "es": "Longitud de la barra transversal del riel del techo (trasera)",
+            "it": "Lunghezza barra trasversale portapacchi (posteriore)",
+            "ja": "ルーフレールクロスバーの長さ（リア）",
+            "pt": "Comprimento da Barra Transversal do Tejadilho (Traseira)",
+            "nl": "Dakdrager dwarsbalk lengte (achter)"
+          },
+          "note_translations": {
+            "en": "Distance between mounting points on factory roof rails. Actual crossbar length may be longer to extend beyond rails.",
+            "de": "Abstand zwischen den Befestigungspunkten an den werkseitigen Dachrelings. Die tatsächliche Querträgerlänge kann länger sein, um über die Relings hinauszuragen.",
+            "fr": "Distance entre les points de fixation sur les barres de toit d'origine. La longueur réelle de la barre transversale peut être plus longue pour dépasser les barres.",
+            "es": "Distancia entre los puntos de montaje en los rieles de techo de fábrica. La longitud real de la barra transversal puede ser mayor para extenderse más allá de los rieles.",
+            "it": "Distanza tra i punti di montaggio sulle barre portatutto di fabbrica. La lunghezza effettiva della barra trasversale può essere maggiore per estendersi oltre le barre.",
+            "ja": "工場出荷時のルーフレール取り付けポイント間の距離。実際のクロスバーの長さは、レールを超えて延長するために長くなる場合があります。",
+            "pt": "Distância entre os pontos de montagem nos trilhos de teto de fábrica. O comprimento real da barra transversal pode ser maior para se estender além dos trilhos.",
+            "nl": "Afstand tussen de bevestigingspunten op de fabrieks dakrails. De werkelijke lengte van de dwarsbalk kan langer zijn om buiten de rails uit te steken."
+          }
+        },
+        {
+          "item": "Roof Rail Crossbar Load Capacity (Dynamic)",
+          "metric": "Max 75 kg",
+          "imperial": "Max 165 lbs",
+          "status": "Verified",
+          "note": "Includes weight of crossbars, accessories, and cargo. Consult vehicle manual for exact dynamic load limits and distribution.",
+          "item_translations": {
+            "en": "Roof Rail Crossbar Load Capacity (Dynamic)",
+            "de": "Dachreling-Querträger Tragfähigkeit (dynamisch)",
+            "fr": "Capacité de charge de la barre transversale de toit (dynamique)",
+            "es": "Capacidad de carga de la barra transversal del riel del techo (dinámica)",
+            "it": "Capacità di carico barra trasversale portapacchi (dinamica)",
+            "ja": "ルーフレールクロスバー積載量（動的）",
+            "pt": "Capacidade de Carga da Barra Transversal do Tejadilho (Dinâmica)",
+            "nl": "Dakdrager dwarsbalk draagvermogen (dynamisch)"
+          },
+          "note_translations": {
+            "en": "Includes weight of crossbars, accessories, and cargo. Consult vehicle manual for exact dynamic load limits and distribution.",
+            "de": "Beinhaltet das Gewicht von Querträgern, Zubehör und Ladung. Konsultieren Sie das Fahrzeughandbuch für genaue dynamische Lastgrenzen und -verteilung.",
+            "fr": "Comprend le poids des barres transversales, des accessoires et du chargement. Consultez le manuel du véhicule pour les limites de charge dynamique exactes et la répartition.",
+            "es": "Incluye el peso de las barras transversales, accesorios y carga. Consulte el manual del vehículo para conocer los límites de carga dinámica exactos y su distribución.",
+            "it": "Include il peso delle barre trasversali, degli accessori e del carico. Consultare il manuale del veicolo per i limiti di carico dinamico esatti e la distribuzione.",
+            "ja": "クロスバー、アクセサリー、貨物の重量を含みます。正確な動的積載制限と分布については、車両のマニュアルを参照してください。",
+            "pt": "Inclui o peso das barras transversais, acessórios e carga. Consulte o manual do veículo para os limites de carga dinâmica exatos e distribuição.",
+            "nl": "Inclusief gewicht van dwarsbalken, accessoires en lading. Raadpleeg de voertuighandleiding voor exacte dynamische laadlimieten en -verdeling."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "toyota-rav4-5th-gen-compatibility-matrix",
+          "title": "Toyota RAV4 (5th Gen 2019-2026) Compatibility & Measurement Matrix",
+          "summary": "Comprehensive compatibility and exact measurement guide for the Toyota RAV4 5th Generation (XA50 chassis code), covering models from 2019 to 2026. Includes details for wiper blades, roof rail crossbar fitment, and load capacities.",
+          "amazon_search_query": "Toyota RAV4 5th Gen wiper blades, RAV4 2019-2026 roof rack crossbars",
+          "buy_box_title": "Essential Accessories for Your Toyota RAV4 (5th Gen)",
+          "buy_box_subtitle": "Ensure perfect fitment and optimal performance with verified specifications.",
+          "allowed_guidelines": [
+            "Always verify part numbers with your vehicle's VIN.",
+            "Use only high-quality, reputable aftermarket or OEM parts.",
+            "Adhere to all load capacity limits specified in your vehicle manual."
+          ],
+          "strict_restrictions": [
+            "Do not exceed dynamic roof load capacity.",
+            "Avoid using incorrect wiper blade adapters.",
+            "Ensure crossbars are securely fastened before driving."
+          ],
+          "faqs": [
+            {
+              "q": "What type of wiper blade attachment does the 5th Gen RAV4 use?",
+              "a": "The front wiper blades typically use a standard J-hook (hook arm) attachment. The rear wiper often has a specific, unique attachment type."
+            },
+            {
+              "q": "Are roof rails standard on all 5th Gen RAV4 models?",
+              "a": "Roof rails are standard on many trims (e.g., Adventure, TRD Off-Road, Limited) but may be optional or absent on base models. Always check your specific vehicle configuration."
+            },
+            {
+              "q": "Can I use older generation RAV4 roof crossbars on my 5th Gen model?",
+              "a": "No, due to changes in roof rail design and spacing, crossbars from previous generations are generally not compatible with the 5th Gen RAV4. Always purchase crossbars specifically designed for the 2019-2026 model years."
+            }
+          ]
+        },
+        "de": {
+          "slug": "toyota-rav4-5-gen-kompatibilitaetsmatrix",
+          "title": "Toyota RAV4 (5. Generation 2019-2026) Kompatibilitäts- und Messmatrix",
+          "summary": "Umfassender Kompatibilitäts- und genauer Messleitfaden für den Toyota RAV4 der 5. Generation (XA50 Fahrgestellcode), der Modelle von 2019 bis 2026 abdeckt. Enthält Details zu Scheibenwischern, Dachreling-Querträger-Passform und Tragfähigkeiten.",
+          "amazon_search_query": "Toyota RAV4 5. Gen Scheibenwischer, RAV4 2019-2026 Dachgepäckträger Querträger",
+          "buy_box_title": "Wesentliches Zubehör für Ihren Toyota RAV4 (5. Generation)",
+          "buy_box_subtitle": "Sorgen Sie für perfekte Passform und optimale Leistung mit verifizierten Spezifikationen.",
+          "allowed_guidelines": [
+            "Überprüfen Sie immer die Teilenummern mit der Fahrgestellnummer Ihres Fahrzeugs.",
+            "Verwenden Sie nur hochwertige, seriöse Aftermarket- oder OEM-Teile.",
+            "Halten Sie alle im Fahrzeughandbuch angegebenen Tragfähigkeitsgrenzen ein."
+          ],
+          "strict_restrictions": [
+            "Überschreiten Sie nicht die dynamische Dachlastkapazität.",
+            "Vermeiden Sie die Verwendung falscher Scheibenwischeradapter.",
+            "Stellen Sie sicher, dass die Querträger vor Fahrtantritt sicher befestigt sind."
+          ],
+          "faqs": [
+            {
+              "q": "Welche Art von Scheibenwischerbefestigung verwendet der RAV4 der 5. Generation?",
+              "a": "Die vorderen Scheibenwischer verwenden typischerweise eine Standard-J-Haken-Befestigung. Der Heckwischer hat oft einen spezifischen, einzigartigen Befestigungstyp."
+            },
+            {
+              "q": "Sind Dachrelings bei allen RAV4-Modellen der 5. Generation Standard?",
+              "a": "Dachrelings sind bei vielen Ausstattungsvarianten (z.B. Adventure, TRD Off-Road, Limited) Standard, können aber bei Basismodellen optional oder nicht vorhanden sein. Überprüfen Sie immer Ihre spezifische Fahrzeugkonfiguration."
+            },
+            {
+              "q": "Kann ich Dachquerträger älterer RAV4-Generationen an meinem Modell der 5. Generation verwenden?",
+              "a": "Nein, aufgrund von Änderungen im Dachreling-Design und -Abstand sind Querträger früherer Generationen im Allgemeinen nicht mit dem RAV4 der 5. Generation kompatibel. Kaufen Sie immer Querträger, die speziell für die Modelljahre 2019-2026 entwickelt wurden."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "toyota-rav4-5eme-gen-matrice-compatibilite",
+          "title": "Toyota RAV4 (5ème Génération 2019-2026) Matrice de Compatibilité et de Mesures",
+          "summary": "Guide complet de compatibilité et de mesures exactes pour le Toyota RAV4 de 5ème Génération (code châssis XA50), couvrant les modèles de 2019 à 2026. Inclut les détails pour les balais d'essuie-glace, l'ajustement des barres transversales de toit et les capacités de charge.",
+          "amazon_search_query": "Toyota RAV4 5ème Gén balais essuie-glace, RAV4 2019-2026 barres de toit transversales",
+          "buy_box_title": "Accessoires Essentiels pour Votre Toyota RAV4 (5ème Génération)",
+          "buy_box_subtitle": "Assurez un ajustement parfait et des performances optimales avec des spécifications vérifiées.",
+          "allowed_guidelines": [
+            "Vérifiez toujours les numéros de pièce avec le VIN de votre véhicule.",
+            "Utilisez uniquement des pièces de rechange ou OEM de haute qualité et réputées.",
+            "Respectez toutes les limites de capacité de charge spécifiées dans le manuel de votre véhicule."
+          ],
+          "strict_restrictions": [
+            "Ne dépassez pas la capacité de charge dynamique du toit.",
+            "Évitez d'utiliser des adaptateurs de balais d'essuie-glace incorrects.",
+            "Assurez-vous que les barres transversales sont solidement fixées avant de conduire."
+          ],
+          "faqs": [
+            {
+              "q": "Quel type de fixation de balai d'essuie-glace utilise le RAV4 de 5ème génération ?",
+              "a": "Les balais d'essuie-glace avant utilisent généralement une fixation standard de type crochet en J. L'essuie-glace arrière a souvent un type de fixation spécifique et unique."
+            },
+            {
+              "q": "Les barres de toit sont-elles standard sur tous les modèles de RAV4 de 5ème génération ?",
+              "a": "Les barres de toit sont standard sur de nombreuses finitions (par exemple, Adventure, TRD Off-Road, Limited) mais peuvent être optionnelles ou absentes sur les modèles de base. Vérifiez toujours la configuration spécifique de votre véhicule."
+            },
+            {
+              "q": "Puis-je utiliser des barres transversales de toit de RAV4 d'ancienne génération sur mon modèle de 5ème génération ?",
+              "a": "Non, en raison des changements de conception et d'espacement des barres de toit, les barres transversales des générations précédentes ne sont généralement pas compatibles avec le RAV4 de 5ème génération. Achetez toujours des barres transversales spécifiquement conçues pour les années modèles 2019-2026."
+            }
+          ]
+        },
+        "es": {
+          "slug": "toyota-rav4-5ta-gen-matriz-compatibilidad",
+          "title": "Toyota RAV4 (5ª Generación 2019-2026) Matriz de Compatibilidad y Medidas",
+          "summary": "Guía completa de compatibilidad y medidas exactas para el Toyota RAV4 de 5ª Generación (código de chasis XA50), que cubre modelos de 2019 a 2026. Incluye detalles para escobillas limpiaparabrisas, ajuste de barras transversales de techo y capacidades de carga.",
+          "amazon_search_query": "Toyota RAV4 5ª Gen escobillas limpiaparabrisas, RAV4 2019-2026 barras techo transversales",
+          "buy_box_title": "Accesorios Esenciales para su Toyota RAV4 (5ª Generación)",
+          "buy_box_subtitle": "Asegure un ajuste perfecto y un rendimiento óptimo con especificaciones verificadas.",
+          "allowed_guidelines": [
+            "Verifique siempre los números de pieza con el VIN de su vehículo.",
+            "Utilice únicamente piezas de repuesto o OEM de alta calidad y buena reputación.",
+            "Respete todos los límites de capacidad de carga especificados en el manual de su vehículo."
+          ],
+          "strict_restrictions": [
+            "No exceda la capacidad de carga dinámica del techo.",
+            "Evite usar adaptadores de escobillas limpiaparabrisas incorrectos.",
+            "Asegúrese de que las barras transversales estén bien sujetas antes de conducir."
+          ],
+          "faqs": [
+            {
+              "q": "¿Qué tipo de fijación de escobilla limpiaparabrisas utiliza el RAV4 de 5ª generación?",
+              "a": "Las escobillas limpiaparabrisas delanteras suelen utilizar una fijación estándar de tipo gancho en J. La escobilla trasera a menudo tiene un tipo de fijación específico y único."
+            },
+            {
+              "q": "¿Los rieles de techo son estándar en todos los modelos de RAV4 de 5ª generación?",
+              "a": "Los rieles de techo son estándar en muchos acabados (por ejemplo, Adventure, TRD Off-Road, Limited), pero pueden ser opcionales o estar ausentes en los modelos base. Siempre verifique la configuración específica de su vehículo."
+            },
+            {
+              "q": "¿Puedo usar barras transversales de techo de RAV4 de generaciones anteriores en mi modelo de 5ª generación?",
+              "a": "No, debido a los cambios en el diseño y el espaciado de los rieles de techo, las barras transversales de generaciones anteriores generalmente no son compatibles con el RAV4 de 5ª generación. Siempre compre barras transversales diseñadas específicamente para los años de modelo 2019-2026."
+            }
+          ]
+        },
+        "it": {
+          "slug": "toyota-rav4-5a-gen-matrice-compatibilita",
+          "title": "Toyota RAV4 (5ª Generazione 2019-2026) Matrice di Compatibilità e Misurazioni",
+          "summary": "Guida completa di compatibilità e misurazioni esatte per la Toyota RAV4 di 5ª Generazione (codice telaio XA50), che copre i modelli dal 2019 al 2026. Include dettagli per le spazzole tergicristallo, l'adattamento delle barre trasversali del tetto e le capacità di carico.",
+          "amazon_search_query": "Toyota RAV4 5a Gen spazzole tergicristallo, RAV4 2019-2026 barre portatutto trasversali",
+          "buy_box_title": "Accessori Essenziali per la Tua Toyota RAV4 (5ª Generazione)",
+          "buy_box_subtitle": "Assicura un montaggio perfetto e prestazioni ottimali con specifiche verificate.",
+          "allowed_guidelines": [
+            "Verificare sempre i codici dei ricambi con il VIN del veicolo.",
+            "Utilizzare solo ricambi aftermarket o OEM di alta qualità e affidabili.",
+            "Rispettare tutti i limiti di capacità di carico specificati nel manuale del veicolo."
+          ],
+          "strict_restrictions": [
+            "Non superare la capacità di carico dinamico del tetto.",
+            "Evitare l'uso di adattatori per spazzole tergicristallo errati.",
+            "Assicurarsi che le barre trasversali siano saldamente fissate prima di guidare."
+          ],
+          "faqs": [
+            {
+              "q": "Che tipo di attacco per spazzole tergicristallo utilizza il RAV4 di 5ª generazione?",
+              "a": "Le spazzole tergicristallo anteriori utilizzano tipicamente un attacco standard a gancio a J. Il tergicristallo posteriore ha spesso un tipo di attacco specifico e unico."
+            },
+            {
+              "q": "Le barre portatutto sono standard su tutti i modelli RAV4 di 5ª generazione?",
+              "a": "Le barre portatutto sono standard su molti allestimenti (es. Adventure, TRD Off-Road, Limited) ma potrebbero essere opzionali o assenti sui modelli base. Controllare sempre la configurazione specifica del proprio veicolo."
+            },
+            {
+              "q": "Posso usare le barre trasversali del tetto di RAV4 di generazione precedente sul mio modello di 5ª generazione?",
+              "a": "No, a causa dei cambiamenti nel design e nella spaziatura delle barre portatutto, le barre trasversali delle generazioni precedenti non sono generalmente compatibili con il RAV4 di 5ª generazione. Acquistare sempre barre trasversali progettate specificamente per gli anni modello 2019-2026."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "toyota-rav4-5th-gen-compatibility-matrix-ja",
+          "title": "トヨタ RAV4 (5代目 2019-2026) 互換性および測定マトリックス",
+          "summary": "トヨタ RAV4 5代目 (XA50 シャーシコード) の2019年から2026年モデルを対象とした、包括的な互換性と正確な測定ガイドです。ワイパーブレード、ルーフレールクロスバーの適合、積載量に関する詳細が含まれています。",
+          "amazon_search_query": "トヨタ RAV4 5代目 ワイパーブレード, RAV4 2019-2026 ルーフラッククロスバー",
+          "buy_box_title": "トヨタ RAV4 (5代目) の必須アクセサリー",
+          "buy_box_subtitle": "検証済みの仕様で完璧なフィット感と最適なパフォーマンスを確保してください。",
+          "allowed_guidelines": [
+            "常に車両のVINで部品番号を確認してください。",
+            "高品質で信頼できるアフターマーケットまたはOEM部品のみを使用してください。",
+            "車両のマニュアルに記載されているすべての積載量制限を遵守してください。"
+          ],
+          "strict_restrictions": [
+            "動的なルーフ積載量を超過しないでください。",
+            "誤ったワイパーブレードアダプターの使用を避けてください。",
+            "運転前にクロスバーがしっかりと固定されていることを確認してください。"
+          ],
+          "faqs": [
+            {
+              "q": "5代目RAV4はどのタイプのワイパーブレードアタッチメントを使用していますか？",
+              "a": "フロントワイパーブレードは通常、標準のJフック（フックアーム）アタッチメントを使用します。リアワイパーは、多くの場合、特定のユニークなアタッチメントタイプを持っています。"
+            },
+            {
+              "q": "ルーフレールはすべての5代目RAV4モデルで標準装備ですか？",
+              "a": "ルーフレールは多くのトリム（例：Adventure、TRD Off-Road、Limited）で標準装備ですが、ベースモデルではオプションまたは装備されていない場合があります。常に特定の車両構成を確認してください。"
+            },
+            {
+              "q": "古い世代のRAV4ルーフレールクロスバーを5代目モデルで使用できますか？",
+              "a": "いいえ、ルーフレールの設計と間隔の変更により、以前の世代のクロスバーは一般的に5代目RAV4とは互換性がありません。常に2019-2026年モデル専用に設計されたクロスバーを購入してください。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "toyota-rav4-5a-ger-matriz-compatibilidade",
+          "title": "Toyota RAV4 (5ª Geração 2019-2026) Matriz de Compatibilidade e Medidas",
+          "summary": "Guia abrangente de compatibilidade e medidas exatas para o Toyota RAV4 de 5ª Geração (código de chassi XA50), cobrindo modelos de 2019 a 2026. Inclui detalhes para escovas limpa para-brisas, encaixe de barras transversais de tejadilho e capacidades de carga.",
+          "amazon_search_query": "Toyota RAV4 5ª Ger escovas limpa para-brisas, RAV4 2019-2026 barras tejadilho transversais",
+          "buy_box_title": "Acessórios Essenciais para o Seu Toyota RAV4 (5ª Geração)",
+          "buy_box_subtitle": "Garanta um encaixe perfeito e desempenho ideal com especificações verificadas.",
+          "allowed_guidelines": [
+            "Sempre verifique os números de peça com o VIN do seu veículo.",
+            "Use apenas peças de reposição ou OEM de alta qualidade e reputação.",
+            "Cumpra todos os limites de capacidade de carga especificados no manual do seu veículo."
+          ],
+          "strict_restrictions": [
+            "Não exceda a capacidade de carga dinâmica do tejadilho.",
+            "Evite usar adaptadores de escovas limpa para-brisas incorretos.",
+            "Certifique-se de que as barras transversais estão bem presas antes de conduzir."
+          ],
+          "faqs": [
+            {
+              "q": "Que tipo de fixação de escova limpa para-brisas o RAV4 de 5ª Geração utiliza?",
+              "a": "As escovas limpa para-brisas dianteiras geralmente usam uma fixação padrão tipo gancho em J. A escova traseira frequentemente tem um tipo de fixação específico e único."
+            },
+            {
+              "q": "Os trilhos de tejadilho são padrão em todos os modelos RAV4 de 5ª Geração?",
+              "a": "Os trilhos de tejadilho são padrão em muitos níveis de acabamento (por exemplo, Adventure, TRD Off-Road, Limited), mas podem ser opcionais ou ausentes nos modelos base. Sempre verifique a configuração específica do seu veículo."
+            },
+            {
+              "q": "Posso usar barras transversais de tejadilho de RAV4 de gerações anteriores no meu modelo de 5ª Geração?",
+              "a": "Não, devido a alterações no design e espaçamento dos trilhos de tejadilho, as barras transversais de gerações anteriores geralmente não são compatíveis com o RAV4 de 5ª Geração. Sempre compre barras transversais especificamente projetadas para os anos modelo 2019-2026."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "toyota-rav4-5e-gen-compatibiliteitsmatrix",
+          "title": "Toyota RAV4 (5e Generatie 2019-2026) Compatibiliteits- en Meetmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetgids voor de Toyota RAV4 5e Generatie (XA50 chassiscode), die modellen van 2019 tot 2026 omvat. Inclusief details voor ruitenwisserbladen, dakdrager dwarsbalkmontage en laadvermogens.",
+          "amazon_search_query": "Toyota RAV4 5e Gen ruitenwisserbladen, RAV4 2019-2026 dakdrager dwarsbalken",
+          "buy_box_title": "Essentiële Accessoires voor Uw Toyota RAV4 (5e Generatie)",
+          "buy_box_subtitle": "Zorg voor een perfecte pasvorm en optimale prestaties met geverifieerde specificaties.",
+          "allowed_guidelines": [
+            "Controleer altijd onderdeelnummers met het VIN van uw voertuig.",
+            "Gebruik alleen hoogwaardige, gerenommeerde aftermarket- of OEM-onderdelen.",
+            "Houd u aan alle laadvermogenslimieten die in uw voertuighandleiding zijn gespecificeerd."
+          ],
+          "strict_restrictions": [
+            "Overschrijd het dynamische daklaadvermogen niet.",
+            "Vermijd het gebruik van onjuiste ruitenwisserbladadapters.",
+            "Zorg ervoor dat de dwarsbalken stevig zijn bevestigd voordat u gaat rijden."
+          ],
+          "faqs": [
+            {
+              "q": "Welk type ruitenwisserbladbevestiging gebruikt de 5e generatie RAV4?",
+              "a": "De voorruitenwisserbladen gebruiken doorgaans een standaard J-haak (haakarm) bevestiging. De achterruitenwisser heeft vaak een specifiek, uniek bevestigingstype."
+            },
+            {
+              "q": "Zijn dakrails standaard op alle 5e generatie RAV4-modellen?",
+              "a": "Dakrails zijn standaard op veel uitvoeringen (bijv. Adventure, TRD Off-Road, Limited), maar kunnen optioneel zijn of ontbreken op basismodellen. Controleer altijd de specifieke configuratie van uw voertuig."
+            },
+            {
+              "q": "Kan ik dakdrager dwarsbalken van oudere generatie RAV4's gebruiken op mijn 5e generatie model?",
+              "a": "Nee, vanwege veranderingen in het dakrailontwerp en de afstand zijn dwarsbalken van eerdere generaties over het algemeen niet compatibel met de 5e generatie RAV4. Koop altijd dwarsbalken die specifiek zijn ontworpen voor de modeljaren 2019-2026."
             }
           ]
         }

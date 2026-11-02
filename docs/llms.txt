@@ -49,3 +49,4 @@
 - [Apple MacBook Pro 14 & 16 (M3/M4)](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/macbook-pro-14-16-m3-m4-compatibility.html): Hardware | 1.55 cm x 31.26 cm x 22.12 cm / 0.61 in x 12.31 in x 8.71 in
 - [Asus ROG Ally X](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/asus-rog-ally-x.html): Hardware | 28.0 cm x 11.5 cm x 3.69 cm / 11.02 in x 4.53 in x 1.45 in
 - [Tesla Model 3 Highland](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/tesla-model-3-highland-compatibility-matrix.html): Auto | 650 mm / 26 in
+- [Toyota RAV4 (5th Gen 2019-2026)](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/toyota-rav4-5th-gen-compatibility-matrix.html): Auto | 650 mm / 26 in
