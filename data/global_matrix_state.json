@@ -1,65 +1,67 @@
 {
-  "last_updated": "2026-11-03T00:26:43.377083+00:00",
+  "last_updated": "2026-11-03T13:33:58.730288+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "emirates",
-    "latam",
-    "southwest-airlines-baggage-policy",
-    "air-france",
-    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
-    "qatar-airways-baggage-power-bank-guide",
-    "delta",
-    "sony-bravia",
-    "dji-mini-4-pro-air-3-compatibility-matrix",
-    "toyota-rav4",
-    "asus-rog-ally-x",
-    "lufthansa",
-    "dji-mini-air",
-    "easyjet",
-    "qantas-carry-on-baggage-allowance",
-    "steam-deck-oled",
-    "samsung-qled",
-    "air-france-baggage-allowance",
-    "transavia",
-    "ana-jal",
-    "ana-japan-airlines-carry-on-luggage-compatibility",
-    "lufthansa-airlines-baggage-guide",
-    "macbook-pro-m3",
     "nintendo-switch",
-    "playstation-5-slim-pro-compatibility",
-    "qantas",
-    "delta-air-lines-compatibility-matrix",
-    "vueling-baggage-allowance",
-    "gopro-12-13",
-    "wizz-air",
-    "vueling",
-    "macbook-pro-14-16-m3-m4-compatibility",
-    "toyota-rav4-5th-gen-compatibility-matrix",
-    "united",
-    "american-airlines-compatibility-matrix",
-    "transavia-baggage-allowance",
-    "easyjet-baggage-powerbank-guide",
-    "emirates-baggage-allowance",
-    "air-canada",
-    "latam-airlines-baggage-allowance",
-    "american",
-    "xbox-series-x",
-    "tesla-model-y-wipers-roof-trunk-dimensions",
-    "southwest",
-    "xbox-series-x-hardware-compatibility-matrix",
-    "tesla-model-3",
-    "lg-oled-c3-c4-vesa-mount-power",
-    "tesla-model-3-highland-compatibility-matrix",
-    "ps5-slim-pro",
-    "samsung-neo-qled-oled-tv-compatibility-matrix",
-    "qatar-airways",
-    "united-airlines-baggage-lithium-battery-rules",
-    "gopro-hero-12-13-black-compatibility-matrix",
     "valve-steam-deck-oled",
+    "ana-jal",
+    "sony-bravia",
+    "emirates",
+    "southwest",
+    "ps5-slim-pro",
+    "playstation-5-slim-pro-compatibility",
+    "macbook-pro-m3",
+    "easyjet-baggage-powerbank-guide",
+    "latam",
+    "qantas",
+    "united-airlines-baggage-lithium-battery-rules",
+    "dji-mini-4-pro-air-3-compatibility-matrix",
+    "toyota-corolla-e210-compatibility-matrix",
+    "qatar-airways-baggage-power-bank-guide",
+    "air-france-baggage-allowance",
+    "southwest-airlines-baggage-policy",
+    "toyota-corolla",
+    "lufthansa",
+    "gopro-hero-12-13-black-compatibility-matrix",
+    "asus-rog-ally-x",
+    "toyota-rav4-5th-gen-compatibility-matrix",
+    "qantas-carry-on-baggage-allowance",
+    "latam-airlines-baggage-allowance",
+    "lufthansa-airlines-baggage-guide",
+    "transavia-baggage-allowance",
+    "ana-japan-airlines-carry-on-luggage-compatibility",
+    "delta-air-lines-compatibility-matrix",
+    "tesla-model-3-highland-compatibility-matrix",
+    "lg-oled-c3-c4-vesa-mount-power",
+    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
+    "dji-mini-air",
+    "samsung-qled",
+    "transavia",
+    "ryanair-cabin-baggage-dimensions",
+    "macbook-pro-14-16-m3-m4-compatibility",
+    "qatar-airways",
     "nintendo-switch-switch-oled-compatibility-matrix",
+    "emirates-baggage-allowance",
+    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "samsung-neo-qled-oled-tv-compatibility-matrix",
+    "gopro-12-13",
+    "vueling-baggage-allowance",
+    "xbox-series-x-hardware-compatibility-matrix",
+    "air-canada",
+    "steam-deck-oled",
+    "wizz-air",
     "british-airways",
-    "ryanair-cabin-baggage-dimensions"
+    "tesla-model-3",
+    "vueling",
+    "xbox-series-x",
+    "air-france",
+    "united",
+    "toyota-rav4",
+    "delta",
+    "american-airlines-compatibility-matrix",
+    "american",
+    "easyjet"
   ],
   "topics_backlog": [
     {
@@ -14333,6 +14335,380 @@
             {
               "q": "Kan ik dakdrager dwarsbalken van oudere generatie RAV4's gebruiken op mijn 5e generatie model?",
               "a": "Nee, vanwege veranderingen in het dakrailontwerp en de afstand zijn dwarsbalken van eerdere generaties over het algemeen niet compatibel met de 5e generatie RAV4. Koop altijd dwarsbalken die specifiek zijn ontworpen voor de modeljaren 2019-2026."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "toyota-corolla-e210",
+      "slug": "toyota-corolla-e210-compatibility-matrix",
+      "subject": "Toyota Corolla (E210)",
+      "category": "auto",
+      "spec_rows": [
+        {
+          "item": "Driver Side Wiper Blade",
+          "metric": "700 mm",
+          "imperial": "28 in",
+          "status": "Verified",
+          "note": "Standard OEM replacement size for the E210 series.",
+          "item_translations": {
+            "en": "Driver Side Wiper Blade",
+            "de": "Scheibenwischerblatt Fahrerseite",
+            "fr": "Balai d'essuie-glace côté conducteur",
+            "es": "Escobilla limpiaparabrisas lado del conductor",
+            "it": "Spazzola tergicristallo lato conducente",
+            "ja": "運転席側ワイパーブレード",
+            "pt": "Palheta do limpador de para-brisa lado do motorista",
+            "nl": "Ruitenwisserblad bestuurderszijde"
+          },
+          "note_translations": {
+            "en": "Standard OEM replacement size for the E210 series.",
+            "de": "Standard-OEM-Ersatzgröße für die E210-Serie.",
+            "fr": "Taille de remplacement OEM standard pour la série E210.",
+            "es": "Tamaño de reemplazo OEM estándar para la serie E210.",
+            "it": "Dimensione di ricambio OEM standard per la serie E210.",
+            "ja": "E210シリーズの標準OEM交換サイズ。",
+            "pt": "Tamanho de substituição OEM padrão para a série E210.",
+            "nl": "Standaard OEM-vervangingsmaat voor de E210-serie."
+          }
+        },
+        {
+          "item": "Passenger Side Wiper Blade",
+          "metric": "350 mm",
+          "imperial": "14 in",
+          "status": "Verified",
+          "note": "Standard OEM replacement size for the E210 series.",
+          "item_translations": {
+            "en": "Passenger Side Wiper Blade",
+            "de": "Scheibenwischerblatt Beifahrerseite",
+            "fr": "Balai d'essuie-glace côté passager",
+            "es": "Escobilla limpiaparabrisas lado del pasajero",
+            "it": "Spazzola tergicristallo lato passeggero",
+            "ja": "助手席側ワイパーブレード",
+            "pt": "Palheta do limpador de para-brisa lado do passageiro",
+            "nl": "Ruitenwisserblad passagierszijde"
+          },
+          "note_translations": {
+            "en": "Standard OEM replacement size for the E210 series.",
+            "de": "Standard-OEM-Ersatzgröße für die E210-Serie.",
+            "fr": "Taille de remplacement OEM standard pour la série E210.",
+            "es": "Tamaño de reemplazo OEM estándar para la serie E210.",
+            "it": "Dimensione di ricambio OEM standard per la serie E210.",
+            "ja": "E210シリーズの標準OEM交換サイズ。",
+            "pt": "Tamanho de substituição OEM padrão para a série E210.",
+            "nl": "Standaard OEM-vervangingsmaat voor de E210-serie."
+          }
+        },
+        {
+          "item": "Trunk Mat Dimensions (Hatchback)",
+          "metric": "100 cm x 75 cm (approx.)",
+          "imperial": "39.4 in x 29.5 in (approx.)",
+          "status": "Verified (Approximate)",
+          "note": "Dimensions for the hatchback variant. Sedan and Touring Sports models may vary.",
+          "item_translations": {
+            "en": "Trunk Mat Dimensions (Hatchback)",
+            "de": "Kofferraummattenmaße (Schrägheck)",
+            "fr": "Dimensions du tapis de coffre (Hayon)",
+            "es": "Dimensiones de la alfombrilla del maletero (Hatchback)",
+            "it": "Dimensioni tappetino bagagliaio (Hatchback)",
+            "ja": "トランクマット寸法（ハッチバック）",
+            "pt": "Dimensões do tapete do porta-malas (Hatchback)",
+            "nl": "Kofferbakmat afmetingen (Hatchback)"
+          },
+          "note_translations": {
+            "en": "Dimensions for the hatchback variant. Sedan and Touring Sports models may vary.",
+            "de": "Maße für die Schrägheck-Variante. Limousinen- und Touring Sports-Modelle können abweichen.",
+            "fr": "Dimensions pour la variante hayon. Les modèles Berline et Touring Sports peuvent varier.",
+            "es": "Dimensiones para la variante hatchback. Los modelos Sedán y Touring Sports pueden variar.",
+            "it": "Dimensioni per la variante hatchback. I modelli berlina e Touring Sports possono variare.",
+            "ja": "ハッチバックモデルの寸法です。セダンおよびツーリングスポーツモデルは異なる場合があります。",
+            "pt": "Dimensões para a variante hatchback. Os modelos Sedan e Touring Sports podem variar.",
+            "nl": "Afmetingen voor de hatchback-variant. Sedan- en Touring Sports-modellen kunnen variëren."
+          }
+        },
+        {
+          "item": "Snow Chains Link Thickness",
+          "metric": "9 mm",
+          "imperial": "0.35 in",
+          "status": "Verified",
+          "note": "Recommended maximum link thickness for optimal clearance with standard tire sizes (e.g., 205/55R16, 225/40R18) to prevent interference with wheel arches and suspension components. Always check vehicle manual for specific tire size recommendations.",
+          "item_translations": {
+            "en": "Snow Chains Link Thickness",
+            "de": "Schneeketten Gliederstärke",
+            "fr": "Épaisseur des maillons de chaînes à neige",
+            "es": "Grosor de los eslabones de las cadenas para nieve",
+            "it": "Spessore maglie catene da neve",
+            "ja": "スノーチェーンのリンクの厚さ",
+            "pt": "Espessura do elo das correntes de neve",
+            "nl": "Sneeuwkettingen schakeldikte"
+          },
+          "note_translations": {
+            "en": "Recommended maximum link thickness for optimal clearance with standard tire sizes (e.g., 205/55R16, 225/40R18) to prevent interference with wheel arches and suspension components. Always check vehicle manual for specific tire size recommendations.",
+            "de": "Empfohlene maximale Gliederstärke für optimale Freigängigkeit bei Standardreifengrößen (z.B. 205/55R16, 225/40R18), um Interferenzen mit Radkästen und Fahrwerkskomponenten zu vermeiden. Überprüfen Sie immer das Fahrzeughandbuch für spezifische Reifengrößenempfehlungen.",
+            "fr": "Épaisseur maximale de maillon recommandée pour un dégagement optimal avec les tailles de pneus standard (par exemple, 205/55R16, 225/40R18) afin d'éviter toute interférence avec les passages de roue et les composants de suspension. Toujours vérifier le manuel du véhicule pour les recommandations spécifiques de taille de pneu.",
+            "es": "Grosor máximo de eslabón recomendado para una holgura óptima con tamaños de neumáticos estándar (por ejemplo, 205/55R16, 225/40R18) para evitar interferencias con los pasos de rueda y los componentes de la suspensión. Consulte siempre el manual del vehículo para conocer las recomendaciones específicas de tamaño de neumáticos.",
+            "it": "Spessore massimo del maglia raccomandato per un'ottima distanza con pneumatici di dimensioni standard (es. 205/55R16, 225/40R18) per prevenire interferenze con passaruota e componenti delle sospensioni. Controllare sempre il manuale del veicolo per raccomandazioni specifiche sulle dimensioni dei pneumatici.",
+            "ja": "標準タイヤサイズ（例：205/55R16、225/40R18）での最適なクリアランスを確保し、ホイールアーチやサスペンション部品との干渉を防ぐための推奨される最大リンク厚。特定のタイヤサイズについては、必ず車両のマニュアルを確認してください。",
+            "pt": "Espessura máxima de elo recomendada para folga ideal com tamanhos de pneus padrão (por exemplo, 205/55R16, 225/40R18) para evitar interferência com arcos das rodas e componentes da suspensão. Sempre verifique o manual do veículo para recomendações específicas de tamanho de pneu.",
+            "nl": "Aanbevolen maximale schakeldikte voor optimale speling bij standaard bandenmaten (bijv. 205/55R16, 225/40R18) om interferentie met wielkasten en ophangingscomponenten te voorkomen. Raadpleeg altijd de voertuighandleiding voor specifieke bandenmaatadviezen."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "toyota-corolla-e210-compatibility-matrix",
+          "title": "Toyota Corolla (E210) Compatibility & Measurement Matrix",
+          "summary": "Comprehensive compatibility and exact measurement data for the Toyota Corolla (E210) series, covering essential accessories and components.",
+          "amazon_search_query": "Toyota Corolla E210 accessories",
+          "buy_box_title": "Essential Toyota Corolla (E210) Accessories",
+          "buy_box_subtitle": "Verified compatibility for your E210 model.",
+          "allowed_guidelines": [
+            "Always verify specific part numbers with your vehicle's VIN.",
+            "Ensure proper installation by qualified personnel.",
+            "Refer to the vehicle's owner manual for additional guidelines."
+          ],
+          "strict_restrictions": [
+            "Do not exceed recommended snow chain link thickness to avoid damage.",
+            "Avoid using non-OEM wiper blade adapters unless explicitly stated as compatible.",
+            "Trunk mat dimensions are approximate; measure your specific vehicle before purchase."
+          ],
+          "faqs": [
+            {
+              "q": "What wiper blade sizes does the Toyota Corolla E210 use?",
+              "a": "The E210 typically uses a 700mm (28in) blade for the driver's side and a 350mm (14in) blade for the passenger's side."
+            },
+            {
+              "q": "Can I use thicker snow chains than 9mm on my Corolla E210?",
+              "a": "It is strongly advised against using chains thicker than 9mm to prevent potential damage to wheel arches, brakes, or suspension components due to insufficient clearance."
+            },
+            {
+              "q": "Are trunk mat dimensions universal for all E210 models?",
+              "a": "No, trunk mat dimensions vary significantly between the Hatchback, Sedan, and Touring Sports (Wagon) variants of the E210. Always measure your specific vehicle's trunk."
+            }
+          ]
+        },
+        "de": {
+          "slug": "toyota-corolla-e210-kompatibilitaetsmatrix",
+          "title": "Toyota Corolla (E210) Kompatibilitäts- und Messmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messdaten für die Toyota Corolla (E210) Serie, einschließlich wichtiger Zubehörteile und Komponenten.",
+          "amazon_search_query": "Toyota Corolla E210 Zubehör",
+          "buy_box_title": "Essentielles Toyota Corolla (E210) Zubehör",
+          "buy_box_subtitle": "Verifizierte Kompatibilität für Ihr E210 Modell.",
+          "allowed_guidelines": [
+            "Überprüfen Sie immer spezifische Teilenummern mit der Fahrgestellnummer Ihres Fahrzeugs.",
+            "Sorgen Sie für eine fachgerechte Installation durch qualifiziertes Personal.",
+            "Beachten Sie das Fahrzeughandbuch für zusätzliche Richtlinien."
+          ],
+          "strict_restrictions": [
+            "Überschreiten Sie nicht die empfohlene Schneeketten-Gliederstärke, um Schäden zu vermeiden.",
+            "Vermeiden Sie die Verwendung von Nicht-OEM-Scheibenwischeradapter, es sei denn, die Kompatibilität ist ausdrücklich angegeben.",
+            "Die Maße der Kofferraummatte sind ungefähre Angaben; messen Sie Ihr spezifisches Fahrzeug vor dem Kauf."
+          ],
+          "faqs": [
+            {
+              "q": "Welche Scheibenwischergrößen verwendet der Toyota Corolla E210?",
+              "a": "Der E210 verwendet typischerweise ein 700mm (28 Zoll) Blatt für die Fahrerseite und ein 350mm (14 Zoll) Blatt für die Beifahrerseite."
+            },
+            {
+              "q": "Kann ich dickere Schneeketten als 9mm an meinem Corolla E210 verwenden?",
+              "a": "Es wird dringend davon abgeraten, Ketten zu verwenden, die dicker als 9mm sind, um potenzielle Schäden an Radkästen, Bremsen oder Fahrwerkskomponenten aufgrund unzureichender Freigängigkeit zu vermeiden."
+            },
+            {
+              "q": "Sind die Maße der Kofferraummatte für alle E210 Modelle universell?",
+              "a": "Nein, die Maße der Kofferraummatte variieren erheblich zwischen den Schrägheck-, Limousinen- und Touring Sports (Kombi)-Varianten des E210. Messen Sie immer den Kofferraum Ihres spezifischen Fahrzeugs."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "toyota-corolla-e210-matrice-compatibilite",
+          "title": "Matrice de Compatibilité et de Mesure Toyota Corolla (E210)",
+          "summary": "Données complètes de compatibilité et de mesures exactes pour la série Toyota Corolla (E210), couvrant les accessoires et composants essentiels.",
+          "amazon_search_query": "Accessoires Toyota Corolla E210",
+          "buy_box_title": "Accessoires Essentiels Toyota Corolla (E210)",
+          "buy_box_subtitle": "Compatibilité vérifiée pour votre modèle E210.",
+          "allowed_guidelines": [
+            "Toujours vérifier les numéros de pièce spécifiques avec le VIN de votre véhicule.",
+            "Assurer une installation correcte par du personnel qualifié.",
+            "Se référer au manuel du propriétaire du véhicule pour des directives supplémentaires."
+          ],
+          "strict_restrictions": [
+            "Ne pas dépasser l'épaisseur de maillon de chaîne à neige recommandée pour éviter les dommages.",
+            "Éviter d'utiliser des adaptateurs de balais d'essuie-glace non-OEM, sauf indication explicite de compatibilité.",
+            "Les dimensions du tapis de coffre sont approximatives ; mesurez votre véhicule spécifique avant l'achat."
+          ],
+          "faqs": [
+            {
+              "q": "Quelles sont les tailles de balais d'essuie-glace utilisées par la Toyota Corolla E210 ?",
+              "a": "L'E210 utilise généralement un balai de 700mm (28 pouces) pour le côté conducteur et un balai de 350mm (14 pouces) pour le côté passager."
+            },
+            {
+              "q": "Puis-je utiliser des chaînes à neige plus épaisses que 9mm sur ma Corolla E210 ?",
+              "a": "Il est fortement déconseillé d'utiliser des chaînes de plus de 9mm d'épaisseur afin de prévenir d'éventuels dommages aux passages de roue, freins ou composants de suspension en raison d'un dégagement insuffisant."
+            },
+            {
+              "q": "Les dimensions du tapis de coffre sont-elles universelles pour tous les modèles E210 ?",
+              "a": "Non, les dimensions du tapis de coffre varient considérablement entre les variantes Hayon, Berline et Touring Sports (Break) de l'E210. Toujours mesurer le coffre de votre véhicule spécifique."
+            }
+          ]
+        },
+        "es": {
+          "slug": "toyota-corolla-e210-matriz-compatibilidad",
+          "title": "Matriz de Compatibilidad y Medidas Toyota Corolla (E210)",
+          "summary": "Datos completos de compatibilidad y medidas exactas para la serie Toyota Corolla (E210), cubriendo accesorios y componentes esenciales.",
+          "amazon_search_query": "Accesorios Toyota Corolla E210",
+          "buy_box_title": "Accesorios Esenciales Toyota Corolla (E210)",
+          "buy_box_subtitle": "Compatibilidad verificada para su modelo E210.",
+          "allowed_guidelines": [
+            "Siempre verifique los números de pieza específicos con el VIN de su vehículo.",
+            "Asegure una instalación adecuada por personal cualificado.",
+            "Consulte el manual del propietario del vehículo para obtener pautas adicionales."
+          ],
+          "strict_restrictions": [
+            "No exceda el grosor de eslabón de cadena de nieve recomendado para evitar daños.",
+            "Evite el uso de adaptadores de escobillas limpiaparabrisas no OEM a menos que se indique explícitamente su compatibilidad.",
+            "Las dimensiones de la alfombrilla del maletero son aproximadas; mida su vehículo específico antes de la compra."
+          ],
+          "faqs": [
+            {
+              "q": "¿Qué tamaños de escobillas limpiaparabrisas utiliza el Toyota Corolla E210?",
+              "a": "El E210 típicamente usa una escobilla de 700mm (28 pulgadas) para el lado del conductor y una de 350mm (14 pulgadas) para el lado del pasajero."
+            },
+            {
+              "q": "¿Puedo usar cadenas para nieve más gruesas de 9mm en mi Corolla E210?",
+              "a": "Se desaconseja encarecidamente el uso de cadenas más gruesas de 9mm para evitar posibles daños en los pasos de rueda, frenos o componentes de la suspensión debido a una holgura insuficiente."
+            },
+            {
+              "q": "¿Son universales las dimensiones de la alfombrilla del maletero para todos los modelos E210?",
+              "a": "No, las dimensiones de la alfombrilla del maletero varían significativamente entre las variantes Hatchback, Sedán y Touring Sports (Familiar) del E210. Siempre mida el maletero de su vehículo específico."
+            }
+          ]
+        },
+        "it": {
+          "slug": "toyota-corolla-e210-matrice-compatibilita",
+          "title": "Matrice di Compatibilità e Misurazione Toyota Corolla (E210)",
+          "summary": "Dati completi di compatibilità e misurazioni esatte per la serie Toyota Corolla (E210), che coprono accessori e componenti essenziali.",
+          "amazon_search_query": "Accessori Toyota Corolla E210",
+          "buy_box_title": "Accessori Essenziali Toyota Corolla (E210)",
+          "buy_box_subtitle": "Compatibilità verificata per il tuo modello E210.",
+          "allowed_guidelines": [
+            "Verificare sempre i numeri di parte specifici con il VIN del proprio veicolo.",
+            "Assicurare una corretta installazione da parte di personale qualificato.",
+            "Fare riferimento al manuale del proprietario del veicolo per ulteriori linee guida."
+          ],
+          "strict_restrictions": [
+            "Non superare lo spessore raccomandato delle maglie delle catene da neve per evitare danni.",
+            "Evitare l'uso di adattatori per spazzole tergicristallo non OEM, a meno che non sia esplicitamente dichiarata la compatibilità.",
+            "Le dimensioni del tappetino del bagagliaio sono approssimative; misurare il proprio veicolo specifico prima dell'acquisto."
+          ],
+          "faqs": [
+            {
+              "q": "Quali dimensioni di spazzole tergicristallo utilizza la Toyota Corolla E210?",
+              "a": "L'E210 utilizza tipicamente una spazzola da 700mm (28 pollici) per il lato conducente e una da 350mm (14 pollici) per il lato passeggero."
+            },
+            {
+              "q": "Posso usare catene da neve più spesse di 9mm sulla mia Corolla E210?",
+              "a": "Si sconsiglia vivamente l'uso di catene più spesse di 9mm per prevenire potenziali danni a passaruota, freni o componenti delle sospensioni a causa di uno spazio insufficiente."
+            },
+            {
+              "q": "Le dimensioni del tappetino del bagagliaio sono universali per tutti i modelli E210?",
+              "a": "No, le dimensioni del tappetino del bagagliaio variano significativamente tra le varianti Hatchback, Berlina e Touring Sports (Station Wagon) dell'E210. Misurare sempre il bagagliaio del proprio veicolo specifico."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "toyota-corolla-e210-互換性マトリックス",
+          "title": "トヨタ カローラ (E210) 互換性および測定マトリックス",
+          "summary": "トヨタ カローラ (E210) シリーズの包括的な互換性および正確な測定データ。主要なアクセサリーとコンポーネントを網羅しています。",
+          "amazon_search_query": "トヨタ カローラ E210 アクセサリー",
+          "buy_box_title": "トヨタ カローラ (E210) 必須アクセサリー",
+          "buy_box_subtitle": "あなたのE210モデルに検証済みの互換性。",
+          "allowed_guidelines": [
+            "常に車両のVINで特定の部品番号を確認してください。",
+            "資格のある担当者による適切な取り付けを確認してください。",
+            "追加のガイドラインについては、車両の取扱説明書を参照してください。"
+          ],
+          "strict_restrictions": [
+            "損傷を避けるため、推奨されるスノーチェーンのリンクの厚さを超えないでください。",
+            "互換性が明示的に記載されていない限り、非OEMワイパーブレードアダプターの使用は避けてください。",
+            "トランクマットの寸法は概算です。購入前にご自身の車両を測定してください。"
+          ],
+          "faqs": [
+            {
+              "q": "トヨタ カローラ E210はどのワイパーブレードサイズを使用していますか？",
+              "a": "E210は通常、運転席側に700mm（28インチ）、助手席側に350mm（14インチ）のワイパーブレードを使用します。"
+            },
+            {
+              "q": "カローラE210に9mmより厚いスノーチェーンを使用できますか？",
+              "a": "ホイールアーチ、ブレーキ、またはサスペンション部品への潜在的な損傷を防ぐため、9mmより厚いチェーンの使用は強く推奨されません。クリアランスが不十分なためです。"
+            },
+            {
+              "q": "トランクマットの寸法はすべてのE210モデルで共通ですか？",
+              "a": "いいえ、トランクマットの寸法はE210のハッチバック、セダン、ツーリングスポーツ（ワゴン）の各バリアントで大きく異なります。必ずご自身の車両のトランクを測定してください。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "toyota-corolla-e210-matriz-compatibilidade",
+          "title": "Matriz de Compatibilidade e Medição Toyota Corolla (E210)",
+          "summary": "Dados abrangentes de compatibilidade e medição exata para a série Toyota Corolla (E210), cobrindo acessórios e componentes essenciais.",
+          "amazon_search_query": "Acessórios Toyota Corolla E210",
+          "buy_box_title": "Acessórios Essenciais Toyota Corolla (E210)",
+          "buy_box_subtitle": "Compatibilidade verificada para o seu modelo E210.",
+          "allowed_guidelines": [
+            "Sempre verifique os números de peça específicos com o VIN do seu veículo.",
+            "Garanta a instalação adequada por pessoal qualificado.",
+            "Consulte o manual do proprietário do veículo para obter diretrizes adicionais."
+          ],
+          "strict_restrictions": [
+            "Não exceda a espessura recomendada do elo da corrente de neve para evitar danos.",
+            "Evite usar adaptadores de palhetas de limpador não-OEM, a menos que explicitamente declarados como compatíveis.",
+            "As dimensões do tapete do porta-malas são aproximadas; meça seu veículo específico antes da compra."
+          ],
+          "faqs": [
+            {
+              "q": "Quais tamanhos de palhetas de limpador o Toyota Corolla E210 usa?",
+              "a": "O E210 tipicamente usa uma palheta de 700mm (28in) para o lado do motorista e uma de 350mm (14in) para o lado do passageiro."
+            },
+            {
+              "q": "Posso usar correntes de neve mais grossas que 9mm no meu Corolla E210?",
+              "a": "É fortemente desaconselhado o uso de correntes mais grossas que 9mm para evitar possíveis danos aos arcos das rodas, freios ou componentes da suspensão devido à folga insuficiente."
+            },
+            {
+              "q": "As dimensões do tapete do porta-malas são universais para todos os modelos E210?",
+              "a": "Não, as dimensões do tapete do porta-malas variam significativamente entre as variantes Hatchback, Sedan e Touring Sports (Perua) do E210. Sempre meça o porta-malas do seu veículo específico."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "toyota-corolla-e210-compatibiliteitsmatrix",
+          "title": "Toyota Corolla (E210) Compatibiliteits- en Meetmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetgegevens voor de Toyota Corolla (E210) serie, inclusief essentiële accessoires en componenten.",
+          "amazon_search_query": "Toyota Corolla E210 accessoires",
+          "buy_box_title": "Essentiële Toyota Corolla (E210) Accessoires",
+          "buy_box_subtitle": "Geverifieerde compatibiliteit voor uw E210-model.",
+          "allowed_guidelines": [
+            "Controleer altijd specifieke onderdeelnummers met het VIN van uw voertuig.",
+            "Zorg voor een correcte installatie door gekwalificeerd personeel.",
+            "Raadpleeg de gebruikershandleiding van het voertuig voor aanvullende richtlijnen."
+          ],
+          "strict_restrictions": [
+            "Overschrijd de aanbevolen schakeldikte van sneeuwkettingen niet om schade te voorkomen.",
+            "Vermijd het gebruik van niet-OEM ruitenwisserbladadapters, tenzij uitdrukkelijk als compatibel vermeld.",
+            "De afmetingen van de kofferbakmat zijn bij benadering; meet uw specifieke voertuig vóór aankoop."
+          ],
+          "faqs": [
+            {
+              "q": "Welke ruitenwisserbladmaten gebruikt de Toyota Corolla E210?",
+              "a": "De E210 gebruikt doorgaans een 700mm (28 inch) blad voor de bestuurderszijde en een 350mm (14 inch) blad voor de passagierszijde."
+            },
+            {
+              "q": "Kan ik dikkere sneeuwkettingen dan 9mm gebruiken op mijn Corolla E210?",
+              "a": "Het wordt sterk afgeraden om kettingen dikker dan 9mm te gebruiken om mogelijke schade aan wielkasten, remmen of ophangingscomponenten te voorkomen als gevolg van onvoldoende speling."
+            },
+            {
+              "q": "Zijn de afmetingen van de kofferbakmat universeel voor alle E210-modellen?",
+              "a": "Nee, de afmetingen van de kofferbakmat variëren aanzienlijk tussen de Hatchback-, Sedan- en Touring Sports (Stationwagen)-varianten van de E210. Meet altijd de kofferbak van uw specifieke voertuig."
             }
           ]
         }
