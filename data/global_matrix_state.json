@@ -1,67 +1,69 @@
 {
-  "last_updated": "2026-11-03T22:50:01.497964+00:00",
+  "last_updated": "2026-11-04T04:40:22.790435+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "nintendo-switch",
-    "valve-steam-deck-oled",
-    "ana-jal",
-    "sony-bravia",
-    "emirates",
-    "southwest",
-    "ps5-slim-pro",
-    "playstation-5-slim-pro-compatibility",
-    "macbook-pro-m3",
-    "easyjet-baggage-powerbank-guide",
-    "latam",
-    "qantas",
-    "united-airlines-baggage-lithium-battery-rules",
-    "dji-mini-4-pro-air-3-compatibility-matrix",
-    "toyota-corolla-e210-compatibility-matrix",
     "qatar-airways-baggage-power-bank-guide",
-    "air-france-baggage-allowance",
-    "southwest-airlines-baggage-policy",
-    "toyota-corolla",
-    "lufthansa",
-    "gopro-hero-12-13-black-compatibility-matrix",
-    "asus-rog-ally-x",
-    "toyota-rav4-5th-gen-compatibility-matrix",
-    "qantas-carry-on-baggage-allowance",
-    "latam-airlines-baggage-allowance",
-    "lufthansa-airlines-baggage-guide",
-    "transavia-baggage-allowance",
-    "ana-japan-airlines-carry-on-luggage-compatibility",
-    "delta-air-lines-compatibility-matrix",
-    "tesla-model-3-highland-compatibility-matrix",
-    "lg-oled-c3-c4-vesa-mount-power",
-    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
-    "dji-mini-air",
     "samsung-qled",
-    "transavia",
-    "ryanair-cabin-baggage-dimensions",
-    "macbook-pro-14-16-m3-m4-compatibility",
-    "qatar-airways",
-    "nintendo-switch-switch-oled-compatibility-matrix",
-    "emirates-baggage-allowance",
     "tesla-model-y-wipers-roof-trunk-dimensions",
-    "samsung-neo-qled-oled-tv-compatibility-matrix",
-    "gopro-12-13",
+    "toyota-corolla",
+    "qantas-carry-on-baggage-allowance",
+    "ps5-slim-pro",
+    "toyota-rav4-5th-gen-compatibility-matrix",
     "vueling-baggage-allowance",
-    "xbox-series-x-hardware-compatibility-matrix",
     "air-canada",
-    "steam-deck-oled",
+    "vueling",
+    "macbook-pro-14-16-m3-m4-compatibility",
+    "nintendo-switch-switch-oled-compatibility-matrix",
+    "gopro-12-13",
+    "tesla-model-3-highland-compatibility-matrix",
+    "gopro-hero-12-13-black-compatibility-matrix",
+    "united",
+    "vw-golf-8",
+    "dji-mini-air",
+    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
+    "xbox-series-x",
+    "playstation-5-slim-pro-compatibility",
+    "qantas",
+    "lufthansa",
+    "nintendo-switch",
+    "volkswagen-golf-8-compatibility-matrix",
+    "latam",
+    "air-france-baggage-allowance",
+    "emirates-baggage-allowance",
+    "asus-rog-ally-x",
+    "ryanair-cabin-baggage-dimensions",
+    "american",
+    "ana-japan-airlines-carry-on-luggage-compatibility",
+    "samsung-neo-qled-oled-tv-compatibility-matrix",
+    "american-airlines-compatibility-matrix",
+    "emirates",
+    "air-france",
+    "delta",
+    "lg-oled-c3-c4-vesa-mount-power",
+    "dji-mini-4-pro-air-3-compatibility-matrix",
+    "ana-jal",
+    "transavia-baggage-allowance",
+    "toyota-corolla-e210-compatibility-matrix",
+    "toyota-rav4",
     "wizz-air",
+    "easyjet",
+    "united-airlines-baggage-lithium-battery-rules",
+    "transavia",
+    "xbox-series-x-hardware-compatibility-matrix",
+    "southwest",
+    "delta-air-lines-compatibility-matrix",
     "british-airways",
     "tesla-model-3",
-    "vueling",
-    "xbox-series-x",
-    "air-france",
-    "united",
-    "toyota-rav4",
-    "delta",
-    "american-airlines-compatibility-matrix",
-    "american",
-    "easyjet"
+    "valve-steam-deck-oled",
+    "steam-deck-oled",
+    "southwest-airlines-baggage-policy",
+    "qatar-airways",
+    "sony-bravia",
+    "macbook-pro-m3",
+    "easyjet-baggage-powerbank-guide",
+    "lufthansa-airlines-baggage-guide",
+    "latam-airlines-baggage-allowance"
   ],
   "topics_backlog": [
     {
@@ -14709,6 +14711,477 @@
             {
               "q": "Zijn de afmetingen van de kofferbakmat universeel voor alle E210-modellen?",
               "a": "Nee, de afmetingen van de kofferbakmat variëren aanzienlijk tussen de Hatchback-, Sedan- en Touring Sports (Stationwagen)-varianten van de E210. Meet altijd de kofferbak van uw specifieke voertuig."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "vw-golf-8",
+      "slug": "volkswagen-golf-8-compatibility-matrix",
+      "subject": "Volkswagen Golf 8",
+      "category": "auto",
+      "spec_rows": [
+        {
+          "item": "Front Wiper Blades",
+          "metric": "650 mm + 450 mm",
+          "imperial": "26 in + 18 in",
+          "status": "Verified",
+          "note": "Flat blade type, specific fitment required.",
+          "item_translations": {
+            "en": "Front Wiper Blades",
+            "de": "Vordere Scheibenwischer",
+            "fr": "Balais d'essuie-glace avant",
+            "es": "Escobillas limpiaparabrisas delanteras",
+            "it": "Spazzole tergicristallo anteriori",
+            "ja": "フロントワイパーブレード",
+            "pt": "Escovas Limpa Para-brisas Dianteiras",
+            "nl": "Voorruitwisserbladen"
+          },
+          "note_translations": {
+            "en": "Flat blade type, specific fitment required.",
+            "de": "Flachbalkenwischer, spezifische Passform erforderlich.",
+            "fr": "Type plat, ajustement spécifique requis.",
+            "es": "Tipo de hoja plana, se requiere ajuste específico.",
+            "it": "Tipo a lama piatta, è richiesto un montaggio specifico.",
+            "ja": "フラットブレードタイプ、特定の適合が必要。",
+            "pt": "Tipo de lâmina plana, ajuste específico necessário.",
+            "nl": "Vlakke bladtype, specifieke pasvorm vereist."
+          }
+        },
+        {
+          "item": "Rear Wiper Blade",
+          "metric": "280 mm",
+          "imperial": "11 in",
+          "status": "Verified",
+          "note": "Specific fitment required for rear window.",
+          "item_translations": {
+            "en": "Rear Wiper Blade",
+            "de": "Hinterer Scheibenwischer",
+            "fr": "Balai d'essuie-glace arrière",
+            "es": "Escobilla limpiaparabrisas trasera",
+            "it": "Spazzola tergicristallo posteriore",
+            "ja": "リアワイパーブレード",
+            "pt": "Escova Limpa Para-brisas Traseira",
+            "nl": "Achterruitwisserblad"
+          },
+          "note_translations": {
+            "en": "Specific fitment required for rear window.",
+            "de": "Spezifische Passform für die Heckscheibe erforderlich.",
+            "fr": "Ajustement spécifique requis pour la lunette arrière.",
+            "es": "Se requiere ajuste específico para la ventana trasera.",
+            "it": "Montaggio specifico richiesto per il lunotto posteriore.",
+            "ja": "リアウィンドウには特定の適合が必要。",
+            "pt": "Ajuste específico necessário para o vidro traseiro.",
+            "nl": "Specifieke pasvorm vereist voor de achterruit."
+          }
+        },
+        {
+          "item": "Roof Bar T-Track Width",
+          "metric": "20 mm",
+          "imperial": "0.79 in",
+          "status": "Verified",
+          "note": "Standard T-slot channel for roof rack accessories.",
+          "item_translations": {
+            "en": "Roof Bar T-Track Width",
+            "de": "Dachträger T-Nut Breite",
+            "fr": "Largeur de la rainure en T des barres de toit",
+            "es": "Ancho de la ranura en T de la barra de techo",
+            "it": "Larghezza della scanalatura a T delle barre del tetto",
+            "ja": "ルーフレールTトラック幅",
+            "pt": "Largura da Calha T das Barras de Tejadilho",
+            "nl": "Dakrail T-sleufbreedte"
+          },
+          "note_translations": {
+            "en": "Standard T-slot channel for roof rack accessories.",
+            "de": "Standard T-Nut-Schiene für Dachträgerzubehör.",
+            "fr": "Canal en T standard pour accessoires de barres de toit.",
+            "es": "Canal en T estándar para accesorios de portaequipajes.",
+            "it": "Canale a T standard per accessori portapacchi.",
+            "ja": "ルーフラックアクセサリー用の標準Tスロットチャンネル。",
+            "pt": "Calha em T padrão para acessórios de tejadilho.",
+            "nl": "Standaard T-sleufkanaal voor dakdrageraccessoires."
+          }
+        },
+        {
+          "item": "Wheel Bolt Pattern (PCD)",
+          "metric": "5x112 mm",
+          "imperial": "5x4.41 in",
+          "status": "Verified",
+          "note": "5 bolts on a 112mm pitch circle diameter.",
+          "item_translations": {
+            "en": "Wheel Bolt Pattern (PCD)",
+            "de": "Radbolzenmuster (Lochkreis)",
+            "fr": "Entraxe des roues (PCD)",
+            "es": "Patrón de pernos de rueda (PCD)",
+            "it": "Schema bulloni ruota (PCD)",
+            "ja": "ホイールボルトパターン (PCD)",
+            "pt": "Padrão de Parafusos da Roda (PCD)",
+            "nl": "Wielboutpatroon (PCD)"
+          },
+          "note_translations": {
+            "en": "5 bolts on a 112mm pitch circle diameter.",
+            "de": "5 Bolzen auf einem Lochkreisdurchmesser von 112 mm.",
+            "fr": "5 boulons sur un diamètre de cercle de pas de 112 mm.",
+            "es": "5 pernos en un diámetro de círculo de paso de 112 mm.",
+            "it": "5 bulloni su un diametro del cerchio di passo di 112 mm.",
+            "ja": "112mmピッチ円直径に5本のボルト。",
+            "pt": "5 parafusos num diâmetro de círculo de passo de 112 mm.",
+            "nl": "5 bouten op een steekcirkeldiameter van 112 mm."
+          }
+        },
+        {
+          "item": "Wheel Center Bore",
+          "metric": "57.1 mm",
+          "imperial": "2.25 in",
+          "status": "Verified",
+          "note": "Hub bore diameter for wheel fitment.",
+          "item_translations": {
+            "en": "Wheel Center Bore",
+            "de": "Radnabenbohrung",
+            "fr": "Alésage central de la roue",
+            "es": "Diámetro del buje de la rueda",
+            "it": "Foro centrale ruota",
+            "ja": "ホイールセンターボア",
+            "pt": "Furo Central da Roda",
+            "nl": "Wielnaafgat"
+          },
+          "note_translations": {
+            "en": "Hub bore diameter for wheel fitment.",
+            "de": "Nabendurchmesser für die Radmontage.",
+            "fr": "Diamètre de l'alésage du moyeu pour le montage des roues.",
+            "es": "Diámetro del orificio del buje para el montaje de la rueda.",
+            "it": "Diametro del foro del mozzo per il montaggio della ruota.",
+            "ja": "ホイール装着用のハブボア径。",
+            "pt": "Diâmetro do furo do cubo para montagem da roda.",
+            "nl": "Naafgatdiameter voor wielmontage."
+          }
+        },
+        {
+          "item": "Fuel Tank Capacity",
+          "metric": "50 L",
+          "imperial": "13.2 US gal",
+          "status": "Verified",
+          "note": "Standard capacity for most Golf 8 models.",
+          "item_translations": {
+            "en": "Fuel Tank Capacity",
+            "de": "Kraftstofftankkapazität",
+            "fr": "Capacité du réservoir de carburant",
+            "es": "Capacidad del depósito de combustible",
+            "it": "Capacità serbatoio carburante",
+            "ja": "燃料タンク容量",
+            "pt": "Capacidade do Depósito de Combustível",
+            "nl": "Brandstoftankinhoud"
+          },
+          "note_translations": {
+            "en": "Standard capacity for most Golf 8 models.",
+            "de": "Standardkapazität für die meisten Golf 8 Modelle.",
+            "fr": "Capacité standard pour la plupart des modèles Golf 8.",
+            "es": "Capacidad estándar para la mayoría de los modelos Golf 8.",
+            "it": "Capacità standard per la maggior parte dei modelli Golf 8.",
+            "ja": "ほとんどのゴルフ8モデルの標準容量。",
+            "pt": "Capacidade padrão para a maioria dos modelos Golf 8.",
+            "nl": "Standaardcapaciteit voor de meeste Golf 8 modellen."
+          }
+        },
+        {
+          "item": "Boot Capacity (VDA)",
+          "metric": "380 L",
+          "imperial": "13.4 cu ft",
+          "status": "Verified",
+          "note": "Measured according to VDA standard, with rear seats up.",
+          "item_translations": {
+            "en": "Boot Capacity (VDA)",
+            "de": "Kofferraumvolumen (VDA)",
+            "fr": "Capacité du coffre (VDA)",
+            "es": "Capacidad del maletero (VDA)",
+            "it": "Capacità bagagliaio (VDA)",
+            "ja": "トランク容量 (VDA)",
+            "pt": "Capacidade da Bagageira (VDA)",
+            "nl": "Kofferbakinhoud (VDA)"
+          },
+          "note_translations": {
+            "en": "Measured according to VDA standard, with rear seats up.",
+            "de": "Gemessen nach VDA-Standard, mit hochgeklappten Rücksitzen.",
+            "fr": "Mesurée selon la norme VDA, avec les sièges arrière relevés.",
+            "es": "Medida según el estándar VDA, con los asientos traseros levantados.",
+            "it": "Misurata secondo lo standard VDA, con i sedili posteriori sollevati.",
+            "ja": "VDA規格に従って測定、後部座席を立てた状態。",
+            "pt": "Medida de acordo com a norma VDA, com os bancos traseiros levantados.",
+            "nl": "Gemeten volgens VDA-norm, met achterbank omhoog."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "volkswagen-golf-8-compatibility-matrix",
+          "title": "Volkswagen Golf 8: Universal Compatibility & Measurement Matrix",
+          "summary": "Comprehensive compatibility and exact measurement guide for the Volkswagen Golf 8 (Mk8), covering key dimensions for accessories, maintenance, and upgrades.",
+          "amazon_search_query": "VW Golf 8 accessories, Golf 8 wiper blades, Golf 8 roof bars, Golf 8 parts",
+          "buy_box_title": "Find Compatible VW Golf 8 Parts & Accessories",
+          "buy_box_subtitle": "Ensure perfect fitment with our verified specifications.",
+          "allowed_guidelines": [
+            "Front wiper blades: 650mm (26in) driver side, 450mm (18in) passenger side.",
+            "Rear wiper blade: 280mm (11in).",
+            "Roof rack T-track accessories with 20mm (0.79in) width.",
+            "Wheels with 5x112mm PCD and 57.1mm center bore."
+          ],
+          "strict_restrictions": [
+            "Wiper blades with different lengths or attachment types will not fit.",
+            "Roof rack accessories exceeding 20mm T-track width are incompatible.",
+            "Wheels with incorrect PCD or center bore will not fit safely.",
+            "Non-OEM specified fluids may void warranty or cause damage."
+          ],
+          "faqs": [
+            {
+              "q": "What size are the front wiper blades for a VW Golf 8?",
+              "a": "The front wiper blades are 650mm (26in) for the driver's side and 450mm (18in) for the passenger's side."
+            },
+            {
+              "q": "Can I use universal roof rack accessories on my Golf 8?",
+              "a": "Yes, if they are designed for a 20mm (0.79in) T-track channel, which is standard for the Golf 8."
+            },
+            {
+              "q": "What is the correct wheel bolt pattern for the Golf 8?",
+              "a": "The correct wheel bolt pattern (PCD) is 5x112mm, with a center bore of 57.1mm."
+            }
+          ]
+        },
+        "de": {
+          "slug": "volkswagen-golf-8-kompatibilitaetsmatrix",
+          "title": "Volkswagen Golf 8: Universelle Kompatibilitäts- & Messmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messanleitung für den Volkswagen Golf 8 (Mk8), die wichtige Abmessungen für Zubehör, Wartung und Upgrades abdeckt.",
+          "amazon_search_query": "VW Golf 8 Zubehör, Golf 8 Scheibenwischer, Golf 8 Dachträger, Golf 8 Teile",
+          "buy_box_title": "Finden Sie kompatible VW Golf 8 Teile & Zubehör",
+          "buy_box_subtitle": "Sorgen Sie für perfekte Passform mit unseren verifizierten Spezifikationen.",
+          "allowed_guidelines": [
+            "Vordere Scheibenwischer: 650mm (26 Zoll) Fahrerseite, 450mm (18 Zoll) Beifahrerseite.",
+            "Hinterer Scheibenwischer: 280mm (11 Zoll).",
+            "Dachträger T-Nut Zubehör mit 20mm (0,79 Zoll) Breite.",
+            "Räder mit 5x112mm Lochkreis und 57,1mm Mittenbohrung."
+          ],
+          "strict_restrictions": [
+            "Scheibenwischer mit abweichenden Längen oder Befestigungsarten passen nicht.",
+            "Dachträgerzubehör, das 20mm T-Nut Breite überschreitet, ist inkompatibel.",
+            "Räder mit falschem Lochkreis oder falscher Mittenbohrung passen nicht sicher.",
+            "Nicht-OEM-spezifizierte Flüssigkeiten können die Garantie ungültig machen oder Schäden verursachen."
+          ],
+          "faqs": [
+            {
+              "q": "Welche Größe haben die vorderen Scheibenwischer für einen VW Golf 8?",
+              "a": "Die vorderen Scheibenwischer sind 650mm (26 Zoll) für die Fahrerseite und 450mm (18 Zoll) für die Beifahrerseite."
+            },
+            {
+              "q": "Kann ich universelles Dachträgerzubehör an meinem Golf 8 verwenden?",
+              "a": "Ja, wenn sie für eine 20mm (0,79 Zoll) T-Nut-Schiene ausgelegt sind, die Standard für den Golf 8 ist."
+            },
+            {
+              "q": "Welches ist das korrekte Radbolzenmuster für den Golf 8?",
+              "a": "Das korrekte Radbolzenmuster (Lochkreis) ist 5x112mm, mit einer Mittenbohrung von 57,1mm."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "volkswagen-golf-8-matrice-compatibilite",
+          "title": "Volkswagen Golf 8 : Matrice de Compatibilité Universelle et de Mesures Exactes",
+          "summary": "Guide complet de compatibilité et de mesures exactes pour la Volkswagen Golf 8 (Mk8), couvrant les dimensions clés pour les accessoires, l'entretien et les mises à niveau.",
+          "amazon_search_query": "Accessoires VW Golf 8, balais d'essuie-glace Golf 8, barres de toit Golf 8, pièces Golf 8",
+          "buy_box_title": "Trouvez des pièces et accessoires compatibles pour VW Golf 8",
+          "buy_box_subtitle": "Assurez un ajustement parfait avec nos spécifications vérifiées.",
+          "allowed_guidelines": [
+            "Balais d'essuie-glace avant : 650mm (26 pouces) côté conducteur, 450mm (18 pouces) côté passager.",
+            "Balai d'essuie-glace arrière : 280mm (11 pouces).",
+            "Accessoires de barres de toit à rainure en T de 20mm (0,79 pouce) de largeur.",
+            "Jantes avec entraxe 5x112mm et alésage central de 57,1mm."
+          ],
+          "strict_restrictions": [
+            "Les balais d'essuie-glace de longueurs ou de types de fixation différents ne conviendront pas.",
+            "Les accessoires de barres de toit dépassant 20mm de largeur de rainure en T sont incompatibles.",
+            "Les jantes avec un entraxe ou un alésage central incorrect ne s'adapteront pas en toute sécurité.",
+            "Les fluides non spécifiés par le fabricant peuvent annuler la garantie ou causer des dommages."
+          ],
+          "faqs": [
+            {
+              "q": "Quelle est la taille des balais d'essuie-glace avant pour une VW Golf 8 ?",
+              "a": "Les balais d'essuie-glace avant mesurent 650mm (26 pouces) pour le côté conducteur et 450mm (18 pouces) pour le côté passager."
+            },
+            {
+              "q": "Puis-je utiliser des accessoires de barres de toit universels sur ma Golf 8 ?",
+              "a": "Oui, s'ils sont conçus pour un canal en T de 20mm (0,79 pouce), ce qui est standard pour la Golf 8."
+            },
+            {
+              "q": "Quel est l'entraxe correct des roues pour la Golf 8 ?",
+              "a": "L'entraxe correct des roues (PCD) est de 5x112mm, avec un alésage central de 57,1mm."
+            }
+          ]
+        },
+        "es": {
+          "slug": "volkswagen-golf-8-matriz-compatibilidad",
+          "title": "Volkswagen Golf 8: Matriz de Compatibilidad Universal y Medidas Exactas",
+          "summary": "Guía completa de compatibilidad y medidas exactas para el Volkswagen Golf 8 (Mk8), que cubre las dimensiones clave para accesorios, mantenimiento y actualizaciones.",
+          "amazon_search_query": "Accesorios VW Golf 8, escobillas limpiaparabrisas Golf 8, barras de techo Golf 8, piezas Golf 8",
+          "buy_box_title": "Encuentre piezas y accesorios compatibles para VW Golf 8",
+          "buy_box_subtitle": "Asegure un ajuste perfecto con nuestras especificaciones verificadas.",
+          "allowed_guidelines": [
+            "Escobillas limpiaparabrisas delanteras: 650mm (26 pulgadas) lado del conductor, 450mm (18 pulgadas) lado del pasajero.",
+            "Escobilla limpiaparabrisas trasera: 280mm (11 pulgadas).",
+            "Accesorios de barras de techo con ranura en T de 20mm (0,79 pulgadas) de ancho.",
+            "Ruedas con patrón de pernos 5x112mm y orificio central de 57,1mm."
+          ],
+          "strict_restrictions": [
+            "Las escobillas limpiaparabrisas con diferentes longitudes o tipos de fijación no encajarán.",
+            "Los accesorios de barras de techo que excedan los 20mm de ancho de ranura en T son incompatibles.",
+            "Las ruedas con un patrón de pernos o un orificio central incorrectos no encajarán de forma segura.",
+            "Los fluidos no especificados por el fabricante original pueden anular la garantía o causar daños."
+          ],
+          "faqs": [
+            {
+              "q": "¿Qué tamaño tienen las escobillas limpiaparabrisas delanteras para un VW Golf 8?",
+              "a": "Las escobillas limpiaparabrisas delanteras son de 650mm (26 pulgadas) para el lado del conductor y 450mm (18 pulgadas) para el lado del pasajero."
+            },
+            {
+              "q": "¿Puedo usar accesorios universales para barras de techo en mi Golf 8?",
+              "a": "Sí, si están diseñados para un canal de ranura en T de 20mm (0,79 pulgadas), que es estándar para el Golf 8."
+            },
+            {
+              "q": "¿Cuál es el patrón de pernos de rueda correcto para el Golf 8?",
+              "a": "El patrón de pernos de rueda (PCD) correcto es 5x112mm, con un orificio central de 57,1mm."
+            }
+          ]
+        },
+        "it": {
+          "slug": "volkswagen-golf-8-matrice-compatibilita",
+          "title": "Volkswagen Golf 8: Matrice di Compatibilità Universale e Misure Esatte",
+          "summary": "Guida completa di compatibilità e misure esatte per la Volkswagen Golf 8 (Mk8), che copre le dimensioni chiave per accessori, manutenzione e aggiornamenti.",
+          "amazon_search_query": "Accessori VW Golf 8, spazzole tergicristallo Golf 8, barre portatutto Golf 8, ricambi Golf 8",
+          "buy_box_title": "Trova ricambi e accessori compatibili per VW Golf 8",
+          "buy_box_subtitle": "Assicurati un montaggio perfetto con le nostre specifiche verificate.",
+          "allowed_guidelines": [
+            "Spazzole tergicristallo anteriori: 650mm (26 pollici) lato conducente, 450mm (18 pollici) lato passeggero.",
+            "Spazzola tergicristallo posteriore: 280mm (11 pollici).",
+            "Accessori per barre portatutto con scanalatura a T di 20mm (0,79 pollici) di larghezza.",
+            "Ruote con interasse 5x112mm e foro centrale di 57,1mm."
+          ],
+          "strict_restrictions": [
+            "Spazzole tergicristallo con lunghezze o tipi di attacco diversi non si adatteranno.",
+            "Accessori per barre portatutto che superano i 20mm di larghezza della scanalatura a T sono incompatibili.",
+            "Ruote con interasse o foro centrale errati non si adatteranno in modo sicuro.",
+            "Fluidi non specificati dal produttore originale possono invalidare la garanzia o causare danni."
+          ],
+          "faqs": [
+            {
+              "q": "Qual è la dimensione delle spazzole tergicristallo anteriori per una VW Golf 8?",
+              "a": "Le spazzole tergicristallo anteriori sono di 650mm (26 pollici) per il lato conducente e 450mm (18 pollici) per il lato passeggero."
+            },
+            {
+              "q": "Posso usare accessori universali per barre portatutto sulla mia Golf 8?",
+              "a": "Sì, se sono progettati per un canale a T di 20mm (0,79 pollici), che è standard per la Golf 8."
+            },
+            {
+              "q": "Qual è l'interasse corretto delle ruote per la Golf 8?",
+              "a": "L'interasse corretto delle ruote (PCD) è 5x112mm, con un foro centrale di 57,1mm."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "volkswagen-golf-8-compatibility-matrix",
+          "title": "フォルクスワーゲン ゴルフ8：ユニバーサル互換性＆正確な測定マトリックス",
+          "summary": "フォルクスワーゲン ゴルフ8（Mk8）の包括的な互換性および正確な測定ガイド。アクセサリー、メンテナンス、アップグレードのための主要な寸法を網羅しています。",
+          "amazon_search_query": "VW ゴルフ8 アクセサリー, ゴルフ8 ワイパーブレード, ゴルフ8 ルーフバー, ゴルフ8 パーツ",
+          "buy_box_title": "互換性のあるVW ゴルフ8 パーツ＆アクセサリーを見つける",
+          "buy_box_subtitle": "当社の検証済み仕様で完璧な適合を保証します。",
+          "allowed_guidelines": [
+            "フロントワイパーブレード：運転席側650mm（26インチ）、助手席側450mm（18インチ）。",
+            "リアワイパーブレード：280mm（11インチ）。",
+            "幅20mm（0.79インチ）のルーフラックTトラックアクセサリー。",
+            "PCD 5x112mm、センターボア57.1mmのホイール。"
+          ],
+          "strict_restrictions": [
+            "長さや取り付けタイプが異なるワイパーブレードは適合しません。",
+            "20mmのTトラック幅を超えるルーフラックアクセサリーは互換性がありません。",
+            "PCDやセンターボアが間違っているホイールは安全に装着できません。",
+            "OEM指定外の液体は保証を無効にするか、損傷を引き起こす可能性があります。"
+          ],
+          "faqs": [
+            {
+              "q": "VW ゴルフ8のフロントワイパーブレードのサイズは？",
+              "a": "フロントワイパーブレードは、運転席側が650mm（26インチ）、助手席側が450mm（18インチ）です。"
+            },
+            {
+              "q": "ゴルフ8にユニバーサルルーフラックアクセサリーを使用できますか？",
+              "a": "はい、ゴルフ8の標準である20mm（0.79インチ）のTトラックチャンネル用に設計されている場合です。"
+            },
+            {
+              "q": "ゴルフ8の正しいホイールボルトパターンは？",
+              "a": "正しいホイールボルトパターン（PCD）は5x112mmで、センターボアは57.1mmです。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "volkswagen-golf-8-matriz-compatibilidade",
+          "title": "Volkswagen Golf 8: Matriz de Compatibilidade Universal e Medidas Exatas",
+          "summary": "Guia completo de compatibilidade e medidas exatas para o Volkswagen Golf 8 (Mk8), cobrindo as dimensões chave para acessórios, manutenção e atualizações.",
+          "amazon_search_query": "Acessórios VW Golf 8, escovas limpa para-brisas Golf 8, barras de tejadilho Golf 8, peças Golf 8",
+          "buy_box_title": "Encontre Peças e Acessórios Compatíveis para VW Golf 8",
+          "buy_box_subtitle": "Garanta um ajuste perfeito com as nossas especificações verificadas.",
+          "allowed_guidelines": [
+            "Escovas limpa para-brisas dianteiras: 650mm (26 polegadas) lado do condutor, 450mm (18 polegadas) lado do passageiro.",
+            "Escova limpa para-brisas traseira: 280mm (11 polegadas).",
+            "Acessórios de barras de tejadilho com calha T de 20mm (0,79 polegadas) de largura.",
+            "Jantes com padrão de parafusos 5x112mm e furo central de 57,1mm."
+          ],
+          "strict_restrictions": [
+            "Escovas limpa para-brisas com comprimentos ou tipos de fixação diferentes não se encaixarão.",
+            "Acessórios de barras de tejadilho que excedam 20mm de largura da calha T são incompatíveis.",
+            "Jantes com padrão de parafusos ou furo central incorretos não se encaixarão com segurança.",
+            "Fluidos não especificados pelo OEM podem anular a garantia ou causar danos."
+          ],
+          "faqs": [
+            {
+              "q": "Qual o tamanho das escovas limpa para-brisas dianteiras para um VW Golf 8?",
+              "a": "As escovas limpa para-brisas dianteiras são de 650mm (26 polegadas) para o lado do condutor e 450mm (18 polegadas) para o lado do passageiro."
+            },
+            {
+              "q": "Posso usar acessórios universais de barras de tejadilho no meu Golf 8?",
+              "a": "Sim, se forem projetados para uma calha T de 20mm (0,79 polegadas), que é padrão para o Golf 8."
+            },
+            {
+              "q": "Qual é o padrão de parafusos da roda correto para o Golf 8?",
+              "a": "O padrão de parafusos da roda (PCD) correto é 5x112mm, com um furo central de 57,1mm."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "volkswagen-golf-8-compatibiliteitsmatrix",
+          "title": "Volkswagen Golf 8: Universele Compatibiliteits- & Meetmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetgids voor de Volkswagen Golf 8 (Mk8), met de belangrijkste afmetingen voor accessoires, onderhoud en upgrades.",
+          "amazon_search_query": "VW Golf 8 accessoires, Golf 8 ruitenwissers, Golf 8 dakdragers, Golf 8 onderdelen",
+          "buy_box_title": "Vind compatibele VW Golf 8 onderdelen & accessoires",
+          "buy_box_subtitle": "Zorg voor een perfecte pasvorm met onze geverifieerde specificaties.",
+          "allowed_guidelines": [
+            "Voorruitwisserbladen: 650mm (26 inch) bestuurderszijde, 450mm (18 inch) passagierszijde.",
+            "Achterruitwisserblad: 280mm (11 inch).",
+            "Dakdrager T-sleuf accessoires met 20mm (0,79 inch) breedte.",
+            "Wielen met 5x112mm PCD en 57,1mm naafgat."
+          ],
+          "strict_restrictions": [
+            "Ruitenwisserbladen met afwijkende lengtes of bevestigingstypes passen niet.",
+            "Dakdrageraccessoires die de 20mm T-sleufbreedte overschrijden, zijn incompatibel.",
+            "Wielen met een onjuiste PCD of naafgat passen niet veilig.",
+            "Niet-OEM gespecificeerde vloeistoffen kunnen de garantie ongeldig maken of schade veroorzaken."
+          ],
+          "faqs": [
+            {
+              "q": "Welke maat hebben de voorruitwisserbladen voor een VW Golf 8?",
+              "a": "De voorruitwisserbladen zijn 650mm (26 inch) voor de bestuurderszijde en 450mm (18 inch) voor de passagierszijde."
+            },
+            {
+              "q": "Kan ik universele dakdrageraccessoires gebruiken op mijn Golf 8?",
+              "a": "Ja, als ze zijn ontworpen voor een 20mm (0,79 inch) T-sleufkanaal, wat standaard is voor de Golf 8."
+            },
+            {
+              "q": "Wat is het juiste wielboutpatroon voor de Golf 8?",
+              "a": "Het juiste wielboutpatroon (PCD) is 5x112mm, met een naafgat van 57,1mm."
             }
           ]
         }

@@ -667,3 +667,24 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=Toyota+Corolla+E210+accessories&tag=autocompat-21
 
 ---
+
+## Volkswagen Golf 8 (AUTO)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/volkswagen-golf-8-compatibility-matrix.html
+- Summary: Comprehensive compatibility and exact measurement guide for the Volkswagen Golf 8 (Mk8), covering key dimensions for accessories, maintenance, and upgrades.
+
+### Exact Specifications (Dual Units):
+* **Front Wiper Blades**: Metric: `650 mm + 450 mm` | Imperial: `26 in + 18 in` (Flat blade type, specific fitment required.)
+* **Rear Wiper Blade**: Metric: `280 mm` | Imperial: `11 in` (Specific fitment required for rear window.)
+* **Roof Bar T-Track Width**: Metric: `20 mm` | Imperial: `0.79 in` (Standard T-slot channel for roof rack accessories.)
+* **Wheel Bolt Pattern (PCD)**: Metric: `5x112 mm` | Imperial: `5x4.41 in` (5 bolts on a 112mm pitch circle diameter.)
+* **Wheel Center Bore**: Metric: `57.1 mm` | Imperial: `2.25 in` (Hub bore diameter for wheel fitment.)
+* **Fuel Tank Capacity**: Metric: `50 L` | Imperial: `13.2 US gal` (Standard capacity for most Golf 8 models.)
+* **Boot Capacity (VDA)**: Metric: `380 L` | Imperial: `13.4 cu ft` (Measured according to VDA standard, with rear seats up.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=VW+Golf+8+accessories%2C+Golf+8+wiper+blades%2C+Golf+8+roof+bars%2C+Golf+8+parts&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=VW+Golf+8+accessories%2C+Golf+8+wiper+blades%2C+Golf+8+roof+bars%2C+Golf+8+parts&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=VW+Golf+8+accessories%2C+Golf+8+wiper+blades%2C+Golf+8+roof+bars%2C+Golf+8+parts&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=VW+Golf+8+accessories%2C+Golf+8+wiper+blades%2C+Golf+8+roof+bars%2C+Golf+8+parts&tag=autocompat-21
+
+---
