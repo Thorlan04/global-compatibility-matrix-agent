@@ -705,3 +705,21 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=VW+Tiguan+Mk2+Mk3+wiper+blades%2C+Tiguan+roof+rack+cross+bars%2C+Tiguan+cargo+liner&tag=autocompat-21
 
 ---
+
+## Ford F-150 (2021-2026) (AUTO)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/ford-f150-2021-2026-compatibility-matrix.html
+- Summary: Comprehensive compatibility and exact measurement guide for the 2021-2026 Ford F-150, covering essential accessories and components.
+
+### Exact Specifications (Dual Units):
+* **Front Wiper Blades**: Metric: `550 mm + 550 mm` | Imperial: `22 in + 22 in` (Standard OEM replacement size for driver and passenger sides.)
+* **Bed Cargo Mat (5.5 ft Bed)**: Metric: `167.6 cm (Length)` | Imperial: `5.5 ft (Length)` (For models equipped with the 5.5-foot (Short) bed.)
+* **Bed Cargo Mat (6.5 ft Bed)**: Metric: `198.1 cm (Length)` | Imperial: `6.5 ft (Length)` (For models equipped with the 6.5-foot (Standard) bed.)
+* **Trailer Hitch Receiver**: Metric: `5.08 cm (Receiver Opening)` | Imperial: `2 in (Receiver Opening)` (Standard Class IV/V receiver opening for towing accessories.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=Ford+F-150+2021-2026+accessories&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=Ford+F-150+2021-2026+accessories&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=Ford+F-150+2021-2026+accessories&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=Ford+F-150+2021-2026+accessories&tag=autocompat-21
+
+---

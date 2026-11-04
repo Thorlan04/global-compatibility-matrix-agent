@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-11-04T13:43:09.046550+00:00",
-  "total_items": 35,
+  "generated_at": "2026-11-04T23:10:02.224446+00:00",
+  "total_items": 36,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -15231,6 +15231,380 @@
             {
               "q": "Is een kofferbakbeschermer echt nodig?",
               "a": "Een kofferbakbeschermer wordt sterk aanbevolen om het tapijt van de bagageruimte van uw Tiguan te beschermen tegen morsen, vuil, huisdierharen en algemene slijtage, waardoor de interieurconditie en de inruilwaarde van het voertuig behouden blijven. Op maat gemaakte opties bieden de beste bescherming."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ford-f150",
+      "slug": "ford-f150-2021-2026-compatibility-matrix",
+      "subject": "Ford F-150 (2021-2026)",
+      "category": "auto",
+      "spec_rows": [
+        {
+          "item": "Front Wiper Blades",
+          "metric": "550 mm + 550 mm",
+          "imperial": "22 in + 22 in",
+          "status": "Verified",
+          "note": "Standard OEM replacement size for driver and passenger sides.",
+          "item_translations": {
+            "en": "Front Wiper Blades",
+            "de": "Vordere Scheibenwischer",
+            "fr": "Balais d'Essuie-Glace Avant",
+            "es": "Escobillas Limpiaparabrisas Delanteras",
+            "it": "Spazzole Tergicristallo Anteriori",
+            "ja": "フロントワイパーブレード",
+            "pt": "Palhetas do Limpador de Para-brisa Dianteiras",
+            "nl": "Ruitenwisserbladen Voor"
+          },
+          "note_translations": {
+            "en": "Standard OEM replacement size for driver and passenger sides.",
+            "de": "Standard OEM-Ersatzgröße für Fahrer- und Beifahrerseite.",
+            "fr": "Taille de remplacement OEM standard pour les côtés conducteur et passager.",
+            "es": "Tamaño de reemplazo OEM estándar para los lados del conductor y del pasajero.",
+            "it": "Dimensione di ricambio OEM standard per i lati conducente e passeggero.",
+            "ja": "運転席側および助手席側の標準OEM交換サイズ。",
+            "pt": "Tamanho de substituição OEM padrão para os lados do motorista e do passageiro.",
+            "nl": "Standaard OEM-vervangingsmaat voor bestuurders- en passagierszijde."
+          }
+        },
+        {
+          "item": "Bed Cargo Mat (5.5 ft Bed)",
+          "metric": "167.6 cm (Length)",
+          "imperial": "5.5 ft (Length)",
+          "status": "Verified",
+          "note": "For models equipped with the 5.5-foot (Short) bed.",
+          "item_translations": {
+            "en": "Bed Cargo Mat (5.5 ft Bed)",
+            "de": "Laderaummatte (1,68 m Ladefläche)",
+            "fr": "Tapis de Benne (Benne de 1,68 m)",
+            "es": "Alfombrilla de Carga para Caja (Caja de 1,68 m)",
+            "it": "Tappetino per Pianale (Pianale da 1,68 m)",
+            "ja": "荷台カーゴマット (5.5フィート荷台)",
+            "pt": "Tapete de Carga da Caçamba (Caçamba de 1,68 m)",
+            "nl": "Laadbakmat (1,68 m Laadbak)"
+          },
+          "note_translations": {
+            "en": "For models equipped with the 5.5-foot (Short) bed.",
+            "de": "Für Modelle mit der 1,68 Meter (kurzen) Ladefläche.",
+            "fr": "Pour les modèles équipés de la benne courte de 1,68 mètre (5,5 pieds).",
+            "es": "Para modelos equipados con la caja corta de 1,68 metros (5,5 pies).",
+            "it": "Per i modelli dotati di pianale corto da 1,68 metri (5,5 piedi).",
+            "ja": "5.5フィート（ショート）荷台を装備したモデル用。",
+            "pt": "Para modelos equipados com a caçamba curta de 1,68 metros (5,5 pés).",
+            "nl": "Voor modellen uitgerust met de 1,68 meter (korte) laadbak."
+          }
+        },
+        {
+          "item": "Bed Cargo Mat (6.5 ft Bed)",
+          "metric": "198.1 cm (Length)",
+          "imperial": "6.5 ft (Length)",
+          "status": "Verified",
+          "note": "For models equipped with the 6.5-foot (Standard) bed.",
+          "item_translations": {
+            "en": "Bed Cargo Mat (6.5 ft Bed)",
+            "de": "Laderaummatte (1,98 m Ladefläche)",
+            "fr": "Tapis de Benne (Benne de 1,98 m)",
+            "es": "Alfombrilla de Carga para Caja (Caja de 1,98 m)",
+            "it": "Tappetino per Pianale (Pianale da 1,98 m)",
+            "ja": "荷台カーゴマット (6.5フィート荷台)",
+            "pt": "Tapete de Carga da Caçamba (Caçamba de 1,98 m)",
+            "nl": "Laadbakmat (1,98 m Laadbak)"
+          },
+          "note_translations": {
+            "en": "For models equipped with the 6.5-foot (Standard) bed.",
+            "de": "Für Modelle mit der 1,98 Meter (Standard) Ladefläche.",
+            "fr": "Pour les modèles équipés de la benne standard de 1,98 mètre (6,5 pieds).",
+            "es": "Para modelos equipados con la caja estándar de 1,98 metros (6,5 pies).",
+            "it": "Per i modelli dotati di pianale standard da 1,98 metri (6,5 piedi).",
+            "ja": "6.5フィート（標準）荷台を装備したモデル用。",
+            "pt": "Para modelos equipados com a caçamba padrão de 1,98 metros (6,5 pés).",
+            "nl": "Voor modellen uitgerust met de 1,98 meter (standaard) laadbak."
+          }
+        },
+        {
+          "item": "Trailer Hitch Receiver",
+          "metric": "5.08 cm (Receiver Opening)",
+          "imperial": "2 in (Receiver Opening)",
+          "status": "Verified",
+          "note": "Standard Class IV/V receiver opening for towing accessories.",
+          "item_translations": {
+            "en": "Trailer Hitch Receiver",
+            "de": "Anhängerkupplungsempfänger",
+            "fr": "Récepteur d'Attelage de Remorque",
+            "es": "Receptor de Enganche de Remolque",
+            "it": "Ricevitore Gancio di Traino",
+            "ja": "トレーラーヒッチレシーバー",
+            "pt": "Receptor de Engate de Reboque",
+            "nl": "Trekhaakontvanger"
+          },
+          "note_translations": {
+            "en": "Standard Class IV/V receiver opening for towing accessories.",
+            "de": "Standard Class IV/V Empfängeröffnung für Anhängerzubehör.",
+            "fr": "Ouverture de récepteur standard Classe IV/V pour accessoires de remorquage.",
+            "es": "Apertura de receptor estándar Clase IV/V para accesorios de remolque.",
+            "it": "Apertura ricevitore standard Classe IV/V per accessori di traino.",
+            "ja": "牽引アクセサリー用の標準クラスIV/Vレシーバー開口部。",
+            "pt": "Abertura de receptor padrão Classe IV/V para acessórios de reboque.",
+            "nl": "Standaard Klasse IV/V ontvangeropening voor trekaccessoires."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "ford-f150-2021-2026-compatibility-matrix",
+          "title": "Ford F-150 (2021-2026) Compatibility & Measurement Matrix",
+          "summary": "Comprehensive compatibility and exact measurement guide for the 2021-2026 Ford F-150, covering essential accessories and components.",
+          "amazon_search_query": "Ford F-150 2021-2026 accessories",
+          "buy_box_title": "Shop Ford F-150 (2021-2026) Compatible Parts",
+          "buy_box_subtitle": "Find verified accessories and exact fit components for your F-150.",
+          "allowed_guidelines": [
+            "Always verify part numbers with your vehicle's VIN for critical components.",
+            "Ensure accessories are rated for the specific F-150 trim and engine configuration.",
+            "Refer to the owner's manual for installation instructions and safety guidelines."
+          ],
+          "strict_restrictions": [
+            "Using non-compliant parts may void vehicle warranty or compromise safety.",
+            "Do not exceed vehicle's Gross Vehicle Weight Rating (GVWR) or Gross Combined Weight Rating (GCWR).",
+            "Modifications to critical safety systems must be performed by certified technicians."
+          ],
+          "faqs": [
+            {
+              "q": "What are the correct wiper blade sizes for my 2021-2026 Ford F-150?",
+              "a": "The standard front wiper blade size for both driver and passenger sides is 550 mm (22 inches)."
+            },
+            {
+              "q": "How do I determine the correct bed cargo mat size for my F-150?",
+              "a": "You need to measure your truck bed length. Common sizes are 5.5 ft (1.68 m) or 6.5 ft (1.98 m). Ensure the mat matches your specific bed length."
+            },
+            {
+              "q": "What is the standard trailer hitch receiver size for the 2021-2026 F-150?",
+              "a": "The standard trailer hitch receiver size is 2 inches (5.08 cm), compatible with most Class IV/V towing accessories."
+            }
+          ]
+        },
+        "de": {
+          "slug": "ford-f150-2021-2026-kompatibilitaetsmatrix",
+          "title": "Ford F-150 (2021-2026) Kompatibilitäts- & Messmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messanleitung für den Ford F-150 der Baujahre 2021-2026, einschließlich wichtiger Zubehörteile und Komponenten.",
+          "amazon_search_query": "Ford F-150 2021-2026 Zubehör",
+          "buy_box_title": "Ford F-150 (2021-2026) Kompatible Teile kaufen",
+          "buy_box_subtitle": "Finden Sie verifiziertes Zubehör und passgenaue Komponenten für Ihren F-150.",
+          "allowed_guidelines": [
+            "Überprüfen Sie bei kritischen Komponenten immer die Teilenummern mit der Fahrgestellnummer Ihres Fahrzeugs.",
+            "Stellen Sie sicher, dass das Zubehör für die spezifische F-150 Ausstattungsvariante und Motorkonfiguration ausgelegt ist.",
+            "Beachten Sie die Bedienungsanleitung für Installationsanweisungen und Sicherheitshinweise."
+          ],
+          "strict_restrictions": [
+            "Die Verwendung nicht konformer Teile kann die Fahrzeuggarantie erlöschen lassen oder die Sicherheit beeinträchtigen.",
+            "Überschreiten Sie nicht das zulässige Gesamtgewicht (zGG) oder das zulässige Gesamtzuggewicht (zGZG) des Fahrzeugs.",
+            "Änderungen an kritischen Sicherheitssystemen müssen von zertifizierten Technikern durchgeführt werden."
+          ],
+          "faqs": [
+            {
+              "q": "Welche Scheibenwischergrößen sind für meinen Ford F-150 (2021-2026) korrekt?",
+              "a": "Die Standardgröße der vorderen Scheibenwischer für Fahrer- und Beifahrerseite beträgt 550 mm (22 Zoll)."
+            },
+            {
+              "q": "Wie bestimme ich die richtige Größe der Laderaummatte für meinen F-150?",
+              "a": "Sie müssen die Länge Ihrer Ladefläche messen. Gängige Größen sind 1,68 m (5,5 ft) oder 1,98 m (6,5 ft). Stellen Sie sicher, dass die Matte zu Ihrer spezifischen Ladeflächenlänge passt."
+            },
+            {
+              "q": "Welche Größe hat der Standard-Anhängerkupplungsempfänger für den F-150 (2021-2026)?",
+              "a": "Die Standardgröße des Anhängerkupplungsempfängers beträgt 2 Zoll (5,08 cm) und ist mit den meisten Anhängerzubehörteilen der Klasse IV/V kompatibel."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "ford-f150-2021-2026-matrice-compatibilite",
+          "title": "Matrice de Compatibilité et de Mesures Ford F-150 (2021-2026)",
+          "summary": "Guide complet de compatibilité et de mesures exactes pour le Ford F-150 (2021-2026), couvrant les accessoires et composants essentiels.",
+          "amazon_search_query": "accessoires Ford F-150 2021-2026",
+          "buy_box_title": "Acheter des Pièces Compatibles Ford F-150 (2021-2026)",
+          "buy_box_subtitle": "Trouvez des accessoires vérifiés et des composants parfaitement adaptés à votre F-150.",
+          "allowed_guidelines": [
+            "Vérifiez toujours les numéros de pièce avec le VIN de votre véhicule pour les composants critiques.",
+            "Assurez-vous que les accessoires sont adaptés à la finition et à la configuration moteur spécifiques du F-150.",
+            "Consultez le manuel du propriétaire pour les instructions d'installation et les consignes de sécurité."
+          ],
+          "strict_restrictions": [
+            "L'utilisation de pièces non conformes peut annuler la garantie du véhicule ou compromettre la sécurité.",
+            "Ne dépassez pas le poids nominal brut du véhicule (PNBV) ou le poids nominal brut combiné (PNBC) du véhicule.",
+            "Les modifications des systèmes de sécurité critiques doivent être effectuées par des techniciens certifiés."
+          ],
+          "faqs": [
+            {
+              "q": "Quelles sont les tailles correctes des balais d'essuie-glace pour mon Ford F-150 (2021-2026)?",
+              "a": "La taille standard des balais d'essuie-glace avant pour les côtés conducteur et passager est de 550 mm (22 pouces)."
+            },
+            {
+              "q": "Comment déterminer la bonne taille de tapis de benne pour mon F-150?",
+              "a": "Vous devez mesurer la longueur de votre benne. Les tailles courantes sont 1,68 m (5,5 pieds) ou 1,98 m (6,5 pieds). Assurez-vous que le tapis correspond à la longueur spécifique de votre benne."
+            },
+            {
+              "q": "Quelle est la taille standard du récepteur d'attelage de remorque pour le F-150 (2021-2026)?",
+              "a": "La taille standard du récepteur d'attelage de remorque est de 2 pouces (5,08 cm), compatible avec la plupart des accessoires de remorquage de classe IV/V."
+            }
+          ]
+        },
+        "es": {
+          "slug": "ford-f150-2021-2026-matriz-compatibilidad",
+          "title": "Matriz de Compatibilidad y Medidas Ford F-150 (2021-2026)",
+          "summary": "Guía completa de compatibilidad y medidas exactas para el Ford F-150 (2021-2026), que cubre accesorios y componentes esenciales.",
+          "amazon_search_query": "accesorios Ford F-150 2021-2026",
+          "buy_box_title": "Comprar Piezas Compatibles Ford F-150 (2021-2026)",
+          "buy_box_subtitle": "Encuentre accesorios verificados y componentes de ajuste exacto para su F-150.",
+          "allowed_guidelines": [
+            "Siempre verifique los números de pieza con el VIN de su vehículo para componentes críticos.",
+            "Asegúrese de que los accesorios estén clasificados para la configuración específica de acabado y motor del F-150.",
+            "Consulte el manual del propietario para obtener instrucciones de instalación y pautas de seguridad."
+          ],
+          "strict_restrictions": [
+            "El uso de piezas no conformes puede anular la garantía del vehículo o comprometer la seguridad.",
+            "No exceda la clasificación de peso bruto vehicular (GVWR) ni la clasificación de peso bruto combinado (GCWR) del vehículo.",
+            "Las modificaciones a los sistemas de seguridad críticos deben ser realizadas por técnicos certificados."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuáles son los tamaños correctos de las escobillas limpiaparabrisas para mi Ford F-150 (2021-2026)?",
+              "a": "El tamaño estándar de las escobillas limpiaparabrisas delanteras para los lados del conductor y del pasajero es de 550 mm (22 pulgadas)."
+            },
+            {
+              "q": "¿Cómo determino el tamaño correcto de la alfombrilla de carga para la caja de mi F-150?",
+              "a": "Debe medir la longitud de la caja de su camioneta. Los tamaños comunes son 1,68 m (5,5 pies) o 1,98 m (6,5 pies). Asegúrese de que la alfombrilla coincida con la longitud específica de su caja."
+            },
+            {
+              "q": "¿Cuál es el tamaño estándar del receptor del enganche de remolque para el F-150 (2021-2026)?",
+              "a": "El tamaño estándar del receptor del enganche de remolque es de 2 pulgadas (5,08 cm), compatible con la mayoría de los accesorios de remolque de Clase IV/V."
+            }
+          ]
+        },
+        "it": {
+          "slug": "ford-f150-2021-2026-matrice-compatibilita",
+          "title": "Matrice di Compatibilità e Misure Ford F-150 (2021-2026)",
+          "summary": "Guida completa alla compatibilità e alle misure esatte per il Ford F-150 (2021-2026), che copre accessori e componenti essenziali.",
+          "amazon_search_query": "accessori Ford F-150 2021-2026",
+          "buy_box_title": "Acquista Ricambi Compatibili Ford F-150 (2021-2026)",
+          "buy_box_subtitle": "Trova accessori verificati e componenti su misura per il tuo F-150.",
+          "allowed_guidelines": [
+            "Verificare sempre i codici dei ricambi con il VIN del veicolo per i componenti critici.",
+            "Assicurarsi che gli accessori siano classificati per la specifica configurazione di allestimento e motore dell'F-150.",
+            "Consultare il manuale del proprietario per le istruzioni di installazione e le linee guida di sicurezza."
+          ],
+          "strict_restrictions": [
+            "L'uso di parti non conformi può invalidare la garanzia del veicolo o compromettere la sicurezza.",
+            "Non superare il peso lordo del veicolo (GVWR) o il peso lordo combinato (GCWR) del veicolo.",
+            "Le modifiche ai sistemi di sicurezza critici devono essere eseguite da tecnici certificati."
+          ],
+          "faqs": [
+            {
+              "q": "Quali sono le dimensioni corrette delle spazzole tergicristallo per il mio Ford F-150 (2021-2026)?",
+              "a": "La dimensione standard delle spazzole tergicristallo anteriori per i lati conducente e passeggero è di 550 mm (22 pollici)."
+            },
+            {
+              "q": "Come faccio a determinare la dimensione corretta del tappetino per il pianale del mio F-150?",
+              "a": "È necessario misurare la lunghezza del pianale del camion. Le dimensioni comuni sono 1,68 m (5,5 piedi) o 1,98 m (6,5 piedi). Assicurarsi che il tappetino corrisponda alla lunghezza specifica del pianale."
+            },
+            {
+              "q": "Qual è la dimensione standard del ricevitore del gancio di traino per l'F-150 (2021-2026)?",
+              "a": "La dimensione standard del ricevitore del gancio di traino è di 2 pollici (5,08 cm), compatibile con la maggior parte degli accessori di traino di Classe IV/V."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "ford-f150-2021-2026-compatibilty-matrix",
+          "title": "フォード F-150 (2021-2026) 互換性および測定マトリックス",
+          "summary": "2021-2026年型フォード F-150の主要なアクセサリーとコンポーネントを網羅した、包括的な互換性および正確な測定ガイド。",
+          "amazon_search_query": "フォード F-150 2021-2026 アクセサリー",
+          "buy_box_title": "フォード F-150 (2021-2026) 互換部品を購入する",
+          "buy_box_subtitle": "あなたのF-150に適合する検証済みアクセサリーと正確なフィットのコンポーネントを見つけてください。",
+          "allowed_guidelines": [
+            "重要なコンポーネントについては、常に車両のVINと部品番号を確認してください。",
+            "アクセサリーが特定のF-150のトリムおよびエンジン構成に対応していることを確認してください。",
+            "取り付け手順と安全ガイドラインについては、オーナーズマニュアルを参照してください。"
+          ],
+          "strict_restrictions": [
+            "非準拠部品を使用すると、車両保証が無効になるか、安全性が損なわれる可能性があります。",
+            "車両の車両総重量定格（GVWR）または連結総重量定格（GCWR）を超えないでください。",
+            "重要な安全システムの改造は、認定された技術者によって行われる必要があります。"
+          ],
+          "faqs": [
+            {
+              "q": "私の2021-2026年型フォード F-150の正しいワイパーブレードのサイズは何ですか？",
+              "a": "運転席側と助手席側の両方の標準的なフロントワイパーブレードのサイズは550 mm（22インチ）です。"
+            },
+            {
+              "q": "F-150の正しい荷台カーゴマットのサイズをどのように決定しますか？",
+              "a": "トラックの荷台の長さを測定する必要があります。一般的なサイズは1.68 m（5.5フィート）または1.98 m（6.5フィート）です。マットが特定の荷台の長さに合っていることを確認してください。"
+            },
+            {
+              "q": "2021-2026年型F-150の標準的なトレーラーヒッチレシーバーのサイズは何ですか？",
+              "a": "標準的なトレーラーヒッチレシーバーのサイズは2インチ（5.08 cm）で、ほとんどのクラスIV/V牽引アクセサリーと互換性があります。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "ford-f150-2021-2026-matriz-compatibilidade",
+          "title": "Matriz de Compatibilidade e Medidas Ford F-150 (2021-2026)",
+          "summary": "Guia abrangente de compatibilidade e medidas exatas para o Ford F-150 (2021-2026), cobrindo acessórios e componentes essenciais.",
+          "amazon_search_query": "acessórios Ford F-150 2021-2026",
+          "buy_box_title": "Comprar Peças Compatíveis Ford F-150 (2021-2026)",
+          "buy_box_subtitle": "Encontre acessórios verificados e componentes de ajuste exato para o seu F-150.",
+          "allowed_guidelines": [
+            "Sempre verifique os números de peça com o VIN do seu veículo para componentes críticos.",
+            "Certifique-se de que os acessórios são classificados para a configuração específica de acabamento e motor do F-150.",
+            "Consulte o manual do proprietário para obter instruções de instalação e diretrizes de segurança."
+          ],
+          "strict_restrictions": [
+            "O uso de peças não conformes pode anular a garantia do veículo ou comprometer a segurança.",
+            "Não exceda a classificação de peso bruto do veículo (GVWR) ou a classificação de peso bruto combinado (GCWR) do veículo.",
+            "Modificações em sistemas de segurança críticos devem ser realizadas por técnicos certificados."
+          ],
+          "faqs": [
+            {
+              "q": "Quais são os tamanhos corretos das palhetas do limpador de para-brisa para o meu Ford F-150 (2021-2026)?",
+              "a": "O tamanho padrão das palhetas do limpador de para-brisa dianteiro para os lados do motorista e do passageiro é de 550 mm (22 polegadas)."
+            },
+            {
+              "q": "Como determino o tamanho correto do tapete de carga da caçamba para o meu F-150?",
+              "a": "Você precisa medir o comprimento da caçamba do seu caminhão. Os tamanhos comuns são 1,68 m (5,5 pés) ou 1,98 m (6,5 pés). Certifique-se de que o tapete corresponda ao comprimento específico da sua caçamba."
+            },
+            {
+              "q": "Qual é o tamanho padrão do receptor do engate de reboque para o F-150 (2021-2026)?",
+              "a": "O tamanho padrão do receptor do engate de reboque é de 2 polegadas (5,08 cm), compatível com a maioria dos acessórios de reboque de Classe IV/V."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "ford-f150-2021-2026-compatibiliteitsmatrix",
+          "title": "Ford F-150 (2021-2026) Compatibiliteits- en Meetmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetgids voor de Ford F-150 (2021-2026), inclusief essentiële accessoires en componenten.",
+          "amazon_search_query": "Ford F-150 2021-2026 accessoires",
+          "buy_box_title": "Koop Ford F-150 (2021-2026) Compatibele Onderdelen",
+          "buy_box_subtitle": "Vind geverifieerde accessoires en exact passende componenten voor uw F-150.",
+          "allowed_guidelines": [
+            "Controleer altijd onderdeelnummers met het VIN van uw voertuig voor kritieke componenten.",
+            "Zorg ervoor dat accessoires geschikt zijn voor de specifieke F-150 uitvoering en motorconfiguratie.",
+            "Raadpleeg de gebruikershandleiding voor installatie-instructies en veiligheidsrichtlijnen."
+          ],
+          "strict_restrictions": [
+            "Het gebruik van niet-conforme onderdelen kan de voertuiggarantie ongeldig maken of de veiligheid in gevaar brengen.",
+            "Overschrijd het bruto voertuiggewicht (GVWR) of het bruto combinatiegewicht (GCWR) van het voertuig niet.",
+            "Wijzigingen aan kritieke veiligheidssystemen moeten worden uitgevoerd door gecertificeerde technici."
+          ],
+          "faqs": [
+            {
+              "q": "Wat zijn de juiste ruitenwisserbladmaten voor mijn Ford F-150 (2021-2026)?",
+              "a": "De standaardmaat voor de voorruitenwisserbladen voor zowel de bestuurders- als passagierszijde is 550 mm (22 inch)."
+            },
+            {
+              "q": "Hoe bepaal ik de juiste maat laadbakmat voor mijn F-150?",
+              "a": "U moet de lengte van uw laadbak meten. Gangbare maten zijn 1,68 m (5,5 ft) of 1,98 m (6,5 ft). Zorg ervoor dat de mat overeenkomt met de specifieke lengte van uw laadbak."
+            },
+            {
+              "q": "Wat is de standaardmaat van de trekhaakontvanger voor de F-150 (2021-2026)?",
+              "a": "De standaardmaat van de trekhaakontvanger is 2 inch (5,08 cm), compatibel met de meeste trekaccessoires van klasse IV/V."
             }
           ]
         }
