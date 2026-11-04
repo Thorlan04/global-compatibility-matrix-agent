@@ -688,3 +688,20 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=VW+Golf+8+accessories%2C+Golf+8+wiper+blades%2C+Golf+8+roof+bars%2C+Golf+8+parts&tag=autocompat-21
 
 ---
+
+## Volkswagen Tiguan (Mk2/Mk3) (AUTO)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/vw-tiguan-mk2-mk3-compatibility-matrix.html
+- Summary: Comprehensive compatibility and exact measurement guide for Volkswagen Tiguan Mk2 and Mk3 models, covering essential accessories like wiper blades, roof rails, and cargo protection.
+
+### Exact Specifications (Dual Units):
+* **Front Wiper Blades (Driver + Passenger)**: Metric: `600 mm + 530 mm` | Imperial: `24 in + 21 in` (Specific fitment for Mk2/Mk3 models. Ensure correct adapter type (e.g., Push Button 19mm).)
+* **Roof Rail Crossbars Load Capacity**: Metric: `75 kg` | Imperial: `165 lbs` (Applies to genuine VW roof rails or certified aftermarket systems. Always check vehicle manual for maximum roof load.)
+* **Trunk Cargo Liner / Protector**: Metric: `Custom fit for Tiguan Mk2/Mk3 cargo area` | Imperial: `Custom fit for Tiguan Mk2/Mk3 cargo area` (Designed to protect the cargo area carpet from spills and wear. May vary slightly based on specific trim level (e.g., with/without subwoofer).)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=VW+Tiguan+Mk2+Mk3+wiper+blades%2C+Tiguan+roof+rack+cross+bars%2C+Tiguan+cargo+liner&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=VW+Tiguan+Mk2+Mk3+wiper+blades%2C+Tiguan+roof+rack+cross+bars%2C+Tiguan+cargo+liner&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=VW+Tiguan+Mk2+Mk3+wiper+blades%2C+Tiguan+roof+rack+cross+bars%2C+Tiguan+cargo+liner&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=VW+Tiguan+Mk2+Mk3+wiper+blades%2C+Tiguan+roof+rack+cross+bars%2C+Tiguan+cargo+liner&tag=autocompat-21
+
+---

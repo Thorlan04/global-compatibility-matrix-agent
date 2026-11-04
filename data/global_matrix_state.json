@@ -1,69 +1,71 @@
 {
-  "last_updated": "2026-11-04T04:40:22.790435+00:00",
+  "last_updated": "2026-11-04T13:43:14.832886+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "qatar-airways-baggage-power-bank-guide",
-    "samsung-qled",
-    "tesla-model-y-wipers-roof-trunk-dimensions",
-    "toyota-corolla",
-    "qantas-carry-on-baggage-allowance",
-    "ps5-slim-pro",
-    "toyota-rav4-5th-gen-compatibility-matrix",
-    "vueling-baggage-allowance",
-    "air-canada",
-    "vueling",
-    "macbook-pro-14-16-m3-m4-compatibility",
-    "nintendo-switch-switch-oled-compatibility-matrix",
-    "gopro-12-13",
-    "tesla-model-3-highland-compatibility-matrix",
-    "gopro-hero-12-13-black-compatibility-matrix",
-    "united",
-    "vw-golf-8",
-    "dji-mini-air",
-    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
-    "xbox-series-x",
-    "playstation-5-slim-pro-compatibility",
-    "qantas",
-    "lufthansa",
-    "nintendo-switch",
-    "volkswagen-golf-8-compatibility-matrix",
-    "latam",
-    "air-france-baggage-allowance",
-    "emirates-baggage-allowance",
-    "asus-rog-ally-x",
-    "ryanair-cabin-baggage-dimensions",
-    "american",
-    "ana-japan-airlines-carry-on-luggage-compatibility",
-    "samsung-neo-qled-oled-tv-compatibility-matrix",
-    "american-airlines-compatibility-matrix",
-    "emirates",
-    "air-france",
-    "delta",
-    "lg-oled-c3-c4-vesa-mount-power",
-    "dji-mini-4-pro-air-3-compatibility-matrix",
-    "ana-jal",
-    "transavia-baggage-allowance",
-    "toyota-corolla-e210-compatibility-matrix",
-    "toyota-rav4",
-    "wizz-air",
-    "easyjet",
-    "united-airlines-baggage-lithium-battery-rules",
-    "transavia",
-    "xbox-series-x-hardware-compatibility-matrix",
-    "southwest",
-    "delta-air-lines-compatibility-matrix",
-    "british-airways",
-    "tesla-model-3",
-    "valve-steam-deck-oled",
-    "steam-deck-oled",
-    "southwest-airlines-baggage-policy",
-    "qatar-airways",
     "sony-bravia",
+    "lg-oled-c3-c4-vesa-mount-power",
+    "ana-japan-airlines-carry-on-luggage-compatibility",
+    "ana-jal",
+    "qatar-airways-baggage-power-bank-guide",
+    "wizz-air",
     "macbook-pro-m3",
+    "southwest-airlines-baggage-policy",
+    "delta",
+    "lufthansa",
+    "ps5-slim-pro",
+    "ryanair-cabin-baggage-dimensions",
+    "samsung-neo-qled-oled-tv-compatibility-matrix",
+    "transavia-baggage-allowance",
+    "delta-air-lines-compatibility-matrix",
+    "american-airlines-compatibility-matrix",
+    "samsung-qled",
+    "dji-mini-4-pro-air-3-compatibility-matrix",
+    "macbook-pro-14-16-m3-m4-compatibility",
+    "emirates-baggage-allowance",
+    "gopro-hero-12-13-black-compatibility-matrix",
+    "vw-tiguan",
+    "nintendo-switch",
+    "tesla-model-3",
+    "steam-deck-oled",
+    "qatar-airways",
     "easyjet-baggage-powerbank-guide",
+    "xbox-series-x",
+    "tesla-model-3-highland-compatibility-matrix",
+    "american",
+    "transavia",
+    "air-france-baggage-allowance",
+    "latam",
+    "southwest",
+    "toyota-rav4-5th-gen-compatibility-matrix",
+    "gopro-12-13",
+    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "vueling-baggage-allowance",
+    "qantas",
+    "playstation-5-slim-pro-compatibility",
+    "nintendo-switch-switch-oled-compatibility-matrix",
+    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
+    "air-canada",
+    "latam-airlines-baggage-allowance",
+    "toyota-corolla",
+    "asus-rog-ally-x",
     "lufthansa-airlines-baggage-guide",
-    "latam-airlines-baggage-allowance"
+    "united",
+    "qantas-carry-on-baggage-allowance",
+    "vw-tiguan-mk2-mk3-compatibility-matrix",
+    "volkswagen-golf-8-compatibility-matrix",
+    "air-france",
+    "vueling",
+    "united-airlines-baggage-lithium-battery-rules",
+    "xbox-series-x-hardware-compatibility-matrix",
+    "vw-golf-8",
+    "toyota-rav4",
+    "british-airways",
+    "emirates",
+    "dji-mini-air",
+    "toyota-corolla-e210-compatibility-matrix",
+    "valve-steam-deck-oled",
+    "easyjet"
   ],
   "topics_backlog": [
     {
@@ -15182,6 +15184,353 @@
             {
               "q": "Wat is het juiste wielboutpatroon voor de Golf 8?",
               "a": "Het juiste wielboutpatroon (PCD) is 5x112mm, met een naafgat van 57,1mm."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "vw-tiguan",
+      "slug": "vw-tiguan-mk2-mk3-compatibility-matrix",
+      "subject": "Volkswagen Tiguan (Mk2/Mk3)",
+      "category": "auto",
+      "spec_rows": [
+        {
+          "item": "Front Wiper Blades (Driver + Passenger)",
+          "metric": "600 mm + 530 mm",
+          "imperial": "24 in + 21 in",
+          "status": "Verified",
+          "note": "Specific fitment for Mk2/Mk3 models. Ensure correct adapter type (e.g., Push Button 19mm).",
+          "item_translations": {
+            "en": "Front Wiper Blades (Driver + Passenger)",
+            "de": "Scheibenwischer vorne (Fahrer + Beifahrer)",
+            "fr": "Balais d'essuie-glace avant (Conducteur + Passager)",
+            "es": "Escobillas limpiaparabrisas delanteras (Conductor + Pasajero)",
+            "it": "Spazzole tergicristallo anteriori (Conducente + Passeggero)",
+            "ja": "フロントワイパーブレード（運転席＋助手席）",
+            "pt": "Escovas do Limpa Para-brisas Dianteiras (Condutor + Passageiro)",
+            "nl": "Ruitenwisserbladen voor (Bestuurder + Passagier)"
+          },
+          "note_translations": {
+            "en": "Specific fitment for Mk2/Mk3 models. Ensure correct adapter type (e.g., Push Button 19mm).",
+            "de": "Spezifische Passform für Mk2/Mk3 Modelle. Stellen Sie den korrekten Adaptertyp sicher (z.B. Push Button 19mm).",
+            "fr": "Montage spécifique pour les modèles Mk2/Mk3. Assurez-vous du type d'adaptateur correct (par exemple, bouton-poussoir 19mm).",
+            "es": "Ajuste específico para modelos Mk2/Mk3. Asegúrese del tipo de adaptador correcto (por ejemplo, botón pulsador de 19 mm).",
+            "it": "Montaggio specifico per i modelli Mk2/Mk3. Assicurarsi del tipo di adattatore corretto (es. Push Button 19mm).",
+            "ja": "Mk2/Mk3モデルに特化した適合。正しいアダプタータイプ（例：プッシュボタン19mm）を確認してください。",
+            "pt": "Encaixe específico para modelos Mk2/Mk3. Certifique-se do tipo de adaptador correto (por exemplo, botão de pressão de 19 mm).",
+            "nl": "Specifieke pasvorm voor Mk2/Mk3 modellen. Zorg voor het juiste adaptertype (bijv. Push Button 19mm)."
+          }
+        },
+        {
+          "item": "Roof Rail Crossbars Load Capacity",
+          "metric": "75 kg",
+          "imperial": "165 lbs",
+          "status": "Verified",
+          "note": "Applies to genuine VW roof rails or certified aftermarket systems. Always check vehicle manual for maximum roof load.",
+          "item_translations": {
+            "en": "Roof Rail Crossbars Load Capacity",
+            "de": "Dachreling Querträger Tragfähigkeit",
+            "fr": "Capacité de charge des barres de toit",
+            "es": "Capacidad de carga de las barras transversales del techo",
+            "it": "Capacità di carico delle barre trasversali del tetto",
+            "ja": "ルーフレールクロスバー積載量",
+            "pt": "Capacidade de Carga das Barras Transversais do Tejadilho",
+            "nl": "Dakrail Dwarsdragers Draagvermogen"
+          },
+          "note_translations": {
+            "en": "Applies to genuine VW roof rails or certified aftermarket systems. Always check vehicle manual for maximum roof load.",
+            "de": "Gilt für originale VW Dachreling oder zertifizierte Zubehörsysteme. Überprüfen Sie immer das Fahrzeughandbuch für die maximale Dachlast.",
+            "fr": "S'applique aux barres de toit VW d'origine ou aux systèmes après-vente certifiés. Vérifiez toujours le manuel du véhicule pour la charge maximale sur le toit.",
+            "es": "Se aplica a las barras de techo originales de VW o a sistemas de posventa certificados. Consulte siempre el manual del vehículo para conocer la carga máxima del techo.",
+            "it": "Si applica alle barre portatutto originali VW o a sistemi aftermarket certificati. Controllare sempre il manuale del veicolo per il carico massimo sul tetto.",
+            "ja": "純正VWルーフレールまたは認定アフターマーケットシステムに適用されます。最大ルーフ積載量については、必ず車両マニュアルを確認してください。",
+            "pt": "Aplica-se a barras de tejadilho VW genuínas ou sistemas pós-venda certificados. Verifique sempre o manual do veículo para a carga máxima do tejadilho.",
+            "nl": "Geldt voor originele VW dakrails of gecertificeerde aftermarket systemen. Controleer altijd de voertuighandleiding voor de maximale dakbelasting."
+          }
+        },
+        {
+          "item": "Trunk Cargo Liner / Protector",
+          "metric": "Custom fit for Tiguan Mk2/Mk3 cargo area",
+          "imperial": "Custom fit for Tiguan Mk2/Mk3 cargo area",
+          "status": "Compliant",
+          "note": "Designed to protect the cargo area carpet from spills and wear. May vary slightly based on specific trim level (e.g., with/without subwoofer).",
+          "item_translations": {
+            "en": "Trunk Cargo Liner / Protector",
+            "de": "Kofferraumwanne / Kofferraumschutz",
+            "fr": "Tapis de coffre / Protecteur de coffre",
+            "es": "Protector / Revestimiento de maletero",
+            "it": "Tappetino / Protezione per bagagliaio",
+            "ja": "トランクカーゴライナー/プロテクター",
+            "pt": "Forro / Protetor de Bagageira",
+            "nl": "Kofferbakmat / Kofferbakbeschermer"
+          },
+          "note_translations": {
+            "en": "Designed to protect the cargo area carpet from spills and wear. May vary slightly based on specific trim level (e.g., with/without subwoofer).",
+            "de": "Entwickelt, um den Teppich des Laderaums vor Verschüttungen und Abnutzung zu schützen. Kann je nach Ausstattungsvariante (z.B. mit/ohne Subwoofer) leicht variieren.",
+            "fr": "Conçu pour protéger la moquette du coffre des déversements et de l'usure. Peut varier légèrement en fonction du niveau de finition spécifique (par exemple, avec/sans subwoofer).",
+            "es": "Diseñado para proteger la moqueta del área de carga de derrames y desgaste. Puede variar ligeramente según el nivel de equipamiento específico (por ejemplo, con/sin subwoofer).",
+            "it": "Progettato per proteggere la moquette del bagagliaio da versamenti e usura. Può variare leggermente in base al livello di allestimento specifico (es. con/senza subwoofer).",
+            "ja": "荷室のカーペットをこぼれや摩耗から保護するように設計されています。特定のトリムレベル（例：サブウーファーの有無）によって若干異なる場合があります。",
+            "pt": "Projetado para proteger o tapete da área de carga contra derrames e desgaste. Pode variar ligeiramente com base no nível de acabamento específico (por exemplo, com/sem subwoofer).",
+            "nl": "Ontworpen om het tapijt van de bagageruimte te beschermen tegen morsen en slijtage. Kan enigszins variëren afhankelijk van het specifieke uitrustingsniveau (bijv. met/zonder subwoofer)."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "vw-tiguan-mk2-mk3-compatibility-matrix",
+          "title": "Volkswagen Tiguan (Mk2/Mk3) Compatibility & Measurement Matrix",
+          "summary": "Comprehensive compatibility and exact measurement guide for Volkswagen Tiguan Mk2 and Mk3 models, covering essential accessories like wiper blades, roof rails, and cargo protection.",
+          "amazon_search_query": "VW Tiguan Mk2 Mk3 wiper blades, Tiguan roof rack cross bars, Tiguan cargo liner",
+          "buy_box_title": "Essential Accessories for Your VW Tiguan (Mk2/Mk3)",
+          "buy_box_subtitle": "Guaranteed Fitment & Performance",
+          "allowed_guidelines": [
+            "Always verify part numbers against your vehicle's VIN for specific model year variations.",
+            "Ensure all aftermarket accessories meet ECE or equivalent safety standards.",
+            "Regularly inspect installed accessories for secure fitment and wear."
+          ],
+          "strict_restrictions": [
+            "Do not exceed the manufacturer's specified maximum roof load capacity of 75 kg (165 lbs).",
+            "Incorrect wiper blade adapters can lead to poor performance or damage; confirm type before purchase.",
+            "Generic cargo liners may not provide full coverage or proper fit; opt for custom-fit solutions."
+          ],
+          "faqs": [
+            {
+              "q": "Are the wiper blade sizes the same for all Mk2 and Mk3 Tiguan models?",
+              "a": "Yes, the standard front wiper blade sizes (600mm driver, 530mm passenger) are consistent across most Mk2 and Mk3 Tiguan models. However, always double-check your vehicle's manual or existing blades for confirmation, especially regarding the adapter type."
+            },
+            {
+              "q": "Can I install any roof rack on my Tiguan's roof rails?",
+              "a": "While many universal roof racks exist, it's highly recommended to use crossbars specifically designed for the Tiguan's integrated roof rails. These ensure proper fitment, optimal load distribution, and adherence to the 75 kg (165 lbs) weight limit."
+            },
+            {
+              "q": "Is a trunk cargo protector really necessary?",
+              "a": "A trunk cargo protector is highly recommended to safeguard your Tiguan's cargo area carpet from spills, dirt, pet hair, and general wear and tear, preserving the vehicle's interior condition and resale value. Custom-fit options offer the best protection."
+            }
+          ]
+        },
+        "de": {
+          "slug": "vw-tiguan-mk2-mk3-kompatibilitaetsmatrix",
+          "title": "Volkswagen Tiguan (Mk2/Mk3) Kompatibilitäts- & Messmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messanleitung für Volkswagen Tiguan Mk2 und Mk3 Modelle, einschließlich wichtiger Zubehörteile wie Scheibenwischer, Dachreling und Kofferraumschutz.",
+          "amazon_search_query": "VW Tiguan Mk2 Mk3 Scheibenwischer, Tiguan Dachträger Querträger, Tiguan Kofferraumwanne",
+          "buy_box_title": "Wesentliches Zubehör für Ihren VW Tiguan (Mk2/Mk3)",
+          "buy_box_subtitle": "Garantierte Passform & Leistung",
+          "allowed_guidelines": [
+            "Überprüfen Sie immer die Teilenummern anhand der Fahrgestellnummer Ihres Fahrzeugs auf spezifische Modelljahr-Variationen.",
+            "Stellen Sie sicher, dass alle Zubehörteile den ECE- oder gleichwertigen Sicherheitsstandards entsprechen.",
+            "Überprüfen Sie regelmäßig installierte Zubehörteile auf sicheren Sitz und Verschleiß."
+          ],
+          "strict_restrictions": [
+            "Überschreiten Sie nicht die vom Hersteller angegebene maximale Dachlast von 75 kg (165 lbs).",
+            "Falsche Scheibenwischeradapter können zu schlechter Leistung oder Beschädigungen führen; bestätigen Sie den Typ vor dem Kauf.",
+            "Generische Kofferraumwannen bieten möglicherweise keine vollständige Abdeckung oder Passform; wählen Sie maßgeschneiderte Lösungen."
+          ],
+          "faqs": [
+            {
+              "q": "Sind die Scheibenwischergrößen für alle Mk2 und Mk3 Tiguan Modelle gleich?",
+              "a": "Ja, die Standardgrößen der vorderen Scheibenwischer (600mm Fahrer, 530mm Beifahrer) sind bei den meisten Mk2 und Mk3 Tiguan Modellen konsistent. Überprüfen Sie jedoch immer das Handbuch Ihres Fahrzeugs oder die vorhandenen Wischer zur Bestätigung, insbesondere bezüglich des Adaptertyps."
+            },
+            {
+              "q": "Kann ich jeden Dachträger auf die Dachreling meines Tiguan montieren?",
+              "a": "Obwohl viele universelle Dachträger existieren, wird dringend empfohlen, Querträger zu verwenden, die speziell für die integrierte Dachreling des Tiguan entwickelt wurden. Diese gewährleisten eine korrekte Passform, optimale Lastverteilung und die Einhaltung der Gewichtsgrenze von 75 kg (165 lbs)."
+            },
+            {
+              "q": "Ist ein Kofferraumschutz wirklich notwendig?",
+              "a": "Ein Kofferraumschutz wird dringend empfohlen, um den Teppich des Laderaums Ihres Tiguan vor Verschüttungen, Schmutz, Tierhaaren und allgemeiner Abnutzung zu schützen und so den Innenzustand und den Wiederverkaufswert des Fahrzeugs zu erhalten. Maßgeschneiderte Optionen bieten den besten Schutz."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "vw-tiguan-mk2-mk3-matrice-compatibilite",
+          "title": "Volkswagen Tiguan (Mk2/Mk3) Matrice de Compatibilité et de Mesures",
+          "summary": "Guide complet de compatibilité et de mesures exactes pour les modèles Volkswagen Tiguan Mk2 et Mk3, couvrant les accessoires essentiels tels que les balais d'essuie-glace, les barres de toit et la protection du coffre.",
+          "amazon_search_query": "VW Tiguan Mk2 Mk3 balais essuie-glace, Tiguan barres de toit, Tiguan tapis de coffre",
+          "buy_box_title": "Accessoires Essentiels pour Votre VW Tiguan (Mk2/Mk3)",
+          "buy_box_subtitle": "Ajustement et Performance Garantis",
+          "allowed_guidelines": [
+            "Vérifiez toujours les numéros de pièce par rapport au VIN de votre véhicule pour les variations spécifiques de l'année modèle.",
+            "Assurez-vous que tous les accessoires de rechange respectent les normes de sécurité ECE ou équivalentes.",
+            "Inspectez régulièrement les accessoires installés pour un ajustement sûr et l'usure."
+          ],
+          "strict_restrictions": [
+            "Ne dépassez pas la capacité de charge maximale du toit spécifiée par le fabricant de 75 kg (165 lbs).",
+            "Des adaptateurs de balais d'essuie-glace incorrects peuvent entraîner de mauvaises performances ou des dommages ; confirmez le type avant l'achat.",
+            "Les tapis de coffre génériques peuvent ne pas offrir une couverture complète ou un ajustement correct ; optez pour des solutions sur mesure."
+          ],
+          "faqs": [
+            {
+              "q": "Les tailles des balais d'essuie-glace sont-elles les mêmes pour tous les modèles Tiguan Mk2 et Mk3 ?",
+              "a": "Oui, les tailles standard des balais d'essuie-glace avant (600mm conducteur, 530mm passager) sont cohérentes sur la plupart des modèles Tiguan Mk2 et Mk3. Cependant, vérifiez toujours le manuel de votre véhicule ou les balais existants pour confirmation, en particulier concernant le type d'adaptateur."
+            },
+            {
+              "q": "Puis-je installer n'importe quelle galerie de toit sur les barres de toit de mon Tiguan ?",
+              "a": "Bien qu'il existe de nombreuses galeries de toit universelles, il est fortement recommandé d'utiliser des barres transversales spécifiquement conçues pour les barres de toit intégrées du Tiguan. Celles-ci garantissent un ajustement correct, une répartition optimale de la charge et le respect de la limite de poids de 75 kg (165 lbs)."
+            },
+            {
+              "q": "Un protecteur de coffre est-il vraiment nécessaire ?",
+              "a": "Un protecteur de coffre est fortement recommandé pour protéger la moquette du coffre de votre Tiguan des déversements, de la saleté, des poils d'animaux et de l'usure générale, préservant ainsi l'état intérieur du véhicule et sa valeur de revente. Les options sur mesure offrent la meilleure protection."
+            }
+          ]
+        },
+        "es": {
+          "slug": "vw-tiguan-mk2-mk3-matriz-compatibilidad",
+          "title": "Volkswagen Tiguan (Mk2/Mk3) Matriz de Compatibilidad y Medidas",
+          "summary": "Guía completa de compatibilidad y medidas exactas para los modelos Volkswagen Tiguan Mk2 y Mk3, que cubre accesorios esenciales como escobillas limpiaparabrisas, barras de techo y protección de carga.",
+          "amazon_search_query": "VW Tiguan Mk2 Mk3 escobillas limpiaparabrisas, Tiguan barras de techo, Tiguan protector maletero",
+          "buy_box_title": "Accesorios Esenciales para tu VW Tiguan (Mk2/Mk3)",
+          "buy_box_subtitle": "Ajuste y Rendimiento Garantizados",
+          "allowed_guidelines": [
+            "Verifique siempre los números de pieza con el VIN de su vehículo para variaciones específicas del año del modelo.",
+            "Asegúrese de que todos los accesorios del mercado de accesorios cumplan con las normas de seguridad ECE o equivalentes.",
+            "Inspeccione regularmente los accesorios instalados para un ajuste seguro y el desgaste."
+          ],
+          "strict_restrictions": [
+            "No exceda la capacidad de carga máxima del techo especificada por el fabricante de 75 kg (165 lbs).",
+            "Los adaptadores de escobillas limpiaparabrisas incorrectos pueden provocar un rendimiento deficiente o daños; confirme el tipo antes de la compra.",
+            "Los revestimientos de carga genéricos pueden no proporcionar una cobertura completa o un ajuste adecuado; opte por soluciones a medida."
+          ],
+          "faqs": [
+            {
+              "q": "¿Son los tamaños de las escobillas limpiaparabrisas los mismos para todos los modelos Tiguan Mk2 y Mk3?",
+              "a": "Sí, los tamaños estándar de las escobillas limpiaparabrisas delanteras (600mm conductor, 530mm pasajero) son consistentes en la mayoría de los modelos Tiguan Mk2 y Mk3. Sin embargo, siempre verifique el manual de su vehículo o las escobillas existentes para confirmación, especialmente en cuanto al tipo de adaptador."
+            },
+            {
+              "q": "¿Puedo instalar cualquier portaequipajes en las barras de techo de mi Tiguan?",
+              "a": "Aunque existen muchos portaequipajes universales, se recomienda encarecidamente utilizar barras transversales diseñadas específicamente para las barras de techo integradas del Tiguan. Estas garantizan un ajuste adecuado, una distribución óptima de la carga y el cumplimiento del límite de peso de 75 kg (165 lbs)."
+            },
+            {
+              "q": "¿Es realmente necesario un protector de maletero?",
+              "a": "Se recomienda encarecidamente un protector de maletero para proteger la moqueta del área de carga de su Tiguan de derrames, suciedad, pelo de mascotas y el desgaste general, preservando así el estado interior del vehículo y su valor de reventa. Las opciones a medida ofrecen la mejor protección."
+            }
+          ]
+        },
+        "it": {
+          "slug": "vw-tiguan-mk2-mk3-matrice-compatibilita",
+          "title": "Volkswagen Tiguan (Mk2/Mk3) Matrice di Compatibilità e Misurazioni",
+          "summary": "Guida completa di compatibilità e misurazioni esatte per i modelli Volkswagen Tiguan Mk2 e Mk3, che copre accessori essenziali come spazzole tergicristallo, barre portatutto e protezione del bagagliaio.",
+          "amazon_search_query": "VW Tiguan Mk2 Mk3 spazzole tergicristallo, Tiguan barre portatutto, Tiguan tappetino bagagliaio",
+          "buy_box_title": "Accessori Essenziali per la Tua VW Tiguan (Mk2/Mk3)",
+          "buy_box_subtitle": "Montaggio e Prestazioni Garantiti",
+          "allowed_guidelines": [
+            "Verificare sempre i numeri di parte rispetto al VIN del veicolo per variazioni specifiche dell'anno del modello.",
+            "Assicurarsi che tutti gli accessori aftermarket soddisfino gli standard di sicurezza ECE o equivalenti.",
+            "Ispezionare regolarmente gli accessori installati per un montaggio sicuro e l'usura."
+          ],
+          "strict_restrictions": [
+            "Non superare la capacità di carico massima del tetto specificata dal produttore di 75 kg (165 lbs).",
+            "Adattatori delle spazzole tergicristallo errati possono portare a scarse prestazioni o danni; confermare il tipo prima dell'acquisto.",
+            "I tappetini per bagagliaio generici potrebbero non fornire una copertura completa o un adattamento adeguato; optare per soluzioni su misura."
+          ],
+          "faqs": [
+            {
+              "q": "Le dimensioni delle spazzole tergicristallo sono le stesse per tutti i modelli Tiguan Mk2 e Mk3?",
+              "a": "Sì, le dimensioni standard delle spazzole tergicristallo anteriori (600mm conducente, 530mm passeggero) sono coerenti nella maggior parte dei modelli Tiguan Mk2 e Mk3. Tuttavia, controllare sempre il manuale del veicolo o le spazzole esistenti per conferma, specialmente per quanto riguarda il tipo di adattatore."
+            },
+            {
+              "q": "Posso installare qualsiasi portapacchi sulle barre del tetto della mia Tiguan?",
+              "a": "Sebbene esistano molti portapacchi universali, è altamente raccomandato utilizzare barre trasversali progettate specificamente per le barre del tetto integrate della Tiguan. Queste garantiscono un montaggio corretto, una distribuzione ottimale del carico e il rispetto del limite di peso di 75 kg (165 lbs)."
+            },
+            {
+              "q": "È davvero necessario un tappetino di protezione per il bagagliaio?",
+              "a": "Un tappetino di protezione per il bagagliaio è altamente raccomandato per salvaguardare la moquette dell'area di carico della tua Tiguan da versamenti, sporco, peli di animali domestici e usura generale, preservando così le condizioni interne del veicolo e il valore di rivendita. Le opzioni su misura offrono la migliore protezione."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "vw-tiguan-mk2-mk3-compatibility-matrix",
+          "title": "フォルクスワーゲン ティグアン (Mk2/Mk3) 互換性および測定マトリックス",
+          "summary": "フォルクスワーゲン ティグアン Mk2 および Mk3 モデル向けの包括的な互換性と正確な測定ガイド。ワイパーブレード、ルーフレール、カーゴプロテクションなどの必須アクセサリーを網羅しています。",
+          "amazon_search_query": "VW ティグアン Mk2 Mk3 ワイパーブレード, ティグアン ルーフラッククロスバー, ティグアン カーゴライナー",
+          "buy_box_title": "VW ティグアン (Mk2/Mk3) の必須アクセサリー",
+          "buy_box_subtitle": "適合性と性能を保証",
+          "allowed_guidelines": [
+            "特定のモデル年式のバリエーションについては、常に車両のVINと部品番号を照合して確認してください。",
+            "すべてのアフターマーケットアクセサリーがECEまたは同等の安全基準を満たしていることを確認してください。",
+            "取り付けられたアクセサリーがしっかりと固定され、摩耗していないか定期的に点検してください。"
+          ],
+          "strict_restrictions": [
+            "メーカーが指定する最大ルーフ積載量75 kg (165 lbs) を超えないでください。",
+            "誤ったワイパーブレードアダプターは性能低下や損傷につながる可能性があります。購入前にタイプを確認してください。",
+            "汎用カーゴライナーは完全なカバーや適切なフィットを提供しない場合があります。カスタムフィットソリューションを選択してください。"
+          ],
+          "faqs": [
+            {
+              "q": "Mk2およびMk3ティグアンのすべてのモデルでワイパーブレードのサイズは同じですか？",
+              "a": "はい、標準のフロントワイパーブレードサイズ（運転席側600mm、助手席側530mm）は、ほとんどのMk2およびMk3ティグアンモデルで一貫しています。ただし、特にアダプターのタイプについては、常に車両のマニュアルまたは既存のブレードを再確認してください。"
+            },
+            {
+              "q": "ティグアンのルーフレールにどのルーフラックでも取り付けられますか？",
+              "a": "多くの汎用ルーフラックが存在しますが、ティグアンの統合ルーフレール用に特別に設計されたクロスバーを使用することを強くお勧めします。これにより、適切なフィット感、最適な荷重配分、および75 kg (165 lbs) の重量制限の遵守が保証されます。"
+            },
+            {
+              "q": "トランクカーゴプロテクターは本当に必要ですか？",
+              "a": "トランクカーゴプロテクターは、ティグアンの荷室カーペットをこぼれ、汚れ、ペットの毛、一般的な摩耗から保護し、車両の内部状態と再販価値を維持するために強く推奨されます。カスタムフィットオプションは最高の保護を提供します。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "vw-tiguan-mk2-mk3-matriz-compatibilidade",
+          "title": "Volkswagen Tiguan (Mk2/Mk3) Matriz de Compatibilidade e Medidas",
+          "summary": "Guia completo de compatibilidade e medidas exatas para os modelos Volkswagen Tiguan Mk2 e Mk3, cobrindo acessórios essenciais como escovas do limpa para-brisas, barras de tejadilho e proteção de carga.",
+          "amazon_search_query": "VW Tiguan Mk2 Mk3 escovas limpa para-brisas, Tiguan barras tejadilho, Tiguan forro bagageira",
+          "buy_box_title": "Acessórios Essenciais para o Seu VW Tiguan (Mk2/Mk3)",
+          "buy_box_subtitle": "Encaixe e Desempenho Garantidos",
+          "allowed_guidelines": [
+            "Verifique sempre os números de peça em relação ao VIN do seu veículo para variações específicas do ano do modelo.",
+            "Certifique-se de que todos os acessórios pós-venda cumprem as normas de segurança ECE ou equivalentes.",
+            "Inspecione regularmente os acessórios instalados para um encaixe seguro e desgaste."
+          ],
+          "strict_restrictions": [
+            "Não exceda a capacidade máxima de carga do tejadilho especificada pelo fabricante de 75 kg (165 lbs).",
+            "Adaptadores de escovas do limpa para-brisas incorretos podem levar a um desempenho deficiente ou danos; confirme o tipo antes da compra.",
+            "Forros de carga genéricos podem não fornecer cobertura total ou encaixe adequado; opte por soluções personalizadas."
+          ],
+          "faqs": [
+            {
+              "q": "Os tamanhos das escovas do limpa para-brisas são os mesmos para todos os modelos Tiguan Mk2 e Mk3?",
+              "a": "Sim, os tamanhos padrão das escovas do limpa para-brisas dianteiras (600mm condutor, 530mm passageiro) são consistentes na maioria dos modelos Tiguan Mk2 e Mk3. No entanto, verifique sempre o manual do seu veículo ou as escovas existentes para confirmação, especialmente em relação ao tipo de adaptador."
+            },
+            {
+              "q": "Posso instalar qualquer bagageiro nas barras de tejadilho do meu Tiguan?",
+              "a": "Embora existam muitos bagageiros universais, é altamente recomendável usar barras transversais especificamente projetadas para as barras de tejadilho integradas do Tiguan. Estas garantem um encaixe adequado, distribuição ótima da carga e adesão ao limite de peso de 75 kg (165 lbs)."
+            },
+            {
+              "q": "Um protetor de bagageira é realmente necessário?",
+              "a": "Um protetor de bagageira é altamente recomendado para proteger o tapete da área de carga do seu Tiguan contra derrames, sujidade, pelos de animais de estimação e desgaste geral, preservando a condição interior do veículo e o valor de revenda. Opções personalizadas oferecem a melhor proteção."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "vw-tiguan-mk2-mk3-compatibiliteitsmatrix",
+          "title": "Volkswagen Tiguan (Mk2/Mk3) Compatibiliteits- & Meetmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetgids voor Volkswagen Tiguan Mk2 en Mk3 modellen, inclusief essentiële accessoires zoals ruitenwisserbladen, dakdragers en kofferbakbescherming.",
+          "amazon_search_query": "VW Tiguan Mk2 Mk3 ruitenwisserbladen, Tiguan dakdragers dwarsstangen, Tiguan kofferbakmat",
+          "buy_box_title": "Essentiële Accessoires voor Uw VW Tiguan (Mk2/Mk3)",
+          "buy_box_subtitle": "Gegarandeerde Pasvorm & Prestaties",
+          "allowed_guidelines": [
+            "Controleer altijd de onderdeelnummers aan de hand van het VIN van uw voertuig voor specifieke modeljaarvariaties.",
+            "Zorg ervoor dat alle aftermarket accessoires voldoen aan de ECE- of gelijkwaardige veiligheidsnormen.",
+            "Inspecteer geïnstalleerde accessoires regelmatig op een veilige pasvorm en slijtage."
+          ],
+          "strict_restrictions": [
+            "Overschrijd de door de fabrikant gespecificeerde maximale dakbelasting van 75 kg (165 lbs) niet.",
+            "Verkeerde ruitenwisserbladadapters kunnen leiden tot slechte prestaties of schade; bevestig het type vóór aankoop.",
+            "Generieke kofferbakmatten bieden mogelijk geen volledige dekking of juiste pasvorm; kies voor op maat gemaakte oplossingen."
+          ],
+          "faqs": [
+            {
+              "q": "Zijn de ruitenwisserbladmaten hetzelfde voor alle Mk2 en Mk3 Tiguan modellen?",
+              "a": "Ja, de standaard maten van de voorruitenwisserbladen (600mm bestuurder, 530mm passagier) zijn consistent voor de meeste Mk2 en Mk3 Tiguan modellen. Controleer echter altijd de handleiding van uw voertuig of de bestaande bladen ter bevestiging, vooral met betrekking tot het adaptertype."
+            },
+            {
+              "q": "Kan ik elke dakdrager op de dakrails van mijn Tiguan installeren?",
+              "a": "Hoewel er veel universele dakdragers bestaan, wordt het sterk aanbevolen om dwarsdragers te gebruiken die specifiek zijn ontworpen voor de geïntegreerde dakrails van de Tiguan. Deze zorgen voor een juiste pasvorm, optimale lastverdeling en naleving van de gewichtslimiet van 75 kg (165 lbs)."
+            },
+            {
+              "q": "Is een kofferbakbeschermer echt nodig?",
+              "a": "Een kofferbakbeschermer wordt sterk aanbevolen om het tapijt van de bagageruimte van uw Tiguan te beschermen tegen morsen, vuil, huisdierharen en algemene slijtage, waardoor de interieurconditie en de inruilwaarde van het voertuig behouden blijven. Op maat gemaakte opties bieden de beste bescherming."
             }
           ]
         }
