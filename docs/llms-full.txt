@@ -741,3 +741,21 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=Peugeot+208+II+e-208+accessories&tag=autocompat-21
 
 ---
+
+## Peugeot 3008 (II & III) (AUTO)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/peugeot-3008-ii-iii-compatibility-matrix.html
+- Summary: Comprehensive compatibility and exact measurement guide for Peugeot 3008 (II & III) models, covering essential accessories like wiper blades, roof rails, and trunk protection.
+
+### Exact Specifications (Dual Units):
+* **Front Wiper Blades (Driver + Passenger)**: Metric: `700 mm + 425 mm` | Imperial: `28 in + 17 in` (Specific for Peugeot 3008 (II & III) models. Ensure correct attachment type (e.g., Push Button 19mm).)
+* **Rear Wiper Blade**: Metric: `300 mm` | Imperial: `12 in` (Specific for Peugeot 3008 (II & III) models.)
+* **Roof Rails Cross Bar Spacing (Recommended)**: Metric: `70 - 90 cm` | Imperial: `27.5 - 35.4 in` (Refers to the adjustable distance between front and rear cross bars on integrated roof rails for optimal load distribution. Max load capacity typically 75 kg (165 lbs).)
+* **Trunk Floor Dimensions (Main Area)**: Metric: `Approx. 88 cm (depth) x 102 cm (width between arches)` | Imperial: `Approx. 34.6 in (depth) x 40.1 in (width between arches)` (These dimensions are for the main load area, suitable for floor protectors. The 3008 features a variable boot floor.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=Peugeot+3008+II+III+accessories&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=Peugeot+3008+II+III+accessories&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=Peugeot+3008+II+III+accessories&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=Peugeot+3008+II+III+accessories&tag=autocompat-21
+
+---

@@ -55,3 +55,4 @@
 - [Volkswagen Tiguan (Mk2/Mk3)](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/vw-tiguan-mk2-mk3-compatibility-matrix.html): Auto | 600 mm + 530 mm / 24 in + 21 in
 - [Ford F-150 (2021-2026)](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/ford-f150-2021-2026-compatibility-matrix.html): Auto | 550 mm + 550 mm / 22 in + 22 in
 - [Peugeot 208 II / e-208](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/peugeot-208-ii-e-208-compatibility-matrix.html): Auto | 650 mm + 400 mm / 26 in + 16 in
+- [Peugeot 3008 (II & III)](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/peugeot-3008-ii-iii-compatibility-matrix.html): Auto | 700 mm + 425 mm / 28 in + 17 in

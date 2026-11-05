@@ -1,75 +1,77 @@
 {
-  "last_updated": "2026-11-05T04:55:37.054903+00:00",
+  "last_updated": "2026-11-05T13:56:23.938894+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "southwest-airlines-baggage-policy",
-    "air-canada",
-    "wizz-air",
-    "latam",
-    "delta",
-    "emirates",
-    "peugeot-208-ii-e-208-compatibility-matrix",
-    "ford-f150-2021-2026-compatibility-matrix",
-    "lufthansa",
-    "tesla-model-3",
-    "vueling",
-    "latam-airlines-baggage-allowance",
-    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
-    "nintendo-switch",
-    "emirates-baggage-allowance",
-    "asus-rog-ally-x",
-    "british-airways",
+    "ryanair-cabin-baggage-dimensions",
+    "peugeot-3008-ii-iii-compatibility-matrix",
+    "american-airlines-compatibility-matrix",
     "samsung-qled",
-    "nintendo-switch-switch-oled-compatibility-matrix",
-    "vw-tiguan",
+    "toyota-rav4-5th-gen-compatibility-matrix",
+    "nintendo-switch",
+    "air-france",
+    "delta-air-lines-compatibility-matrix",
+    "steam-deck-oled",
+    "ford-f150-2021-2026-compatibility-matrix",
+    "lg-oled-c3-c4-vesa-mount-power",
+    "southwest-airlines-baggage-policy",
     "toyota-rav4",
     "qatar-airways-baggage-power-bank-guide",
-    "valve-steam-deck-oled",
-    "samsung-neo-qled-oled-tv-compatibility-matrix",
-    "qantas-carry-on-baggage-allowance",
-    "air-france",
-    "gopro-hero-12-13-black-compatibility-matrix",
-    "volkswagen-golf-8-compatibility-matrix",
-    "lufthansa-airlines-baggage-guide",
-    "united",
-    "dji-mini-4-pro-air-3-compatibility-matrix",
-    "easyjet",
-    "playstation-5-slim-pro-compatibility",
-    "ps5-slim-pro",
-    "ford-f150",
-    "southwest",
+    "asus-rog-ally-x",
     "air-france-baggage-allowance",
-    "xbox-series-x",
-    "tesla-model-y-wipers-roof-trunk-dimensions",
-    "ana-jal",
-    "vw-golf-8",
-    "ana-japan-airlines-carry-on-luggage-compatibility",
-    "toyota-corolla-e210-compatibility-matrix",
-    "sony-bravia",
-    "toyota-corolla",
-    "macbook-pro-m3",
-    "transavia",
-    "peugeot-208",
-    "qatar-airways",
-    "easyjet-baggage-powerbank-guide",
-    "vw-tiguan-mk2-mk3-compatibility-matrix",
     "united-airlines-baggage-lithium-battery-rules",
-    "gopro-12-13",
-    "american-airlines-compatibility-matrix",
-    "steam-deck-oled",
+    "sony-bravia",
+    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
+    "tesla-model-3",
     "transavia-baggage-allowance",
-    "delta-air-lines-compatibility-matrix",
-    "vueling-baggage-allowance",
     "macbook-pro-14-16-m3-m4-compatibility",
-    "xbox-series-x-hardware-compatibility-matrix",
+    "vw-tiguan",
+    "valve-steam-deck-oled",
+    "dji-mini-4-pro-air-3-compatibility-matrix",
+    "lufthansa-airlines-baggage-guide",
+    "wizz-air",
+    "macbook-pro-m3",
+    "ana-jal",
     "dji-mini-air",
-    "ryanair-cabin-baggage-dimensions",
-    "lg-oled-c3-c4-vesa-mount-power",
-    "american",
+    "peugeot-208",
     "tesla-model-3-highland-compatibility-matrix",
+    "ps5-slim-pro",
+    "toyota-corolla",
+    "xbox-series-x-hardware-compatibility-matrix",
+    "emirates-baggage-allowance",
+    "qantas-carry-on-baggage-allowance",
+    "ana-japan-airlines-carry-on-luggage-compatibility",
+    "air-canada",
+    "delta",
+    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "ford-f150",
+    "xbox-series-x",
+    "southwest",
+    "peugeot-208-ii-e-208-compatibility-matrix",
+    "american",
+    "lufthansa",
+    "latam-airlines-baggage-allowance",
+    "nintendo-switch-switch-oled-compatibility-matrix",
+    "gopro-12-13",
+    "playstation-5-slim-pro-compatibility",
+    "transavia",
+    "qatar-airways",
     "qantas",
-    "toyota-rav4-5th-gen-compatibility-matrix"
+    "gopro-hero-12-13-black-compatibility-matrix",
+    "samsung-neo-qled-oled-tv-compatibility-matrix",
+    "volkswagen-golf-8-compatibility-matrix",
+    "vueling-baggage-allowance",
+    "vueling",
+    "toyota-corolla-e210-compatibility-matrix",
+    "easyjet-baggage-powerbank-guide",
+    "british-airways",
+    "vw-tiguan-mk2-mk3-compatibility-matrix",
+    "vw-golf-8",
+    "peugeot-3008",
+    "latam",
+    "united",
+    "emirates",
+    "easyjet"
   ],
   "topics_backlog": [
     {
@@ -16283,6 +16285,380 @@
             {
               "q": "Wat is de minimale speling voor sneeuwsokken op de Peugeot 208 II?",
               "a": "De minimale speling voor sneeuwsokken of sneeuwkettingen is 9 mm (0,35 inch). Controleer altijd de handleiding van uw voertuig voor specifieke bandenmaatcompatibiliteit."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "peugeot-3008",
+      "slug": "peugeot-3008-ii-iii-compatibility-matrix",
+      "subject": "Peugeot 3008 (II & III)",
+      "category": "auto",
+      "spec_rows": [
+        {
+          "item": "Front Wiper Blades (Driver + Passenger)",
+          "metric": "700 mm + 425 mm",
+          "imperial": "28 in + 17 in",
+          "status": "Verified",
+          "note": "Specific for Peugeot 3008 (II & III) models. Ensure correct attachment type (e.g., Push Button 19mm).",
+          "item_translations": {
+            "en": "Front Wiper Blades (Driver + Passenger)",
+            "de": "Vordere Scheibenwischer (Fahrer + Beifahrer)",
+            "fr": "Balais d'essuie-glace avant (Conducteur + Passager)",
+            "es": "Escobillas limpiaparabrisas delanteras (Conductor + Pasajero)",
+            "it": "Spazzole tergicristallo anteriori (Conducente + Passeggero)",
+            "ja": "フロントワイパーブレード（運転席＋助手席）",
+            "pt": "Escovas Limpa Para-brisas Dianteiras (Condutor + Passageiro)",
+            "nl": "Voorruitwisserbladen (Bestuurder + Passagier)"
+          },
+          "note_translations": {
+            "en": "Specific for Peugeot 3008 (II & III) models. Ensure correct attachment type (e.g., Push Button 19mm).",
+            "de": "Spezifisch für Peugeot 3008 (II & III) Modelle. Stellen Sie den korrekten Befestigungstyp sicher (z.B. Push Button 19mm).",
+            "fr": "Spécifique aux modèles Peugeot 3008 (II & III). Assurez-vous du type de fixation correct (ex: Push Button 19mm).",
+            "es": "Específico para modelos Peugeot 3008 (II y III). Asegúrese del tipo de fijación correcto (ej. Push Button 19mm).",
+            "it": "Specifico per i modelli Peugeot 3008 (II e III). Assicurarsi del tipo di attacco corretto (es. Push Button 19mm).",
+            "ja": "プジョー3008（IIおよびIII）モデルに特化。正しい取り付けタイプ（例：プッシュボタン19mm）を確認してください。",
+            "pt": "Específico para modelos Peugeot 3008 (II e III). Garanta o tipo de fixação correto (ex: Push Button 19mm).",
+            "nl": "Specifiek voor Peugeot 3008 (II & III) modellen. Zorg voor het juiste bevestigingstype (bijv. Push Button 19mm)."
+          }
+        },
+        {
+          "item": "Rear Wiper Blade",
+          "metric": "300 mm",
+          "imperial": "12 in",
+          "status": "Verified",
+          "note": "Specific for Peugeot 3008 (II & III) models.",
+          "item_translations": {
+            "en": "Rear Wiper Blade",
+            "de": "Heckscheibenwischer",
+            "fr": "Balai d'essuie-glace arrière",
+            "es": "Escobilla limpiaparabrisas trasera",
+            "it": "Spazzola tergicristallo posteriore",
+            "ja": "リアワイパーブレード",
+            "pt": "Escova Limpa Para-brisas Traseira",
+            "nl": "Achterruitwisserblad"
+          },
+          "note_translations": {
+            "en": "Specific for Peugeot 3008 (II & III) models.",
+            "de": "Spezifisch für Peugeot 3008 (II & III) Modelle.",
+            "fr": "Spécifique aux modèles Peugeot 3008 (II & III).",
+            "es": "Específico para modelos Peugeot 3008 (II y III).",
+            "it": "Specifico per i modelli Peugeot 3008 (II e III).",
+            "ja": "プジョー3008（IIおよびIII）モデルに特化。",
+            "pt": "Específico para modelos Peugeot 3008 (II e III).",
+            "nl": "Specifiek voor Peugeot 3008 (II & III) modellen."
+          }
+        },
+        {
+          "item": "Roof Rails Cross Bar Spacing (Recommended)",
+          "metric": "70 - 90 cm",
+          "imperial": "27.5 - 35.4 in",
+          "status": "Verified",
+          "note": "Refers to the adjustable distance between front and rear cross bars on integrated roof rails for optimal load distribution. Max load capacity typically 75 kg (165 lbs).",
+          "item_translations": {
+            "en": "Roof Rails Cross Bar Spacing (Recommended)",
+            "de": "Dachreling Querträgerabstand (Empfohlen)",
+            "fr": "Espacement des barres de toit (Recommandé)",
+            "es": "Espaciado de barras transversales de techo (Recomendado)",
+            "it": "Distanza tra le barre trasversali del tetto (Raccomandata)",
+            "ja": "ルーフレールクロスバー間隔（推奨）",
+            "pt": "Espaçamento das Barras Transversais do Tejadilho (Recomendado)",
+            "nl": "Dakdrager dwarsbalkafstand (Aanbevolen)"
+          },
+          "note_translations": {
+            "en": "Refers to the adjustable distance between front and rear cross bars on integrated roof rails for optimal load distribution. Max load capacity typically 75 kg (165 lbs).",
+            "de": "Bezieht sich auf den einstellbaren Abstand zwischen vorderen und hinteren Querträgern auf integrierten Dachrelings für optimale Lastverteilung. Max. Tragfähigkeit typischerweise 75 kg (165 lbs).",
+            "fr": "Désigne la distance réglable entre les barres transversales avant et arrière sur les barres de toit intégrées pour une répartition optimale de la charge. Capacité de charge maximale généralement 75 kg (165 lbs).",
+            "es": "Se refiere a la distancia ajustable entre las barras transversales delanteras y traseras en los rieles de techo integrados para una distribución óptima de la carga. La capacidad de carga máxima es típicamente de 75 kg (165 lbs).",
+            "it": "Si riferisce alla distanza regolabile tra le barre trasversali anteriori e posteriori sui mancorrenti integrati per una distribuzione ottimale del carico. La capacità di carico massima è tipicamente di 75 kg (165 lbs).",
+            "ja": "統合型ルーフレール上の前後クロスバー間の調整可能な距離を指し、最適な荷重配分を実現します。最大積載量は通常75 kg（165ポンド）です。",
+            "pt": "Refere-se à distância ajustável entre as barras transversais dianteiras e traseiras em barras de tejadilho integradas para uma distribuição ótima da carga. Capacidade de carga máxima tipicamente 75 kg (165 lbs).",
+            "nl": "Verwijst naar de verstelbare afstand tussen voorste en achterste dwarsbalken op geïntegreerde dakrails voor optimale lastverdeling. Max. draagvermogen typisch 75 kg (165 lbs)."
+          }
+        },
+        {
+          "item": "Trunk Floor Dimensions (Main Area)",
+          "metric": "Approx. 88 cm (depth) x 102 cm (width between arches)",
+          "imperial": "Approx. 34.6 in (depth) x 40.1 in (width between arches)",
+          "status": "Verified",
+          "note": "These dimensions are for the main load area, suitable for floor protectors. The 3008 features a variable boot floor.",
+          "item_translations": {
+            "en": "Trunk Floor Dimensions (Main Area)",
+            "de": "Kofferraumbodenabmessungen (Hauptbereich)",
+            "fr": "Dimensions du plancher de coffre (Zone principale)",
+            "es": "Dimensiones del suelo del maletero (Área principal)",
+            "it": "Dimensioni del pianale del bagagliaio (Area principale)",
+            "ja": "トランクフロア寸法（主要エリア）",
+            "pt": "Dimensões do Piso da Bagageira (Área Principal)",
+            "nl": "Kofferbakbodemafmetingen (Hoofdgebied)"
+          },
+          "note_translations": {
+            "en": "These dimensions are for the main load area, suitable for floor protectors. The 3008 features a variable boot floor.",
+            "de": "Diese Abmessungen gelten für den Hauptladebereich, geeignet für Bodenschutzmatten. Der 3008 verfügt über einen variablen Kofferraumboden.",
+            "fr": "Ces dimensions concernent la zone de chargement principale, adaptée aux protections de plancher. Le 3008 dispose d'un plancher de coffre modulable.",
+            "es": "Estas dimensiones son para el área de carga principal, adecuadas para protectores de suelo. El 3008 cuenta con un suelo de maletero variable.",
+            "it": "Queste dimensioni sono per l'area di carico principale, adatte per protezioni del pianale. Il 3008 è dotato di un pianale del bagagliaio variabile.",
+            "ja": "これらの寸法は、フロアプロテクターに適した主要な積載エリア用です。3008には可変式トランクフロアが備わっています。",
+            "pt": "Estas dimensões são para a área de carga principal, adequadas para protetores de piso. O 3008 possui um piso de bagageira variável.",
+            "nl": "Deze afmetingen zijn voor het hoofdlaadgebied, geschikt voor vloerbeschermers. De 3008 beschikt over een variabele kofferbakbodem."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "peugeot-3008-ii-iii-compatibility-matrix",
+          "title": "Peugeot 3008 (II & III) Compatibility & Measurement Matrix",
+          "summary": "Comprehensive compatibility and exact measurement guide for Peugeot 3008 (II & III) models, covering essential accessories like wiper blades, roof rails, and trunk protection.",
+          "amazon_search_query": "Peugeot 3008 II III accessories",
+          "buy_box_title": "Essential Accessories for Your Peugeot 3008 (II & III)",
+          "buy_box_subtitle": "Ensure perfect fit and optimal performance with verified specifications.",
+          "allowed_guidelines": [
+            "Always verify the specific year and trim level of your Peugeot 3008 (II or III) as minor variations may exist.",
+            "For roof rails, ensure cross bars are compatible with integrated flush rails and respect the maximum load capacity.",
+            "When purchasing trunk protectors, consider the variable boot floor feature of the 3008 for optimal fit."
+          ],
+          "strict_restrictions": [
+            "Wiper blade attachment types must match the vehicle's original equipment (e.g., Push Button 19mm).",
+            "Do not exceed the manufacturer's recommended maximum roof load capacity (typically 75 kg / 165 lbs).",
+            "Avoid using universal-fit trunk liners that do not account for the specific contours and dual-floor system of the 3008."
+          ],
+          "faqs": [
+            {
+              "q": "What are the correct front wiper blade sizes for the Peugeot 3008 (II & III)?",
+              "a": "The correct front wiper blade sizes are 700mm (28 inches) for the driver's side and 425mm (17 inches) for the passenger's side. Always check the attachment type."
+            },
+            {
+              "q": "Can I install roof bars on my Peugeot 3008 (II & III)?",
+              "a": "Yes, the Peugeot 3008 (II & III) is equipped with integrated flush roof rails, allowing for the installation of compatible cross bars. Ensure the bars are designed for flush rails and respect the recommended spacing and load limits."
+            },
+            {
+              "q": "What are the dimensions of the trunk floor for a protector?",
+              "a": "The main trunk floor dimensions are approximately 88 cm (34.6 inches) in depth and 102 cm (40.1 inches) in width between the wheel arches. The 3008 features a variable boot floor, so ensure any protector accommodates this."
+            }
+          ]
+        },
+        "de": {
+          "slug": "peugeot-3008-ii-iii-kompatibilitaetsmatrix",
+          "title": "Peugeot 3008 (II & III) Kompatibilitäts- und Messmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messanleitung für Peugeot 3008 (II & III) Modelle, die wichtige Zubehörteile wie Scheibenwischer, Dachreling und Kofferraumschutz abdeckt.",
+          "amazon_search_query": "Peugeot 3008 II III Zubehör",
+          "buy_box_title": "Wesentliches Zubehör für Ihren Peugeot 3008 (II & III)",
+          "buy_box_subtitle": "Sorgen Sie für perfekte Passform und optimale Leistung mit verifizierten Spezifikationen.",
+          "allowed_guidelines": [
+            "Überprüfen Sie immer das spezifische Baujahr und die Ausstattungsvariante Ihres Peugeot 3008 (II oder III), da geringfügige Abweichungen auftreten können.",
+            "Stellen Sie bei Dachrelings sicher, dass die Querträger mit integrierten bündigen Relings kompatibel sind und die maximale Tragfähigkeit eingehalten wird.",
+            "Berücksichtigen Sie beim Kauf von Kofferraumschutzmatten die variable Kofferraumbodenfunktion des 3008 für eine optimale Passform."
+          ],
+          "strict_restrictions": [
+            "Die Befestigungsarten der Scheibenwischer müssen der Originalausstattung des Fahrzeugs entsprechen (z.B. Push Button 19mm).",
+            "Überschreiten Sie nicht die vom Hersteller empfohlene maximale Dachlast (typischerweise 75 kg / 165 lbs).",
+            "Vermeiden Sie die Verwendung von universellen Kofferraumauskleidungen, die die spezifischen Konturen und das Dual-Floor-System des 3008 nicht berücksichtigen."
+          ],
+          "faqs": [
+            {
+              "q": "Welche sind die richtigen Größen für die vorderen Scheibenwischer des Peugeot 3008 (II & III)?",
+              "a": "Die richtigen Größen für die vorderen Scheibenwischer sind 700mm (28 Zoll) für die Fahrerseite und 425mm (17 Zoll) für die Beifahrerseite. Überprüfen Sie immer den Befestigungstyp."
+            },
+            {
+              "q": "Kann ich Dachgepäckträger an meinem Peugeot 3008 (II & III) installieren?",
+              "a": "Ja, der Peugeot 3008 (II & III) ist mit integrierten bündigen Dachrelings ausgestattet, die die Installation kompatibler Querträger ermöglichen. Stellen Sie sicher, dass die Träger für bündige Relings ausgelegt sind und die empfohlenen Abstände und Lastgrenzen eingehalten werden."
+            },
+            {
+              "q": "Welche Abmessungen hat der Kofferraumboden für eine Schutzmatte?",
+              "a": "Die Hauptabmessungen des Kofferraumbodens betragen ungefähr 88 cm (34,6 Zoll) in der Tiefe und 102 cm (40,1 Zoll) in der Breite zwischen den Radkästen. Der 3008 verfügt über einen variablen Kofferraumboden, stellen Sie also sicher, dass jede Schutzmatte dies berücksichtigt."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "peugeot-3008-ii-iii-matrice-compatibilite",
+          "title": "Matrice de Compatibilité et de Mesures Peugeot 3008 (II & III)",
+          "summary": "Guide complet de compatibilité et de mesures exactes pour les modèles Peugeot 3008 (II & III), couvrant les accessoires essentiels tels que les balais d'essuie-glace, les barres de toit et la protection de coffre.",
+          "amazon_search_query": "accessoires Peugeot 3008 II III",
+          "buy_box_title": "Accessoires Essentiels pour Votre Peugeot 3008 (II & III)",
+          "buy_box_subtitle": "Assurez un ajustement parfait et des performances optimales avec des spécifications vérifiées.",
+          "allowed_guidelines": [
+            "Vérifiez toujours l'année spécifique et le niveau de finition de votre Peugeot 3008 (II ou III), car de légères variations peuvent exister.",
+            "Pour les barres de toit, assurez-vous que les barres transversales sont compatibles avec les rails de toit intégrés affleurants et respectez la capacité de charge maximale.",
+            "Lors de l'achat de protections de coffre, tenez compte de la fonction de plancher de coffre variable du 3008 pour un ajustement optimal."
+          ],
+          "strict_restrictions": [
+            "Les types de fixation des balais d'essuie-glace doivent correspondre à l'équipement d'origine du véhicule (ex: Push Button 19mm).",
+            "Ne dépassez pas la capacité de charge maximale de toit recommandée par le fabricant (généralement 75 kg / 165 lbs).",
+            "Évitez d'utiliser des tapis de coffre universels qui ne tiennent pas compte des contours spécifiques et du système de double plancher du 3008."
+          ],
+          "faqs": [
+            {
+              "q": "Quelles sont les tailles correctes des balais d'essuie-glace avant pour le Peugeot 3008 (II & III)?",
+              "a": "Les tailles correctes des balais d'essuie-glace avant sont 700mm (28 pouces) pour le côté conducteur et 425mm (17 pouces) pour le côté passager. Vérifiez toujours le type de fixation."
+            },
+            {
+              "q": "Puis-je installer des barres de toit sur mon Peugeot 3008 (II & III)?",
+              "a": "Oui, le Peugeot 3008 (II & III) est équipé de rails de toit intégrés affleurants, permettant l'installation de barres transversales compatibles. Assurez-vous que les barres sont conçues pour les rails affleurants et respectez l'espacement recommandé et les limites de charge."
+            },
+            {
+              "q": "Quelles sont les dimensions du plancher de coffre pour une protection?",
+              "a": "Les dimensions principales du plancher de coffre sont d'environ 88 cm (34,6 pouces) de profondeur et 102 cm (40,1 pouces) de largeur entre les passages de roue. Le 3008 dispose d'un plancher de coffre modulable, assurez-vous donc que toute protection en tient compte."
+            }
+          ]
+        },
+        "es": {
+          "slug": "peugeot-3008-ii-iii-matriz-compatibilidad",
+          "title": "Matriz de Compatibilidad y Medidas Peugeot 3008 (II y III)",
+          "summary": "Guía completa de compatibilidad y medidas exactas para los modelos Peugeot 3008 (II y III), que cubre accesorios esenciales como escobillas limpiaparabrisas, barras de techo y protección de maletero.",
+          "amazon_search_query": "accesorios Peugeot 3008 II III",
+          "buy_box_title": "Accesorios Esenciales para Su Peugeot 3008 (II y III)",
+          "buy_box_subtitle": "Asegure un ajuste perfecto y un rendimiento óptimo con especificaciones verificadas.",
+          "allowed_guidelines": [
+            "Verifique siempre el año específico y el nivel de acabado de su Peugeot 3008 (II o III), ya que pueden existir pequeñas variaciones.",
+            "Para las barras de techo, asegúrese de que las barras transversales sean compatibles con los rieles de techo integrados y respete la capacidad de carga máxima.",
+            "Al comprar protectores de maletero, considere la función de piso de maletero variable del 3008 para un ajuste óptimo."
+          ],
+          "strict_restrictions": [
+            "Los tipos de fijación de las escobillas limpiaparabrisas deben coincidir con el equipo original del vehículo (ej. Push Button 19mm).",
+            "No exceda la capacidad de carga máxima del techo recomendada por el fabricante (típicamente 75 kg / 165 lbs).",
+            "Evite el uso de revestimientos de maletero de ajuste universal que no tengan en cuenta los contornos específicos y el sistema de doble piso del 3008."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuáles son los tamaños correctos de las escobillas limpiaparabrisas delanteras para el Peugeot 3008 (II y III)?",
+              "a": "Los tamaños correctos de las escobillas limpiaparabrisas delanteras son 700mm (28 pulgadas) para el lado del conductor y 425mm (17 pulgadas) para el lado del pasajero. Siempre verifique el tipo de fijación."
+            },
+            {
+              "q": "¿Puedo instalar barras de techo en mi Peugeot 3008 (II y III)?",
+              "a": "Sí, el Peugeot 3008 (II y III) está equipado con rieles de techo integrados, lo que permite la instalación de barras transversales compatibles. Asegúrese de que las barras estén diseñadas para rieles integrados y respete el espaciado recomendado y los límites de carga."
+            },
+            {
+              "q": "¿Cuáles son las dimensiones del suelo del maletero para un protector?",
+              "a": "Las dimensiones principales del suelo del maletero son aproximadamente 88 cm (34,6 pulgadas) de profundidad y 102 cm (40,1 pulgadas) de ancho entre los pasos de rueda. El 3008 cuenta con un suelo de maletero variable, así que asegúrese de que cualquier protector lo tenga en cuenta."
+            }
+          ]
+        },
+        "it": {
+          "slug": "peugeot-3008-ii-iii-matrice-compatibilita",
+          "title": "Matrice di Compatibilità e Misurazioni Peugeot 3008 (II e III)",
+          "summary": "Guida completa di compatibilità e misurazioni esatte per i modelli Peugeot 3008 (II e III), che copre accessori essenziali come spazzole tergicristallo, barre portatutto e protezione del bagagliaio.",
+          "amazon_search_query": "accessori Peugeot 3008 II III",
+          "buy_box_title": "Accessori Essenziali per la Tua Peugeot 3008 (II e III)",
+          "buy_box_subtitle": "Assicura una vestibilità perfetta e prestazioni ottimali con specifiche verificate.",
+          "allowed_guidelines": [
+            "Verificare sempre l'anno specifico e il livello di allestimento della propria Peugeot 3008 (II o III), poiché potrebbero esserci piccole variazioni.",
+            "Per le barre portatutto, assicurarsi che le barre trasversali siano compatibili con i mancorrenti integrati a filo e rispettare la capacità di carico massima.",
+            "Quando si acquistano protezioni per il bagagliaio, considerare la funzione del pianale del bagagliaio variabile del 3008 per una vestibilità ottimale."
+          ],
+          "strict_restrictions": [
+            "I tipi di attacco delle spazzole tergicristallo devono corrispondere all'equipaggiamento originale del veicolo (es. Push Button 19mm).",
+            "Non superare la capacità di carico massima del tetto raccomandata dal produttore (tipicamente 75 kg / 165 lbs).",
+            "Evitare l'uso di tappetini universali per il bagagliaio che non tengano conto dei contorni specifici e del sistema a doppio pianale del 3008."
+          ],
+          "faqs": [
+            {
+              "q": "Quali sono le dimensioni corrette delle spazzole tergicristallo anteriori per la Peugeot 3008 (II e III)?",
+              "a": "Le dimensioni corrette delle spazzole tergicristallo anteriori sono 700mm (28 pollici) per il lato conducente e 425mm (17 pollici) per il lato passeggero. Controllare sempre il tipo di attacco."
+            },
+            {
+              "q": "Posso installare le barre portatutto sulla mia Peugeot 3008 (II e III)?",
+              "a": "Sì, la Peugeot 3008 (II e III) è dotata di mancorrenti integrati a filo, che consentono l'installazione di barre trasversali compatibili. Assicurarsi che le barre siano progettate per mancorrenti a filo e rispettare la distanza raccomandata e i limiti di carico."
+            },
+            {
+              "q": "Quali sono le dimensioni del pianale del bagagliaio per una protezione?",
+              "a": "Le dimensioni principali del pianale del bagagliaio sono circa 88 cm (34,6 pollici) di profondità e 102 cm (40,1 pollici) di larghezza tra i passaruota. La 3008 è dotata di un pianale del bagagliaio variabile, quindi assicurarsi che qualsiasi protezione ne tenga conto."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "プジョー3008-ii-iii-互換性マトリックス",
+          "title": "プジョー3008（IIおよびIII）互換性および測定マトリックス",
+          "summary": "プジョー3008（IIおよびIII）モデル向けの包括的な互換性および正確な測定ガイド。ワイパーブレード、ルーフレール、トランク保護などの必須アクセサリーを網羅しています。",
+          "amazon_search_query": "プジョー3008 II III アクセサリー",
+          "buy_box_title": "プジョー3008（IIおよびIII）の必須アクセサリー",
+          "buy_box_subtitle": "検証済みの仕様で完璧なフィット感と最適なパフォーマンスを確保します。",
+          "allowed_guidelines": [
+            "プジョー3008（IIまたはIII）の特定の年式とトリムレベルを常に確認してください。わずかな違いがある場合があります。",
+            "ルーフレールの場合、クロスバーが統合されたフラッシュレールと互換性があり、最大積載量を守っていることを確認してください。",
+            "トランクプロテクターを購入する際は、最適なフィット感のために3008の可変式トランクフロア機能を考慮してください。"
+          ],
+          "strict_restrictions": [
+            "ワイパーブレードの取り付けタイプは、車両の純正装備（例：プッシュボタン19mm）と一致している必要があります。",
+            "メーカーが推奨する最大ルーフ積載量（通常75 kg / 165 lbs）を超えないでください。",
+            "3008の特定の輪郭とデュアルフロアシステムを考慮しない汎用フィットのトランクライナーの使用は避けてください。"
+          ],
+          "faqs": [
+            {
+              "q": "プジョー3008（IIおよびIII）の正しいフロントワイパーブレードのサイズは何ですか？",
+              "a": "正しいフロントワイパーブレードのサイズは、運転席側が700mm（28インチ）、助手席側が425mm（17インチ）です。常に取り付けタイプを確認してください。"
+            },
+            {
+              "q": "プジョー3008（IIおよびIII）にルーフレールを取り付けることはできますか？",
+              "a": "はい、プジョー3008（IIおよびIII）には統合されたフラッシュルーフレールが装備されており、互換性のあるクロスバーの取り付けが可能です。バーがフラッシュレール用に設計されており、推奨される間隔と積載制限を遵守していることを確認してください。"
+            },
+            {
+              "q": "プロテクター用のトランクフロアの寸法は何ですか？",
+              "a": "主要なトランクフロアの寸法は、深さが約88 cm（34.6インチ）、ホイールアーチ間の幅が約102 cm（40.1インチ）です。3008には可変式トランクフロアが備わっているため、プロテクターがこれを考慮していることを確認してください。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "peugeot-3008-ii-iii-matriz-compatibilidade",
+          "title": "Matriz de Compatibilidade e Medidas Peugeot 3008 (II e III)",
+          "summary": "Guia completo de compatibilidade e medidas exatas para os modelos Peugeot 3008 (II e III), cobrindo acessórios essenciais como escovas limpa para-brisas, barras de tejadilho e proteção de bagageira.",
+          "amazon_search_query": "acessórios Peugeot 3008 II III",
+          "buy_box_title": "Acessórios Essenciais para o Seu Peugeot 3008 (II e III)",
+          "buy_box_subtitle": "Garanta um ajuste perfeito e desempenho ideal com especificações verificadas.",
+          "allowed_guidelines": [
+            "Verifique sempre o ano específico e o nível de acabamento do seu Peugeot 3008 (II ou III), pois pequenas variações podem existir.",
+            "Para barras de tejadilho, certifique-se de que as barras transversais são compatíveis com os trilhos de tejadilho integrados e respeite a capacidade de carga máxima.",
+            "Ao comprar protetores de bagageira, considere a funcionalidade do piso variável da bagageira do 3008 para um ajuste ideal."
+          ],
+          "strict_restrictions": [
+            "Os tipos de fixação das escovas limpa para-brisas devem corresponder ao equipamento original do veículo (ex: Push Button 19mm).",
+            "Não exceda a capacidade máxima de carga do tejadilho recomendada pelo fabricante (tipicamente 75 kg / 165 lbs).",
+            "Evite usar revestimentos de bagageira de ajuste universal que não considerem os contornos específicos e o sistema de piso duplo do 3008."
+          ],
+          "faqs": [
+            {
+              "q": "Quais são os tamanhos corretos das escovas limpa para-brisas dianteiras para o Peugeot 3008 (II e III)?",
+              "a": "Os tamanhos corretos das escovas limpa para-brisas dianteiras são 700mm (28 polegadas) para o lado do condutor e 425mm (17 polegadas) para o lado do passageiro. Verifique sempre o tipo de fixação."
+            },
+            {
+              "q": "Posso instalar barras de tejadilho no meu Peugeot 3008 (II e III)?",
+              "a": "Sim, o Peugeot 3008 (II e III) está equipado com trilhos de tejadilho integrados, permitindo a instalação de barras transversais compatíveis. Certifique-se de que as barras são projetadas para trilhos integrados e respeite o espaçamento recomendado e os limites de carga."
+            },
+            {
+              "q": "Quais são as dimensões do piso da bagageira para um protetor?",
+              "a": "As dimensões principais do piso da bagageira são aproximadamente 88 cm (34,6 polegadas) de profundidade e 102 cm (40.1 polegadas) de largura entre as cavas das rodas. O 3008 possui um piso de bagageira variável, portanto, certifique-se de que qualquer protetor leve isso em consideração."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "peugeot-3008-ii-iii-compatibiliteitsmatrix",
+          "title": "Peugeot 3008 (II & III) Compatibiliteits- en Meetmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetgids voor Peugeot 3008 (II & III) modellen, met essentiële accessoires zoals ruitenwisserbladen, dakdragers en kofferbakbescherming.",
+          "amazon_search_query": "Peugeot 3008 II III accessoires",
+          "buy_box_title": "Essentiële Accessoires voor Uw Peugeot 3008 (II & III)",
+          "buy_box_subtitle": "Zorg voor een perfecte pasvorm en optimale prestaties met geverifieerde specificaties.",
+          "allowed_guidelines": [
+            "Controleer altijd het specifieke bouwjaar en uitrustingsniveau van uw Peugeot 3008 (II of III), aangezien er kleine variaties kunnen bestaan.",
+            "Zorg er voor dakdragers voor dat de dwarsbalken compatibel zijn met geïntegreerde flush rails en respecteer het maximale laadvermogen.",
+            "Houd bij de aankoop van kofferbakbeschermers rekening met de variabele kofferbakbodemfunctie van de 3008 voor een optimale pasvorm."
+          ],
+          "strict_restrictions": [
+            "De bevestigingstypes van de ruitenwisserbladen moeten overeenkomen met de originele uitrusting van het voertuig (bijv. Push Button 19mm).",
+            "Overschrijd het door de fabrikant aanbevolen maximale daklaadvermogen niet (doorgaans 75 kg / 165 lbs).",
+            "Vermijd het gebruik van universele kofferbakmatten die geen rekening houden met de specifieke contouren en het dubbele vloersysteem van de 3008."
+          ],
+          "faqs": [
+            {
+              "q": "Wat zijn de juiste maten voor de voorruitwisserbladen van de Peugeot 3008 (II & III)?",
+              "a": "De juiste maten voor de voorruitwisserbladen zijn 700mm (28 inch) voor de bestuurderszijde en 425mm (17 inch) voor de passagierszijde. Controleer altijd het bevestigingstype."
+            },
+            {
+              "q": "Kan ik dakdragers installeren op mijn Peugeot 3008 (II & III)?",
+              "a": "Ja, de Peugeot 3008 (II & III) is uitgerust met geïntegreerde flush dakrails, waardoor de installatie van compatibele dwarsbalken mogelijk is. Zorg ervoor dat de balken zijn ontworpen voor flush rails en respecteer de aanbevolen afstand en laadlimieten."
+            },
+            {
+              "q": "Wat zijn de afmetingen van de kofferbakbodem voor een beschermer?",
+              "a": "De belangrijkste afmetingen van de kofferbakbodem zijn ongeveer 88 cm (34,6 inch) diepte en 102 cm (40,1 inch) breedte tussen de wielkasten. De 3008 beschikt over een variabele kofferbakbodem, dus zorg ervoor dat elke beschermer hiermee rekening houdt."
             }
           ]
         }
