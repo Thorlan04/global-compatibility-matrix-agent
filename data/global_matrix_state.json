@@ -1,73 +1,75 @@
 {
-  "last_updated": "2026-11-04T23:10:08.376051+00:00",
+  "last_updated": "2026-11-05T04:55:37.054903+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "gopro-12-13",
-    "vueling",
-    "vw-golf-8",
-    "steam-deck-oled",
-    "xbox-series-x",
-    "ford-f150",
-    "transavia-baggage-allowance",
-    "vw-tiguan",
-    "air-france",
-    "toyota-rav4",
-    "ana-japan-airlines-carry-on-luggage-compatibility",
-    "delta",
-    "ps5-slim-pro",
-    "lg-oled-c3-c4-vesa-mount-power",
-    "toyota-rav4-5th-gen-compatibility-matrix",
-    "british-airways",
-    "toyota-corolla",
-    "emirates-baggage-allowance",
-    "dji-mini-air",
-    "vw-tiguan-mk2-mk3-compatibility-matrix",
-    "american-airlines-compatibility-matrix",
-    "samsung-qled",
-    "united",
-    "tesla-model-y-wipers-roof-trunk-dimensions",
-    "latam-airlines-baggage-allowance",
-    "lufthansa-airlines-baggage-guide",
-    "qatar-airways-baggage-power-bank-guide",
-    "macbook-pro-14-16-m3-m4-compatibility",
-    "macbook-pro-m3",
-    "xbox-series-x-hardware-compatibility-matrix",
-    "emirates",
-    "easyjet-baggage-powerbank-guide",
-    "toyota-corolla-e210-compatibility-matrix",
-    "dji-mini-4-pro-air-3-compatibility-matrix",
-    "qatar-airways",
-    "easyjet",
-    "air-canada",
-    "nintendo-switch-switch-oled-compatibility-matrix",
-    "asus-rog-ally-x",
-    "southwest",
-    "delta-air-lines-compatibility-matrix",
-    "playstation-5-slim-pro-compatibility",
-    "volkswagen-golf-8-compatibility-matrix",
-    "united-airlines-baggage-lithium-battery-rules",
-    "ford-f150-2021-2026-compatibility-matrix",
     "southwest-airlines-baggage-policy",
+    "air-canada",
     "wizz-air",
-    "american",
-    "air-france-baggage-allowance",
-    "valve-steam-deck-oled",
-    "gopro-hero-12-13-black-compatibility-matrix",
-    "tesla-model-3-highland-compatibility-matrix",
-    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
-    "tesla-model-3",
-    "vueling-baggage-allowance",
-    "samsung-neo-qled-oled-tv-compatibility-matrix",
     "latam",
-    "sony-bravia",
-    "ana-jal",
-    "ryanair-cabin-baggage-dimensions",
-    "transavia",
-    "qantas",
+    "delta",
+    "emirates",
+    "peugeot-208-ii-e-208-compatibility-matrix",
+    "ford-f150-2021-2026-compatibility-matrix",
     "lufthansa",
+    "tesla-model-3",
+    "vueling",
+    "latam-airlines-baggage-allowance",
+    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
     "nintendo-switch",
-    "qantas-carry-on-baggage-allowance"
+    "emirates-baggage-allowance",
+    "asus-rog-ally-x",
+    "british-airways",
+    "samsung-qled",
+    "nintendo-switch-switch-oled-compatibility-matrix",
+    "vw-tiguan",
+    "toyota-rav4",
+    "qatar-airways-baggage-power-bank-guide",
+    "valve-steam-deck-oled",
+    "samsung-neo-qled-oled-tv-compatibility-matrix",
+    "qantas-carry-on-baggage-allowance",
+    "air-france",
+    "gopro-hero-12-13-black-compatibility-matrix",
+    "volkswagen-golf-8-compatibility-matrix",
+    "lufthansa-airlines-baggage-guide",
+    "united",
+    "dji-mini-4-pro-air-3-compatibility-matrix",
+    "easyjet",
+    "playstation-5-slim-pro-compatibility",
+    "ps5-slim-pro",
+    "ford-f150",
+    "southwest",
+    "air-france-baggage-allowance",
+    "xbox-series-x",
+    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "ana-jal",
+    "vw-golf-8",
+    "ana-japan-airlines-carry-on-luggage-compatibility",
+    "toyota-corolla-e210-compatibility-matrix",
+    "sony-bravia",
+    "toyota-corolla",
+    "macbook-pro-m3",
+    "transavia",
+    "peugeot-208",
+    "qatar-airways",
+    "easyjet-baggage-powerbank-guide",
+    "vw-tiguan-mk2-mk3-compatibility-matrix",
+    "united-airlines-baggage-lithium-battery-rules",
+    "gopro-12-13",
+    "american-airlines-compatibility-matrix",
+    "steam-deck-oled",
+    "transavia-baggage-allowance",
+    "delta-air-lines-compatibility-matrix",
+    "vueling-baggage-allowance",
+    "macbook-pro-14-16-m3-m4-compatibility",
+    "xbox-series-x-hardware-compatibility-matrix",
+    "dji-mini-air",
+    "ryanair-cabin-baggage-dimensions",
+    "lg-oled-c3-c4-vesa-mount-power",
+    "american",
+    "tesla-model-3-highland-compatibility-matrix",
+    "qantas",
+    "toyota-rav4-5th-gen-compatibility-matrix"
   ],
   "topics_backlog": [
     {
@@ -15907,6 +15909,380 @@
             {
               "q": "Wat is de standaardmaat van de trekhaakontvanger voor de F-150 (2021-2026)?",
               "a": "De standaardmaat van de trekhaakontvanger is 2 inch (5,08 cm), compatibel met de meeste trekaccessoires van klasse IV/V."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "peugeot-208-ii-e-208",
+      "slug": "peugeot-208-ii-e-208-compatibility-matrix",
+      "subject": "Peugeot 208 II / e-208",
+      "category": "auto",
+      "spec_rows": [
+        {
+          "item": "Front Wiper Blades",
+          "metric": "650 mm + 400 mm",
+          "imperial": "26 in + 16 in",
+          "status": "Verified",
+          "note": "Specific flat blade design for optimal performance.",
+          "item_translations": {
+            "en": "Front Wiper Blades",
+            "de": "Vordere Scheibenwischerblätter",
+            "fr": "Balais d'essuie-glace avant",
+            "es": "Escobillas limpiaparabrisas delanteras",
+            "it": "Spazzole tergicristallo anteriori",
+            "ja": "フロントワイパーブレード",
+            "pt": "Palhetas do limpador de para-brisa dianteiro",
+            "nl": "Voorruitwisserbladen"
+          },
+          "note_translations": {
+            "en": "Specific flat blade design for optimal performance.",
+            "de": "Spezifisches Flachblatt-Design für optimale Leistung.",
+            "fr": "Conception spécifique à lame plate pour des performances optimales.",
+            "es": "Diseño específico de hoja plana para un rendimiento óptimo.",
+            "it": "Design specifico a lama piatta per prestazioni ottimali.",
+            "ja": "最適な性能のための特定のフラットブレード設計。",
+            "pt": "Design específico de lâmina plana para desempenho ideal.",
+            "nl": "Specifiek plat bladdesign voor optimale prestaties."
+          }
+        },
+        {
+          "item": "Rear Wiper Blade",
+          "metric": "300 mm",
+          "imperial": "11.8 in",
+          "status": "Verified",
+          "note": "Specific design for hatchback rear window.",
+          "item_translations": {
+            "en": "Rear Wiper Blade",
+            "de": "Hinteres Scheibenwischerblatt",
+            "fr": "Balai d'essuie-glace arrière",
+            "es": "Escobilla limpiaparabrisas trasera",
+            "it": "Spazzola tergicristallo posteriore",
+            "ja": "リアワイパーブレード",
+            "pt": "Palheta do limpador de para-brisa traseiro",
+            "nl": "Achterruitwisserblad"
+          },
+          "note_translations": {
+            "en": "Specific design for hatchback rear window.",
+            "de": "Spezifisches Design für die Heckscheibe von Schrägheckfahrzeugen.",
+            "fr": "Conception spécifique pour la lunette arrière de hayon.",
+            "es": "Diseño específico para la ventana trasera de hatchback.",
+            "it": "Design specifico per il lunotto posteriore hatchback.",
+            "ja": "ハッチバックのリアウィンドウ専用設計。",
+            "pt": "Design específico para o vidro traseiro de hatchback.",
+            "nl": "Specifiek ontwerp voor de achterruit van een hatchback."
+          }
+        },
+        {
+          "item": "Trunk Capacity (with rear seats up)",
+          "metric": "311 L",
+          "imperial": "11.0 cu ft",
+          "status": "Verified",
+          "note": "Measured according to VDA standard.",
+          "item_translations": {
+            "en": "Trunk Capacity (with rear seats up)",
+            "de": "Kofferraumvolumen (bei hochgeklappten Rücksitzen)",
+            "fr": "Capacité du coffre (avec sièges arrière relevés)",
+            "es": "Capacidad del maletero (con asientos traseros levantados)",
+            "it": "Capacità del bagagliaio (con sedili posteriori alzati)",
+            "ja": "トランク容量（後部座席使用時）",
+            "pt": "Capacidade do porta-malas (com bancos traseiros levantados)",
+            "nl": "Kofferbakinhoud (met achterbank omhoog)"
+          },
+          "note_translations": {
+            "en": "Measured according to VDA standard.",
+            "de": "Gemessen nach VDA-Standard.",
+            "fr": "Mesuré selon la norme VDA.",
+            "es": "Medido según el estándar VDA.",
+            "it": "Misurato secondo lo standard VDA.",
+            "ja": "VDA規格に従って測定。",
+            "pt": "Medido de acordo com o padrão VDA.",
+            "nl": "Gemeten volgens VDA-norm."
+          }
+        },
+        {
+          "item": "Snow Socks / Tyre Chains (Minimum Clearance)",
+          "metric": "9 mm",
+          "imperial": "0.35 in",
+          "status": "Verified",
+          "note": "Check vehicle manual for specific tyre size compatibility.",
+          "item_translations": {
+            "en": "Snow Socks / Tyre Chains (Minimum Clearance)",
+            "de": "Schneesocken / Schneeketten (Mindestabstand)",
+            "fr": "Chaussettes à neige / Chaînes à neige (Dégagement minimum)",
+            "es": "Cadenas de tela / Cadenas de nieve (Espacio libre mínimo)",
+            "it": "Calze da neve / Catene da neve (Spazio minimo)",
+            "ja": "スノーソックス / タイヤチェーン (最小クリアランス)",
+            "pt": "Meias de neve / Correntes de pneu (Folga mínima)",
+            "nl": "Sneeuwsokken / Sneeuwkettingen (Minimale speling)"
+          },
+          "note_translations": {
+            "en": "Check vehicle manual for specific tyre size compatibility.",
+            "de": "Überprüfen Sie die Bedienungsanleitung des Fahrzeugs auf spezifische Reifengrößenkompatibilität.",
+            "fr": "Vérifiez le manuel du véhicule pour la compatibilité spécifique des tailles de pneus.",
+            "es": "Consulte el manual del vehículo para la compatibilidad específica del tamaño de los neumáticos.",
+            "it": "Controllare il manuale del veicolo per la compatibilità specifica delle dimensioni degli pneumatici.",
+            "ja": "特定のタイヤサイズとの互換性については、車両の取扱説明書を確認してください。",
+            "pt": "Verifique o manual do veículo para compatibilidade específica do tamanho do pneu.",
+            "nl": "Controleer de voertuighandleiding voor specifieke bandenmaatcompatibiliteit."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "peugeot-208-ii-e-208-compatibility-matrix",
+          "title": "Peugeot 208 II / e-208 Compatibility & Measurement Matrix",
+          "summary": "Comprehensive compatibility and exact measurement data for the Peugeot 208 II and e-208 models, covering essential accessories and specifications.",
+          "amazon_search_query": "Peugeot 208 II e-208 accessories",
+          "buy_box_title": "Shop Compatible Peugeot 208 II / e-208 Accessories",
+          "buy_box_subtitle": "Find verified parts and upgrades for your vehicle.",
+          "allowed_guidelines": [
+            "Use verified parts for safety and performance.",
+            "Always consult your vehicle's owner manual.",
+            "Ensure proper installation by qualified personnel."
+          ],
+          "strict_restrictions": [
+            "Do not use non-compatible parts.",
+            "Avoid exceeding load capacities.",
+            "Improper modifications may void warranty."
+          ],
+          "faqs": [
+            {
+              "q": "What are the correct front wiper blade sizes for the Peugeot 208 II?",
+              "a": "The correct front wiper blade sizes are 650 mm (26 in) for the driver's side and 400 mm (16 in) for the passenger's side."
+            },
+            {
+              "q": "What is the trunk capacity of the Peugeot 208 II?",
+              "a": "The trunk capacity of the Peugeot 208 II (with rear seats up) is 311 liters (11.0 cubic feet)."
+            },
+            {
+              "q": "What is the minimum clearance for snow socks on the Peugeot 208 II?",
+              "a": "The minimum clearance for snow socks or tyre chains is 9 mm (0.35 in). Always check your vehicle manual for specific tyre size compatibility."
+            }
+          ]
+        },
+        "de": {
+          "slug": "peugeot-208-ii-e-208-kompatibilitaetsmatrix",
+          "title": "Peugeot 208 II / e-208 Kompatibilitäts- & Messmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messdaten für die Modelle Peugeot 208 II und e-208, einschließlich wichtiger Zubehörteile und Spezifikationen.",
+          "amazon_search_query": "Peugeot 208 II e-208 zubehör",
+          "buy_box_title": "Kompatibles Peugeot 208 II / e-208 Zubehör kaufen",
+          "buy_box_subtitle": "Finden Sie geprüfte Teile und Upgrades für Ihr Fahrzeug.",
+          "allowed_guidelines": [
+            "Verwenden Sie geprüfte Teile für Sicherheit und Leistung.",
+            "Konsultieren Sie immer die Bedienungsanleitung Ihres Fahrzeugs.",
+            "Stellen Sie die ordnungsgemäße Installation durch qualifiziertes Personal sicher."
+          ],
+          "strict_restrictions": [
+            "Verwenden Sie keine nicht-kompatiblen Teile.",
+            "Überschreiten Sie nicht die Ladekapazitäten.",
+            "Unsachgemäße Modifikationen können die Garantie erlöschen lassen."
+          ],
+          "faqs": [
+            {
+              "q": "Welche sind die richtigen Größen für die vorderen Scheibenwischer des Peugeot 208 II?",
+              "a": "Die richtigen Größen für die vorderen Scheibenwischer sind 650 mm (26 Zoll) für die Fahrerseite und 400 mm (16 Zoll) für die Beifahrerseite."
+            },
+            {
+              "q": "Wie groß ist das Kofferraumvolumen des Peugeot 208 II?",
+              "a": "Das Kofferraumvolumen des Peugeot 208 II (bei hochgeklappten Rücksitzen) beträgt 311 Liter (11,0 Kubikfuß)."
+            },
+            {
+              "q": "Wie groß ist der Mindestabstand für Schneesocken beim Peugeot 208 II?",
+              "a": "Der Mindestabstand für Schneesocken oder Schneeketten beträgt 9 mm (0,35 Zoll). Überprüfen Sie immer die Bedienungsanleitung Ihres Fahrzeugs auf spezifische Reifengrößenkompatibilität."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "peugeot-208-ii-e-208-matrice-compatibilite",
+          "title": "Matrice de Compatibilité et de Mesures Peugeot 208 II / e-208",
+          "summary": "Données complètes de compatibilité et de mesures exactes pour les modèles Peugeot 208 II et e-208, couvrant les accessoires essentiels et les spécifications.",
+          "amazon_search_query": "Peugeot 208 II e-208 accessoires",
+          "buy_box_title": "Acheter des Accessoires Compatibles Peugeot 208 II / e-208",
+          "buy_box_subtitle": "Trouvez des pièces et des améliorations vérifiées pour votre véhicule.",
+          "allowed_guidelines": [
+            "Utilisez des pièces vérifiées pour la sécurité et la performance.",
+            "Consultez toujours le manuel du propriétaire de votre véhicule.",
+            "Assurez une installation correcte par du personnel qualifié."
+          ],
+          "strict_restrictions": [
+            "N'utilisez pas de pièces non compatibles.",
+            "Évitez de dépasser les capacités de charge.",
+            "Des modifications inappropriées peuvent annuler la garantie."
+          ],
+          "faqs": [
+            {
+              "q": "Quelles sont les tailles correctes des balais d'essuie-glace avant pour la Peugeot 208 II ?",
+              "a": "Les tailles correctes des balais d'essuie-glace avant sont 650 mm (26 pouces) pour le côté conducteur et 400 mm (16 pouces) pour le côté passager."
+            },
+            {
+              "q": "Quelle est la capacité du coffre de la Peugeot 208 II ?",
+              "a": "La capacité du coffre de la Peugeot 208 II (avec les sièges arrière relevés) est de 311 litres (11,0 pieds cubes)."
+            },
+            {
+              "q": "Quel est le dégagement minimum pour les chaussettes à neige sur la Peugeot 208 II ?",
+              "a": "Le dégagement minimum pour les chaussettes à neige ou les chaînes à neige est de 9 mm (0,35 pouce). Vérifiez toujours le manuel de votre véhicule pour la compatibilité spécifique des tailles de pneus."
+            }
+          ]
+        },
+        "es": {
+          "slug": "peugeot-208-ii-e-208-matriz-compatibilidad",
+          "title": "Matriz de Compatibilidad y Medidas Peugeot 208 II / e-208",
+          "summary": "Datos completos de compatibilidad y medidas exactas para los modelos Peugeot 208 II y e-208, cubriendo accesorios esenciales y especificaciones.",
+          "amazon_search_query": "Peugeot 208 II e-208 accesorios",
+          "buy_box_title": "Comprar Accesorios Compatibles Peugeot 208 II / e-208",
+          "buy_box_subtitle": "Encuentre piezas y mejoras verificadas para su vehículo.",
+          "allowed_guidelines": [
+            "Utilice piezas verificadas para seguridad y rendimiento.",
+            "Consulte siempre el manual del propietario de su vehículo.",
+            "Asegure una instalación adecuada por personal cualificado."
+          ],
+          "strict_restrictions": [
+            "No utilice piezas no compatibles.",
+            "Evite exceder las capacidades de carga.",
+            "Modificaciones inapropiadas pueden anular la garantía."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuáles son los tamaños correctos de las escobillas limpiaparabrisas delanteras para el Peugeot 208 II?",
+              "a": "Los tamaños correctos de las escobillas limpiaparabrisas delanteras son 650 mm (26 pulgadas) para el lado del conductor y 400 mm (16 pulgadas) para el lado del pasajero."
+            },
+            {
+              "q": "¿Cuál es la capacidad del maletero del Peugeot 208 II?",
+              "a": "La capacidad del maletero del Peugeot 208 II (con los asientos traseros levantados) es de 311 litros (11,0 pies cúbicos)."
+            },
+            {
+              "q": "¿Cuál es el espacio libre mínimo para las cadenas de tela (calcetines de nieve) en el Peugeot 208 II?",
+              "a": "El espacio libre mínimo para las cadenas de tela o cadenas de nieve es de 9 mm (0.35 pulgadas). Consulte siempre el manual de su vehículo para la compatibilidad específica del tamaño de los neumáticos."
+            }
+          ]
+        },
+        "it": {
+          "slug": "peugeot-208-ii-e-208-matrice-compatibilita",
+          "title": "Matrice di Compatibilità e Misure Peugeot 208 II / e-208",
+          "summary": "Dati completi di compatibilità e misure esatte per i modelli Peugeot 208 II ed e-208, che coprono accessori essenziali e specifiche.",
+          "amazon_search_query": "Peugeot 208 II e-208 accessori",
+          "buy_box_title": "Acquista Accessori Compatibili Peugeot 208 II / e-208",
+          "buy_box_subtitle": "Trova ricambi e aggiornamenti verificati per il tuo veicolo.",
+          "allowed_guidelines": [
+            "Utilizzare ricambi verificati per sicurezza e prestazioni.",
+            "Consultare sempre il manuale del proprietario del veicolo.",
+            "Assicurare una corretta installazione da parte di personale qualificato."
+          ],
+          "strict_restrictions": [
+            "Non utilizzare ricambi non compatibili.",
+            "Evitare di superare le capacità di carico.",
+            "Modifiche improprie possono invalidare la garanzia."
+          ],
+          "faqs": [
+            {
+              "q": "Quali sono le dimensioni corrette delle spazzole tergicristallo anteriori per la Peugeot 208 II?",
+              "a": "Le dimensioni corrette delle spazzole tergicristallo anteriori sono 650 mm (26 pollici) per il lato conducente e 400 mm (16 pollici) per il lato passeggero."
+            },
+            {
+              "q": "Qual è la capacità del bagagliaio della Peugeot 208 II?",
+              "a": "La capacità del bagagliaio della Peugeot 208 II (con i sedili posteriori alzati) è di 311 litri (11,0 piedi cubi)."
+            },
+            {
+              "q": "Qual è lo spazio minimo per le calze da neve sulla Peugeot 208 II?",
+              "a": "Lo spazio minimo per le calze da neve o le catene da neve è di 9 mm (0,35 pollici). Controllare sempre il manuale del veicolo per la compatibilità specifica delle dimensioni degli pneumatici."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "peugeot-208-ii-e-208-gokan-matrix",
+          "title": "プジョー 208 II / e-208 互換性および測定マトリックス",
+          "summary": "プジョー 208 II および e-208 モデルの包括的な互換性および正確な測定データ。主要なアクセサリーと仕様を網羅しています。",
+          "amazon_search_query": "プジョー 208 II e-208 アクセサリー",
+          "buy_box_title": "互換性のあるプジョー 208 II / e-208 アクセサリーを購入する",
+          "buy_box_subtitle": "車両用の検証済み部品とアップグレードを見つける。",
+          "allowed_guidelines": [
+            "安全性と性能のために検証済みの部品を使用してください。",
+            "常に車両の取扱説明書を参照してください。",
+            "資格のある担当者による適切な取り付けを確認してください。"
+          ],
+          "strict_restrictions": [
+            "互換性のない部品を使用しないでください。",
+            "積載量を超えないようにしてください。",
+            "不適切な改造は保証を無効にする場合があります。"
+          ],
+          "faqs": [
+            {
+              "q": "プジョー 208 II の正しいフロントワイパーブレードのサイズは何ですか？",
+              "a": "正しいフロントワイパーブレードのサイズは、運転席側が650 mm (26インチ)、助手席側が400 mm (16インチ) です。"
+            },
+            {
+              "q": "プジョー 208 II のトランク容量はどれくらいですか？",
+              "a": "プジョー 208 II のトランク容量（後部座席を立てた状態）は311リットル (11.0立方フィート) です。"
+            },
+            {
+              "q": "プジョー 208 II のスノーソックスの最小クリアランスは何ですか？",
+              "a": "スノーソックスまたはタイヤチェーンの最小クリアランスは9 mm (0.35インチ) です。特定のタイヤサイズとの互換性については、必ず車両の取扱説明書を確認してください。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "peugeot-208-ii-e-208-matriz-compatibilidade",
+          "title": "Matriz de Compatibilidade e Medidas Peugeot 208 II / e-208",
+          "summary": "Dados abrangentes de compatibilidade e medições exatas para os modelos Peugeot 208 II e e-208, cobrindo acessórios essenciais e especificações.",
+          "amazon_search_query": "Peugeot 208 II e-208 acessórios",
+          "buy_box_title": "Compre Acessórios Compatíveis Peugeot 208 II / e-208",
+          "buy_box_subtitle": "Encontre peças e atualizações verificadas para o seu veículo.",
+          "allowed_guidelines": [
+            "Use peças verificadas para segurança e desempenho.",
+            "Sempre consulte o manual do proprietário do seu veículo.",
+            "Garanta a instalação adequada por pessoal qualificado."
+          ],
+          "strict_restrictions": [
+            "Não use peças não compatíveis.",
+            "Evite exceder as capacidades de carga.",
+            "Modificações inadequadas podem anular a garantia."
+          ],
+          "faqs": [
+            {
+              "q": "Quais são os tamanhos corretos das palhetas do limpador de para-brisa dianteiro para o Peugeot 208 II?",
+              "a": "Os tamanhos corretos das palhetas do limpador de para-brisa dianteiro são 650 mm (26 polegadas) para o lado do motorista e 400 mm (16 polegadas) para o lado do passageiro."
+            },
+            {
+              "q": "Qual é a capacidade do porta-malas do Peugeot 208 II?",
+              "a": "A capacidade do porta-malas do Peugeot 208 II (com os bancos traseiros levantados) é de 311 litros (11,0 pés cúbicos)."
+            },
+            {
+              "q": "Qual é a folga mínima para as meias de neve no Peugeot 208 II?",
+              "a": "A folga mínima para as meias de neve ou correntes de pneu é de 9 mm (0,35 polegadas). Sempre verifique o manual do seu veículo para compatibilidade específica do tamanho do pneu."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "peugeot-208-ii-e-208-compatibiliteitsmatrix",
+          "title": "Peugeot 208 II / e-208 Compatibiliteits- & Meetmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetgegevens voor de Peugeot 208 II en e-208 modellen, inclusief essentiële accessoires en specificaties.",
+          "amazon_search_query": "Peugeot 208 II e-208 accessoires",
+          "buy_box_title": "Koop Compatibele Peugeot 208 II / e-208 Accessoires",
+          "buy_box_subtitle": "Vind geverifieerde onderdelen en upgrades voor uw voertuig.",
+          "allowed_guidelines": [
+            "Gebruik geverifieerde onderdelen voor veiligheid en prestaties.",
+            "Raadpleeg altijd de gebruikershandleiding van uw voertuig.",
+            "Zorg voor een correcte installatie door gekwalificeerd personeel."
+          ],
+          "strict_restrictions": [
+            "Gebruik geen niet-compatibele onderdelen.",
+            "Overschrijd de laadcapaciteiten niet.",
+            "Onjuiste aanpassingen kunnen de garantie ongeldig maken."
+          ],
+          "faqs": [
+            {
+              "q": "Wat zijn de juiste maten voor de voorruitwisserbladen van de Peugeot 208 II?",
+              "a": "De juiste maten voor de voorruitwisserbladen zijn 650 mm (26 inch) voor de bestuurderszijde en 400 mm (16 inch) voor de passagierszijde."
+            },
+            {
+              "q": "Wat is de kofferbakinhoud van de Peugeot 208 II?",
+              "a": "De kofferbakinhoud van de Peugeot 208 II (met de achterbank omhoog) is 311 liter (11,0 kubieke voet)."
+            },
+            {
+              "q": "Wat is de minimale speling voor sneeuwsokken op de Peugeot 208 II?",
+              "a": "De minimale speling voor sneeuwsokken of sneeuwkettingen is 9 mm (0,35 inch). Controleer altijd de handleiding van uw voertuig voor specifieke bandenmaatcompatibiliteit."
             }
           ]
         }
