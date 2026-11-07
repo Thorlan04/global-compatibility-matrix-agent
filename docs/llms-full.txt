@@ -776,3 +776,20 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=Renault+Clio+5+wiper+blades%2C+Renault+Clio+5+trunk+mat%2C+Clio+5+accessories&tag=autocompat-21
 
 ---
+
+## Dacia Duster III (2024-2026) (AUTO)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/dacia-duster-iii-2024-2026-compatibility-matrix.html
+- Summary: Comprehensive compatibility and exact measurement matrix for the Dacia Duster III (2024-2026) model, covering key accessories and operational specifications.
+
+### Exact Specifications (Dual Units):
+* **Modular Roof Bars (YouClip System)**: Metric: `80 kg (Max Load) / 108 cm (Transversal Span) / ~7 cm (Height above roof)` | Imperial: `176.4 lbs (Max Load) / 42.5 in (Transversal Span) / ~2.8 in (Height above roof)` (Integrated YouClip system allows transformation from longitudinal to transversal bars. Ensure even load distribution.)
+* **Front Wiper Blades**: Metric: `600 mm (Driver Side) / 450 mm (Passenger Side)` | Imperial: `23.6 in (Driver Side) / 17.7 in (Passenger Side)` (Flat blade type, ensure correct adapter for installation. Replace annually for optimal performance.)
+* **Snow Chain Clearance (4x4 Models)**: Metric: `Max 9 mm (Link Thickness) / Requires Low-Profile Chains` | Imperial: `Max 0.35 in (Link Thickness) / Requires Low-Profile Chains` (Critical to use only thin-link, low-profile snow chains to prevent damage to wheel arches, suspension, and brake lines. Consult vehicle manual for specific tire size recommendations.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=Dacia+Duster+3+accessories%2C+Duster+2024+roof+bars%2C+Duster+2024+wiper+blades%2C+Duster+2024+snow+chains&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=Dacia+Duster+3+accessories%2C+Duster+2024+roof+bars%2C+Duster+2024+wiper+blades%2C+Duster+2024+snow+chains&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=Dacia+Duster+3+accessories%2C+Duster+2024+roof+bars%2C+Duster+2024+wiper+blades%2C+Duster+2024+snow+chains&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=Dacia+Duster+3+accessories%2C+Duster+2024+roof+bars%2C+Duster+2024+wiper+blades%2C+Duster+2024+snow+chains&tag=autocompat-21
+
+---

@@ -1,79 +1,81 @@
 {
-  "last_updated": "2026-11-07T04:25:52.430421+00:00",
+  "last_updated": "2026-11-07T12:23:01.413338+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "dji-mini-4-pro-air-3-compatibility-matrix",
-    "qatar-airways-baggage-power-bank-guide",
-    "toyota-corolla-e210-compatibility-matrix",
-    "emirates",
-    "easyjet",
-    "asus-rog-ally-x",
+    "peugeot-3008",
     "easyjet-baggage-powerbank-guide",
-    "nintendo-switch",
-    "peugeot-208-ii-e-208-compatibility-matrix",
-    "vw-tiguan-mk2-mk3-compatibility-matrix",
-    "lg-oled-c3-c4-vesa-mount-power",
-    "emirates-baggage-allowance",
-    "air-canada",
     "air-france",
-    "valve-steam-deck-oled",
-    "peugeot-3008-ii-iii-compatibility-matrix",
-    "renault-clio-5-compatibility-matrix",
+    "ford-f150-2021-2026-compatibility-matrix",
+    "sony-bravia",
+    "dacia-duster",
+    "qatar-airways-baggage-power-bank-guide",
+    "air-canada",
+    "vw-tiguan-mk2-mk3-compatibility-matrix",
+    "toyota-rav4-5th-gen-compatibility-matrix",
+    "nintendo-switch",
+    "lg-oled-c3-c4-vesa-mount-power",
     "ford-f150",
-    "dji-mini-air",
-    "vw-tiguan",
-    "transavia-baggage-allowance",
-    "macbook-pro-m3",
-    "tesla-model-3-highland-compatibility-matrix",
-    "delta-air-lines-compatibility-matrix",
+    "latam",
+    "vueling",
+    "ana-jal",
+    "vw-golf-8",
+    "southwest",
+    "valve-steam-deck-oled",
+    "playstation-5-slim-pro-compatibility",
+    "asus-rog-ally-x",
     "ana-japan-airlines-carry-on-luggage-compatibility",
-    "renault-clio",
-    "xbox-series-x-hardware-compatibility-matrix",
-    "united",
-    "qantas-carry-on-baggage-allowance",
+    "vueling-baggage-allowance",
+    "united-airlines-baggage-lithium-battery-rules",
+    "transavia-baggage-allowance",
+    "southwest-airlines-baggage-policy",
+    "dacia-duster-iii-2024-2026-compatibility-matrix",
+    "gopro-hero-12-13-black-compatibility-matrix",
+    "nintendo-switch-switch-oled-compatibility-matrix",
+    "macbook-pro-14-16-m3-m4-compatibility",
+    "air-france-baggage-allowance",
+    "renault-clio-5-compatibility-matrix",
+    "tesla-model-3",
+    "samsung-neo-qled-oled-tv-compatibility-matrix",
+    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
+    "vw-tiguan",
+    "steam-deck-oled",
+    "american-airlines-compatibility-matrix",
+    "ryanair-cabin-baggage-dimensions",
     "wizz-air",
+    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "lufthansa",
+    "tesla-model-3-highland-compatibility-matrix",
+    "transavia",
+    "toyota-corolla",
+    "lufthansa-airlines-baggage-guide",
+    "emirates",
+    "ps5-slim-pro",
+    "renault-clio",
+    "xbox-series-x",
+    "toyota-corolla-e210-compatibility-matrix",
+    "delta",
+    "xbox-series-x-hardware-compatibility-matrix",
+    "peugeot-208-ii-e-208-compatibility-matrix",
+    "macbook-pro-m3",
     "latam-airlines-baggage-allowance",
     "toyota-rav4",
-    "ford-f150-2021-2026-compatibility-matrix",
-    "nintendo-switch-switch-oled-compatibility-matrix",
-    "playstation-5-slim-pro-compatibility",
-    "gopro-hero-12-13-black-compatibility-matrix",
-    "tesla-model-3",
-    "air-france-baggage-allowance",
-    "ana-jal",
-    "samsung-neo-qled-oled-tv-compatibility-matrix",
-    "lufthansa",
     "british-airways",
-    "southwest-airlines-baggage-policy",
-    "united-airlines-baggage-lithium-battery-rules",
     "volkswagen-golf-8-compatibility-matrix",
-    "sony-bravia",
-    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
-    "toyota-corolla",
-    "vueling",
-    "vw-golf-8",
-    "macbook-pro-14-16-m3-m4-compatibility",
-    "xbox-series-x",
-    "tesla-model-y-wipers-roof-trunk-dimensions",
-    "transavia",
-    "vueling-baggage-allowance",
-    "peugeot-208",
-    "qantas",
-    "american-airlines-compatibility-matrix",
-    "gopro-12-13",
-    "peugeot-3008",
-    "southwest",
-    "delta",
-    "toyota-rav4-5th-gen-compatibility-matrix",
-    "latam",
-    "lufthansa-airlines-baggage-guide",
     "qatar-airways",
-    "ps5-slim-pro",
-    "steam-deck-oled",
-    "samsung-qled",
     "american",
-    "ryanair-cabin-baggage-dimensions"
+    "qantas-carry-on-baggage-allowance",
+    "dji-mini-air",
+    "dji-mini-4-pro-air-3-compatibility-matrix",
+    "gopro-12-13",
+    "qantas",
+    "samsung-qled",
+    "easyjet",
+    "peugeot-3008-ii-iii-compatibility-matrix",
+    "peugeot-208",
+    "emirates-baggage-allowance",
+    "delta-air-lines-compatibility-matrix",
+    "united"
   ],
   "topics_backlog": [
     {
@@ -17008,6 +17010,353 @@
             {
               "q": "Kan ik universele ruitenwissers gebruiken op mijn Renault Clio 5?",
               "a": "Hoewel sommige universele wissers kunnen passen, wordt sterk aanbevolen om wissers te gebruiken die specifiek zijn ontworpen voor de Renault Clio 5 om optimale prestaties en een juiste pasvorm te garanderen."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "dacia-duster",
+      "slug": "dacia-duster-iii-2024-2026-compatibility-matrix",
+      "subject": "Dacia Duster III (2024-2026)",
+      "category": "auto",
+      "spec_rows": [
+        {
+          "item": "Modular Roof Bars (YouClip System)",
+          "metric": "80 kg (Max Load) / 108 cm (Transversal Span) / ~7 cm (Height above roof)",
+          "imperial": "176.4 lbs (Max Load) / 42.5 in (Transversal Span) / ~2.8 in (Height above roof)",
+          "status": "Verified",
+          "note": "Integrated YouClip system allows transformation from longitudinal to transversal bars. Ensure even load distribution.",
+          "item_translations": {
+            "en": "Modular Roof Bars (YouClip System)",
+            "de": "Modulare Dachreling (YouClip System)",
+            "fr": "Barres de Toit Modulaires (Système YouClip)",
+            "es": "Barras de Techo Modulares (Sistema YouClip)",
+            "it": "Barre Portatutto Modulari (Sistema YouClip)",
+            "ja": "モジュラー ルーフレール (YouClip システム)",
+            "pt": "Barras de Tejadilho Modulares (Sistema YouClip)",
+            "nl": "Modulaire Dakdragers (YouClip Systeem)"
+          },
+          "note_translations": {
+            "en": "Integrated YouClip system allows transformation from longitudinal to transversal bars. Ensure even load distribution.",
+            "de": "Das integrierte YouClip-System ermöglicht die Umwandlung von Längs- in Querträger. Achten Sie auf eine gleichmäßige Lastverteilung.",
+            "fr": "Le système YouClip intégré permet la transformation des barres longitudinales en barres transversales. Assurez une répartition uniforme de la charge.",
+            "es": "El sistema YouClip integrado permite la transformación de barras longitudinales a transversales. Asegure una distribución uniforme de la carga.",
+            "it": "Il sistema YouClip integrato consente la trasformazione da barre longitudinali a trasversali. Assicurare una distribuzione uniforme del carico.",
+            "ja": "統合されたYouClipシステムにより、縦方向のバーを横方向のバーに変換できます。均等な荷重配分を確保してください。",
+            "pt": "O sistema YouClip integrado permite a transformação de barras longitudinais em transversais. Garanta uma distribuição uniforme da carga.",
+            "nl": "Het geïntegreerde YouClip-systeem maakt de transformatie van longitudinale naar transversale dakdragers mogelijk. Zorg voor een gelijkmatige lastverdeling."
+          }
+        },
+        {
+          "item": "Front Wiper Blades",
+          "metric": "600 mm (Driver Side) / 450 mm (Passenger Side)",
+          "imperial": "23.6 in (Driver Side) / 17.7 in (Passenger Side)",
+          "status": "Verified",
+          "note": "Flat blade type, ensure correct adapter for installation. Replace annually for optimal performance.",
+          "item_translations": {
+            "en": "Front Wiper Blades",
+            "de": "Vordere Scheibenwischer",
+            "fr": "Balais d'Essuie-Glace Avant",
+            "es": "Escobillas Limpiaparabrisas Delanteras",
+            "it": "Spazzole Tergicristallo Anteriori",
+            "ja": "フロントワイパーブレード",
+            "pt": "Escovas Limpa Para-brisas Dianteiras",
+            "nl": "Ruitenwisserbladen Voor"
+          },
+          "note_translations": {
+            "en": "Flat blade type, ensure correct adapter for installation. Replace annually for optimal performance.",
+            "de": "Flachblatt-Typ, stellen Sie den korrekten Adapter für die Installation sicher. Jährlich für optimale Leistung ersetzen.",
+            "fr": "Type de balai plat, assurez-vous du bon adaptateur pour l'installation. Remplacez annuellement pour des performances optimales.",
+            "es": "Tipo de escobilla plana, asegure el adaptador correcto para la instalación. Reemplace anualmente para un rendimiento óptimo.",
+            "it": "Tipo a lama piatta, assicurarsi dell'adattatore corretto per l'installazione. Sostituire annualmente per prestazioni ottimali.",
+            "ja": "フラットブレードタイプ、取り付けには正しいアダプターを確認してください。最適な性能のために毎年交換してください。",
+            "pt": "Tipo de lâmina plana, certifique-se do adaptador correto para a instalação. Substitua anualmente para um desempenho ideal.",
+            "nl": "Vlakbladsysteem, zorg voor de juiste adapter voor installatie. Jaarlijks vervangen voor optimale prestaties."
+          }
+        },
+        {
+          "item": "Snow Chain Clearance (4x4 Models)",
+          "metric": "Max 9 mm (Link Thickness) / Requires Low-Profile Chains",
+          "imperial": "Max 0.35 in (Link Thickness) / Requires Low-Profile Chains",
+          "status": "Verified",
+          "note": "Critical to use only thin-link, low-profile snow chains to prevent damage to wheel arches, suspension, and brake lines. Consult vehicle manual for specific tire size recommendations.",
+          "item_translations": {
+            "en": "Snow Chain Clearance (4x4 Models)",
+            "de": "Schneekettenfreigängigkeit (4x4 Modelle)",
+            "fr": "Dégagement pour Chaînes à Neige (Modèles 4x4)",
+            "es": "Espacio Libre para Cadenas de Nieve (Modelos 4x4)",
+            "it": "Spazio Libero per Catene da Neve (Modelli 4x4)",
+            "ja": "スノーチェーンクリアランス (4x4モデル)",
+            "pt": "Folga para Correntes de Neve (Modelos 4x4)",
+            "nl": "Sneeuwkettingvrijheid (4x4 Modellen)"
+          },
+          "note_translations": {
+            "en": "Critical to use only thin-link, low-profile snow chains to prevent damage to wheel arches, suspension, and brake lines. Consult vehicle manual for specific tire size recommendations.",
+            "de": "Es ist entscheidend, nur dünngliedrige, flache Schneeketten zu verwenden, um Schäden an Radkästen, Federung und Bremsleitungen zu vermeiden. Konsultieren Sie das Fahrzeughandbuch für spezifische Reifengrößenempfehlungen.",
+            "fr": "Il est crucial d'utiliser uniquement des chaînes à neige à maillons fins et à profil bas pour éviter d'endommager les passages de roue, la suspension et les conduites de frein. Consultez le manuel du véhicule pour les recommandations spécifiques de taille de pneu.",
+            "es": "Es fundamental utilizar únicamente cadenas de nieve de eslabón fino y perfil bajo para evitar daños en los pasos de rueda, la suspensión y las líneas de freno. Consulte el manual del vehículo para recomendaciones específicas de tamaño de neumático.",
+            "it": "È fondamentale utilizzare solo catene da neve a maglie sottili e a basso profilo per prevenire danni ai passaruota, alle sospensioni e ai tubi dei freni. Consultare il manuale del veicolo per raccomandazioni specifiche sulla dimensione degli pneumatici.",
+            "ja": "ホイールアーチ、サスペンション、ブレーキラインへの損傷を防ぐため、薄型・低プロファイルのスノーチェーンのみを使用することが重要です。特定のタイヤサイズについては車両マニュアルを参照してください。",
+            "pt": "É crucial usar apenas correntes de neve de elos finos e perfil baixo para evitar danos nos arcos das rodas, suspensão e linhas de travão. Consulte o manual do veículo para recomendações específicas de tamanho de pneu.",
+            "nl": "Het is cruciaal om alleen dunne, laagprofiel sneeuwkettingen te gebruiken om schade aan wielkasten, ophanging en remleidingen te voorkomen. Raadpleeg de voertuighandleiding voor specifieke aanbevelingen voor bandenmaten."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "dacia-duster-iii-2024-2026-compatibility-matrix",
+          "title": "Dacia Duster III (2024-2026) Compatibility & Measurement Matrix",
+          "summary": "Comprehensive compatibility and exact measurement matrix for the Dacia Duster III (2024-2026) model, covering key accessories and operational specifications.",
+          "amazon_search_query": "Dacia Duster 3 accessories, Duster 2024 roof bars, Duster 2024 wiper blades, Duster 2024 snow chains",
+          "buy_box_title": "Ensure Perfect Fit for Your Dacia Duster III",
+          "buy_box_subtitle": "Verified specifications for roof bars, wiper blades, and snow chains.",
+          "allowed_guidelines": [
+            "Utilize Dacia's integrated YouClip system for roof accessories.",
+            "Install only low-profile snow chains on 4x4 models to prevent damage.",
+            "Regularly check wiper blade condition for optimal visibility."
+          ],
+          "strict_restrictions": [
+            "Do not exceed the specified roof load capacity.",
+            "Avoid standard/thick link snow chains on 4x4 models due to limited clearance.",
+            "Ensure correct wiper blade length (600mm driver, 450mm passenger) for proper function."
+          ],
+          "faqs": [
+            {
+              "q": "Are the Dacia Duster III roof bars removable?",
+              "a": "The Duster III features innovative modular roof bars that can be easily transformed from longitudinal to transversal without removal, using the YouClip system."
+            },
+            {
+              "q": "What type of snow chains are recommended for the Duster 4x4?",
+              "a": "Only low-profile, thin-link snow chains are recommended for Duster III 4x4 models to ensure adequate clearance and prevent damage to the wheel arches and suspension."
+            },
+            {
+              "q": "Can I use aftermarket wiper blades?",
+              "a": "Yes, as long as they match the specified lengths (600mm driver, 450mm passenger) and attachment type (typically hook or specific flat blade adapter for modern Dacia models)."
+            }
+          ]
+        },
+        "de": {
+          "slug": "dacia-duster-iii-2024-2026-kompatibilitaetsmatrix",
+          "title": "Dacia Duster III (2024-2026) Kompatibilitäts- und Messmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messmatrix für das Dacia Duster III (2024-2026) Modell, einschließlich wichtiger Zubehörteile und Betriebsspezifikationen.",
+          "amazon_search_query": "Dacia Duster 3 Zubehör, Duster 2024 Dachreling, Duster 2024 Scheibenwischer, Duster 2024 Schneeketten",
+          "buy_box_title": "Sorgen Sie für perfekte Passform für Ihren Dacia Duster III",
+          "buy_box_subtitle": "Verifizierte Spezifikationen für Dachreling, Scheibenwischer und Schneeketten.",
+          "allowed_guidelines": [
+            "Nutzen Sie das integrierte YouClip-System von Dacia für Dachzubehör.",
+            "Installieren Sie nur flache Schneeketten an 4x4-Modellen, um Schäden zu vermeiden.",
+            "Überprüfen Sie regelmäßig den Zustand der Scheibenwischer für optimale Sicht."
+          ],
+          "strict_restrictions": [
+            "Überschreiten Sie nicht die angegebene Dachlastkapazität.",
+            "Vermeiden Sie Standard-/dickgliedrige Schneeketten bei 4x4-Modellen aufgrund begrenzter Freigängigkeit.",
+            "Stellen Sie die korrekte Scheibenwischerlänge (600 mm Fahrer, 450 mm Beifahrer) für eine einwandfreie Funktion sicher."
+          ],
+          "faqs": [
+            {
+              "q": "Sind die Dacia Duster III Dachreling abnehmbar?",
+              "a": "Der Duster III verfügt über innovative modulare Dachreling, die mit dem YouClip-System einfach von Längs- in Querträger umgewandelt werden können, ohne sie zu entfernen."
+            },
+            {
+              "q": "Welche Art von Schneeketten wird für den Duster 4x4 empfohlen?",
+              "a": "Nur flache, dünngliedrige Schneeketten werden für Duster III 4x4-Modelle empfohlen, um eine ausreichende Freigängigkeit zu gewährleisten und Schäden an Radkästen und Federung zu vermeiden."
+            },
+            {
+              "q": "Kann ich Aftermarket-Scheibenwischer verwenden?",
+              "a": "Ja, solange sie den angegebenen Längen (600 mm Fahrer, 450 mm Beifahrer) und dem Befestigungstyp (typischerweise Haken oder spezifischer Flachblattadapter für moderne Dacia-Modelle) entsprechen."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "dacia-duster-iii-2024-2026-matrice-compatibilite",
+          "title": "Dacia Duster III (2024-2026) Matrice de Compatibilité et de Mesures",
+          "summary": "Matrice complète de compatibilité et de mesures exactes pour le modèle Dacia Duster III (2024-2026), couvrant les accessoires clés et les spécifications opérationnelles.",
+          "amazon_search_query": "Dacia Duster 3 accessoires, Duster 2024 barres de toit, Duster 2024 balais essuie-glace, Duster 2024 chaînes neige",
+          "buy_box_title": "Assurez un Ajustement Parfait pour Votre Dacia Duster III",
+          "buy_box_subtitle": "Spécifications vérifiées pour les barres de toit, les balais d'essuie-glace et les chaînes à neige.",
+          "allowed_guidelines": [
+            "Utilisez le système YouClip intégré de Dacia pour les accessoires de toit.",
+            "Installez uniquement des chaînes à neige à profil bas sur les modèles 4x4 pour éviter les dommages.",
+            "Vérifiez régulièrement l'état des balais d'essuie-glace pour une visibilité optimale."
+          ],
+          "strict_restrictions": [
+            "Ne dépassez pas la capacité de charge de toit spécifiée.",
+            "Évitez les chaînes à neige à maillons standard/épais sur les modèles 4x4 en raison du dégagement limité.",
+            "Assurez-vous de la bonne longueur des balais d'essuie-glace (600 mm conducteur, 450 mm passager) pour un fonctionnement correct."
+          ],
+          "faqs": [
+            {
+              "q": "Les barres de toit du Dacia Duster III sont-elles amovibles ?",
+              "a": "Le Duster III est équipé de barres de toit modulaires innovantes qui peuvent être facilement transformées de longitudinales en transversales sans être retirées, grâce au système YouClip."
+            },
+            {
+              "q": "Quel type de chaînes à neige est recommandé pour le Duster 4x4 ?",
+              "a": "Seules les chaînes à neige à profil bas et à maillons fins sont recommandées pour les modèles Duster III 4x4 afin d'assurer un dégagement adéquat et de prévenir les dommages aux passages de roue et à la suspension."
+            },
+            {
+              "q": "Puis-je utiliser des balais d'essuie-glace de rechange ?",
+              "a": "Oui, tant qu'ils correspondent aux longueurs spécifiées (600 mm conducteur, 450 mm passager) et au type de fixation (généralement crochet ou adaptateur spécifique pour balai plat pour les modèles Dacia modernes)."
+            }
+          ]
+        },
+        "es": {
+          "slug": "dacia-duster-iii-2024-2026-matriz-compatibilidad",
+          "title": "Dacia Duster III (2024-2026) Matriz de Compatibilidad y Medidas",
+          "summary": "Matriz completa de compatibilidad y medidas exactas para el modelo Dacia Duster III (2024-2026), cubriendo accesorios clave y especificaciones operativas.",
+          "amazon_search_query": "Dacia Duster 3 accesorios, Duster 2024 barras techo, Duster 2024 limpiaparabrisas, Duster 2024 cadenas nieve",
+          "buy_box_title": "Asegure un Ajuste Perfecto para su Dacia Duster III",
+          "buy_box_subtitle": "Especificaciones verificadas para barras de techo, limpiaparabrisas y cadenas de nieve.",
+          "allowed_guidelines": [
+            "Utilice el sistema YouClip integrado de Dacia para accesorios de techo.",
+            "Instale solo cadenas de nieve de perfil bajo en modelos 4x4 para evitar daños.",
+            "Revise regularmente el estado de las escobillas limpiaparabrisas para una visibilidad óptima."
+          ],
+          "strict_restrictions": [
+            "No exceda la capacidad de carga de techo especificada.",
+            "Evite las cadenas de nieve de eslabón estándar/grueso en modelos 4x4 debido a la holgura limitada.",
+            "Asegure la longitud correcta de las escobillas limpiaparabrisas (600 mm conductor, 450 mm pasajero) para un funcionamiento adecuado."
+          ],
+          "faqs": [
+            {
+              "q": "¿Son extraíbles las barras de techo del Dacia Duster III?",
+              "a": "El Duster III cuenta con innovadoras barras de techo modulares que se pueden transformar fácilmente de longitudinales a transversales sin necesidad de quitarlas, utilizando el sistema YouClip."
+            },
+            {
+              "q": "¿Qué tipo de cadenas de nieve se recomiendan para el Duster 4x4?",
+              "a": "Solo se recomiendan cadenas de nieve de perfil bajo y eslabón fino para los modelos Duster III 4x4 para asegurar una holgura adecuada y prevenir daños en los pasos de rueda y la suspensión."
+            },
+            {
+              "q": "¿Puedo usar escobillas limpiaparabrisas de recambio?",
+              "a": "Sí, siempre que coincidan con las longitudes especificadas (600 mm conductor, 450 mm pasajero) y el tipo de fijación (típicamente gancho o adaptador específico de escobilla plana para modelos Dacia modernos)."
+            }
+          ]
+        },
+        "it": {
+          "slug": "dacia-duster-iii-2024-2026-matrice-compatibilita",
+          "title": "Dacia Duster III (2024-2026) Matrice di Compatibilità e Misurazioni",
+          "summary": "Matrice completa di compatibilità e misurazioni esatte per il modello Dacia Duster III (2024-2026), che copre accessori chiave e specifiche operative.",
+          "amazon_search_query": "Dacia Duster 3 accessori, Duster 2024 barre tetto, Duster 2024 spazzole tergicristallo, Duster 2024 catene neve",
+          "buy_box_title": "Assicura una Vestibilità Perfetta per il Tuo Dacia Duster III",
+          "buy_box_subtitle": "Specifiche verificate per barre portatutto, spazzole tergicristallo e catene da neve.",
+          "allowed_guidelines": [
+            "Utilizzare il sistema YouClip integrato di Dacia per gli accessori da tetto.",
+            "Installare solo catene da neve a basso profilo sui modelli 4x4 per prevenire danni.",
+            "Controllare regolarmente le condizioni delle spazzole tergicristallo per una visibilità ottimale."
+          ],
+          "strict_restrictions": [
+            "Non superare la capacità di carico del tetto specificata.",
+            "Evitare catene da neve a maglie standard/spesse sui modelli 4x4 a causa dello spazio limitato.",
+            "Assicurarsi della corretta lunghezza delle spazzole tergicristallo (600 mm lato conducente, 450 mm lato passeggero) per un funzionamento adeguato."
+          ],
+          "faqs": [
+            {
+              "q": "Le barre portatutto del Dacia Duster III sono rimovibili?",
+              "a": "Il Duster III è dotato di innovative barre portatutto modulari che possono essere facilmente trasformate da longitudinali a trasversali senza rimozione, utilizzando il sistema YouClip."
+            },
+            {
+              "q": "Che tipo di catene da neve sono consigliate per il Duster 4x4?",
+              "a": "Solo catene da neve a basso profilo e a maglie sottili sono consigliate per i modelli Duster III 4x4 per garantire uno spazio adeguato e prevenire danni ai passaruota e alle sospensioni."
+            },
+            {
+              "q": "Posso usare spazzole tergicristallo aftermarket?",
+              "a": "Sì, purché corrispondano alle lunghezze specificate (600 mm lato conducente, 450 mm lato passeggero) e al tipo di attacco (tipicamente gancio o adattatore specifico per lama piatta per i moderni modelli Dacia)."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "dacia-duster-iii-2024-2026-compatibility-matrix",
+          "title": "ダチア ダスター III (2024-2026) 互換性および測定マトリックス",
+          "summary": "ダチア ダスター III (2024-2026) モデルの包括的な互換性および正確な測定マトリックス。主要なアクセサリーと操作仕様を網羅しています。",
+          "amazon_search_query": "ダチア ダスター 3 アクセサリー, ダスター 2024 ルーフレール, ダスター 2024 ワイパーブレード, ダスター 2024 スノーチェーン",
+          "buy_box_title": "ダチア ダスター III に完璧なフィットを保証",
+          "buy_box_subtitle": "ルーフレール、ワイパーブレード、スノーチェーンの検証済み仕様。",
+          "allowed_guidelines": [
+            "ダチアの統合されたYouClipシステムをルーフトップアクセサリーに活用してください。",
+            "損傷を防ぐため、4x4モデルには薄型スノーチェーンのみを取り付けてください。",
+            "最適な視界のためにワイパーブレードの状態を定期的に確認してください。"
+          ],
+          "strict_restrictions": [
+            "指定されたルーフ積載量を超えないでください。",
+            "クリアランスが限られているため、4x4モデルには標準/厚いリンクのスノーチェーンを避けてください。",
+            "適切な機能のために、正しいワイパーブレードの長さ（運転席側600mm、助手席側450mm）を確認してください。"
+          ],
+          "faqs": [
+            {
+              "q": "ダチア ダスター III のルーフレールは取り外し可能ですか？",
+              "a": "ダスター III は、YouClipシステムを使用して、縦方向から横方向へ簡単に変換できる革新的なモジュラー式ルーフレールを備えており、取り外す必要はありません。"
+            },
+            {
+              "q": "ダスター 4x4 に推奨されるスノーチェーンの種類は何ですか？",
+              "a": "ホイールアーチやサスペンションへの損傷を防ぎ、適切なクリアランスを確保するために、ダスター III 4x4 モデルには薄型で細いリンクのスノーチェーンのみが推奨されます。"
+            },
+            {
+              "q": "アフターマーケットのワイパーブレードを使用できますか？",
+              "a": "はい、指定された長さ（運転席側600mm、助手席側450mm）と取り付けタイプ（通常はフックまたは現代のダチアモデル用の特定のフラットブレードアダプター）に適合していれば使用できます。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "dacia-duster-iii-2024-2026-matriz-compatibilidade",
+          "title": "Dacia Duster III (2024-2026) Matriz de Compatibilidade e Medidas",
+          "summary": "Matriz abrangente de compatibilidade e medidas exatas para o modelo Dacia Duster III (2024-2026), cobrindo acessórios chave e especificações operacionais.",
+          "amazon_search_query": "Dacia Duster 3 acessórios, Duster 2024 barras tejadilho, Duster 2024 escovas limpa para-brisas, Duster 2024 correntes neve",
+          "buy_box_title": "Garanta o Ajuste Perfeito para o Seu Dacia Duster III",
+          "buy_box_subtitle": "Especificações verificadas para barras de tejadilho, escovas limpa para-brisas e correntes de neve.",
+          "allowed_guidelines": [
+            "Utilize o sistema YouClip integrado da Dacia para acessórios de tejadilho.",
+            "Instale apenas correntes de neve de perfil baixo em modelos 4x4 para evitar danos.",
+            "Verifique regularmente a condição das escovas limpa para-brisas para uma visibilidade ótima."
+          ],
+          "strict_restrictions": [
+            "Não exceda a capacidade de carga do tejadilho especificada.",
+            "Evite correntes de neve de elos padrão/grossos em modelos 4x4 devido à folga limitada.",
+            "Garanta o comprimento correto das escovas limpa para-brisas (600 mm condutor, 450 mm passageiro) para um funcionamento adequado."
+          ],
+          "faqs": [
+            {
+              "q": "As barras de tejadilho do Dacia Duster III são removíveis?",
+              "a": "O Duster III apresenta barras de tejadilho modulares inovadoras que podem ser facilmente transformadas de longitudinais para transversais sem remoção, utilizando o sistema YouClip."
+            },
+            {
+              "q": "Que tipo de correntes de neve são recomendadas para o Duster 4x4?",
+              "a": "Apenas correntes de neve de perfil baixo e elos finos são recomendadas para os modelos Duster III 4x4 para garantir folga adequada e prevenir danos aos arcos das rodas e suspensão."
+            },
+            {
+              "q": "Posso usar escovas limpa para-brisas de reposição?",
+              "a": "Sim, desde que correspondam aos comprimentos especificados (600 mm condutor, 450 mm passageiro) e ao tipo de fixação (tipicamente gancho ou adaptador específico de lâmina plana para modelos Dacia modernos)."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "dacia-duster-iii-2024-2026-compatibiliteitsmatrix",
+          "title": "Dacia Duster III (2024-2026) Compatibiliteits- en Meetmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetmatrix voor het Dacia Duster III (2024-2026) model, inclusief belangrijke accessoires en operationele specificaties.",
+          "amazon_search_query": "Dacia Duster 3 accessoires, Duster 2024 dakdragers, Duster 2024 ruitenwissers, Duster 2024 sneeuwkettingen",
+          "buy_box_title": "Zorg voor een Perfecte Pasvorm voor Uw Dacia Duster III",
+          "buy_box_subtitle": "Geverifieerde specificaties voor dakdragers, ruitenwissers en sneeuwkettingen.",
+          "allowed_guidelines": [
+            "Gebruik Dacia's geïntegreerde YouClip-systeem voor dakaccessoires.",
+            "Installeer alleen laagprofiel sneeuwkettingen op 4x4-modellen om schade te voorkomen.",
+            "Controleer regelmatig de staat van de ruitenwisserbladen voor optimaal zicht."
+          ],
+          "strict_restrictions": [
+            "Overschrijd de gespecificeerde dakbelasting niet.",
+            "Vermijd standaard/dikke schakel sneeuwkettingen op 4x4-modellen vanwege beperkte ruimte.",
+            "Zorg voor de juiste ruitenwisserlengte (600 mm bestuurder, 450 mm passagier) voor een goede werking."
+          ],
+          "faqs": [
+            {
+              "q": "Zijn de Dacia Duster III dakdragers verwijderbaar?",
+              "a": "De Duster III beschikt over innovatieve modulaire dakdragers die eenvoudig van longitudinaal naar transversaal kunnen worden omgevormd zonder verwijdering, met behulp van het YouClip-systeem."
+            },
+            {
+              "q": "Welk type sneeuwkettingen wordt aanbevolen voor de Duster 4x4?",
+              "a": "Alleen laagprofiel, dunne schakel sneeuwkettingen worden aanbevolen voor Duster III 4x4-modellen om voldoende ruimte te garanderen en schade aan de wielkasten en ophanging te voorkomen."
+            },
+            {
+              "q": "Kan ik aftermarket ruitenwisserbladen gebruiken?",
+              "a": "Ja, zolang ze overeenkomen met de gespecificeerde lengtes (600 mm bestuurder, 450 mm passagier) en het bevestigingstype (doorgaans haak of specifieke vlakke bladadapter voor moderne Dacia-modellen)."
             }
           ]
         }
