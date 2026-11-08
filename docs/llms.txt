@@ -59,3 +59,4 @@
 - [Renault Clio 5](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/renault-clio-5-compatibility-matrix.html): Auto | 650 mm + 350 mm / 26 in + 14 in
 - [Dacia Duster III (2024-2026)](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/dacia-duster-iii-2024-2026-compatibility-matrix.html): Auto | 80 kg (Max Load) / 108 cm (Transversal Span) / ~7 cm (Height above roof) / 176.4 lbs (Max Load) / 42.5 in (Transversal Span) / ~2.8 in (Height above roof)
 - [BMW 3 Series (G20/G21)](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/bmw-3-series-g20-g21-compatibility-matrix.html): Auto | 600 mm + 475 mm / 24 in + 19 in
+- [Honda Civic (11th Gen 2022-2026)](https://Thorlan04.github.io/global-compatibility-matrix-agent/en/honda-civic-11th-gen-2022-2026-compatibility-matrix.html): Auto | 650 mm / 26 in

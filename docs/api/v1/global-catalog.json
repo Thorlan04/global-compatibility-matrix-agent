@@ -1,7 +1,7 @@
 {
   "api_version": "1.0.0",
-  "generated_at": "2026-11-08T12:40:37.774534+00:00",
-  "total_items": 41,
+  "generated_at": "2026-11-08T21:39:10.203859+00:00",
+  "total_items": 42,
   "site_url": "https://Thorlan04.github.io/global-compatibility-matrix-agent",
   "items": [
     {
@@ -17394,6 +17394,407 @@
             {
               "q": "Heb ik verschillende kofferbakmatten nodig voor de G20 Sedan en G21 Touring?",
               "a": "Ja, vanwege aanzienlijke verschillen in kofferbakvorm en -volume heeft u een specifieke kofferbakmat nodig die is ontworpen voor ofwel het G20 Sedan- ofwel het G21 Touring-model."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "honda-civic-11th-gen",
+      "slug": "honda-civic-11th-gen-2022-2026-compatibility-matrix",
+      "subject": "Honda Civic (11th Gen 2022-2026)",
+      "category": "auto",
+      "spec_rows": [
+        {
+          "item": "Driver Side Front Wiper Blade",
+          "metric": "650 mm",
+          "imperial": "26 in",
+          "status": "Verified",
+          "note": "Standard fitment for 11th Gen Honda Civic (2022-2026) models.",
+          "item_translations": {
+            "en": "Driver Side Front Wiper Blade",
+            "de": "Fahrerseite Scheibenwischer vorne",
+            "fr": "Balai d'essuie-glace avant côté conducteur",
+            "es": "Escobilla limpiaparabrisas delantera lado conductor",
+            "it": "Spazzola tergicristallo anteriore lato conducente",
+            "ja": "運転席側フロントワイパーブレード",
+            "pt": "Palheta do limpador de para-brisa dianteiro lado do motorista",
+            "nl": "Ruitenwisserblad voorzijde bestuurderszijde"
+          },
+          "note_translations": {
+            "en": "Standard fitment for 11th Gen Honda Civic (2022-2026) models.",
+            "de": "Standardausstattung für Honda Civic Modelle der 11. Generation (2022-2026).",
+            "fr": "Montage standard pour les modèles Honda Civic de 11e génération (2022-2026).",
+            "es": "Ajuste estándar para los modelos Honda Civic de 11ª generación (2022-2026).",
+            "it": "Montaggio standard per i modelli Honda Civic di 11ª generazione (2022-2026).",
+            "ja": "11代目ホンダシビック（2022-2026年モデル）の標準装備。",
+            "pt": "Encaixe padrão para modelos Honda Civic da 11ª Geração (2022-2026).",
+            "nl": "Standaardmontage voor Honda Civic modellen van de 11e generatie (2022-2026)."
+          }
+        },
+        {
+          "item": "Passenger Side Front Wiper Blade",
+          "metric": "475 mm",
+          "imperial": "19 in",
+          "status": "Verified",
+          "note": "Standard fitment for 11th Gen Honda Civic (2022-2026) models.",
+          "item_translations": {
+            "en": "Passenger Side Front Wiper Blade",
+            "de": "Beifahrerseite Scheibenwischer vorne",
+            "fr": "Balai d'essuie-glace avant côté passager",
+            "es": "Escobilla limpiaparabrisas delantera lado pasajero",
+            "it": "Spazzola tergicristallo anteriore lato passeggero",
+            "ja": "助手席側フロントワイパーブレード",
+            "pt": "Palheta do limpador de para-brisa dianteiro lado do passageiro",
+            "nl": "Ruitenwisserblad voorzijde passagierszijde"
+          },
+          "note_translations": {
+            "en": "Standard fitment for 11th Gen Honda Civic (2022-2026) models.",
+            "de": "Standardausstattung für Honda Civic Modelle der 11. Generation (2022-2026).",
+            "fr": "Montage standard pour les modèles Honda Civic de 11e génération (2022-2026).",
+            "es": "Ajuste estándar para los modelos Honda Civic de 11ª generación (2022-2026).",
+            "it": "Montaggio standard per i modelli Honda Civic di 11ª generazione (2022-2026).",
+            "ja": "11代目ホンダシビック（2022-2026年モデル）の標準装備。",
+            "pt": "Encaixe padrão para modelos Honda Civic da 11ª Geração (2022-2026).",
+            "nl": "Standaardmontage voor Honda Civic modellen van de 11e generatie (2022-2026)."
+          }
+        },
+        {
+          "item": "Rear Wiper Blade",
+          "metric": "300 mm",
+          "imperial": "12 in",
+          "status": "Verified",
+          "note": "Applicable to 11th Gen Honda Civic Hatchback models only.",
+          "item_translations": {
+            "en": "Rear Wiper Blade",
+            "de": "Heckscheibenwischer",
+            "fr": "Balai d'essuie-glace arrière",
+            "es": "Escobilla limpiaparabrisas trasera",
+            "it": "Spazzola tergicristallo posteriore",
+            "ja": "リアワイパーブレード",
+            "pt": "Palheta do limpador de para-brisa traseiro",
+            "nl": "Achterruitenwisserblad"
+          },
+          "note_translations": {
+            "en": "Applicable to 11th Gen Honda Civic Hatchback models only.",
+            "de": "Nur für Honda Civic Hatchback Modelle der 11. Generation anwendbar.",
+            "fr": "Applicable uniquement aux modèles Honda Civic Hatchback de 11e génération.",
+            "es": "Aplicable solo a los modelos Honda Civic Hatchback de 11ª generación.",
+            "it": "Applicabile solo ai modelli Honda Civic Hatchback di 11ª generazione.",
+            "ja": "11代目ホンダシビックハッチバックモデルのみに適用。",
+            "pt": "Aplicável apenas aos modelos Honda Civic Hatchback da 11ª Geração.",
+            "nl": "Alleen van toepassing op Honda Civic Hatchback modellen van de 11e generatie."
+          }
+        },
+        {
+          "item": "Trunk Cargo Tray (Sedan)",
+          "metric": "Approx. 105 cm x 95 cm (Length x Width)",
+          "imperial": "Approx. 41.3 in x 37.4 in (Length x Width)",
+          "status": "Compatible",
+          "note": "Designed to fit the contours of the 11th Gen Honda Civic Sedan trunk floor. Exact dimensions may vary slightly by manufacturer.",
+          "item_translations": {
+            "en": "Trunk Cargo Tray (Sedan)",
+            "de": "Kofferraumwanne (Limousine)",
+            "fr": "Tapis de coffre (Berline)",
+            "es": "Bandeja de maletero (Sedán)",
+            "it": "Vasca baule (Berlina)",
+            "ja": "トランクカーゴトレイ（セダン）",
+            "pt": "Bandeja de Carga do Porta-Malas (Sedan)",
+            "nl": "Kofferbakmat (Sedan)"
+          },
+          "note_translations": {
+            "en": "Designed to fit the contours of the 11th Gen Honda Civic Sedan trunk floor. Exact dimensions may vary slightly by manufacturer.",
+            "de": "Entwickelt, um den Konturen des Kofferraumbodens des Honda Civic Limousine der 11. Generation zu entsprechen. Genaue Abmessungen können je nach Hersteller leicht variieren.",
+            "fr": "Conçu pour s'adapter aux contours du plancher de coffre de la Honda Civic Berline de 11e génération. Les dimensions exactes peuvent varier légèrement selon le fabricant.",
+            "es": "Diseñado para adaptarse a los contornos del suelo del maletero del Honda Civic Sedán de 11ª generación. Las dimensiones exactas pueden variar ligeramente según el fabricante.",
+            "it": "Progettato per adattarsi ai contorni del pianale del bagagliaio della Honda Civic Berlina di 11ª generazione. Le dimensioni esatte possono variare leggermente a seconda del produttore.",
+            "ja": "11代目ホンダシビックセダンのトランクフロアの形状に合わせて設計されています。正確な寸法はメーカーによって若干異なる場合があります。",
+            "pt": "Projetado para se ajustar aos contornos do piso do porta-malas do Honda Civic Sedan da 11ª Geração. As dimensões exatas podem variar ligeiramente de acordo com o fabricante.",
+            "nl": "Ontworpen om te passen bij de contouren van de kofferbakvloer van de 11e generatie Honda Civic Sedan. Exacte afmetingen kunnen enigszins variëren per fabrikant."
+          }
+        },
+        {
+          "item": "Trunk Cargo Tray (Hatchback)",
+          "metric": "Approx. 100 cm x 70 cm (Length x Width, behind rear seats)",
+          "imperial": "Approx. 39.4 in x 27.6 in (Length x Width, behind rear seats)",
+          "status": "Compatible",
+          "note": "Designed to fit the cargo area behind the rear seats of the 11th Gen Honda Civic Hatchback. Exact dimensions may vary slightly by manufacturer.",
+          "item_translations": {
+            "en": "Trunk Cargo Tray (Hatchback)",
+            "de": "Kofferraumwanne (Schrägheck)",
+            "fr": "Tapis de coffre (Hayon)",
+            "es": "Bandeja de maletero (Hatchback)",
+            "it": "Vasca baule (Hatchback)",
+            "ja": "トランクカーゴトレイ（ハッチバック）",
+            "pt": "Bandeja de Carga do Porta-Malas (Hatchback)",
+            "nl": "Kofferbakmat (Hatchback)"
+          },
+          "note_translations": {
+            "en": "Designed to fit the cargo area behind the rear seats of the 11th Gen Honda Civic Hatchback. Exact dimensions may vary slightly by manufacturer.",
+            "de": "Entwickelt, um in den Laderaum hinter den Rücksitzen des Honda Civic Hatchback der 11. Generation zu passen. Genaue Abmessungen können je nach Hersteller leicht variieren.",
+            "fr": "Conçu pour s'adapter à l'espace de chargement derrière les sièges arrière de la Honda Civic Hayon de 11e génération. Les dimensions exactes peuvent varier légèrement selon le fabricant.",
+            "es": "Diseñado para adaptarse al área de carga detrás de los asientos traseros del Honda Civic Hatchback de 11ª generación. Las dimensiones exactas pueden variar ligeramente según el fabricante.",
+            "it": "Progettato per adattarsi all'area di carico dietro i sedili posteriori della Honda Civic Hatchback di 11ª generazione. Le dimensioni esatte possono variare leggermente a seconda del produttore.",
+            "ja": "11代目ホンダシビックハッチバックの後部座席後方のカーゴエリアに合わせて設計されています。正確な寸法はメーカーによって若干異なる場合があります。",
+            "pt": "Projetado para se ajustar à área de carga atrás dos bancos traseiros do Honda Civic Hatchback da 11ª Geração. As dimensões exatas podem variar ligeiramente de acordo com o fabricante.",
+            "nl": "Ontworpen om te passen in de bagageruimte achter de achterbank van de 11e generatie Honda Civic Hatchback. Exacte afmetingen kunnen enigszins variëren per fabrikant."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "honda-civic-11th-gen-2022-2026-compatibility-matrix",
+          "title": "Honda Civic (11th Gen 2022-2026) Compatibility & Measurement Matrix",
+          "summary": "Comprehensive compatibility and exact measurement guide for the 11th Generation Honda Civic (model years 2022-2026), covering essential components like wiper blades and trunk cargo solutions.",
+          "amazon_search_query": "Honda Civic 11th Gen 2022 wiper blades cargo tray",
+          "buy_box_title": "Essential Accessories for Your 11th Gen Honda Civic",
+          "buy_box_subtitle": "Ensure perfect fitment and optimal performance with verified parts.",
+          "allowed_guidelines": [
+            "Always verify part numbers with your vehicle's VIN for critical components.",
+            "Consider OEM or reputable aftermarket brands for long-term reliability.",
+            "For wiper blades, ensure correct attachment type (e.g., J-hook, Pinch Tab) is compatible."
+          ],
+          "strict_restrictions": [
+            "Wiper blade lengths are specific; incorrect sizes can lead to poor wiping or damage.",
+            "Trunk cargo trays are model-specific; universal trays may not fit perfectly.",
+            "Compatibility data is for 11th Gen (2022-2026) models only; not interchangeable with previous generations."
+          ],
+          "faqs": [
+            {
+              "q": "What are the correct front wiper blade sizes for the 11th Gen Honda Civic?",
+              "a": "The driver side requires a 650 mm (26 in) blade, and the passenger side requires a 475 mm (19 in) blade."
+            },
+            {
+              "q": "Does the 11th Gen Honda Civic Sedan have a rear wiper?",
+              "a": "No, the 11th Gen Honda Civic Sedan models do not come with a rear wiper. The rear wiper blade specification (300 mm / 12 in) applies only to the Hatchback models."
+            },
+            {
+              "q": "Are trunk cargo trays interchangeable between the 11th Gen Civic Sedan and Hatchback?",
+              "a": "No, due to significant differences in trunk/cargo area dimensions and contours, cargo trays are not interchangeable between the Sedan and Hatchback models. Ensure you purchase the correct tray for your specific body style."
+            }
+          ]
+        },
+        "de": {
+          "slug": "honda-civic-11-generation-2022-2026-kompatibilitaetsmatrix",
+          "title": "Honda Civic (11. Generation 2022-2026) Kompatibilitäts- & Messmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messanleitung für den Honda Civic der 11. Generation (Modelljahre 2022-2026), die wesentliche Komponenten wie Scheibenwischer und Kofferraum-Ladelösungen abdeckt.",
+          "amazon_search_query": "Honda Civic 11. Gen 2022 Scheibenwischer Kofferraumwanne",
+          "buy_box_title": "Unverzichtbares Zubehör für Ihren Honda Civic der 11. Generation",
+          "buy_box_subtitle": "Sorgen Sie für perfekte Passform und optimale Leistung mit geprüften Teilen.",
+          "allowed_guidelines": [
+            "Überprüfen Sie immer die Teilenummern mit der Fahrgestellnummer Ihres Fahrzeugs für kritische Komponenten.",
+            "Ziehen Sie OEM- oder renommierte Aftermarket-Marken für langfristige Zuverlässigkeit in Betracht.",
+            "Stellen Sie bei Scheibenwischern sicher, dass der richtige Befestigungstyp (z.B. J-Haken, Pinch Tab) kompatibel ist."
+          ],
+          "strict_restrictions": [
+            "Scheibenwischerlängen sind spezifisch; falsche Größen können zu schlechter Wischleistung oder Beschädigungen führen.",
+            "Kofferraumwannen sind modellspezifisch; universelle Wannen passen möglicherweise nicht perfekt.",
+            "Kompatibilitätsdaten gelten nur für Modelle der 11. Generation (2022-2026); nicht austauschbar mit früheren Generationen."
+          ],
+          "faqs": [
+            {
+              "q": "Welche sind die richtigen Größen für die vorderen Scheibenwischer des Honda Civic der 11. Generation?",
+              "a": "Die Fahrerseite benötigt ein 650 mm (26 Zoll) Blatt und die Beifahrerseite ein 475 mm (19 Zoll) Blatt."
+            },
+            {
+              "q": "Hat der Honda Civic Limousine der 11. Generation einen Heckscheibenwischer?",
+              "a": "Nein, die Honda Civic Limousine Modelle der 11. Generation haben keinen Heckscheibenwischer. Die Spezifikation für den Heckscheibenwischer (300 mm / 12 Zoll) gilt nur für die Hatchback-Modelle."
+            },
+            {
+              "q": "Sind Kofferraumwannen zwischen dem 11. Gen Civic Limousine und Hatchback austauschbar?",
+              "a": "Nein, aufgrund erheblicher Unterschiede in den Abmessungen und Konturen des Kofferraums/Laderaums sind Kofferraumwannen zwischen den Limousinen- und Hatchback-Modellen nicht austauschbar. Stellen Sie sicher, dass Sie die richtige Wanne für Ihren spezifischen Karosserietyp kaufen."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "honda-civic-11eme-generation-2022-2026-matrice-compatibilite",
+          "title": "Honda Civic (11e Génération 2022-2026) Matrice de Compatibilité et de Mesures",
+          "summary": "Guide complet de compatibilité et de mesures exactes pour la Honda Civic de 11e génération (années modèles 2022-2026), couvrant les composants essentiels tels que les balais d'essuie-glace et les solutions de rangement de coffre.",
+          "amazon_search_query": "Honda Civic 11e Gen 2022 balais essuie-glace tapis coffre",
+          "buy_box_title": "Accessoires Essentiels pour Votre Honda Civic de 11e Génération",
+          "buy_box_subtitle": "Assurez un ajustement parfait et des performances optimales avec des pièces vérifiées.",
+          "allowed_guidelines": [
+            "Vérifiez toujours les numéros de pièce avec le VIN de votre véhicule pour les composants critiques.",
+            "Envisagez les marques OEM ou les marques de rechange réputées pour une fiabilité à long terme.",
+            "Pour les balais d'essuie-glace, assurez-vous que le type de fixation correct (par exemple, crochet en J, languette de pincement) est compatible."
+          ],
+          "strict_restrictions": [
+            "Les longueurs des balais d'essuie-glace sont spécifiques ; des tailles incorrectes peuvent entraîner un mauvais essuyage ou des dommages.",
+            "Les tapis de coffre sont spécifiques au modèle ; les tapis universels peuvent ne pas s'adapter parfaitement.",
+            "Les données de compatibilité concernent uniquement les modèles de 11e génération (2022-2026) ; non interchangeables avec les générations précédentes."
+          ],
+          "faqs": [
+            {
+              "q": "Quelles sont les tailles correctes des balais d'essuie-glace avant pour la Honda Civic de 11e génération ?",
+              "a": "Le côté conducteur nécessite un balai de 650 mm (26 po) et le côté passager un balai de 475 mm (19 po)."
+            },
+            {
+              "q": "La Honda Civic Berline de 11e génération a-t-elle un essuie-glace arrière ?",
+              "a": "Non, les modèles Honda Civic Berline de 11e génération ne sont pas équipés d'un essuie-glace arrière. La spécification du balai d'essuie-glace arrière (300 mm / 12 po) s'applique uniquement aux modèles à hayon."
+            },
+            {
+              "q": "Les tapis de coffre sont-ils interchangeables entre la Civic Berline et Hayon de 11e génération ?",
+              "a": "Non, en raison des différences significatives de dimensions et de contours du coffre/espace de chargement, les tapis de coffre ne sont pas interchangeables entre les modèles Berline et Hayon. Assurez-vous d'acheter le tapis correct pour votre type de carrosserie spécifique."
+            }
+          ]
+        },
+        "es": {
+          "slug": "honda-civic-11a-generacion-2022-2026-matriz-compatibilidad",
+          "title": "Honda Civic (11ª Generación 2022-2026) Matriz de Compatibilidad y Medidas",
+          "summary": "Guía completa de compatibilidad y medidas exactas para el Honda Civic de 11ª Generación (años modelo 2022-2026), que cubre componentes esenciales como las escobillas limpiaparabrisas y las soluciones de carga para el maletero.",
+          "amazon_search_query": "Honda Civic 11a Gen 2022 escobillas limpiaparabrisas bandeja maletero",
+          "buy_box_title": "Accesorios Esenciales para Su Honda Civic de 11ª Generación",
+          "buy_box_subtitle": "Asegure un ajuste perfecto y un rendimiento óptimo con piezas verificadas.",
+          "allowed_guidelines": [
+            "Siempre verifique los números de pieza con el VIN de su vehículo para componentes críticos.",
+            "Considere marcas OEM o de posventa de buena reputación para una fiabilidad a largo plazo.",
+            "Para las escobillas limpiaparabrisas, asegúrese de que el tipo de fijación correcto (por ejemplo, gancho en J, pestaña de pellizco) sea compatible."
+          ],
+          "strict_restrictions": [
+            "Las longitudes de las escobillas limpiaparabrisas son específicas; tamaños incorrectos pueden provocar un mal barrido o daños.",
+            "Las bandejas de carga del maletero son específicas del modelo; las bandejas universales pueden no encajar perfectamente.",
+            "Los datos de compatibilidad son solo para modelos de 11ª generación (2022-2026); no son intercambiables con generaciones anteriores."
+          ],
+          "faqs": [
+            {
+              "q": "¿Cuáles son los tamaños correctos de las escobillas limpiaparabrisas delanteras para el Honda Civic de 11ª Generación?",
+              "a": "El lado del conductor requiere una escobilla de 650 mm (26 pulg) y el lado del pasajero requiere una escobilla de 475 mm (19 pulg)."
+            },
+            {
+              "q": "¿El Honda Civic Sedán de 11ª Generación tiene limpiaparabrisas trasero?",
+              "a": "No, los modelos Honda Civic Sedán de 11ª Generación no vienen con limpiaparabrisas trasero. La especificación de la escobilla limpiaparabrisas trasera (300 mm / 12 pulg) se aplica solo a los modelos Hatchback."
+            },
+            {
+              "q": "¿Son las bandejas de carga del maletero intercambiables entre el Civic Sedán y Hatchback de 11ª Generación?",
+              "a": "No, debido a las diferencias significativas en las dimensiones y contornos del maletero/área de carga, las bandejas de carga no son intercambiables entre los modelos Sedán y Hatchback. Asegúrese de comprar la bandeja correcta para su tipo de carrocería específico."
+            }
+          ]
+        },
+        "it": {
+          "slug": "honda-civic-11a-generazione-2022-2026-matrice-compatibilita",
+          "title": "Honda Civic (11ª Generazione 2022-2026) Matrice di Compatibilità e Misure",
+          "summary": "Guida completa di compatibilità e misure esatte per la Honda Civic di 11ª Generazione (anni modello 2022-2026), che copre componenti essenziali come le spazzole tergicristallo e le soluzioni per il vano bagagli.",
+          "amazon_search_query": "Honda Civic 11a Gen 2022 spazzole tergicristallo vasca baule",
+          "buy_box_title": "Accessori Essenziali per la Tua Honda Civic di 11ª Generazione",
+          "buy_box_subtitle": "Assicura un montaggio perfetto e prestazioni ottimali con ricambi verificati.",
+          "allowed_guidelines": [
+            "Verificare sempre i codici dei ricambi con il VIN del veicolo per i componenti critici.",
+            "Considerare marchi OEM o aftermarket affidabili per una durabilità a lungo termine.",
+            "Per le spazzole tergicristallo, assicurarsi che il tipo di attacco corretto (es. gancio a J, Pinch Tab) sia compatibile."
+          ],
+          "strict_restrictions": [
+            "Le lunghezze delle spazzole tergicristallo sono specifiche; dimensioni errate possono portare a una scarsa pulizia o danni.",
+            "Le vasche baule sono specifiche per modello; le vasche universali potrebbero non adattarsi perfettamente.",
+            "I dati di compatibilità sono validi solo per i modelli di 11ª Generazione (2022-2026); non sono intercambiabili con le generazioni precedenti."
+          ],
+          "faqs": [
+            {
+              "q": "Quali sono le dimensioni corrette delle spazzole tergicristallo anteriori per la Honda Civic di 11ª Generazione?",
+              "a": "Il lato conducente richiede una spazzola da 650 mm (26 pollici) e il lato passeggero richiede una spazzola da 475 mm (19 pollici)."
+            },
+            {
+              "q": "La Honda Civic Berlina di 11ª Generazione ha un tergicristallo posteriore?",
+              "a": "No, i modelli Honda Civic Berlina di 11ª Generazione non sono dotati di tergicristallo posteriore. La specifica della spazzola tergicristallo posteriore (300 mm / 12 pollici) si applica solo ai modelli Hatchback."
+            },
+            {
+              "q": "Le vasche baule sono intercambiabili tra la Civic Berlina e Hatchback di 11ª Generazione?",
+              "a": "No, a causa delle significative differenze nelle dimensioni e nei contorni del bagagliaio/area di carico, le vasche baule non sono intercambiabili tra i modelli Berlina e Hatchback. Assicurarsi di acquistare la vasca corretta per il proprio tipo di carrozzeria specifico."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "honda-civic-11th-gen-2022-2026-compatibility-matrix",
+          "title": "ホンダ シビック (11代目 2022-2026) 互換性および正確な測定マトリックス",
+          "summary": "11代目ホンダ シビック（2022-2026年モデル）向けの包括的な互換性および正確な測定ガイド。ワイパーブレードやトランクカーゴソリューションなどの主要コンポーネントを網羅しています。",
+          "amazon_search_query": "ホンダ シビック 11代目 2022 ワイパーブレード トランクカーゴトレイ",
+          "buy_box_title": "11代目ホンダ シビック用必須アクセサリー",
+          "buy_box_subtitle": "検証済みの部品で完璧なフィット感と最適な性能を確保してください。",
+          "allowed_guidelines": [
+            "重要なコンポーネントについては、常に車両のVINで部品番号を確認してください。",
+            "長期的な信頼性のために、OEMまたは評判の良いアフターマーケットブランドを検討してください。",
+            "ワイパーブレードについては、正しい取り付けタイプ（例：Jフック、ピンチタブ）が互換性があることを確認してください。"
+          ],
+          "strict_restrictions": [
+            "ワイパーブレードの長さは特定されています。間違ったサイズは拭き取り不良や損傷につながる可能性があります。",
+            "トランクカーゴトレイはモデル固有です。汎用トレイは完璧にフィットしない場合があります。",
+            "互換性データは11代目（2022-2026）モデルのみに適用され、以前の世代とは互換性がありません。"
+          ],
+          "faqs": [
+            {
+              "q": "11代目ホンダ シビックの正しいフロントワイパーブレードのサイズは何ですか？",
+              "a": "運転席側は650 mm (26インチ)、助手席側は475 mm (19インチ) のブレードが必要です。"
+            },
+            {
+              "q": "11代目ホンダ シビック セダンにはリアワイパーがありますか？",
+              "a": "いいえ、11代目ホンダ シビック セダンモデルにはリアワイパーは付属していません。リアワイパーブレードの仕様（300 mm / 12インチ）はハッチバックモデルにのみ適用されます。"
+            },
+            {
+              "q": "11代目シビックのセダンとハッチバックの間でトランクカーゴトレイは交換可能ですか？",
+              "a": "いいえ、トランク/カーゴエリアの寸法と形状に大きな違いがあるため、セダンとハッチバックモデルの間でカーゴトレイは交換できません。特定のボディスタイルに合った正しいトレイを購入してください。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "honda-civic-11a-geracao-2022-2026-matriz-compatibilidade",
+          "title": "Honda Civic (11ª Geração 2022-2026) Matriz de Compatibilidade e Medidas",
+          "summary": "Guia completo de compatibilidade e medidas exatas para o Honda Civic da 11ª Geração (anos modelo 2022-2026), cobrindo componentes essenciais como palhetas de limpador de para-brisa e soluções de carga para o porta-malas.",
+          "amazon_search_query": "Honda Civic 11a Gen 2022 palhetas limpador bandeja porta-malas",
+          "buy_box_title": "Acessórios Essenciais para o Seu Honda Civic da 11ª Geração",
+          "buy_box_subtitle": "Garanta um encaixe perfeito e desempenho ideal com peças verificadas.",
+          "allowed_guidelines": [
+            "Sempre verifique os números de peça com o VIN do seu veículo para componentes críticos.",
+            "Considere marcas OEM ou de reposição de boa reputação para confiabilidade a longo prazo.",
+            "Para palhetas de limpador de para-brisa, certifique-se de que o tipo de fixação correto (por exemplo, gancho em J, Pinch Tab) seja compatível."
+          ],
+          "strict_restrictions": [
+            "Os comprimentos das palhetas do limpador de para-brisa são específicos; tamanhos incorretos podem levar a uma limpeza deficiente ou danos.",
+            "As bandejas de carga do porta-malas são específicas do modelo; bandejas universais podem não se encaixar perfeitamente.",
+            "Os dados de compatibilidade são apenas para modelos da 11ª Geração (2022-2026); não são intercambiáveis com gerações anteriores."
+          ],
+          "faqs": [
+            {
+              "q": "Quais são os tamanhos corretos das palhetas do limpador de para-brisa dianteiro para o Honda Civic da 11ª Geração?",
+              "a": "O lado do motorista requer uma palheta de 650 mm (26 pol) e o lado do passageiro requer uma palheta de 475 mm (19 pol)."
+            },
+            {
+              "q": "O Honda Civic Sedan da 11ª Geração tem limpador de para-brisa traseiro?",
+              "a": "Não, os modelos Honda Civic Sedan da 11ª Geração não vêm com limpador de para-brisa traseiro. A especificação da palheta do limpador de para-brisa traseiro (300 mm / 12 pol) aplica-se apenas aos modelos Hatchback."
+            },
+            {
+              "q": "As bandejas de carga do porta-malas são intercambiáveis entre o Civic Sedan e Hatchback da 11ª Geração?",
+              "a": "Não, devido às diferenças significativas nas dimensões e contornos do porta-malas/área de carga, as bandejas de carga não são intercambiáveis entre os modelos Sedan e Hatchback. Certifique-se de comprar a bandeja correta para o seu tipo de carroceria específico."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "honda-civic-11e-generatie-2022-2026-compatibiliteitsmatrix",
+          "title": "Honda Civic (11e Generatie 2022-2026) Compatibiliteits- & Meetmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetgids voor de 11e generatie Honda Civic (modeljaren 2022-2026), met essentiële componenten zoals ruitenwisserbladen en kofferbakoplossingen.",
+          "amazon_search_query": "Honda Civic 11e Gen 2022 ruitenwisserbladen kofferbakmat",
+          "buy_box_title": "Essentiële Accessoires voor Uw 11e Generatie Honda Civic",
+          "buy_box_subtitle": "Zorg voor een perfecte pasvorm en optimale prestaties met geverifieerde onderdelen.",
+          "allowed_guidelines": [
+            "Controleer altijd onderdeelnummers met het VIN van uw voertuig voor kritieke componenten.",
+            "Overweeg OEM- of gerenommeerde aftermarket-merken voor langdurige betrouwbaarheid.",
+            "Zorg er bij ruitenwisserbladen voor dat het juiste bevestigingstype (bijv. J-haak, Pinch Tab) compatibel is."
+          ],
+          "strict_restrictions": [
+            "Ruitenwisserbladlengtes zijn specifiek; onjuiste maten kunnen leiden tot slecht wissen of schade.",
+            "Kofferbakmatten zijn modelspecifiek; universele matten passen mogelijk niet perfect.",
+            "Compatibiliteitsgegevens zijn alleen voor 11e generatie (2022-2026) modellen; niet uitwisselbaar met eerdere generaties."
+          ],
+          "faqs": [
+            {
+              "q": "Wat zijn de juiste maten voor de voorruitenwisserbladen voor de 11e generatie Honda Civic?",
+              "a": "De bestuurderszijde vereist een blad van 650 mm (26 inch) en de passagierszijde vereist een blad van 475 mm (19 inch)."
+            },
+            {
+              "q": "Heeft de 11e generatie Honda Civic Sedan een achterruitenwisser?",
+              "a": "Nee, de 11e generatie Honda Civic Sedan modellen worden niet geleverd met een achterruitenwisser. De specificatie voor het achterruitenwisserblad (300 mm / 12 inch) is alleen van toepassing op de Hatchback-modellen."
+            },
+            {
+              "q": "Zijn kofferbakmatten uitwisselbaar tussen de 11e generatie Civic Sedan en Hatchback?",
+              "a": "Nee, vanwege aanzienlijke verschillen in kofferbak-/laadruimteafmetingen en contouren, zijn kofferbakmatten niet uitwisselbaar tussen de Sedan- en Hatchback-modellen. Zorg ervoor dat u de juiste mat koopt voor uw specifieke carrosserietype."
             }
           ]
         }
