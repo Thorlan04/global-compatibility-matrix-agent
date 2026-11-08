@@ -793,3 +793,20 @@ Universal Precision Dimensions Database for AI Agents (Dual Metric & Imperial St
 * 🇦🇺 Australia: https://www.amazon.com.au/s?k=Dacia+Duster+3+accessories%2C+Duster+2024+roof+bars%2C+Duster+2024+wiper+blades%2C+Duster+2024+snow+chains&tag=autocompat-21
 
 ---
+
+## BMW 3 Series (G20/G21) (AUTO)
+- Canonical Link: https://Thorlan04.github.io/global-compatibility-matrix-agent/en/bmw-3-series-g20-g21-compatibility-matrix.html
+- Summary: Comprehensive compatibility and exact measurement guide for BMW 3 Series G20 Sedan and G21 Touring models, covering essential accessories like wiper blades, roof bars, and trunk cargo liners.
+
+### Exact Specifications (Dual Units):
+* **Front Wiper Blades (Driver + Passenger)**: Metric: `600 mm + 475 mm` | Imperial: `24 in + 19 in` (Specific to G20/G21 models. Ensure correct adapter type.)
+* **Roof Bar System (Fixed Point Mount)**: Metric: `Max. 75 kg load capacity` | Imperial: `Max. 165 lbs load capacity` (Requires specific fixed point mounting kit. Consult vehicle manual for exact load distribution.)
+* **Trunk Cargo Liner**: Metric: `Custom fit for G20/G21 trunk floor (approx. 100 x 100 cm for sedan)` | Imperial: `Custom fit for G20/G21 trunk floor (approx. 39.4 x 39.4 in for sedan)` (Ensure model-specific fitment (sedan G20 or touring G21) for optimal coverage.)
+
+### Verified Amazon Multi-Store Purchase Links:
+* 🇺🇸 United States: https://www.amazon.com/s?k=BMW+G20+G21+wiper+blades+roof+bars+trunk+liner&tag=autocompat-21
+* 🇬🇧 United Kingdom: https://www.amazon.co.uk/s?k=BMW+G20+G21+wiper+blades+roof+bars+trunk+liner&tag=autocompat-21
+* 🇨🇦 Canada: https://www.amazon.ca/s?k=BMW+G20+G21+wiper+blades+roof+bars+trunk+liner&tag=autocompat-21
+* 🇦🇺 Australia: https://www.amazon.com.au/s?k=BMW+G20+G21+wiper+blades+roof+bars+trunk+liner&tag=autocompat-21
+
+---

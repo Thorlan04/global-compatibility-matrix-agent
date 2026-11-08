@@ -1,81 +1,83 @@
 {
-  "last_updated": "2026-11-07T21:23:32.417005+00:00",
+  "last_updated": "2026-11-08T04:10:44.738390+00:00",
   "telegraph_access_token": "fcea2f6cf27a362298f22cc9e47d592c3398f9222cc4e01a440177c9f7af",
   "indexnow_key": "9c1a5b82e4f04d7aa38d21b7f035ef19",
   "treated_slugs": [
-    "peugeot-3008",
-    "easyjet-baggage-powerbank-guide",
-    "air-france",
-    "ford-f150-2021-2026-compatibility-matrix",
-    "sony-bravia",
-    "dacia-duster",
-    "qatar-airways-baggage-power-bank-guide",
-    "air-canada",
-    "vw-tiguan-mk2-mk3-compatibility-matrix",
-    "toyota-rav4-5th-gen-compatibility-matrix",
-    "nintendo-switch",
-    "lg-oled-c3-c4-vesa-mount-power",
-    "ford-f150",
-    "latam",
-    "vueling",
-    "ana-jal",
-    "vw-golf-8",
-    "southwest",
-    "valve-steam-deck-oled",
-    "playstation-5-slim-pro-compatibility",
-    "asus-rog-ally-x",
-    "ana-japan-airlines-carry-on-luggage-compatibility",
-    "vueling-baggage-allowance",
-    "united-airlines-baggage-lithium-battery-rules",
-    "transavia-baggage-allowance",
-    "southwest-airlines-baggage-policy",
-    "dacia-duster-iii-2024-2026-compatibility-matrix",
-    "gopro-hero-12-13-black-compatibility-matrix",
-    "nintendo-switch-switch-oled-compatibility-matrix",
-    "macbook-pro-14-16-m3-m4-compatibility",
-    "air-france-baggage-allowance",
-    "renault-clio-5-compatibility-matrix",
-    "tesla-model-3",
-    "samsung-neo-qled-oled-tv-compatibility-matrix",
-    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
-    "vw-tiguan",
-    "steam-deck-oled",
-    "american-airlines-compatibility-matrix",
-    "ryanair-cabin-baggage-dimensions",
-    "wizz-air",
-    "tesla-model-y-wipers-roof-trunk-dimensions",
-    "lufthansa",
-    "tesla-model-3-highland-compatibility-matrix",
-    "transavia",
-    "toyota-corolla",
-    "lufthansa-airlines-baggage-guide",
-    "emirates",
-    "ps5-slim-pro",
-    "renault-clio",
-    "xbox-series-x",
-    "toyota-corolla-e210-compatibility-matrix",
-    "delta",
-    "xbox-series-x-hardware-compatibility-matrix",
     "peugeot-208-ii-e-208-compatibility-matrix",
-    "macbook-pro-m3",
-    "latam-airlines-baggage-allowance",
-    "toyota-rav4",
+    "ana-jal",
+    "emirates",
+    "nintendo-switch-switch-oled-compatibility-matrix",
     "british-airways",
+    "ford-f150-2021-2026-compatibility-matrix",
+    "peugeot-3008-ii-iii-compatibility-matrix",
+    "toyota-corolla",
+    "peugeot-3008",
+    "bmw-series-3",
     "volkswagen-golf-8-compatibility-matrix",
-    "qatar-airways",
+    "wizz-air",
+    "vueling",
+    "vw-golf-8",
+    "easyjet",
+    "american-airlines-compatibility-matrix",
+    "united",
+    "easyjet-baggage-powerbank-guide",
+    "dacia-duster",
+    "transavia",
+    "macbook-pro-m3",
     "american",
     "qantas-carry-on-baggage-allowance",
+    "united-airlines-baggage-lithium-battery-rules",
+    "nintendo-switch",
+    "air-canada",
+    "lg-oled-c3-c4-vesa-mount-power",
+    "asus-rog-ally-x",
+    "valve-steam-deck-oled",
+    "air-france-baggage-allowance",
     "dji-mini-air",
-    "dji-mini-4-pro-air-3-compatibility-matrix",
+    "tesla-model-3-highland-compatibility-matrix",
+    "vw-tiguan",
+    "toyota-rav4",
     "gopro-12-13",
-    "qantas",
-    "samsung-qled",
-    "easyjet",
-    "peugeot-3008-ii-iii-compatibility-matrix",
-    "peugeot-208",
-    "emirates-baggage-allowance",
     "delta-air-lines-compatibility-matrix",
-    "united"
+    "toyota-rav4-5th-gen-compatibility-matrix",
+    "ana-japan-airlines-carry-on-luggage-compatibility",
+    "bmw-3-series-g20-g21-compatibility-matrix",
+    "latam-airlines-baggage-allowance",
+    "delta",
+    "ford-f150",
+    "qatar-airways",
+    "emirates-baggage-allowance",
+    "gopro-hero-12-13-black-compatibility-matrix",
+    "renault-clio-5-compatibility-matrix",
+    "renault-clio",
+    "macbook-pro-14-16-m3-m4-compatibility",
+    "qantas",
+    "steam-deck-oled",
+    "ps5-slim-pro",
+    "vw-tiguan-mk2-mk3-compatibility-matrix",
+    "dacia-duster-iii-2024-2026-compatibility-matrix",
+    "ryanair-cabin-baggage-dimensions",
+    "xbox-series-x",
+    "southwest",
+    "vueling-baggage-allowance",
+    "tesla-model-y-wipers-roof-trunk-dimensions",
+    "transavia-baggage-allowance",
+    "peugeot-208",
+    "lufthansa-airlines-baggage-guide",
+    "air-france",
+    "samsung-neo-qled-oled-tv-compatibility-matrix",
+    "sony-bravia",
+    "qatar-airways-baggage-power-bank-guide",
+    "dji-mini-4-pro-air-3-compatibility-matrix",
+    "latam",
+    "playstation-5-slim-pro-compatibility",
+    "xbox-series-x-hardware-compatibility-matrix",
+    "toyota-corolla-e210-compatibility-matrix",
+    "southwest-airlines-baggage-policy",
+    "sony-bravia-xr-a80l-a95l-x90l-compatibility-matrix",
+    "lufthansa",
+    "samsung-qled",
+    "tesla-model-3"
   ],
   "topics_backlog": [
     {
@@ -17357,6 +17359,353 @@
             {
               "q": "Kan ik aftermarket ruitenwisserbladen gebruiken?",
               "a": "Ja, zolang ze overeenkomen met de gespecificeerde lengtes (600 mm bestuurder, 450 mm passagier) en het bevestigingstype (doorgaans haak of specifieke vlakke bladadapter voor moderne Dacia-modellen)."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "bmw-series-3",
+      "slug": "bmw-3-series-g20-g21-compatibility-matrix",
+      "subject": "BMW 3 Series (G20/G21)",
+      "category": "auto",
+      "spec_rows": [
+        {
+          "item": "Front Wiper Blades (Driver + Passenger)",
+          "metric": "600 mm + 475 mm",
+          "imperial": "24 in + 19 in",
+          "status": "Verified",
+          "note": "Specific to G20/G21 models. Ensure correct adapter type.",
+          "item_translations": {
+            "en": "Front Wiper Blades (Driver + Passenger)",
+            "de": "Scheibenwischer vorne (Fahrer + Beifahrer)",
+            "fr": "Balais d'essuie-glace avant (Conducteur + Passager)",
+            "es": "Escobillas limpiaparabrisas delanteras (Conductor + Pasajero)",
+            "it": "Spazzole tergicristallo anteriori (Conducente + Passeggero)",
+            "ja": "フロントワイパーブレード（運転席＋助手席）",
+            "pt": "Palhetas do Limpador de Para-brisa Dianteiras (Motorista + Passageiro)",
+            "nl": "Ruitenwisserbladen voor (Bestuurder + Passagier)"
+          },
+          "note_translations": {
+            "en": "Specific to G20/G21 models. Ensure correct adapter type.",
+            "de": "Spezifisch für G20/G21 Modelle. Richtigen Adaptertyp sicherstellen.",
+            "fr": "Spécifique aux modèles G20/G21. Assurez-vous du bon type d'adaptateur.",
+            "es": "Específico para modelos G20/G21. Asegúrese del tipo de adaptador correcto.",
+            "it": "Specifico per i modelli G20/G21. Assicurarsi del tipo di adattatore corretto.",
+            "ja": "G20/G21モデル専用。正しいアダプタータイプを確認してください。",
+            "pt": "Específico para modelos G20/G21. Garanta o tipo de adaptador correto.",
+            "nl": "Specifiek voor G20/G21 modellen. Zorg voor het juiste adaptertype."
+          }
+        },
+        {
+          "item": "Roof Bar System (Fixed Point Mount)",
+          "metric": "Max. 75 kg load capacity",
+          "imperial": "Max. 165 lbs load capacity",
+          "status": "Verified",
+          "note": "Requires specific fixed point mounting kit. Consult vehicle manual for exact load distribution.",
+          "item_translations": {
+            "en": "Roof Bar System (Fixed Point Mount)",
+            "de": "Dachträgersystem (Festpunktmontage)",
+            "fr": "Système de barres de toit (Fixation par points fixes)",
+            "es": "Sistema de barras de techo (Montaje de punto fijo)",
+            "it": "Sistema di barre portatutto (Montaggio a punto fisso)",
+            "ja": "ルーフラックシステム（固定ポイントマウント）",
+            "pt": "Sistema de Barras de Tejadilho (Montagem em Ponto Fixo)",
+            "nl": "Dakrailsysteem (Vast Punt Bevestiging)"
+          },
+          "note_translations": {
+            "en": "Requires specific fixed point mounting kit. Consult vehicle manual for exact load distribution.",
+            "de": "Erfordert ein spezifisches Festpunkt-Montageset. Beachten Sie das Fahrzeughandbuch für die genaue Lastverteilung.",
+            "fr": "Nécessite un kit de montage spécifique pour points fixes. Consultez le manuel du véhicule pour la répartition exacte de la charge.",
+            "es": "Requiere un kit de montaje de punto fijo específico. Consulte el manual del vehículo para la distribución exacta de la carga.",
+            "it": "Richiede un kit di montaggio specifico per punti fissi. Consultare il manuale del veicolo per la distribuzione esatta del carico.",
+            "ja": "特定の固定ポイント取り付けキットが必要です。正確な荷重配分については車両マニュアルを参照してください。",
+            "pt": "Requer kit de montagem de ponto fixo específico. Consulte o manual do veículo para a distribuição exata da carga.",
+            "nl": "Vereist een specifieke vaste punt montageset. Raadpleeg de voertuighandleiding voor de exacte lastverdeling."
+          }
+        },
+        {
+          "item": "Trunk Cargo Liner",
+          "metric": "Custom fit for G20/G21 trunk floor (approx. 100 x 100 cm for sedan)",
+          "imperial": "Custom fit for G20/G21 trunk floor (approx. 39.4 x 39.4 in for sedan)",
+          "status": "Verified",
+          "note": "Ensure model-specific fitment (sedan G20 or touring G21) for optimal coverage.",
+          "item_translations": {
+            "en": "Trunk Cargo Liner",
+            "de": "Kofferraumwanne",
+            "fr": "Tapis de coffre",
+            "es": "Alfombrilla de maletero",
+            "it": "Tappetino per bagagliaio",
+            "ja": "トランクカーゴライナー",
+            "pt": "Forro de Bagageira",
+            "nl": "Kofferbakmat"
+          },
+          "note_translations": {
+            "en": "Ensure model-specific fitment (sedan G20 or touring G21) for optimal coverage.",
+            "de": "Stellen Sie eine modellspezifische Passform (Limousine G20 oder Touring G21) für optimale Abdeckung sicher.",
+            "fr": "Assurez-vous d'un ajustement spécifique au modèle (berline G20 ou touring G21) pour une couverture optimale.",
+            "es": "Asegure un ajuste específico del modelo (sedán G20 o touring G21) para una cobertura óptima.",
+            "it": "Assicurarsi di un adattamento specifico al modello (berlina G20 o touring G21) per una copertura ottimale.",
+            "ja": "最適なカバー範囲のために、モデル固有の適合性（セダンG20またはツーリングG21）を確認してください。",
+            "pt": "Garanta o ajuste específico do modelo (sedan G20 ou touring G21) para uma cobertura ideal.",
+            "nl": "Zorg voor een modelspecifieke pasvorm (sedan G20 of touring G21) voor optimale dekking."
+          }
+        }
+      ],
+      "translations": {
+        "en": {
+          "slug": "bmw-3-series-g20-g21-compatibility-matrix",
+          "title": "BMW 3 Series (G20/G21) Compatibility Matrix",
+          "summary": "Comprehensive compatibility and exact measurement guide for BMW 3 Series G20 Sedan and G21 Touring models, covering essential accessories like wiper blades, roof bars, and trunk cargo liners.",
+          "amazon_search_query": "BMW G20 G21 wiper blades roof bars trunk liner",
+          "buy_box_title": "Essential Accessories for Your BMW 3 Series (G20/G21)",
+          "buy_box_subtitle": "Verified Fitment & Exact Measurements",
+          "allowed_guidelines": [
+            "Always verify part numbers with your vehicle's VIN.",
+            "Opt for OEM or reputable aftermarket brands for critical components.",
+            "Ensure proper installation by following manufacturer instructions."
+          ],
+          "strict_restrictions": [
+            "Avoid generic 'universal fit' products for precision items like wiper blades or roof bars.",
+            "Do not exceed the vehicle's maximum roof load capacity.",
+            "Incorrectly sized or installed accessories can lead to damage or safety hazards."
+          ],
+          "faqs": [
+            {
+              "q": "Are the wiper blade sizes the same for G20 Sedan and G21 Touring?",
+              "a": "Yes, the front wiper blade sizes (600mm / 24in driver, 475mm / 19in passenger) are identical for both G20 Sedan and G21 Touring models."
+            },
+            {
+              "q": "What is the maximum roof load for the G20/G21?",
+              "a": "The maximum permissible roof load for the BMW 3 Series G20/G21 is 75 kg (165 lbs), including the weight of the roof bar system itself."
+            },
+            {
+              "q": "Do I need different trunk liners for the G20 Sedan and G21 Touring?",
+              "a": "Yes, due to significant differences in trunk shape and volume, you will need a specific trunk cargo liner designed for either the G20 Sedan or the G21 Touring model."
+            }
+          ]
+        },
+        "de": {
+          "slug": "bmw-3er-g20-g21-kompatibilitaetsmatrix",
+          "title": "BMW 3er (G20/G21) Kompatibilitätsmatrix",
+          "summary": "Umfassende Kompatibilitäts- und genaue Messanleitung für BMW 3er G20 Limousine und G21 Touring Modelle, einschließlich wichtiger Zubehörteile wie Scheibenwischer, Dachträger und Kofferraumwannen.",
+          "amazon_search_query": "BMW G20 G21 Scheibenwischer Dachträger Kofferraumwanne",
+          "buy_box_title": "Wesentliches Zubehör für Ihren BMW 3er (G20/G21)",
+          "buy_box_subtitle": "Geprüfte Passform & Exakte Maße",
+          "allowed_guidelines": [
+            "Überprüfen Sie immer die Teilenummern mit der Fahrgestellnummer Ihres Fahrzeugs.",
+            "Wählen Sie OEM- oder renommierte Aftermarket-Marken für kritische Komponenten.",
+            "Stellen Sie die ordnungsgemäße Installation gemäß den Herstelleranweisungen sicher."
+          ],
+          "strict_restrictions": [
+            "Vermeiden Sie generische 'Universalpassform'-Produkte für Präzisionsartikel wie Scheibenwischer oder Dachträger.",
+            "Überschreiten Sie nicht die maximale Dachlastkapazität des Fahrzeugs.",
+            "Falsch dimensioniertes oder installiertes Zubehör kann zu Schäden oder Sicherheitsrisiken führen."
+          ],
+          "faqs": [
+            {
+              "q": "Sind die Scheibenwischergrößen für G20 Limousine und G21 Touring gleich?",
+              "a": "Ja, die Größen der vorderen Scheibenwischer (600mm / 24 Zoll Fahrer, 475mm / 19 Zoll Beifahrer) sind für beide G20 Limousine und G21 Touring Modelle identisch."
+            },
+            {
+              "q": "Wie hoch ist die maximale Dachlast für den G20/G21?",
+              "a": "Die maximal zulässige Dachlast für den BMW 3er G20/G21 beträgt 75 kg (165 lbs), einschließlich des Gewichts des Dachträgersystems selbst."
+            },
+            {
+              "q": "Benötige ich unterschiedliche Kofferraumwannen für die G20 Limousine und den G21 Touring?",
+              "a": "Ja, aufgrund erheblicher Unterschiede in Form und Volumen des Kofferraums benötigen Sie eine spezifische Kofferraumwanne, die entweder für das G20 Limousinen- oder das G21 Touring-Modell konzipiert ist."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "bmw-serie-3-g20-g21-matrice-compatibilite",
+          "title": "Matrice de Compatibilité BMW Série 3 (G20/G21)",
+          "summary": "Guide complet de compatibilité et de mesures exactes pour les modèles BMW Série 3 G20 Berline et G21 Touring, couvrant les accessoires essentiels tels que les balais d'essuie-glace, les barres de toit et les tapis de coffre.",
+          "amazon_search_query": "BMW G20 G21 balais essuie-glace barres de toit tapis de coffre",
+          "buy_box_title": "Accessoires Essentiels pour Votre BMW Série 3 (G20/G21)",
+          "buy_box_subtitle": "Compatibilité Vérifiée & Mesures Exactes",
+          "allowed_guidelines": [
+            "Vérifiez toujours les numéros de pièce avec le VIN de votre véhicule.",
+            "Optez pour des marques OEM ou des marques de rechange réputées pour les composants critiques.",
+            "Assurez une installation correcte en suivant les instructions du fabricant."
+          ],
+          "strict_restrictions": [
+            "Évitez les produits génériques 'taille unique' pour les articles de précision comme les balais d'essuie-glace ou les barres de toit.",
+            "Ne dépassez pas la capacité de charge maximale du toit du véhicule.",
+            "Des accessoires mal dimensionnés ou mal installés peuvent entraîner des dommages ou des risques pour la sécurité."
+          ],
+          "faqs": [
+            {
+              "q": "Les tailles des balais d'essuie-glace sont-elles les mêmes pour la G20 Berline et la G21 Touring?",
+              "a": "Oui, les tailles des balais d'essuie-glace avant (600mm / 24 pouces conducteur, 475mm / 19 pouces passager) sont identiques pour les modèles G20 Berline et G21 Touring."
+            },
+            {
+              "q": "Quelle est la charge maximale sur le toit pour la G20/G21?",
+              "a": "La charge maximale admissible sur le toit pour la BMW Série 3 G20/G21 est de 75 kg (165 lbs), y compris le poids du système de barres de toit lui-même."
+            },
+            {
+              "q": "Ai-je besoin de tapis de coffre différents pour la G20 Berline et la G21 Touring?",
+              "a": "Oui, en raison des différences significatives de forme et de volume du coffre, vous aurez besoin d'un tapis de coffre spécifique conçu soit pour le modèle G20 Berline, soit pour le modèle G21 Touring."
+            }
+          ]
+        },
+        "es": {
+          "slug": "bmw-serie-3-g20-g21-matriz-compatibilidad",
+          "title": "Matriz de Compatibilidad BMW Serie 3 (G20/G21)",
+          "summary": "Guía completa de compatibilidad y medidas exactas para los modelos BMW Serie 3 G20 Sedán y G21 Touring, que cubre accesorios esenciales como escobillas limpiaparabrisas, barras de techo y alfombrillas de maletero.",
+          "amazon_search_query": "BMW G20 G21 escobillas limpiaparabrisas barras techo alfombrilla maletero",
+          "buy_box_title": "Accesorios Esenciales para Su BMW Serie 3 (G20/G21)",
+          "buy_box_subtitle": "Ajuste Verificado y Medidas Exactas",
+          "allowed_guidelines": [
+            "Verifique siempre los números de pieza con el VIN de su vehículo.",
+            "Opte por marcas OEM o de posventa de buena reputación para componentes críticos.",
+            "Asegure una instalación adecuada siguiendo las instrucciones del fabricante."
+          ],
+          "strict_restrictions": [
+            "Evite productos genéricos de 'ajuste universal' para artículos de precisión como escobillas limpiaparabrisas o barras de techo.",
+            "No exceda la capacidad máxima de carga del techo del vehículo.",
+            "Los accesorios de tamaño o instalación incorrectos pueden provocar daños o riesgos de seguridad."
+          ],
+          "faqs": [
+            {
+              "q": "¿Son los tamaños de las escobillas limpiaparabrisas los mismos para el G20 Sedán y el G21 Touring?",
+              "a": "Sí, los tamaños de las escobillas limpiaparabrisas delanteras (600mm / 24 pulgadas conductor, 475mm / 19 pulgadas pasajero) son idénticos para ambos modelos G20 Sedán y G21 Touring."
+            },
+            {
+              "q": "¿Cuál es la carga máxima del techo para el G20/G21?",
+              "a": "La carga máxima permitida en el techo para el BMW Serie 3 G20/G21 es de 75 kg (165 lbs), incluyendo el peso del propio sistema de barras de techo."
+            },
+            {
+              "q": "¿Necesito diferentes alfombrillas de maletero para el G20 Sedán y el G21 Touring?",
+              "a": "Sí, debido a las diferencias significativas en la forma y el volumen del maletero, necesitará una alfombrilla de maletero específica diseñada para el modelo G20 Sedán o para el modelo G21 Touring."
+            }
+          ]
+        },
+        "it": {
+          "slug": "bmw-serie-3-g20-g21-matrice-compatibilita",
+          "title": "Matrice di Compatibilità BMW Serie 3 (G20/G21)",
+          "summary": "Guida completa alla compatibilità e alle misure esatte per i modelli BMW Serie 3 G20 Berlina e G21 Touring, che copre accessori essenziali come spazzole tergicristallo, barre portatutto e tappetini per bagagliaio.",
+          "amazon_search_query": "BMW G20 G21 spazzole tergicristallo barre portatutto tappetino bagagliaio",
+          "buy_box_title": "Accessori Essenziali per la Tua BMW Serie 3 (G20/G21)",
+          "buy_box_subtitle": "Compatibilità Verificata e Misure Esatte",
+          "allowed_guidelines": [
+            "Verificare sempre i codici dei ricambi con il VIN del veicolo.",
+            "Optare per marchi OEM o aftermarket affidabili per i componenti critici.",
+            "Assicurarsi una corretta installazione seguendo le istruzioni del produttore."
+          ],
+          "strict_restrictions": [
+            "Evitare prodotti generici 'universali' per articoli di precisione come spazzole tergicristallo o barre portatutto.",
+            "Non superare la capacità massima di carico del tetto del veicolo.",
+            "Accessori di dimensioni o installazione errate possono causare danni o pericoli per la sicurezza."
+          ],
+          "faqs": [
+            {
+              "q": "Le dimensioni delle spazzole tergicristallo sono le stesse per la G20 Berlina e la G21 Touring?",
+              "a": "Sì, le dimensioni delle spazzole tergicristallo anteriori (600mm / 24 pollici lato guida, 475mm / 19 pollici lato passeggero) sono identiche per entrambi i modelli G20 Berlina e G21 Touring."
+            },
+            {
+              "q": "Qual è il carico massimo sul tetto per la G20/G21?",
+              "a": "Il carico massimo consentito sul tetto per la BMW Serie 3 G20/G21 è di 75 kg (165 lbs), incluso il peso del sistema di barre portatutto stesso."
+            },
+            {
+              "q": "Ho bisogno di tappetini per bagagliaio diversi per la G20 Berlina e la G21 Touring?",
+              "a": "Sì, a causa delle significative differenze nella forma e nel volume del bagagliaio, sarà necessario un tappetino per bagagliaio specifico progettato per il modello G20 Berlina o per il modello G21 Touring."
+            }
+          ]
+        },
+        "ja": {
+          "slug": "bmw-3シリーズ-g20-g21-互換性マトリックス",
+          "title": "BMW 3シリーズ (G20/G21) 互換性マトリックス",
+          "summary": "BMW 3シリーズ G20セダンおよびG21ツーリングモデル向けの包括的な互換性と正確な測定ガイド。ワイパーブレード、ルーフラック、トランクカーゴライナーなどの必須アクセサリーを網羅しています。",
+          "amazon_search_query": "BMW G20 G21 ワイパーブレード ルーフラック トランクライナー",
+          "buy_box_title": "BMW 3シリーズ (G20/G21) の必須アクセサリー",
+          "buy_box_subtitle": "適合性検証済み＆正確な測定",
+          "allowed_guidelines": [
+            "常に車両のVINで部品番号を確認してください。",
+            "重要なコンポーネントには、OEMまたは信頼できるアフターマーケットブランドを選択してください。",
+            "メーカーの指示に従って適切に設置してください。"
+          ],
+          "strict_restrictions": [
+            "ワイパーブレードやルーフラックのような精密品には、汎用的な「ユニバーサルフィット」製品を避けてください。",
+            "車両の最大ルーフ積載量を超えないでください。",
+            "サイズが不正確または不適切に設置されたアクセサリーは、損傷や安全上の危険につながる可能性があります。"
+          ],
+          "faqs": [
+            {
+              "q": "G20セダンとG21ツーリングでワイパーブレードのサイズは同じですか？",
+              "a": "はい、フロントワイパーブレードのサイズ（運転席側600mm / 24インチ、助手席側475mm / 19インチ）は、G20セダンとG21ツーリングモデルの両方で同じです。"
+            },
+            {
+              "q": "G20/G21の最大ルーフ積載量はどのくらいですか？",
+              "a": "BMW 3シリーズ G20/G21の最大許容ルーフ積載量は、ルーフラックシステム自体の重量を含めて75 kg（165 lbs）です。"
+            },
+            {
+              "q": "G20セダンとG21ツーリングで異なるトランクライナーが必要ですか？",
+              "a": "はい、トランクの形状と容量に大きな違いがあるため、G20セダンまたはG21ツーリングモデル専用に設計された特定のトランクカーゴライナーが必要になります。"
+            }
+          ]
+        },
+        "pt": {
+          "slug": "bmw-serie-3-g20-g21-matriz-compatibilidade",
+          "title": "Matriz de Compatibilidade BMW Série 3 (G20/G21)",
+          "summary": "Guia completo de compatibilidade e medidas exatas para os modelos BMW Série 3 G20 Sedan e G21 Touring, cobrindo acessórios essenciais como palhetas do limpador de para-brisa, barras de tejadilho e forros de bagageira.",
+          "amazon_search_query": "BMW G20 G21 palhetas limpador barras tejadilho forro bagageira",
+          "buy_box_title": "Acessórios Essenciais para o Seu BMW Série 3 (G20/G21)",
+          "buy_box_subtitle": "Encaixe Verificado e Medidas Exatas",
+          "allowed_guidelines": [
+            "Sempre verifique os números de peça com o VIN do seu veículo.",
+            "Opte por marcas OEM ou de pós-venda conceituadas para componentes críticos.",
+            "Garanta a instalação correta seguindo as instruções do fabricante."
+          ],
+          "strict_restrictions": [
+            "Evite produtos genéricos de 'ajuste universal' para itens de precisão como palhetas do limpador de para-brisa ou barras de tejadilho.",
+            "Não exceda a capacidade máxima de carga do tejadilho do veículo.",
+            "Acessórios de tamanho incorreto ou instalados incorretamente podem levar a danos ou riscos de segurança."
+          ],
+          "faqs": [
+            {
+              "q": "Os tamanhos das palhetas do limpador de para-brisa são os mesmos para o G20 Sedan e o G21 Touring?",
+              "a": "Sim, os tamanhos das palhetas do limpador de para-brisa dianteiras (600mm / 24 polegadas motorista, 475mm / 19 polegadas passageiro) são idênticos para ambos os modelos G20 Sedan e G21 Touring."
+            },
+            {
+              "q": "Qual é a carga máxima do tejadilho para o G20/G21?",
+              "a": "A carga máxima permitida no tejadilho para o BMW Série 3 G20/G21 é de 75 kg (165 lbs), incluindo o peso do próprio sistema de barras de tejadilho."
+            },
+            {
+              "q": "Preciso de forros de bagageira diferentes para o G20 Sedan e o G21 Touring?",
+              "a": "Sim, devido às diferenças significativas na forma e volume da bagageira, você precisará de um forro de bagageira específico projetado para o modelo G20 Sedan ou para o modelo G21 Touring."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "bmw-3-serie-g20-g21-compatibiliteitsmatrix",
+          "title": "BMW 3 Serie (G20/G21) Compatibiliteitsmatrix",
+          "summary": "Uitgebreide compatibiliteits- en exacte meetgids voor BMW 3 Serie G20 Sedan en G21 Touring modellen, inclusief essentiële accessoires zoals ruitenwisserbladen, dakdragers en kofferbakmatten.",
+          "amazon_search_query": "BMW G20 G21 ruitenwisserbladen dakdragers kofferbakmat",
+          "buy_box_title": "Essentiële Accessoires voor Uw BMW 3 Serie (G20/G21)",
+          "buy_box_subtitle": "Geverifieerde Pasvorm & Exacte Afmetingen",
+          "allowed_guidelines": [
+            "Controleer altijd onderdeelnummers met het VIN van uw voertuig.",
+            "Kies voor OEM of gerenommeerde aftermarket merken voor kritieke componenten.",
+            "Zorg voor een juiste installatie door de instructies van de fabrikant te volgen."
+          ],
+          "strict_restrictions": [
+            "Vermijd generieke 'universele pasvorm' producten voor precisieartikelen zoals ruitenwisserbladen of dakdragers.",
+            "Overschrijd de maximale dakbelasting van het voertuig niet.",
+            "Verkeerd formaat of onjuist geïnstalleerde accessoires kunnen leiden tot schade of veiligheidsrisico's."
+          ],
+          "faqs": [
+            {
+              "q": "Zijn de ruitenwisserbladmaten hetzelfde voor de G20 Sedan en G21 Touring?",
+              "a": "Ja, de maten van de voorruitenwisserbladen (600mm / 24 inch bestuurder, 475mm / 19 inch passagier) zijn identiek voor zowel de G20 Sedan als de G21 Touring modellen."
+            },
+            {
+              "q": "Wat is de maximale dakbelasting voor de G20/G21?",
+              "a": "De maximaal toegestane dakbelasting voor de BMW 3 Serie G20/G21 is 75 kg (165 lbs), inclusief het gewicht van het dakdragersysteem zelf."
+            },
+            {
+              "q": "Heb ik verschillende kofferbakmatten nodig voor de G20 Sedan en G21 Touring?",
+              "a": "Ja, vanwege aanzienlijke verschillen in kofferbakvorm en -volume heeft u een specifieke kofferbakmat nodig die is ontworpen voor ofwel het G20 Sedan- ofwel het G21 Touring-model."
             }
           ]
         }
